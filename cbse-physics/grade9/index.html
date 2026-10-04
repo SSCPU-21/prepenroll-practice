@@ -545,7 +545,6 @@ document.getElementById('generate-set').onclick=generatePractice;
 document.getElementById('new-set').onclick=()=>{
   clearInterval(timerId); timerRunning=false; timerSeconds=0; renderTimer();
   document.getElementById('test-stage').classList.remove('active');
-loadQuestionBank();
   document.getElementById('setup-stage').classList.remove('hidden');
   window.scrollTo({top:0,behavior:'smooth'});
 };
@@ -554,6 +553,7 @@ document.getElementById('timer-pause').onclick=pauseTimer;
 document.getElementById('timer-reset').onclick=resetTimer;
 
 function peCalcToggle(){document.getElementById('pe-calc').classList.toggle('open')}function peCalcAdd(v){document.getElementById('pe-calc-screen').value+=v}function peCalcClear(){document.getElementById('pe-calc-screen').value=''}function peCalcBack(){const s=document.getElementById('pe-calc-screen');s.value=s.value.slice(0,-1)}function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{const e=s.value;if(!/^[0-9+\-*/().\s]+$/.test(e))throw 0;s.value=String(Function('"use strict";return ('+e+')')())}catch(_){s.value='Error'}}document.getElementById('test-stage').classList.remove('active');
+loadQuestionBank();
 </script>
 <footer class="pe-global-footer">
   <div class="pe-footer-inner">
