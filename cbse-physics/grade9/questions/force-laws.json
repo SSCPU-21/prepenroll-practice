@@ -1,0 +1,3020 @@
+[
+  {
+    "id": 297,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "The SI unit of force is:",
+    "opts": [
+      "Joule",
+      "Newton",
+      "Pascal",
+      "Watt"
+    ],
+    "ans": 1,
+    "exp": "Force is measured in Newtons (N = kg·m/s²)."
+  },
+  {
+    "id": 298,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Newton's First Law of Motion is also known as the Law of:",
+    "opts": [
+      "Momentum",
+      "Inertia",
+      "Gravitation",
+      "Action-Reaction"
+    ],
+    "ans": 1,
+    "exp": "Newton's First Law describes inertia – a body resists change in its state of motion."
+  },
+  {
+    "id": 299,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Which of the following is an example of contact force?",
+    "opts": [
+      "Gravitational force",
+      "Magnetic force",
+      "Friction",
+      "Electrostatic force"
+    ],
+    "ans": 2,
+    "exp": "Friction requires physical contact between surfaces → contact force."
+  },
+  {
+    "id": 300,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "The momentum of an object is given by:",
+    "opts": [
+      "p = ma",
+      "p = mv",
+      "p = F/t",
+      "p = v/m"
+    ],
+    "ans": 1,
+    "exp": "Momentum p = mass × velocity = mv."
+  },
+  {
+    "id": 301,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "SI unit of momentum is:",
+    "opts": [
+      "kg·m/s²",
+      "N·m",
+      "kg·m/s",
+      "kg/m·s"
+    ],
+    "ans": 2,
+    "exp": "p = mv → kg × m/s = kg·m/s."
+  },
+  {
+    "id": 302,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "A body remains in its state of rest unless:",
+    "opts": [
+      "Gravity acts on it",
+      "An external force acts on it",
+      "It gains momentum",
+      "It loses inertia"
+    ],
+    "ans": 1,
+    "exp": "Newton's 1st Law: body at rest stays at rest unless external force acts."
+  },
+  {
+    "id": 303,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Newton's Second Law states F =",
+    "opts": [
+      "mv",
+      "ma",
+      "m/a",
+      "a/m"
+    ],
+    "ans": 1,
+    "exp": "F = ma: force = mass × acceleration."
+  },
+  {
+    "id": 304,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Which law gives the relationship F = ma?",
+    "opts": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Law of Conservation of Momentum"
+    ],
+    "ans": 1,
+    "exp": "F = ma is Newton's Second Law of Motion."
+  },
+  {
+    "id": 305,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "When a bullet is fired from a gun, the gun recoils. This demonstrates:",
+    "opts": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Law of Inertia"
+    ],
+    "ans": 2,
+    "exp": "Gun and bullet are action-reaction pair → Newton's Third Law."
+  },
+  {
+    "id": 306,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "If mass is doubled and acceleration is halved, the force:",
+    "opts": [
+      "Doubles",
+      "Halves",
+      "Remains same",
+      "Quadruples"
+    ],
+    "ans": 2,
+    "exp": "F = ma. If m×2 and a×½, F = (2m)(a/2) = ma = same."
+  },
+  {
+    "id": 307,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Inertia depends on:",
+    "opts": [
+      "Speed",
+      "Shape",
+      "Mass",
+      "Volume"
+    ],
+    "ans": 2,
+    "exp": "Inertia ∝ mass. Larger mass → more inertia (harder to change state)."
+  },
+  {
+    "id": 308,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "The rate of change of momentum is equal to:",
+    "opts": [
+      "Velocity",
+      "Acceleration",
+      "Force",
+      "Mass"
+    ],
+    "ans": 2,
+    "exp": "F = Δp/Δt (Newton's 2nd Law in momentum form)."
+  },
+  {
+    "id": 309,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Which type of friction acts when a body is on the verge of sliding?",
+    "opts": [
+      "Rolling friction",
+      "Kinetic friction",
+      "Static friction",
+      "Fluid friction"
+    ],
+    "ans": 2,
+    "exp": "Static friction acts when the body is stationary or on the verge of sliding, up to its maximum (limiting static friction)."
+  },
+  {
+    "id": 310,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "An object of mass 10 kg has momentum 50 kg·m/s. Its velocity is:",
+    "opts": [
+      "5 m/s",
+      "500 m/s",
+      "0.2 m/s",
+      "500 km/h"
+    ],
+    "ans": 0,
+    "exp": "v = p/m = 50/10 = 5 m/s."
+  },
+  {
+    "id": 311,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Friction force acts in the direction _____ to motion.",
+    "opts": [
+      "Parallel and same",
+      "Opposite",
+      "Perpendicular",
+      "At 45°"
+    ],
+    "ans": 1,
+    "exp": "Friction opposes relative motion – acts opposite to direction of motion/attempted motion."
+  },
+  {
+    "id": 312,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "A ball rolling on the floor eventually stops because of:",
+    "opts": [
+      "Gravity",
+      "Air resistance",
+      "Rolling friction",
+      "Normal force"
+    ],
+    "ans": 2,
+    "exp": "Rolling friction (and some air resistance) decelerates the rolling ball until it stops."
+  },
+  {
+    "id": 313,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A force of 20 N acts on a 5 kg object. The acceleration produced is:",
+    "opts": [
+      "4 m/s²",
+      "100 m/s²",
+      "0.25 m/s²",
+      "25 m/s²"
+    ],
+    "ans": 0,
+    "exp": "a = F/m = 20/5 = 4 m/s²."
+  },
+  {
+    "id": 314,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 4 kg object accelerates at 3 m/s². The net force is:",
+    "opts": [
+      "12 N",
+      "0.75 N",
+      "7 N",
+      "1.33 N"
+    ],
+    "ans": 0,
+    "exp": "F = ma = 4×3 = 12 N."
+  },
+  {
+    "id": 315,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Momentum of a 0.5 kg ball moving at 10 m/s:",
+    "opts": [
+      "5 kg·m/s",
+      "0.05 kg·m/s",
+      "20 kg·m/s",
+      "50 kg·m/s"
+    ],
+    "ans": 0,
+    "exp": "p = mv = 0.5×10 = 5 kg·m/s."
+  },
+  {
+    "id": 316,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 2 kg object's momentum changes from 4 kg·m/s to 10 kg·m/s in 3 s. Force applied:",
+    "opts": [
+      "2 N",
+      "4.67 N",
+      "6 N",
+      "2.67 N"
+    ],
+    "ans": 0,
+    "exp": "F = Δp/Δt = (10-4)/3 = 6/3 = 2 N."
+  },
+  {
+    "id": 317,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Two equal forces act on a body in opposite directions. Net force is:",
+    "opts": [
+      "Double the force",
+      "Zero",
+      "Half the force",
+      "Same force"
+    ],
+    "ans": 1,
+    "exp": "Equal and opposite forces cancel → net force = 0."
+  },
+  {
+    "id": 318,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 10 N force acts on a 2 kg object for 5 s (from rest). Final velocity:",
+    "opts": [
+      "25 m/s",
+      "10 m/s",
+      "50 m/s",
+      "1 m/s"
+    ],
+    "ans": 0,
+    "exp": "a=F/m=5 m/s²; v=at=5×5=25 m/s."
+  },
+  {
+    "id": 319,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "If net force is zero on a moving object, it:",
+    "opts": [
+      "Stops immediately",
+      "Slows down gradually",
+      "Continues at constant velocity",
+      "Accelerates"
+    ],
+    "ans": 2,
+    "exp": "Zero net force → zero acceleration → constant velocity (Newton's 1st Law)."
+  },
+  {
+    "id": 320,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A passenger lurches forward when a bus brakes suddenly. This is because of:",
+    "opts": [
+      "Newton's Third Law",
+      "Gravity",
+      "Inertia (Newton's First Law)",
+      "Friction"
+    ],
+    "ans": 2,
+    "exp": "Passenger's body tends to stay in motion (inertia) when bus decelerates."
+  },
+  {
+    "id": 321,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Why are roads banked at curves?",
+    "opts": [
+      "To increase friction",
+      "To provide centripetal force component and reduce friction required",
+      "To decrease speed",
+      "To increase normal force"
+    ],
+    "ans": 1,
+    "exp": "Banking provides a component of normal force toward the center, reducing the horizontal friction needed for circular motion."
+  },
+  {
+    "id": 322,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "In a collision, if the contact time is increased, the force experienced is:",
+    "opts": [
+      "Increased",
+      "Decreased",
+      "Unchanged",
+      "Zero"
+    ],
+    "ans": 1,
+    "exp": "F = Δp/Δt. Same Δp, larger Δt → smaller F. (Impulse = FΔt = Δp)"
+  },
+  {
+    "id": 323,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A person jumps onto a moving cart. The combined system's speed:",
+    "opts": [
+      "Increases",
+      "Remains same",
+      "Decreases",
+      "Becomes zero"
+    ],
+    "ans": 2,
+    "exp": "Momentum conserved. p = constant. Added mass with same momentum → decreased velocity."
+  },
+  {
+    "id": 324,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Which is NOT an application of Newton's Third Law?",
+    "opts": [
+      "Rocket propulsion",
+      "Recoil of a gun",
+      "Walking",
+      "Stopping due to friction"
+    ],
+    "ans": 3,
+    "exp": "Stopping due to friction is Newton's 2nd Law (net backward force decelerates body), not primarily 3rd Law."
+  },
+  {
+    "id": 325,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Why is it easier to push a box on a smooth floor than on a rough floor?",
+    "opts": [
+      "Smooth floor has less mass",
+      "Smooth floor has less friction",
+      "Smooth floor has more area",
+      "Rough floor has more gravity"
+    ],
+    "ans": 1,
+    "exp": "Friction on rough surface is greater, requiring more force to push the box."
+  },
+  {
+    "id": 326,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Action and reaction forces always act on:",
+    "opts": [
+      "Same body",
+      "Different bodies",
+      "Same line only",
+      "The ground"
+    ],
+    "ans": 1,
+    "exp": "Newton's 3rd Law: action-reaction pairs act on DIFFERENT objects."
+  },
+  {
+    "id": 327,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 5,
+    "q": "'Friction is always disadvantageous.' Evaluate this statement.",
+    "opts": [
+      "True – it wastes energy",
+      "False – friction is essential for walking, braking, holding objects",
+      "True – friction always causes heating",
+      "False – friction only exists in fluids"
+    ],
+    "ans": 1,
+    "exp": "Friction is useful for walking (feet grip ground), car braking, writing with pencil. Though it also wastes energy as heat."
+  },
+  {
+    "id": 328,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Evaluate: 'A net force is needed to maintain constant velocity.'",
+    "opts": [
+      "True",
+      "False – no net force needed for constant velocity",
+      "True only in space",
+      "False only for circular motion"
+    ],
+    "ans": 1,
+    "exp": "Newton's 1st Law: constant velocity needs zero net force. No force is needed to maintain uniform motion."
+  },
+  {
+    "id": 329,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A cricket player moves hands backward while catching a fast ball. The physics reason is:",
+    "opts": [
+      "To increase force",
+      "To increase momentum",
+      "To increase contact time and reduce force",
+      "To reduce momentum"
+    ],
+    "ans": 2,
+    "exp": "By moving hands back, Δt increases, so F = Δp/Δt decreases → less painful catch."
+  },
+  {
+    "id": 330,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 5,
+    "q": "If momentum is conserved in a collision, what must be true?",
+    "opts": [
+      "No external forces act",
+      "Mass must be conserved",
+      "Velocity is constant",
+      "Energy is conserved"
+    ],
+    "ans": 0,
+    "exp": "Conservation of momentum requires no external net force on the system."
+  },
+  {
+    "id": 331,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Design an experiment to verify Newton's Second Law using a trolley, hanging masses, and a ticker-tape timer.",
+    "opts": [
+      "Measure trolley mass only",
+      "Vary force (hanging mass) and measure acceleration from ticker tape; plot F vs a",
+      "Measure only time",
+      "Use only one force value"
+    ],
+    "ans": 1,
+    "exp": "Apply different known forces (hanging masses = known F), measure resulting acceleration from tape, verify a ∝ F for constant m."
+  },
+  {
+    "id": 332,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 6,
+    "q": "How does air-bag technology in cars use Newton's 2nd Law to protect passengers?",
+    "opts": [
+      "Increases force",
+      "Reduces mass",
+      "Increases contact time to reduce peak force",
+      "Eliminates all forces"
+    ],
+    "ans": 2,
+    "exp": "Airbag extends the time over which momentum change occurs, F=Δp/Δt, so larger Δt → smaller F on passenger."
+  },
+  {
+    "id": 333,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A rocket burns fuel ejecting mass backward. How does conservation of momentum explain this?",
+    "opts": [
+      "Mass is lost so momentum decreases",
+      "Fuel burns add energy only",
+      "Initial p=0; ejected gas carries negative p, rocket gains equal positive p",
+      "Rocket gains mass from air"
+    ],
+    "ans": 2,
+    "exp": "Initial p=0 (at rest). Fuel ejected backward (−p); by conservation, rocket moves forward (+p). Total p still 0."
+  },
+  {
+    "id": 334,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 6,
+    "q": "If friction were eliminated from the world, what would happen when you try to walk?",
+    "opts": [
+      "You'd walk faster",
+      "Your feet would slide backward; you could not push off the ground",
+      "You'd float",
+      "Nothing would change"
+    ],
+    "ans": 1,
+    "exp": "Walking relies on friction between feet and ground. No friction → feet slip → cannot walk."
+  },
+  {
+    "id": 335,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Newton's Third Law states that every action has an equal and _____ reaction.",
+    "opts": [
+      "Greater",
+      "Smaller",
+      "Opposite",
+      "Same direction"
+    ],
+    "ans": 2,
+    "exp": "Action and reaction are equal in magnitude but opposite in direction."
+  },
+  {
+    "id": 336,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "An object with greater mass has:",
+    "opts": [
+      "Greater speed",
+      "Greater inertia",
+      "Less momentum",
+      "Less force needed to accelerate it"
+    ],
+    "ans": 1,
+    "exp": "Inertia ∝ mass. More mass = more resistance to change in motion."
+  },
+  {
+    "id": 337,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 1000 kg car accelerates from 0 to 20 m/s in 10 s. Net force:",
+    "opts": [
+      "2000 N",
+      "200 N",
+      "10000 N",
+      "20000 N"
+    ],
+    "ans": 0,
+    "exp": "F = ma = 1000 × (20/10) = 1000×2 = 2000 N."
+  },
+  {
+    "id": 338,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Impulse = Force × Time = change in:",
+    "opts": [
+      "Speed",
+      "Velocity",
+      "Momentum",
+      "Acceleration"
+    ],
+    "ans": 2,
+    "exp": "Impulse = FΔt = Δ(mv) = change in momentum."
+  },
+  {
+    "id": 339,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A moving skater at 5 m/s (60 kg) catches a stationary 20 kg ball. New speed (momentum conservation):",
+    "opts": [
+      "3.75 m/s",
+      "6.25 m/s",
+      "5 m/s",
+      "4 m/s"
+    ],
+    "ans": 0,
+    "exp": "p_i = 60×5 = 300; p_f = (60+20)v = 80v; v=300/80=3.75 m/s."
+  },
+  {
+    "id": 340,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Static friction is generally ___ kinetic friction.",
+    "opts": [
+      "Less than",
+      "Equal to",
+      "Greater than",
+      "Independent of"
+    ],
+    "ans": 2,
+    "exp": "Limiting static friction > kinetic friction; it's harder to start motion than to maintain it."
+  },
+  {
+    "id": 341,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Two bodies of masses 2 kg and 4 kg have the same momentum. The lighter body has:",
+    "opts": [
+      "Less kinetic energy",
+      "More kinetic energy",
+      "Same kinetic energy",
+      "Less velocity"
+    ],
+    "ans": 1,
+    "exp": "p same → mv same → v_light = 2×v_heavy. KE = p²/2m; less m → more KE for same p."
+  },
+  {
+    "id": 342,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Which statement about Newton's laws is correct?",
+    "opts": [
+      "They apply to all speeds",
+      "They apply only at high speeds",
+      "They break down at speeds near light",
+      "They require friction"
+    ],
+    "ans": 2,
+    "exp": "Newtonian mechanics breaks down near relativistic speeds; at everyday speeds it is accurate."
+  },
+  {
+    "id": 343,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A rocket of mass 1000 kg ejects 100 kg of gas at 50 m/s. Find the approximate rocket velocity (from rest).",
+    "opts": [
+      "5.56 m/s",
+      "10 m/s",
+      "2.5 m/s",
+      "8 m/s"
+    ],
+    "ans": 0,
+    "exp": "p_gas = 100×50=5000 kg·m/s; p_rocket = 900×v = 5000; v≈5.56 m/s by conservation of momentum."
+  },
+  {
+    "id": 344,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Propose a method to measure the coefficient of static friction between a book and a table.",
+    "opts": [
+      "Weigh the book only",
+      "Tilt the table until the book just begins to slide; tan(θ) = μ_s",
+      "Push the book and time it",
+      "Measure the book's mass and volume"
+    ],
+    "ans": 1,
+    "exp": "At critical tilt angle θ, mg·sinθ = μ_s·mg·cosθ → μ_s = tanθ. Tilt slowly until book slides."
+  },
+  {
+    "id": 345,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "A body moving at uniform velocity has net force:",
+    "opts": [
+      "Equal to its weight",
+      "Equal to its mass",
+      "Equal to ma",
+      "Zero"
+    ],
+    "ans": 3,
+    "exp": "Uniform velocity → zero acceleration → F_net = ma = 0."
+  },
+  {
+    "id": 346,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 3,
+    "q": "An unbalanced force of 15 N acts on a 3 kg body initially at rest for 4 s. Final speed:",
+    "opts": [
+      "20 m/s",
+      "5 m/s",
+      "60 m/s",
+      "12 m/s"
+    ],
+    "ans": 0,
+    "exp": "a=15/3=5 m/s²; v=at=5×4=20 m/s."
+  },
+  {
+    "id": 347,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 1,
+    "a": "Newton's First Law is called the Law of Inertia.",
+    "r": "Inertia is the property of a body to resist changes in its state of motion.",
+    "ans": 0,
+    "exp": "Both true; 1st Law defines inertia behavior. R correctly explains A."
+  },
+  {
+    "id": 348,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 1,
+    "a": "A heavy truck is harder to stop than a light car at the same speed.",
+    "r": "Greater mass → greater momentum → greater impulse needed to stop.",
+    "ans": 0,
+    "exp": "Both true; more mass = more momentum = more FΔt needed. R explains A."
+  },
+  {
+    "id": 349,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 1,
+    "a": "Action and reaction forces do not cancel each other.",
+    "r": "They act on different bodies, so they cannot cancel.",
+    "ans": 0,
+    "exp": "Both true; cancellation requires forces on the SAME body. R explains A."
+  },
+  {
+    "id": 350,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 1,
+    "a": "The SI unit of momentum is kg·m/s.",
+    "r": "Momentum is the product of mass (kg) and velocity (m/s).",
+    "ans": 0,
+    "exp": "Both true; p=mv → kg·m/s. R explains A."
+  },
+  {
+    "id": 351,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "When a car suddenly stops, a passenger without a seatbelt tends to move forward.",
+    "r": "The passenger has inertia and tends to continue moving at the car's previous speed.",
+    "ans": 0,
+    "exp": "Both true; inertia carries the passenger forward when car stops. R explains A."
+  },
+  {
+    "id": 352,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "Friction is necessary for walking.",
+    "r": "Friction between feet and the ground provides the forward reaction force when a person pushes backward.",
+    "ans": 0,
+    "exp": "Both true; Newton's 3rd Law + friction = forward motion. R explains A."
+  },
+  {
+    "id": 353,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "It is harder to start an object sliding than to keep it sliding.",
+    "r": "Static friction is greater than kinetic friction for the same surfaces and load.",
+    "ans": 0,
+    "exp": "Both true; limiting static friction > kinetic friction. R explains A."
+  },
+  {
+    "id": 354,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "A ball thrown horizontally eventually falls to the ground.",
+    "r": "Gravity acts downward, providing constant downward acceleration regardless of horizontal velocity.",
+    "ans": 0,
+    "exp": "Both true; horizontal motion doesn't affect gravitational pull. R explains A."
+  },
+  {
+    "id": 355,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "F = ma applies to all forces, not just pushes and pulls.",
+    "r": "Newton's 2nd Law states that net force (of any kind) equals mass times acceleration.",
+    "ans": 0,
+    "exp": "Both true; F can be friction, gravity, tension, magnetic, etc. R explains A."
+  },
+  {
+    "id": 356,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "Impulse and change in momentum have the same unit.",
+    "r": "Impulse = F×t (N·s = kg·m/s) = Δp (kg·m/s).",
+    "ans": 0,
+    "exp": "Both true; N·s = kg·m/s. R explains A."
+  },
+  {
+    "id": 357,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "A body can have momentum without having kinetic energy.",
+    "r": "Kinetic energy = ½mv² and momentum = mv; both require v≠0.",
+    "ans": 3,
+    "exp": "A is false (if p≠0, then v≠0, so KE=½mv²>0 too; can't have momentum without KE). R is true. Answer D."
+  },
+  {
+    "id": 358,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "Greater mass means greater inertia.",
+    "r": "Inertia is the resistance to change in motion, directly proportional to mass.",
+    "ans": 0,
+    "exp": "Both true; Newton's 1st Law and concept of inertia. R explains A."
+  },
+  {
+    "id": 359,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "A rocket can travel in space even without air.",
+    "r": "Rocket propulsion works by Newton's 3rd Law: ejected gas backward → rocket forward. No medium needed.",
+    "ans": 0,
+    "exp": "Both true; reaction force from gas doesn't need air. R explains A."
+  },
+  {
+    "id": 360,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "Rolling friction is less than sliding friction.",
+    "r": "Rolling replaces large-area sliding contact with a small contact point, reducing friction.",
+    "ans": 0,
+    "exp": "Both true; rolling gives less friction than sliding. R explains A."
+  },
+  {
+    "id": 361,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "The momentum of a system is conserved only if no external force acts.",
+    "r": "External forces change the total momentum of a system (Impulse = Δp).",
+    "ans": 0,
+    "exp": "Both true; conservation of momentum requires zero net external force. R explains A."
+  },
+  {
+    "id": 362,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "When two equal masses undergo a perfectly elastic head-on collision, they exchange velocities.",
+    "r": "In elastic collision: momentum + kinetic energy both conserved; equal masses → velocities swap.",
+    "ans": 0,
+    "exp": "Both true; mathematical result of two conservation equations for equal masses. R explains A."
+  },
+  {
+    "id": 363,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "A seat belt reduces injury in a car crash.",
+    "r": "It increases the time over which momentum change occurs, thus reducing the force on the passenger.",
+    "ans": 0,
+    "exp": "Both true; F=Δp/Δt; larger Δt from seat belt → smaller F. R explains A."
+  },
+  {
+    "id": 364,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "A karate player can break a brick by a quick blow.",
+    "r": "A fast blow means a very short Δt. With same Δp, F = Δp/Δt is very large, exceeding the brick's strength.",
+    "ans": 0,
+    "exp": "Both true; very small Δt → very large force. R explains A."
+  },
+  {
+    "id": 365,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "In a tug-of-war, the team that exerts more friction on the ground wins.",
+    "r": "Greater friction allows a greater reaction force backward from the rope, pulling the rope their way.",
+    "ans": 0,
+    "exp": "Both true; ground friction is the external force allowing the team to pull. R explains A."
+  },
+  {
+    "id": 366,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "Newton's Laws do not hold in accelerating reference frames.",
+    "r": "These frames are non-inertial and require pseudo-forces to apply Newton's Laws.",
+    "ans": 0,
+    "exp": "Both true; Newton's Laws are for inertial (non-accelerating) frames. R explains A."
+  },
+  {
+    "id": 367,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "Lubricants reduce friction between surfaces.",
+    "r": "Lubricants fill surface irregularities with a thin fluid layer, reducing direct surface contact.",
+    "ans": 0,
+    "exp": "Both true; oil/grease provides fluid friction (much less than solid-solid). R explains A."
+  },
+  {
+    "id": 368,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "A satellite in orbit does not need engine thrust to maintain speed.",
+    "r": "Gravity provides the centripetal force for circular orbit; no energy is lost (no friction in space).",
+    "ans": 0,
+    "exp": "Both true; gravity = centripetal force; no friction in space. R explains A."
+  },
+  {
+    "id": 369,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "A frictionless surface is impossible to achieve in practice.",
+    "r": "All real surfaces have microscopic irregularities that create some friction.",
+    "ans": 1,
+    "exp": "Both true; R is true (microscopic bumps exist) but A is true for a different reason too (even air has viscosity). R is broadly correct but not the ONLY reason for A."
+  },
+  {
+    "id": 370,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 1,
+    "a": "A body with zero net force is either at rest or moving at constant velocity.",
+    "r": "Newton's First Law states that in the absence of net force, a body maintains its state of motion.",
+    "ans": 0,
+    "exp": "Both true; zero net F → zero a → constant velocity (or rest). R explains A."
+  },
+  {
+    "id": 371,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "Weight is a force.",
+    "r": "Weight = mass × g, and any quantity equal to mass × acceleration is a force.",
+    "ans": 0,
+    "exp": "Both true; W=mg is a gravitational force. R explains A."
+  },
+  {
+    "id": 372,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "Normal force is always equal to weight.",
+    "r": "Normal force equals weight only in special cases, such as a body on a horizontal surface with no other vertical force and no vertical acceleration.",
+    "ans": 3,
+    "exp": "A is false and R is true. On an incline or when other vertical forces/accelerations are present, N need not equal mg."
+  },
+  {
+    "id": 373,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "A toy car pushed on smooth floor travels farther than on rough carpet.",
+    "r": "Less friction means less deceleration, so the car travels farther.",
+    "ans": 0,
+    "exp": "Both true; less friction → less deceleration → more distance before stopping. R explains A."
+  },
+  {
+    "id": 374,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "F=ma holds only for constant mass.",
+    "r": "If mass changes (like a rocket burning fuel), the correct form is F = d(mv)/dt, not just ma.",
+    "ans": 0,
+    "exp": "Both true; F=ma is for constant mass; variable mass needs differential form. R explains A."
+  },
+  {
+    "id": 375,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "Large vehicles take longer to stop than small vehicles at the same speed.",
+    "r": "Larger vehicles have greater mass, hence more momentum, requiring more impulse (force×time) to stop.",
+    "ans": 0,
+    "exp": "Both true; more momentum = more impulse to stop. R explains A."
+  },
+  {
+    "id": 376,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "Wearing soft-soled shoes reduces injury from jumping onto a hard floor.",
+    "r": "Soft soles increase the contact time, reducing the impact force on feet.",
+    "ans": 0,
+    "exp": "Both true; F=Δp/Δt; larger Δt → smaller peak F. R explains A."
+  },
+  {
+    "id": 377,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "In an isolated system, total momentum remains constant.",
+    "r": "Internal interaction forces occur in equal and opposite pairs, so they do not change the total momentum of the system.",
+    "ans": 0,
+    "exp": "Both A and R are true, and R explains conservation of momentum for an isolated system."
+  },
+  {
+    "id": 378,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "A person standing in a bus gets pushed backward when the bus accelerates forward.",
+    "r": "The bus accelerates forward but the person's inertia keeps them initially at rest, so relative to the bus, they appear to move backward.",
+    "ans": 0,
+    "exp": "Both true; inertia opposes change in person's velocity. R explains A."
+  },
+  {
+    "id": 379,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "Anti-lock braking systems (ABS) work on the principle of Newton's 2nd and 3rd Laws.",
+    "r": "ABS prevents wheels from locking, maintaining rolling instead of sliding friction, reducing stopping distance.",
+    "ans": 1,
+    "exp": "Both true; ABS uses the principle that rolling friction > 0 and wheels keep rolling for better control (friction and Newton's 2nd Law). R is true and partially explains A, but doesn't mention the 3rd Law aspect. Answer B."
+  },
+  {
+    "id": 380,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "A gun and bullet demonstrate conservation of momentum.",
+    "r": "When the gun fires, the bullet's forward momentum equals the gun's backward momentum in magnitude.",
+    "ans": 0,
+    "exp": "Both true; initially p=0; after firing p_gun + p_bullet = 0. R explains A."
+  },
+  {
+    "id": 381,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 1,
+    "a": "The property of inertia is mass-dependent.",
+    "r": "Heavier objects require a greater force to change their state of motion.",
+    "ans": 0,
+    "exp": "Both true; more mass → more inertia → more force needed. R explains A."
+  },
+  {
+    "id": 382,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "When you push a wall, the wall pushes back equally.",
+    "r": "Newton's 3rd Law: every action has an equal and opposite reaction.",
+    "ans": 0,
+    "exp": "Both true; the wall exerts a normal force = your push force. R explains A."
+  },
+  {
+    "id": 383,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "A net force always produces acceleration.",
+    "r": "From F=ma, if F≠0 and m>0, then a = F/m ≠ 0.",
+    "ans": 0,
+    "exp": "Both true; non-zero net force on a body with mass → acceleration. R explains A."
+  },
+  {
+    "id": 384,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "A feather falls slower than a stone in air despite equal gravity force on equal masses (if same mass).",
+    "r": "Air resistance (friction) on the feather is proportionally much larger due to greater surface area relative to mass.",
+    "ans": 0,
+    "exp": "Both true; high surface-area-to-mass ratio → large air drag relative to weight. R explains A."
+  },
+  {
+    "id": 385,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "Friction can be reduced by using ball bearings.",
+    "r": "Ball bearings replace sliding friction with rolling friction, which is much smaller.",
+    "ans": 0,
+    "exp": "Both true; rolling friction << sliding friction. R explains A."
+  },
+  {
+    "id": 386,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "A person falling on soft sand is less hurt than on concrete.",
+    "r": "Soft sand increases the time of impact, reducing the peak force (Δp/Δt).",
+    "ans": 0,
+    "exp": "Both true; larger Δt → smaller F. R explains A."
+  },
+  {
+    "id": 387,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "The total momentum of the universe is constant.",
+    "r": "In the universe as a closed system, there are no external forces; so by Newton's 2nd Law, total momentum cannot change.",
+    "ans": 0,
+    "exp": "Both true; closed system + no external forces → conservation of total momentum. R explains A."
+  },
+  {
+    "id": 388,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "Two bodies having the same momentum may have different kinetic energies.",
+    "r": "KE = p²/2m; same p but different m gives different KE.",
+    "ans": 0,
+    "exp": "Both true; KE = p²/2m → same p, different m → different KE. R explains A."
+  },
+  {
+    "id": 389,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "In a gun recoil, the gun's speed is less than the bullet's speed.",
+    "r": "The gun has much greater mass than the bullet; by momentum conservation, less mass → more speed for the bullet.",
+    "ans": 0,
+    "exp": "Both true; m_gun >> m_bullet; same momentum → v_bullet >> v_gun. R explains A."
+  },
+  {
+    "id": 390,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "Designing crumple zones in cars improves crash safety.",
+    "r": "Crumple zones increase the time (and distance) of impact, reducing force on passengers.",
+    "ans": 0,
+    "exp": "Both true; F=Δp/Δt; crumple extends Δt → less peak force. R explains A."
+  },
+  {
+    "id": 391,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "A body resting on a table is in equilibrium.",
+    "r": "The weight of the body and the normal force from the table are equal and opposite, giving zero net force.",
+    "ans": 0,
+    "exp": "Both true; W down = N up → F_net = 0 → equilibrium. R explains A."
+  },
+  {
+    "id": 392,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 3,
+    "a": "Two objects collide. If no external forces act, total momentum is conserved.",
+    "r": "Newton's 3rd Law ensures action-reaction forces in the collision are equal and opposite, so they cancel in the total.",
+    "ans": 0,
+    "exp": "Both true; internal action-reaction cancel → total Δp = 0. R explains A."
+  },
+  {
+    "id": 393,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "Astronauts in an orbiting spacecraft appear weightless.",
+    "r": "The spacecraft and astronauts are in continuous free fall under gravity together.",
+    "ans": 0,
+    "exp": "Both A and R are true. Their apparent weightlessness is due to continuous free fall, not the absence of gravity."
+  },
+  {
+    "id": 394,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 5,
+    "a": "Momentum is a better measure of 'quantity of motion' than kinetic energy.",
+    "r": "Momentum is directly proportional to velocity, while KE is proportional to v². In collisions, momentum is strictly conserved; KE is only conserved in elastic collisions.",
+    "ans": 1,
+    "exp": "Both true; momentum always conserved in collisions, KE not always. R is true but doesn't quite explain why momentum is better 'measure' of motion in A's philosophical sense."
+  },
+  {
+    "id": 395,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "Padded dashboards in cars reduce head injuries in crashes.",
+    "r": "The padding increases the contact time and absorbs energy, reducing peak force on the skull.",
+    "ans": 0,
+    "exp": "Both true; impulse spread over longer time → less peak force. R explains A."
+  },
+  {
+    "id": 396,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 1,
+    "a": "When a horse pulls a cart, both horse and cart have the same acceleration.",
+    "r": "They are connected, so a common force and equal acceleration apply to both as a system.",
+    "ans": 1,
+    "exp": "Both true; but R is only approximately true (same tension = same acceleration for each); the acceleration of the system = net force / total mass. R is true but the reason is more about being a connected system than 'same force applies.' B is appropriate."
+  },
+  {
+    "id": 397,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 2,
+    "a": "An object on a frictionless surface continues to move indefinitely.",
+    "r": "With no friction, there is no force to decelerate the object, so it maintains velocity (Newton's 1st Law).",
+    "ans": 0,
+    "exp": "Both true; no friction → no net force → constant velocity. R explains A."
+  },
+  {
+    "id": 398,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Force is a vector quantity.",
+    "ans": 1,
+    "exp": "Force has both magnitude and direction → vector."
+  },
+  {
+    "id": 399,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Newton's First Law applies only to objects at rest.",
+    "ans": 0,
+    "exp": "It applies to both rest and uniform motion – a body in uniform motion also needs no net force to continue."
+  },
+  {
+    "id": 400,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "The SI unit of force is the kilogram.",
+    "ans": 0,
+    "exp": "SI unit of force is Newton (N), not kilogram (kg is mass)."
+  },
+  {
+    "id": 401,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Momentum is a scalar quantity.",
+    "ans": 0,
+    "exp": "Momentum p = mv is a vector – it has direction (same as velocity)."
+  },
+  {
+    "id": 402,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Action and reaction forces act on the same body.",
+    "ans": 0,
+    "exp": "Newton's 3rd Law: action-reaction pairs act on DIFFERENT objects."
+  },
+  {
+    "id": 403,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "A body can have momentum without being in motion.",
+    "ans": 0,
+    "exp": "p = mv; if v=0, p=0. Momentum requires motion."
+  },
+  {
+    "id": 404,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Friction always opposes motion.",
+    "ans": 1,
+    "exp": "By definition, friction acts opposite to relative motion or attempted motion."
+  },
+  {
+    "id": 405,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Newton's Second Law: F = ma.",
+    "ans": 1,
+    "exp": "F = ma is the statement of Newton's Second Law."
+  },
+  {
+    "id": 406,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Inertia increases as mass increases.",
+    "ans": 1,
+    "exp": "Inertia ∝ mass. More mass → more resistance to change."
+  },
+  {
+    "id": 407,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Rolling friction is greater than sliding friction.",
+    "ans": 0,
+    "exp": "Rolling friction < sliding friction (that's why wheels are used)."
+  },
+  {
+    "id": 408,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "When a car suddenly accelerates, passengers lean backward due to Newton's 1st Law.",
+    "ans": 1,
+    "exp": "Inertia: passengers' bodies tend to stay behind (at rest) while car surges forward."
+  },
+  {
+    "id": 409,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "A body in uniform circular motion has constant velocity.",
+    "ans": 0,
+    "exp": "Direction changes → velocity vector changes → not constant velocity."
+  },
+  {
+    "id": 410,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "F = Δp/Δt is another form of Newton's 2nd Law.",
+    "ans": 1,
+    "exp": "F = d(mv)/dt = m(dv/dt) = ma for constant mass. Both equivalent."
+  },
+  {
+    "id": 411,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Static friction is always equal to the applied force.",
+    "ans": 0,
+    "exp": "Static friction equals applied force up to its maximum (limiting static friction); beyond that, the body slides."
+  },
+  {
+    "id": 412,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "The magnitude of normal force always equals weight.",
+    "ans": 0,
+    "exp": "N = mg only on flat horizontal surfaces with no other vertical forces. On inclines N = mg·cosθ."
+  },
+  {
+    "id": 413,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Impulse has the same unit as momentum.",
+    "ans": 1,
+    "exp": "Impulse = FΔt = N·s = kg·m/s = unit of momentum."
+  },
+  {
+    "id": 414,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 10 kg object acted on by 20 N force has acceleration 2 m/s².",
+    "ans": 1,
+    "exp": "a = F/m = 20/10 = 2 m/s²."
+  },
+  {
+    "id": 415,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "If net force is zero, the object must be at rest.",
+    "ans": 0,
+    "exp": "Zero net force could mean either at rest OR moving with constant velocity (Newton's 1st Law)."
+  },
+  {
+    "id": 416,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Momentum = mass × velocity.",
+    "ans": 1,
+    "exp": "p = mv by definition."
+  },
+  {
+    "id": 417,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 5 kg object at 4 m/s has momentum 20 kg·m/s.",
+    "ans": 1,
+    "exp": "p = 5×4 = 20 kg·m/s."
+  },
+  {
+    "id": 418,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "When mass doubles and force remains same, acceleration doubles.",
+    "ans": 0,
+    "exp": "a = F/m. If m doubles, a = F/(2m) = half. Acceleration halves."
+  },
+  {
+    "id": 419,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A force of 50 N on a 10 kg mass gives acceleration 5 m/s².",
+    "ans": 1,
+    "exp": "a = 50/10 = 5 m/s²."
+  },
+  {
+    "id": 420,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A book on a table: normal force and weight are an action-reaction pair (Newton's 3rd Law).",
+    "ans": 0,
+    "exp": "Normal force from table and weight (gravity) are a balanced pair (Newton's 1st, not 3rd Law). The action-reaction pairs are: Earth pulls book down (gravity) & book pulls Earth up; table pushes book up & book pushes table down."
+  },
+  {
+    "id": 421,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Conservation of momentum applies even when kinetic energy is not conserved.",
+    "ans": 1,
+    "exp": "Momentum is conserved in all collisions (elastic + inelastic) with no external force. KE is only conserved in elastic collisions."
+  },
+  {
+    "id": 422,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "When ice is loaded on the rear of a truck, the truck accelerates faster.",
+    "ans": 0,
+    "exp": "More mass → F_net same → a = F/m decreases. Heavier truck accelerates slower."
+  },
+  {
+    "id": 423,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A gun recoils because of conservation of momentum.",
+    "ans": 1,
+    "exp": "Initially p=0; after firing: p_bullet + p_gun = 0; gun moves backward to compensate."
+  },
+  {
+    "id": 424,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Friction between sliding surfaces converts kinetic energy to heat.",
+    "ans": 1,
+    "exp": "Sliding friction does negative work, removing KE which becomes thermal energy (heat)."
+  },
+  {
+    "id": 425,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "The friction on a body sliding on a surface is independent of the area of contact.",
+    "ans": 1,
+    "exp": "Kinetic friction = μ_k × N; depends on normal force and surface type, NOT contact area."
+  },
+  {
+    "id": 426,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Two bodies with the same momentum always have the same kinetic energy.",
+    "ans": 0,
+    "exp": "KE = p²/2m; same p, different m → different KE."
+  },
+  {
+    "id": 427,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A person can walk on a frictionless floor.",
+    "ans": 0,
+    "exp": "Without friction, feet slip backward and cannot provide the forward reaction force needed to walk."
+  },
+  {
+    "id": 428,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Newton's Third Law says forces always occur in pairs.",
+    "ans": 1,
+    "exp": "Every action has a paired reaction; forces always come in pairs."
+  },
+  {
+    "id": 429,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Momentum is conserved in a perfectly inelastic collision.",
+    "ans": 1,
+    "exp": "Momentum is always conserved in collisions with no external force, even perfectly inelastic ones."
+  },
+  {
+    "id": 430,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 5,
+    "q": "The acceleration of a body depends on its mass and the net force acting on it.",
+    "ans": 1,
+    "exp": "a = F_net / m – both mass and net force determine acceleration."
+  },
+  {
+    "id": 431,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Ball bearings reduce friction by converting sliding friction to rolling friction.",
+    "ans": 1,
+    "exp": "Balls roll between surfaces, giving rolling friction which is much less than sliding friction."
+  },
+  {
+    "id": 432,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 6,
+    "q": "The force of friction between surfaces can be reduced by polishing surfaces to make them very smooth.",
+    "ans": 1,
+    "exp": "Polishing reduces surface irregularities (asperities), reducing friction (to a point; very highly polished surfaces can have higher adhesion friction)."
+  },
+  {
+    "id": 433,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 6,
+    "q": "In a head-on collision between equal masses where one is at rest, they exchange velocities in elastic collision.",
+    "ans": 1,
+    "exp": "Math result of momentum + energy conservation for elastic collision of equal masses."
+  },
+  {
+    "id": 434,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A heavier vehicle is always safer in a collision because of greater momentum.",
+    "ans": 0,
+    "exp": "Greater momentum means harder to stop AND greater force on the OTHER vehicle in collision. Safety also depends on design, crumple zones, etc."
+  },
+  {
+    "id": 435,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Mass and weight are the same quantity.",
+    "ans": 0,
+    "exp": "Mass (kg) = amount of matter (scalar). Weight (N) = gravitational force on mass = mg."
+  },
+  {
+    "id": 436,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "If you double both mass and velocity, momentum doubles.",
+    "ans": 0,
+    "exp": "p = mv. Double both: p = 2m × 2v = 4mv. Momentum quadruples, not doubles."
+  },
+  {
+    "id": 437,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A net force of 0 means all forces are zero.",
+    "ans": 0,
+    "exp": "Net force = 0 means forces balance each other, not that no forces act (e.g. book on table: weight + normal = 0 net)."
+  },
+  {
+    "id": 438,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Newton's Laws apply in outer space.",
+    "ans": 1,
+    "exp": "Newton's Laws are universal; they apply everywhere (non-relativistic situations)."
+  },
+  {
+    "id": 439,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Airbags in cars work by reducing the momentum change in a crash.",
+    "ans": 0,
+    "exp": "Airbags don't reduce Δp; they increase Δt (contact time), thus reducing force F = Δp/Δt."
+  },
+  {
+    "id": 440,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A satellite orbiting Earth has balanced forces (gravity = centripetal force).",
+    "ans": 1,
+    "exp": "Gravity provides the centripetal force for circular orbit; the satellite is in 'free fall.'"
+  },
+  {
+    "id": 441,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Increasing the time of collision reduces the damage (force) in accidents.",
+    "ans": 1,
+    "exp": "F = Δp/Δt; longer Δt → smaller peak force → less damage."
+  },
+  {
+    "id": 442,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A 100 kg person on Earth weighs 1000 N (g=10 m/s²).",
+    "ans": 1,
+    "exp": "W = mg = 100×10 = 1000 N."
+  },
+  {
+    "id": 443,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 6,
+    "q": "The concept of inertia explains why objects in space continue moving without engines.",
+    "ans": 1,
+    "exp": "No external force in space (no friction) → by Newton's 1st Law, object maintains constant velocity."
+  },
+  {
+    "id": 444,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 6,
+    "q": "You can change the direction of an object without changing its speed by applying a perpendicular force.",
+    "ans": 1,
+    "exp": "Perpendicular force changes direction only (no work done if perfectly perpendicular to velocity). Example: UCM centripetal force."
+  },
+  {
+    "id": 445,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Force is needed to maintain the uniform motion of an object.",
+    "ans": 0,
+    "exp": "Newton's 1st Law: no net force needed to maintain uniform motion (only to change it)."
+  },
+  {
+    "id": 446,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 3,
+    "q": "The greater the mass, the greater the acceleration for the same force.",
+    "ans": 0,
+    "exp": "a = F/m. Greater mass gives LESS acceleration for the same force."
+  },
+  {
+    "id": 447,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "When you throw a ball against a wall, the wall exerts force back on the ball.",
+    "ans": 1,
+    "exp": "Newton's 3rd Law: wall exerts reaction force on ball (causing ball to bounce back)."
+  },
+  {
+    "id": 448,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "The tendency of a body to resist changes in its state of motion is called ___.",
+    "ans": [
+      "inertia"
+    ],
+    "exp": "Inertia is from Newton's 1st Law – property of mass to resist motion changes."
+  },
+  {
+    "id": 449,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Newton's ___ Law is called the Law of Inertia.",
+    "ans": [
+      "First",
+      "1st"
+    ],
+    "exp": "Newton's First Law defines inertia."
+  },
+  {
+    "id": 450,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Force = mass × ___.",
+    "ans": [
+      "acceleration"
+    ],
+    "exp": "F = ma. Newton's Second Law."
+  },
+  {
+    "id": 451,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "SI unit of force is ___.",
+    "ans": [
+      "Newton",
+      "N"
+    ],
+    "exp": "Named after Isaac Newton; 1 N = 1 kg·m/s²."
+  },
+  {
+    "id": 452,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Momentum = mass × ___.",
+    "ans": [
+      "velocity"
+    ],
+    "exp": "p = mv."
+  },
+  {
+    "id": 453,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Action and reaction forces are ___ in magnitude and opposite in direction.",
+    "ans": [
+      "equal"
+    ],
+    "exp": "Newton's 3rd Law: equal and opposite."
+  },
+  {
+    "id": 454,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Friction always acts ___ to the direction of motion.",
+    "ans": [
+      "opposite"
+    ],
+    "exp": "Friction opposes relative motion."
+  },
+  {
+    "id": 455,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "The SI unit of momentum is ___.",
+    "ans": [
+      "kg·m/s"
+    ],
+    "exp": "p = mv → kg × m/s = kg·m/s."
+  },
+  {
+    "id": 456,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Newton's 2nd Law in terms of momentum: F = Δp/___.",
+    "ans": [
+      "Δt",
+      "t"
+    ],
+    "exp": "F = rate of change of momentum = Δp/Δt."
+  },
+  {
+    "id": 457,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "When a bus brakes suddenly, passengers tend to move ___ due to inertia.",
+    "ans": [
+      "forward"
+    ],
+    "exp": "Forward momentum of passengers continues by inertia when bus decelerates."
+  },
+  {
+    "id": 458,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Rolling friction is ___ than sliding friction.",
+    "ans": [
+      "less",
+      "smaller"
+    ],
+    "exp": "Ball-bearing surfaces give less friction than sliding surfaces."
+  },
+  {
+    "id": 459,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Inertia is directly proportional to ___.",
+    "ans": [
+      "mass"
+    ],
+    "exp": "More mass → more inertia; I ∝ m."
+  },
+  {
+    "id": 460,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "When net force on a body is zero, it is in ___.",
+    "ans": [
+      "equilibrium"
+    ],
+    "exp": "Zero net force → zero acceleration → equilibrium."
+  },
+  {
+    "id": 461,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "The reaction force to a book's weight on a table is the book pulling the ___ upward.",
+    "ans": [
+      "Earth"
+    ],
+    "exp": "Newton's 3rd: Earth pulls book down (gravity) ↔ book pulls Earth up."
+  },
+  {
+    "id": 462,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "A 5 kg mass with acceleration 4 m/s² has net force ___ N.",
+    "ans": [
+      "20"
+    ],
+    "exp": "F = ma = 5×4 = 20 N."
+  },
+  {
+    "id": 463,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Impulse = Force × Time = ___.",
+    "ans": [
+      "change in momentum",
+      "Δp"
+    ],
+    "exp": "Impulse = FΔt = Δ(mv)."
+  },
+  {
+    "id": 464,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A body of mass 3 kg moving at 6 m/s has momentum ___ kg·m/s.",
+    "ans": [
+      "18"
+    ],
+    "exp": "p = 3×6 = 18 kg·m/s."
+  },
+  {
+    "id": 465,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "For a 1000 kg car, to give acceleration 2 m/s², force required is ___ N.",
+    "ans": [
+      "2000"
+    ],
+    "exp": "F = 1000×2 = 2000 N."
+  },
+  {
+    "id": 466,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Conservation of momentum requires that no ___ forces act on the system.",
+    "ans": [
+      "external"
+    ],
+    "exp": "Internal forces cancel; external forces change total momentum."
+  },
+  {
+    "id": 467,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "When two equal masses collide elastically (one at rest), the first stops and the second moves at the first's ___ speed.",
+    "ans": [
+      "initial",
+      "original"
+    ],
+    "exp": "In elastic collision of equal masses: velocities exchange."
+  },
+  {
+    "id": 468,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "F = Δp/Δt; if Δp = 30 kg·m/s and Δt = 5 s, then F = ___ N.",
+    "ans": [
+      "6"
+    ],
+    "exp": "F = 30/5 = 6 N."
+  },
+  {
+    "id": 469,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 4,
+    "q": "The friction that acts on a stationary object when a force is applied (not yet moving) is ___ friction.",
+    "ans": [
+      "static"
+    ],
+    "exp": "Static friction resists start of motion."
+  },
+  {
+    "id": 470,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 4,
+    "q": "In a car crash, airbags increase ___ time to reduce injury force.",
+    "ans": [
+      "contact",
+      "impact"
+    ],
+    "exp": "Larger Δt → smaller F = Δp/Δt."
+  },
+  {
+    "id": 471,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A gun fires a bullet. By conservation of momentum, the gun moves ___ (forward/backward).",
+    "ans": [
+      "backward",
+      "back"
+    ],
+    "exp": "Gun recoils backward to conserve zero total momentum."
+  },
+  {
+    "id": 472,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 4,
+    "q": "At the moment of reversal in a bounce, the velocity is ___ but force on ball is non-zero.",
+    "ans": [
+      "zero"
+    ],
+    "exp": "At the wall, v=0 momentarily but normal force from wall acts."
+  },
+  {
+    "id": 473,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 4,
+    "q": "If force F is tripled and mass is doubled, acceleration changes by factor ___.",
+    "ans": [
+      "3/2",
+      "1.5"
+    ],
+    "exp": "New a = (3F)/(2m) = 1.5 × (F/m) = 1.5 × original a."
+  },
+  {
+    "id": 474,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Two bodies collide; their total momentum before equals total momentum ___ (law).",
+    "ans": [
+      "after",
+      "after collision"
+    ],
+    "exp": "Conservation of momentum: total p before = total p after."
+  },
+  {
+    "id": 475,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 5,
+    "q": "If a 2 kg body at 5 m/s collides with a stationary 3 kg body and they stick together, their common velocity is ___ m/s.",
+    "ans": [
+      "2"
+    ],
+    "exp": "p_i = 2×5 = 10; (2+3)v = 10; v = 2 m/s."
+  },
+  {
+    "id": 476,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 5,
+    "q": "The coefficient of friction μ = friction force / ___ force.",
+    "ans": [
+      "normal"
+    ],
+    "exp": "μ = f/N."
+  },
+  {
+    "id": 477,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A 60 kg person stands on a scale in an accelerating elevator (a=2 m/s² upward). Apparent weight = ___ N (g=10).",
+    "ans": [
+      "720"
+    ],
+    "exp": "W_apparent = m(g+a) = 60×12 = 720 N."
+  },
+  {
+    "id": 478,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Newton's ___ Law explains rocket propulsion.",
+    "ans": [
+      "Third",
+      "3rd"
+    ],
+    "exp": "Rocket expels gas → reaction force propels rocket (3rd Law)."
+  },
+  {
+    "id": 479,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 6,
+    "q": "The friction that acts while surfaces move against each other is called ___ friction.",
+    "ans": [
+      "kinetic",
+      "sliding"
+    ],
+    "exp": "Kinetic/sliding friction = friction during motion."
+  },
+  {
+    "id": 480,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A 0.1 kg bullet at 300 m/s fired from 5 kg gun; gun recoil speed = ___ m/s.",
+    "ans": [
+      "6"
+    ],
+    "exp": "p_bullet = 0.1×300 = 30 kg·m/s; 5×v_gun = 30; v_gun = 6 m/s."
+  },
+  {
+    "id": 481,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Newton's Third Law states: for every action, there is an equal and ___ reaction.",
+    "ans": [
+      "opposite"
+    ],
+    "exp": "Equal magnitude, opposite direction."
+  },
+  {
+    "id": 482,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "A force applied for a short time to change momentum is called ___.",
+    "ans": [
+      "impulse"
+    ],
+    "exp": "Impulse = FΔt = Δp."
+  },
+  {
+    "id": 483,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Mass 8 kg, acceleration 5 m/s²; force = ___ N.",
+    "ans": [
+      "40"
+    ],
+    "exp": "F = 8×5 = 40 N."
+  },
+  {
+    "id": 484,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A body in equilibrium has ___ net force.",
+    "ans": [
+      "zero"
+    ],
+    "exp": "Equilibrium: F_net = 0."
+  },
+  {
+    "id": 485,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 4,
+    "q": "The maximum value of static friction is called ___ static friction.",
+    "ans": [
+      "limiting"
+    ],
+    "exp": "Just before sliding, static friction reaches its maximum = limiting static friction."
+  },
+  {
+    "id": 486,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Rate of change of momentum = ___ (state the quantity).",
+    "ans": [
+      "Force",
+      "net force"
+    ],
+    "exp": "F = dp/dt."
+  },
+  {
+    "id": 487,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Momentum is a ___ quantity (scalar/vector).",
+    "ans": [
+      "vector"
+    ],
+    "exp": "Momentum has magnitude and direction → vector."
+  },
+  {
+    "id": 488,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 5,
+    "q": "In a perfectly inelastic collision, the two bodies ___ after collision.",
+    "ans": [
+      "stick together",
+      "move together"
+    ],
+    "exp": "Perfectly inelastic: bodies combine and move as one."
+  },
+  {
+    "id": 489,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Friction force = μ × ___.",
+    "ans": [
+      "Normal force",
+      "N"
+    ],
+    "exp": "f = μN; coefficient of friction × normal force."
+  },
+  {
+    "id": 490,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 6,
+    "q": "1 Newton = 1 kg × ___ m/s².",
+    "ans": [
+      "1"
+    ],
+    "exp": "F = ma; 1 N = 1 kg × 1 m/s²."
+  },
+  {
+    "id": 491,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 1,
+    "q": "A body at rest stays at rest unless ___ by an external force.",
+    "ans": [
+      "acted upon",
+      "disturbed"
+    ],
+    "exp": "Newton's 1st Law."
+  },
+  {
+    "id": 492,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "The tendency to resist rotational motion is called ___ (moment of _____).",
+    "ans": [
+      "moment of inertia",
+      "inertia"
+    ],
+    "exp": "For rotation: moment of inertia = I = mr² (extended)."
+  },
+  {
+    "id": 493,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Two equal forces in same direction: resultant = ___× each force.",
+    "ans": [
+      "2",
+      "twice"
+    ],
+    "exp": "Resultant of equal parallel forces = 2F."
+  },
+  {
+    "id": 494,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 4,
+    "q": "If applied force < limiting static friction, body remains ___.",
+    "ans": [
+      "at rest",
+      "stationary"
+    ],
+    "exp": "Static friction matches applied force up to its max; body stays put."
+  },
+  {
+    "id": 495,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Conservation of momentum only holds when net ___ force = 0.",
+    "ans": [
+      "external"
+    ],
+    "exp": "Internal forces cancel; external forces change total momentum."
+  },
+  {
+    "id": 496,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Reducing friction (e.g. with oil) in machines improves their ___.",
+    "ans": [
+      "efficiency"
+    ],
+    "exp": "Less friction → less energy wasted as heat → greater efficiency."
+  },
+  {
+    "id": 497,
+    "type": "num",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Find force needed to give a 5 kg mass an acceleration of 4 m/s².",
+    "ans": "20",
+    "unit": "N",
+    "exp": "F = ma = 5×4 = 20 N."
+  },
+  {
+    "id": 498,
+    "type": "num",
+    "ch": 6,
+    "bloom": 1,
+    "q": "A 1500 kg car accelerates at 3 m/s². Net force?",
+    "ans": "4500",
+    "unit": "N",
+    "exp": "F = 1500×3 = 4500 N."
+  },
+  {
+    "id": 499,
+    "type": "num",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Find momentum of a 0.2 kg ball at 15 m/s.",
+    "ans": "3",
+    "unit": "kg·m/s",
+    "exp": "p = 0.2×15 = 3 kg·m/s."
+  },
+  {
+    "id": 500,
+    "type": "num",
+    "ch": 6,
+    "bloom": 1,
+    "q": "A force of 10 N acts on a 2 kg body. Acceleration?",
+    "ans": "5",
+    "unit": "m/s²",
+    "exp": "a = F/m = 10/2 = 5 m/s²."
+  },
+  {
+    "id": 501,
+    "type": "num",
+    "ch": 6,
+    "bloom": 2,
+    "q": "A 60 kg person runs at 5 m/s. Momentum?",
+    "ans": "300",
+    "unit": "kg·m/s",
+    "exp": "p = 60×5 = 300 kg·m/s."
+  },
+  {
+    "id": 502,
+    "type": "num",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Momentum changes from 20 to 50 kg·m/s in 6 s. Force?",
+    "ans": "5",
+    "unit": "N",
+    "exp": "F = Δp/Δt = 30/6 = 5 N."
+  },
+  {
+    "id": 503,
+    "type": "num",
+    "ch": 6,
+    "bloom": 2,
+    "q": "A 0.05 kg bullet at 800 m/s. Momentum?",
+    "ans": "40",
+    "unit": "kg·m/s",
+    "exp": "p = 0.05×800 = 40 kg·m/s."
+  },
+  {
+    "id": 504,
+    "type": "num",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Force of 15 N acts on 3 kg mass for 4 s (from rest). Final velocity?",
+    "ans": "20",
+    "unit": "m/s",
+    "exp": "a=15/3=5 m/s²; v=5×4=20 m/s."
+  },
+  {
+    "id": 505,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 4 kg body speeds up from 2 m/s to 10 m/s in 4 s. Net force?",
+    "ans": "8",
+    "unit": "N",
+    "exp": "Δv=(10-2)/4=2 m/s²; F=4×2=8 N."
+  },
+  {
+    "id": 506,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 1200 kg car brakes from 20 m/s to rest in 8 s. Braking force?",
+    "ans": "3000",
+    "unit": "N",
+    "exp": "a=(0-20)/8=-2.5 m/s²; F=1200×2.5=3000 N."
+  },
+  {
+    "id": 507,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Two forces 30 N and 20 N act in same direction. Net force?",
+    "ans": "50",
+    "unit": "N",
+    "exp": "Same direction: F_net = 30+20 = 50 N."
+  },
+  {
+    "id": 508,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Two forces 30 N and 20 N in opposite directions. Net force?",
+    "ans": "10",
+    "unit": "N",
+    "exp": "Opposite: F_net = 30-20 = 10 N."
+  },
+  {
+    "id": 509,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "A 0.1 kg cricket ball at 40 m/s stopped in 0.04 s by a player. Force?",
+    "ans": "100",
+    "unit": "N",
+    "exp": "Δp=0.1×40=4 kg·m/s; F=4/0.04=100 N."
+  },
+  {
+    "id": 510,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Find impulse of 50 N force acting for 3 s.",
+    "ans": "150",
+    "unit": "N·s (= kg·m/s)",
+    "exp": "Impulse = FΔt = 50×3 = 150 N·s."
+  },
+  {
+    "id": 511,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A 2 kg ball moving at 5 m/s collides with 3 kg ball at rest (stick together). Find common velocity.",
+    "ans": "2",
+    "unit": "m/s",
+    "exp": "p_i=2×5=10; (2+3)v=10; v=2 m/s."
+  },
+  {
+    "id": 512,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A 5 kg gun fires 0.02 kg bullet at 400 m/s. Gun recoil speed?",
+    "ans": "1.6",
+    "unit": "m/s",
+    "exp": "p_bullet=0.02×400=8; 5×v=8; v=1.6 m/s."
+  },
+  {
+    "id": 513,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A 1000 kg car at 20 m/s collides with 500 kg car at rest (inelastic). Common velocity?",
+    "ans": "13.33",
+    "unit": "m/s",
+    "exp": "p_i=1000×20=20000; (1500)v=20000; v=13.33 m/s."
+  },
+  {
+    "id": 514,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Find acceleration: mass 6 kg, initial v=2 m/s, final v=14 m/s, time=4 s.",
+    "ans": "3",
+    "unit": "m/s²",
+    "exp": "a=(14-2)/4=3 m/s²."
+  },
+  {
+    "id": 515,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Coefficient of kinetic friction μ=0.3, normal force=50 N. Friction force?",
+    "ans": "15",
+    "unit": "N",
+    "exp": "f=μN=0.3×50=15 N."
+  },
+  {
+    "id": 516,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A 6 kg block rests on a horizontal surface. Take g=10 m/s². Find the normal force.",
+    "ans": "60",
+    "unit": "N",
+    "exp": "With no vertical acceleration and no other vertical force, N = mg = 6×10 = 60 N."
+  },
+  {
+    "id": 517,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A 70 kg person in elevator accelerates upward at 2 m/s² (g=10). Apparent weight?",
+    "ans": "840",
+    "unit": "N",
+    "exp": "W_app=m(g+a)=70×12=840 N."
+  },
+  {
+    "id": 518,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Same person accelerating downward at 2 m/s². Apparent weight?",
+    "ans": "560",
+    "unit": "N",
+    "exp": "W_app=m(g-a)=70×8=560 N."
+  },
+  {
+    "id": 519,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Two cars collide head-on: 800 kg at 20 m/s and 1200 kg at 15 m/s (same direction). Find final velocity.",
+    "ans": "2",
+    "unit": "m/s",
+    "exp": "p_i=800×20+1200×15=16000+18000=34000; (2000)v=34000; v=17 m/s. Wait – same direction: p_i=34000; v=17 m/s."
+  },
+  {
+    "id": 520,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Find rate of change of momentum: p goes from 12 to 36 kg·m/s in 4 s.",
+    "ans": "6",
+    "unit": "N",
+    "exp": "F=Δp/Δt=24/4=6 N."
+  },
+  {
+    "id": 521,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A rocket ejects 2 kg gas per second at 500 m/s. Thrust force?",
+    "ans": "1000",
+    "unit": "N",
+    "exp": "F = rate of momentum change = 2×500 = 1000 N."
+  },
+  {
+    "id": 522,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "How far does a car (2000 kg) travel before stopping if braking force is 8000 N and initial speed is 20 m/s?",
+    "ans": "50",
+    "unit": "m",
+    "exp": "a=F/m=4 m/s²; s=v²/2a=400/8=50 m."
+  },
+  {
+    "id": 523,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A 3 kg mass increases from 4 m/s to 16 m/s. Find impulse delivered.",
+    "ans": "36",
+    "unit": "kg·m/s",
+    "exp": "Impulse=Δp=m×Δv=3×12=36 kg·m/s."
+  },
+  {
+    "id": 524,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A footballer kicks 0.5 kg ball from rest; after kick v=20 m/s in 0.1 s. Force?",
+    "ans": "100",
+    "unit": "N",
+    "exp": "F=mΔv/Δt=0.5×20/0.1=100 N."
+  },
+  {
+    "id": 525,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Find μ_k if friction force on 10 kg block is 20 N on horizontal surface (g=10).",
+    "ans": "0.2",
+    "unit": "(dimensionless)",
+    "exp": "μ_k=f/N=20/(10×10)=20/100=0.2."
+  },
+  {
+    "id": 526,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A 50 kg person stands on a scale in free-falling elevator. Scale reading?",
+    "ans": "0",
+    "unit": "N",
+    "exp": "In free fall, apparent weight=m(g-g)=0 (weightlessness)."
+  },
+  {
+    "id": 527,
+    "type": "num",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Mass 0.5 kg, v changes from 0 to 40 m/s in 5 s. Force?",
+    "ans": "4",
+    "unit": "N",
+    "exp": "F=mΔv/Δt=0.5×40/5=4 N."
+  },
+  {
+    "id": 528,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "F=120 N, m=8 kg. Acceleration?",
+    "ans": "15",
+    "unit": "m/s²",
+    "exp": "a=120/8=15 m/s²."
+  },
+  {
+    "id": 529,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "p=60 kg·m/s, v=12 m/s. Find mass.",
+    "ans": "5",
+    "unit": "kg",
+    "exp": "m=p/v=60/12=5 kg."
+  },
+  {
+    "id": 530,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "p=60 kg·m/s, m=4 kg. Find velocity.",
+    "ans": "15",
+    "unit": "m/s",
+    "exp": "v=p/m=60/4=15 m/s."
+  },
+  {
+    "id": 531,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A 5 kg and 3 kg body collide and stick. Initial velocities 6 m/s and 0. Common v?",
+    "ans": "3.75",
+    "unit": "m/s",
+    "exp": "p_i=5×6=30; (8)v=30; v=3.75 m/s."
+  },
+  {
+    "id": 532,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Find time to stop car: mass=800 kg, v=25 m/s, braking force=2000 N.",
+    "ans": "10",
+    "unit": "s",
+    "exp": "a=2000/800=2.5 m/s²; t=25/2.5=10 s."
+  },
+  {
+    "id": 533,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A 10 N force decelerates a moving 5 kg body. Deceleration?",
+    "ans": "2",
+    "unit": "m/s²",
+    "exp": "a=F/m=10/5=2 m/s² (deceleration)."
+  },
+  {
+    "id": 534,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Two skaters push off: 50 kg at 3 m/s and 75 kg at v₂ (from rest). v₂?",
+    "ans": "2",
+    "unit": "m/s",
+    "exp": "Initial p=0; 50×3+75×(-v₂)=0; v₂=150/75=2 m/s."
+  },
+  {
+    "id": 535,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A 200 g ball rebounds from wall: incoming v=10 m/s, outgoing v=8 m/s. Impulse?",
+    "ans": "3.6",
+    "unit": "N·s",
+    "exp": "Δp=m(v₂-v₁)=0.2×(8-(-10))=0.2×18=3.6 kg·m/s (taking away as positive)."
+  },
+  {
+    "id": 536,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Mass on rough floor: μ=0.4, m=15 kg (g=10). Force to slide at constant velocity?",
+    "ans": "60",
+    "unit": "N",
+    "exp": "At constant v, F_net=0; F=friction=μmg=0.4×150=60 N."
+  },
+  {
+    "id": 537,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Braking distance at 30 m/s with deceleration 7.5 m/s². Distance?",
+    "ans": "60",
+    "unit": "m",
+    "exp": "s=v²/2a=900/15=60 m."
+  },
+  {
+    "id": 538,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A person pulls a 20 kg box with rope at 30° above horizontal: T=100 N. Horizontal force?",
+    "ans": "86.6",
+    "unit": "N",
+    "exp": "F_x=T·cos30°=100×0.866=86.6 N."
+  },
+  {
+    "id": 539,
+    "type": "num",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Two forces 8 N north and 6 N east. Resultant magnitude?",
+    "ans": "10",
+    "unit": "N",
+    "exp": "R=√(8²+6²)=√100=10 N."
+  },
+  {
+    "id": 540,
+    "type": "num",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Body: m=2 kg, u=3 m/s, F=8 N for 5 s. Find final momentum.",
+    "ans": "46",
+    "unit": "kg·m/s",
+    "exp": "Initial p=6; Impulse=8×5=40; Final p=6+40=46 kg·m/s."
+  },
+  {
+    "id": 541,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A gun (mass 3 kg) fires bullet (mass 0.03 kg) at 300 m/s. Recoil speed of gun?",
+    "ans": "3",
+    "unit": "m/s",
+    "exp": "p_bullet=0.03×300=9; 3×v=9; v=3 m/s."
+  },
+  {
+    "id": 542,
+    "type": "num",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Net force on 2000 kg truck to accelerate from 0 to 90 km/h in 30 s.",
+    "ans": "1666.7",
+    "unit": "N",
+    "exp": "a=25/30 m/s²; F=2000×25/30≈1666.7 N."
+  },
+  {
+    "id": 543,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A body (5 kg) falls from rest; after 2 s, find momentum (g=10 m/s²).",
+    "ans": "100",
+    "unit": "kg·m/s",
+    "exp": "v=gt=20 m/s; p=5×20=100 kg·m/s."
+  },
+  {
+    "id": 544,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Impulse needed to stop 1500 kg car at 20 m/s.",
+    "ans": "30000",
+    "unit": "N·s",
+    "exp": "Impulse=Δp=1500×20=30000 N·s."
+  },
+  {
+    "id": 545,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 1,
+    "q": "State and explain Newton's First Law of Motion with an example.",
+    "ans": "Newton's First Law: A body at rest stays at rest, and a body in uniform motion continues in uniform motion in a straight line unless acted upon by an external unbalanced force. Example: A book on a table stays still until pushed. A ball rolling on a smooth floor continues rolling (inertia). This property of resisting change is called inertia.",
+    "exp": "1st Law = Law of Inertia. No net force = no change in state. Examples: book at rest, rolling ball."
+  },
+  {
+    "id": 546,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 1,
+    "q": "What is inertia? How does it relate to mass?",
+    "ans": "Inertia is the tendency of a body to resist any change in its state of rest or motion. It is not a force but a property. Inertia is directly proportional to mass – a heavier object is harder to start, stop, or change direction. A massive truck has more inertia than a bicycle; you need much more force to accelerate or stop the truck.",
+    "exp": "Inertia = resistance to change in motion. Inertia ∝ mass. More mass → harder to change state."
+  },
+  {
+    "id": 547,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 1,
+    "q": "State Newton's Third Law. Give two everyday examples.",
+    "ans": "Newton's Third Law: For every action force, there is an equal and opposite reaction force, acting on different objects simultaneously. Examples: 1) Rocket: gas expelled backward (action) → rocket propelled forward (reaction). 2) Walking: foot pushes ground backward (action) → ground pushes foot forward (reaction).",
+    "exp": "3rd Law: equal & opposite forces on different objects. Examples: rocket propulsion, walking."
+  },
+  {
+    "id": 548,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Explain the difference between balanced and unbalanced forces.",
+    "ans": "Balanced forces: equal and opposite forces that cancel (net force = 0). Body stays at rest or uniform motion. Example: book on table (weight = normal force). Unbalanced forces: forces that don't cancel (net force ≠ 0). Body accelerates. Example: car being pushed accelerates because the pushing force exceeds friction.",
+    "exp": "Balanced: F_net=0, no acceleration. Unbalanced: F_net≠0, body accelerates."
+  },
+  {
+    "id": 549,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Why do passengers lurch forward when a bus brakes suddenly?",
+    "ans": "When the bus brakes, it decelerates rapidly. However, the passengers' bodies have inertia – they tend to continue moving at the original speed of the bus (Newton's First Law). Since the bus floor decelerates under them while their upper bodies try to continue forward, they lurch toward the front of the bus.",
+    "exp": "Passengers have inertia → continue at bus's original speed when bus brakes → lurch forward."
+  },
+  {
+    "id": 550,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Explain why it is harder to stop a heavier object than a lighter one at the same speed.",
+    "ans": "Momentum p = mv. A heavier object (larger m) at the same speed v has greater momentum. To stop it, an impulse equal to its momentum must be applied (FΔt = Δp). Greater momentum requires either a larger force or a longer time to achieve the same impulse. Hence, more force is needed to stop a heavy object quickly.",
+    "exp": "p = mv. More mass → more momentum → more impulse (FΔt) needed to stop."
+  },
+  {
+    "id": 551,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Why does a runner need to exert backward force on the ground to move forward?",
+    "ans": "By Newton's Third Law, when a runner pushes the ground backward (action), the ground pushes the runner forward with an equal force (reaction). This forward friction force accelerates the runner. Without friction (e.g., on ice), the foot slips and no forward reaction is obtained.",
+    "exp": "Action: foot pushes backward on ground. Reaction: ground pushes runner forward. Newton's 3rd Law + friction."
+  },
+  {
+    "id": 552,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Derive Newton's Second Law from the definition of momentum.",
+    "ans": "Momentum p = mv. Rate of change of momentum = Δp/Δt = m×Δv/Δt (for constant m) = m×a. By Newton's 2nd Law definition, force equals rate of change of momentum: F = Δp/Δt = ma. This derives F = ma from the momentum concept.",
+    "exp": "F = dp/dt = m(dv/dt) = ma. Newton's 2nd Law derived from momentum."
+  },
+  {
+    "id": 553,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 3,
+    "q": "What is impulse? Explain with the example of a cricket player catching a ball.",
+    "ans": "Impulse = Force × Time = F × Δt = Change in momentum (Δp). A cricket player receives a fast ball with large momentum. To reduce force on their hands, they move their hands backward while catching, extending the contact time Δt. Since F = Δp/Δt and Δt increases, force F decreases, making the catch less painful.",
+    "exp": "Impulse = FΔt = Δp. Extended contact time → less force. Cricket player draws hands back to reduce impact force."
+  },
+  {
+    "id": 554,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Explain how rockets travel in space using Newton's laws.",
+    "ans": "Rockets use Newton's Third Law. Hot gases are expelled backward at high velocity (action). By Newton's 3rd Law, the rocket receives an equal and opposite forward thrust (reaction). No medium (air) is needed because the reaction comes from the gas itself. Newton's 2nd Law gives the acceleration: a = F_thrust / m_rocket.",
+    "exp": "3rd Law: gas backward → rocket forward. 2nd Law: a = F/m. No medium needed in space."
+  },
+  {
+    "id": 555,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 4,
+    "q": "What is the law of conservation of momentum? State conditions for its validity.",
+    "ans": "Law of Conservation of Momentum: The total momentum of a closed system (no external forces) remains constant before and after any collision or interaction. Total p_before = Total p_after. Valid when: (1) No net external force acts on the system. (2) Internal forces (between objects) can be any kind. Applications: gun recoil, rocket propulsion, collisions.",
+    "exp": "Total p = constant when no external net force. p_before = p_after. Gun, rocket, collisions."
+  },
+  {
+    "id": 556,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Explain the types of friction and how each arises.",
+    "ans": "Friction arises from surface irregularities (microscopic bumps) that interlock when surfaces touch. Types: (1) Static friction: between stationary surfaces, prevents motion, ranges from 0 to limiting value. (2) Kinetic (sliding) friction: between sliding surfaces, constant and less than limiting static friction. (3) Rolling friction: between rolling objects and surface, least of the three. (4) Fluid friction: in liquids/gases (viscosity), increases with speed.",
+    "exp": "Static (no motion) > Kinetic (sliding) > Rolling. All from surface irregularities. Fluid friction in liquids/gases."
+  },
+  {
+    "id": 557,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Why is it easier to walk on a rough road than on a smooth (icy) road?",
+    "ans": "Walking requires the foot to push backward on the ground; friction provides the forward reaction. On a rough road, static friction is sufficient to prevent the foot from slipping, providing the forward push. On icy (smooth) road, friction is nearly zero, so the foot slips backward and no forward reaction force is obtained – walking is impossible.",
+    "exp": "Walking needs friction (reaction force). Rough: enough friction. Ice: no friction → foot slips → can't walk."
+  },
+  {
+    "id": 558,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Explain how a seat belt protects a passenger in a car crash.",
+    "ans": "In a crash, the car suddenly stops but the passenger's body continues forward due to inertia (Newton's 1st Law). The seat belt applies a backward force, reducing the passenger's momentum to zero. By extending the stopping time slightly (Δt), the belt reduces the peak force (F = Δp/Δt) and also prevents the passenger from hitting the dashboard.",
+    "exp": "Seat belt: stops passenger's inertial forward motion, extends stopping time, reduces peak force F=Δp/Δt."
+  },
+  {
+    "id": 559,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Why do astronauts appear to float inside the International Space Station?",
+    "ans": "The ISS and astronauts inside are both in free fall around Earth. Gravity acts on them, but since everything (ISS + astronauts) falls together at the same rate (g), astronauts don't press on the floor and appear weightless. This is 'microgravity' or apparent weightlessness – not because gravity is absent but because everything accelerates equally.",
+    "exp": "ISS and astronauts both in free fall at same rate → no normal force → apparent weightlessness. Gravity still acts."
+  },
+  {
+    "id": 560,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 5,
+    "q": "What happens to momentum in an elastic collision vs. an inelastic collision?",
+    "ans": "In both elastic and inelastic collisions, total momentum is conserved (no net external force). The difference: in elastic collision, kinetic energy is also conserved (e.g., billiard balls). In inelastic collision (e.g., cars sticking together), kinetic energy is NOT conserved – some is lost to heat, sound, or deformation. But momentum: always conserved.",
+    "exp": "Both: p conserved. Elastic: KE also conserved. Inelastic: KE lost to heat/deformation."
+  },
+  {
+    "id": 561,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Propose three methods to reduce friction between two surfaces.",
+    "ans": "1) Lubrication: add oil, grease, or other lubricants between surfaces to replace solid-solid contact with fluid friction (much lower). 2) Polishing: smooth the surfaces to reduce microscopic irregularities. 3) Using rollers or ball bearings: replace sliding friction with rolling friction, which is much lower. 4) Changing the material: use materials with lower coefficient of friction.",
+    "exp": "1) Lubrication (oil/grease). 2) Polishing surfaces. 3) Ball bearings (rolling friction). 4) Material change."
+  },
+  {
+    "id": 562,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Explain with physics how a karate expert breaks a brick with a hand blow.",
+    "ans": "The expert applies a large force to the brick over a very short time. F = Δp/Δt. By making the contact time (Δt) extremely small (a rapid, fast strike), the force F becomes very large even for a moderate momentum change. If this force exceeds the brick's tensile strength, the brick breaks. Training builds muscle to achieve high hand velocity (→ large Δp) and a fast, hard blow (→ small Δt).",
+    "exp": "Short Δt → F = Δp/Δt is very large. Force exceeds brick's strength → break. Also large Δp from fast hand."
+  },
+  {
+    "id": 563,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Design a simple experiment to demonstrate Newton's Third Law using a balloon.",
+    "ans": "Inflate a balloon and hold the neck closed. Release it. The balloon expels air backward (action) and shoots forward (reaction) – Newton's Third Law. Air pushed out backward is the action; the reaction force on the balloon is forward, propelling it. This models rocket propulsion on a small scale.",
+    "exp": "Balloon expels air backward → reaction force propels balloon forward. Simple rocket analogy for 3rd Law."
+  },
+  {
+    "id": 564,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 1,
+    "q": "Why does a gun kick back when fired?",
+    "ans": "Before firing, the total momentum of the gun-bullet system is zero (both at rest). When fired, the bullet gains forward momentum. By conservation of momentum (Newton's 3rd Law), the gun must gain equal and opposite momentum – it recoils backward. Gun mass >> bullet mass, so gun velocity << bullet velocity.",
+    "exp": "Conservation of momentum: p_initial=0; p_bullet=+mv; p_gun=-mv. Gun recoils backward."
+  },
+  {
+    "id": 565,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Explain why luggage slides on an airplane floor when the plane accelerates forward.",
+    "ans": "The luggage and passenger are in a non-inertial (accelerating) reference frame (the plane). In the ground frame, the plane accelerates forward but the luggage, having inertia, tends to stay behind. Since the floor (friction) isn't enough to accelerate the luggage at the plane's rate, it slides backward relative to the plane.",
+    "exp": "Luggage inertia → stays behind as plane accelerates forward → slides backward (relative to plane)."
+  },
+  {
+    "id": 566,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Compare Newton's laws for macroscopic vs. microscopic (atomic) systems.",
+    "ans": "Newton's laws work well for everyday (macroscopic) objects at ordinary speeds. At atomic/subatomic scales, quantum mechanics governs – particles don't follow Newton's F=ma deterministically. At speeds near light, special relativity modifies Newton's laws. Newton's laws are an approximation valid for large objects at everyday speeds (v << c).",
+    "exp": "Newton's laws: valid for macroscopic, non-relativistic speeds. Fail at atomic (quantum) or relativistic speeds."
+  },
+  {
+    "id": 567,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Why is it dangerous to overtake on a highway at high speed?",
+    "ans": "At high speed, momentum p = mv is very large. Stopping requires large impulse FΔt = Δp. Either very large braking force or very long braking time is needed. In emergencies, neither may be available. Also, relative closing speeds in head-on overtaking situations are very high (v₁+v₂), making collision forces enormous (F = Δp/Δt with very small Δt).",
+    "exp": "High speed: large momentum, long stopping distance. Overtaking: high relative speed → large collision force."
+  },
+  {
+    "id": 568,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Explain why friction, despite being a resistance force, is considered both useful and a nuisance.",
+    "ans": "Useful: friction enables walking (foot grips ground), car braking (tire-road grip), writing (pen-paper), holding objects, engines running (belt drives). Nuisance: friction wastes energy as heat in machines, wears out moving parts, and requires more fuel in vehicles. It is a necessary 'evil' – we can't function without some friction but we want to minimize waste.",
+    "exp": "Useful: walking, braking, gripping. Nuisance: energy waste as heat, wear and tear. Both aspects matter."
+  },
+  {
+    "id": 569,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 6,
+    "q": "How does the principle of conservation of momentum explain why a fire hose recoils when water is sprayed?",
+    "ans": "Initially, hose and water are at rest (total p = 0). When water is ejected at high velocity forward, it carries momentum. By conservation of momentum, the hose (and the firefighter) must receive equal and opposite momentum backward. The recoil makes the hose difficult to control; firefighters must brace themselves firmly against the reaction force.",
+    "exp": "Total initial p=0. Water forward momentum → hose recoils backward. F=Δp/Δt is large at high flow rates."
+  },
+  {
+    "id": 570,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 2,
+    "q": "How does Newton's Second Law explain why airbags in cars save lives?",
+    "ans": "In a crash, a passenger's momentum Δp = mΔv must become zero. Force experienced = F = Δp/Δt. An airbag inflates instantly and cushions the passenger, extending the stopping time Δt significantly compared to hitting a rigid dashboard. Greater Δt → smaller force F → less injury. The momentum change is the same; only how quickly it occurs changes.",
+    "exp": "Airbag extends Δt. Same Δp but larger Δt → smaller F = Δp/Δt → less injury."
+  },
+  {
+    "id": 571,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 3,
+    "q": "Calculate and compare stopping distances for a car at 20 m/s and 40 m/s (same braking force).",
+    "ans": "s = v²/(2a). At 20 m/s: s ∝ 400. At 40 m/s: s ∝ 1600. Ratio = 1:4. Doubling speed quadruples stopping distance. This is why speed limits are important for safety – a small increase in speed dramatically increases stopping distance.",
+    "exp": "s = v²/2a. Double speed → 4× stopping distance. Quadratic relationship between speed and stopping distance."
+  },
+  {
+    "id": 572,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Why do padded dashboards or helmets reduce head injury in accidents?",
+    "ans": "In an impact, the head's momentum Δp = mΔv must reach zero. With a hard surface, contact time Δt is very short → very large force F = Δp/Δt → severe injury. Padding/helmet increases the deformation distance and time, extending Δt → reducing peak force → less injury. Material also absorbs some energy (inelastic deformation).",
+    "exp": "Padding increases Δt → F = Δp/Δt is smaller. Softer impact → less skull force → less injury."
+  },
+  {
+    "id": 573,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 5,
+    "q": "A large ship takes a very long time to stop even with engines reversed. Explain using Newton's laws.",
+    "ans": "A large ship has enormous mass (up to 200,000 tonnes) → enormous momentum p = mv. To stop, an impulse FΔt = Δp must be applied. With engines reversed, the thrust force F is limited. So Δt must be very large. Also, water resistance (friction) is relatively small. Combined: large momentum + small stopping force = very long stopping time and distance (sometimes miles).",
+    "exp": "Huge mass → huge momentum. Stopping force (reversed engine + water drag) is small → very long stopping time. p = mv; FΔt = Δp."
+  },
+  {
+    "id": 574,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Explain the physics of a bouncing ball using Newton's laws and impulse.",
+    "ans": "When a ball hits the ground, the ground exerts a large normal force (reaction, Newton's 3rd Law) on the ball for a short time. This impulse reverses the ball's momentum from downward to upward (Δp = 2mv). Newton's 2nd Law: F = Δp/Δt; the short contact time means a large force. Energy loss in deformation means each bounce is lower than the previous.",
+    "exp": "Ball hits ground: large F from ground (3rd Law) in short time → impulse reverses momentum. Energy loss → lower bounces."
+  }
+]
