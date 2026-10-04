@@ -37,6 +37,16 @@ body::after{width:420px;height:420px;left:-180px;bottom:40px;background:radial-g
 .timer-mini{border:0;background:#eefaff;color:var(--navy);border-radius:999px;padding:5px 8px;font-size:.68rem;font-weight:800;cursor:pointer}
 .resource-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.resource-link{display:inline-flex;align-items:center;gap:6px;text-decoration:none;color:var(--navy);background:#fff;border:1px solid var(--border);border-radius:999px;padding:7px 10px;font-size:.74rem;font-weight:800}.resource-link:hover{border-color:var(--cyan);box-shadow:0 0 14px rgba(56,217,255,.10)}
 
+
+.conc-input{width:100%;min-height:125px;resize:vertical;padding:11px 12px;border:1.5px solid var(--border);border-radius:9px;font:inherit;line-height:1.55;outline:none;background:#fff;color:var(--text)}
+.conc-input:focus{border-color:var(--navy);box-shadow:0 0 0 3px rgba(56,217,255,.08)}
+.conc-review{margin-top:12px;padding:13px;border:1px solid var(--border);border-radius:10px;background:#f9fbfe}
+.conc-review-title{font-size:.76rem;font-weight:900;color:var(--navy);margin-bottom:6px;text-transform:uppercase;letter-spacing:.04em}
+.self-grade{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.self-grade button{border:1.5px solid var(--border);border-radius:999px;background:#fff;padding:7px 11px;font-size:.75rem;font-weight:800;cursor:pointer}
+.self-grade button.full{border-color:var(--green);color:var(--green)}
+.self-grade button.partial{border-color:var(--gold);color:#9a6500}
+.self-grade button.miss{border-color:var(--red);color:var(--red)}
 </style>
 </head>
 <body><header class="header"><div class="logo">Prep<span class="enroll">Enroll</span>™</div><div class="header-badge">CBSE · Grade 9</div><div class="header-right"><a class="header-link" href="/prepenroll-practice/cbse-physics/">← CBSE Classes</a><a class="header-link" href="/prepenroll-practice/">Practice Hub</a></div></header><section class="hero">
@@ -122,7 +132,7 @@ body::after{width:420px;height:420px;left:-180px;bottom:40px;background:radial-g
       </div>
       <div class="score-strip" style="padding:0 0 4px">
         <div class="score-pill good">Correct <b id="s-correct">0</b></div>
-        <div class="score-pill bad">Wrong <b id="s-wrong">0</b></div>
+        <div class="score-pill bad">Wrong <b id="s-wrong">0</b></div><div class="score-pill">Partial <b id="s-partial">0</b></div>
         <div class="score-pill"><span id="s-score"></span></div>
       </div>
       <div class="progress-bar"><div class="progress-fill" id="prog"></div></div>
@@ -157,7 +167,10 @@ let state = {
   filtered:[],
   answered:{},
   correct:0,
-  wrong:0
+  partial:0,
+  wrong:0,
+  concVals:{},
+  concReview:{}
 };
 
 function shuffle(items){
@@ -222,7 +235,7 @@ function generatePractice(){
   if(state.mode==='custom'&&!state.types.size){alert('Please select at least one question type.');return}
   state.filtered = state.mode==='full' ? buildFullPaper() : buildCustomSet();
   if(!state.filtered.length){alert('No questions match this combination. Try changing the selection.');return}
-  state.idx=0; state.answered={}; state.correct=0; state.wrong=0; state.fitbVals={}; state.numVals={};
+  state.idx=0; state.answered={}; state.correct=0; state.partial=0; state.wrong=0; state.fitbVals={}; state.numVals={}; state.concVals={}; state.concReview={};
   document.getElementById('setup-stage').classList.add('hidden');
   document.getElementById('test-stage').classList.add('active');
   document.getElementById('paper-label').textContent = state.mode==='full' ? 'Full-Length Practice Paper' : 'Custom Practice';
@@ -302,8 +315,20 @@ function renderQ(q, idx, total){
       <span class="num-unit">${q.unit||''}</span>
     </div>`;
   } else if(q.type==='conc'){
-    const show = answered!==undefined ? 'show' : '';
-    html += `<div class="conc-reveal ${show}" id="conc-${q.id}">${q.ans}</div>`;
+    const saved = state.concVals[q.id] || '';
+    const reviewing = !!state.concReview[q.id];
+    html += `<textarea class="conc-input" id="conc-input-${q.id}" placeholder="Write your answer in your own words…" ${answered!==undefined?'disabled':''}>${saved}</textarea>`;
+    if(reviewing || answered!==undefined){
+      html += `<div class="conc-review">
+        <div class="conc-review-title">Model answer</div>
+        <div style="line-height:1.6">${q.ans}</div>
+        <div class="self-grade">
+          <button class="full" onclick="gradeConceptual(${q.id},'full')" ${answered!==undefined?'disabled':''}>✓ Matched well</button>
+          <button class="partial" onclick="gradeConceptual(${q.id},'partial')" ${answered!==undefined?'disabled':''}>◐ Partly matched</button>
+          <button class="miss" onclick="gradeConceptual(${q.id},'miss')" ${answered!==undefined?'disabled':''}>✕ Missed</button>
+        </div>
+      </div>`;
+    }
   }
 
   // Explanation
@@ -318,7 +343,7 @@ function renderQ(q, idx, total){
   } else if(q.type==='num'){
     html += `<button class="btn-check" onclick="checkNUM(${q.id})" ${answered!==undefined?'disabled':''}>Check Answer</button>`;
   } else if(q.type==='conc'){
-    html += `<button class="btn-check" onclick="revealCONC(${q.id})" ${answered!==undefined?'disabled':''}>Reveal Answer</button>`;
+    html += `<button class="btn-check" onclick="checkConceptual(${q.id})" ${answered!==undefined||state.concReview[q.id]?'disabled':''}>Check Answer</button>`;
   } else {
     html += `<span></span>`;
   }
@@ -354,8 +379,10 @@ function render(){
 function updateScore(){
   document.getElementById('s-correct').textContent = state.correct;
   document.getElementById('s-wrong').textContent = state.wrong;
-  const total = state.correct+state.wrong;
-  document.getElementById('s-score').textContent = total>0 ? `Score: ${((state.correct/total)*100).toFixed(0)}%` : '';
+  const p=document.getElementById('s-partial'); if(p)p.textContent=state.partial;
+  const total = state.correct+state.partial+state.wrong;
+  const earned = state.correct + 0.5*state.partial;
+  document.getElementById('s-score').textContent = total>0 ? `Score: ${((earned/total)*100).toFixed(0)}%` : '';
 }
 
 function answerMCQ(qid, chosen, correct){
@@ -402,9 +429,21 @@ function checkNUM(qid){
   render();
 }
 
-function revealCONC(qid){
+function checkConceptual(qid){
+  if(state.answered[qid]!==undefined || state.concReview[qid]) return;
+  const el=document.getElementById('conc-input-'+qid);
+  if(!el || !el.value.trim()){alert('Please write your answer first.');return}
+  state.concVals[qid]=el.value.trim();
+  state.concReview[qid]=true;
+  render();
+}
+
+function gradeConceptual(qid,grade){
   if(state.answered[qid]!==undefined) return;
-  state.answered[qid] = true;
+  state.answered[qid]=grade;
+  if(grade==='full') state.correct++;
+  else if(grade==='partial') state.partial++;
+  else state.wrong++;
   render();
 }
 
