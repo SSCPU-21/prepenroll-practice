@@ -2823,6 +2823,23 @@ function downloadReport(){
 </div>
 
 
+<footer class="pe-global-footer">
+  <div class="pe-footer-inner">
+    <div class="pe-footer-about">
+      <div class="pe-footer-brand">Prep<span>Enroll</span>™</div>
+      <p>PrepEnroll™ is a personalised learning and practice platform designed to help students prepare with focused, curriculum-aligned academic support.</p>
+    </div>
+    <div class="pe-footer-links">
+      <a href="https://www.prepenroll.com" target="_blank" rel="noopener">About PrepEnroll</a>
+      <a href="/prepenroll-practice/privacy/">Privacy</a>
+      <a href="mailto:info@prepenroll.com">Contact</a>
+    </div>
+  </div>
+  <div class="pe-footer-legal">
+    <strong>© 2026 PrepEnroll™. All Rights Reserved.</strong>
+    <span>All practice content, questions, explanations, layouts and learning materials on this Practice Hub are proprietary to PrepEnroll™. Copying, reproducing, redistributing, adapting, publishing or using this material without prior written permission is prohibited.</span>
+  </div>
+</footer>
 </body></html>`;
   const blob=new Blob([report],{type:'text/html;charset=utf-8'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`PrepEnroll_IB_Physics_Scorecard_${code.replace(/[^A-Z0-9-]/gi,'_')}.html`;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),1500);
 }
@@ -2955,6 +2972,18 @@ const PE_LEAD_ENDPOINT='https://ziwdwgdncbjclvmuvnfg.supabase.co/functions/v1/pr
   .chk b,.fs legend,.theme-name{color:#173B5A!important}
   .chk small,.hint,.theme-chip .cnt,.sub-count{color:#7F8C97!important}
 }
+
+/* Uniform PrepEnroll Practice Hub footer */
+.pe-global-footer{margin-top:54px;background:#122f59;color:#fff;padding:34px 20px 18px;border-top:1px solid rgba(255,255,255,.12)}
+.pe-footer-inner{max-width:1180px;margin:0 auto;display:flex;justify-content:space-between;gap:32px;align-items:flex-start}
+.pe-footer-about{max-width:650px}.pe-footer-brand{font-size:1.18rem;font-weight:900;margin-bottom:8px}.pe-footer-brand span{color:#74d66f}
+.pe-footer-about p{font-size:.82rem;line-height:1.65;color:rgba(255,255,255,.76);margin:0}
+.pe-footer-links{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
+.pe-footer-links a{color:#fff;text-decoration:none;font-size:.78rem;font-weight:800;border:1px solid rgba(255,255,255,.22);border-radius:999px;padding:7px 10px}
+.pe-footer-links a:hover{background:rgba(255,255,255,.08);border-color:rgba(116,214,111,.65)}
+.pe-footer-legal{max-width:1180px;margin:22px auto 0;padding-top:16px;border-top:1px solid rgba(255,255,255,.13);display:flex;flex-direction:column;gap:6px;font-size:.72rem;line-height:1.55;color:rgba(255,255,255,.66)}
+.pe-footer-legal strong{color:#fff;font-size:.76rem}
+@media(max-width:760px){.pe-footer-inner{flex-direction:column}.pe-footer-links{justify-content:flex-start}.pe-global-footer{padding-left:14px;padding-right:14px}}
 </style>
 
 <button class="pe-calc-toggle" type="button" onclick="peCalcToggle()">⌗ Mini Calculator</button>
