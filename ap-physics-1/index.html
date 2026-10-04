@@ -15,6 +15,18 @@
 .pe-calc-grid .op{background:#eefaff}.pe-calc-grid .eq{background:linear-gradient(135deg,#3E7B3A,#4cbf78);color:#fff;border:0}
 @media(max-width:700px){.pe-calc{left:10px;right:auto;bottom:62px;width:220px}.pe-calc-toggle{left:10px;right:auto;bottom:12px}}
 
+
+/* Uniform PrepEnroll Practice Hub footer */
+.pe-global-footer{margin-top:54px;background:#122f59;color:#fff;padding:34px 20px 18px;border-top:1px solid rgba(255,255,255,.12)}
+.pe-footer-inner{max-width:1180px;margin:0 auto;display:flex;justify-content:space-between;gap:32px;align-items:flex-start}
+.pe-footer-about{max-width:650px}.pe-footer-brand{font-size:1.18rem;font-weight:900;margin-bottom:8px}.pe-footer-brand span{color:#74d66f}
+.pe-footer-about p{font-size:.82rem;line-height:1.65;color:rgba(255,255,255,.76);margin:0}
+.pe-footer-links{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
+.pe-footer-links a{color:#fff;text-decoration:none;font-size:.78rem;font-weight:800;border:1px solid rgba(255,255,255,.22);border-radius:999px;padding:7px 10px}
+.pe-footer-links a:hover{background:rgba(255,255,255,.08);border-color:rgba(116,214,111,.65)}
+.pe-footer-legal{max-width:1180px;margin:22px auto 0;padding-top:16px;border-top:1px solid rgba(255,255,255,.13);display:flex;flex-direction:column;gap:6px;font-size:.72rem;line-height:1.55;color:rgba(255,255,255,.66)}
+.pe-footer-legal strong{color:#fff;font-size:.76rem}
+@media(max-width:760px){.pe-footer-inner{flex-direction:column}.pe-footer-links{justify-content:flex-start}.pe-global-footer{padding-left:14px;padding-right:14px}}
 </style></head><body>
 <header class="top"><div><div class="brand">Prep<span class="enroll">Enroll</span>™</div><span class="tagline">PREP · LEARN · GO</span></div><div class="top-right"><span class="exam-chip">AP PHYSICS 1</span><a class="hub-link" href="/prepenroll-practice/">← Practice Hub</a></div></header>
 <div class="shell">
@@ -624,4 +636,21 @@ function peCalcBack(){const s=document.getElementById('pe-calc-screen');s.value=
 function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{const e=s.value;if(!/^[0-9+\-*/().\s]+$/.test(e))throw 0;s.value=String(Function('"use strict";return ('+e+')')())}catch(_){s.value='Error'}}
 </script>
 
+<footer class="pe-global-footer">
+  <div class="pe-footer-inner">
+    <div class="pe-footer-about">
+      <div class="pe-footer-brand">Prep<span>Enroll</span>™</div>
+      <p>PrepEnroll™ is a personalised learning and practice platform designed to help students prepare with focused, curriculum-aligned academic support.</p>
+    </div>
+    <div class="pe-footer-links">
+      <a href="https://www.prepenroll.com" target="_blank" rel="noopener">About PrepEnroll</a>
+      <a href="/prepenroll-practice/privacy/">Privacy</a>
+      <a href="mailto:info@prepenroll.com">Contact</a>
+    </div>
+  </div>
+  <div class="pe-footer-legal">
+    <strong>© 2026 PrepEnroll™. All Rights Reserved.</strong>
+    <span>All practice content, questions, explanations, layouts and learning materials on this Practice Hub are proprietary to PrepEnroll™. Copying, reproducing, redistributing, adapting, publishing or using this material without prior written permission is prohibited.</span>
+  </div>
+</footer>
 </body></html>
