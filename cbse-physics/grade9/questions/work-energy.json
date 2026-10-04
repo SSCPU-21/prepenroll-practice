@@ -1,0 +1,3575 @@
+[
+  {
+    "id": 575,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Work is done when:",
+    "opts": [
+      "Force is applied to a body",
+      "Force causes displacement in its direction",
+      "A body has kinetic energy",
+      "A body is in equilibrium"
+    ],
+    "ans": 1,
+    "exp": "Work W = F·s·cosθ; displacement must have a component along force direction."
+  },
+  {
+    "id": 576,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "SI unit of work is:",
+    "opts": [
+      "Newton",
+      "Watt",
+      "Joule",
+      "Pascal"
+    ],
+    "ans": 2,
+    "exp": "1 Joule = 1 Newton × 1 metre."
+  },
+  {
+    "id": 577,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Kinetic energy of a body is:",
+    "opts": [
+      "½mv²",
+      "mv",
+      "mv²",
+      "½mv"
+    ],
+    "ans": 0,
+    "exp": "KE = ½mv²; energy due to motion."
+  },
+  {
+    "id": 578,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Potential energy is energy stored due to:",
+    "opts": [
+      "Motion",
+      "Configuration or position",
+      "Temperature",
+      "Pressure"
+    ],
+    "ans": 1,
+    "exp": "PE is energy due to position (gravitational) or configuration (elastic)."
+  },
+  {
+    "id": 579,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Power is defined as:",
+    "opts": [
+      "Force × time",
+      "Work / time",
+      "Work × time",
+      "Force / mass"
+    ],
+    "ans": 1,
+    "exp": "Power P = W/t; rate of doing work."
+  },
+  {
+    "id": 580,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "SI unit of power is:",
+    "opts": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "ans": 2,
+    "exp": "1 Watt = 1 Joule per second."
+  },
+  {
+    "id": 581,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Gravitational potential energy near Earth's surface is:",
+    "opts": [
+      "mgh",
+      "½mgh",
+      "2mgh",
+      "mg/h"
+    ],
+    "ans": 0,
+    "exp": "GPE = mgh, where h is height above reference level."
+  },
+  {
+    "id": 582,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A lever is a simple machine that:",
+    "opts": [
+      "Always multiplies force",
+      "Works on the principle of moments",
+      "Converts potential to kinetic energy",
+      "Reduces friction"
+    ],
+    "ans": 1,
+    "exp": "A lever balances torques: Load × Load arm = Effort × Effort arm."
+  },
+  {
+    "id": 583,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Mechanical advantage of a machine is:",
+    "opts": [
+      "Effort / Load",
+      "Load / Effort",
+      "Work output / Work input",
+      "Power output / Power input"
+    ],
+    "ans": 1,
+    "exp": "MA = Load / Effort; ratio of load lifted to effort applied."
+  },
+  {
+    "id": 584,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Velocity ratio of a machine is:",
+    "opts": [
+      "Load velocity / Effort velocity",
+      "Effort velocity / Load velocity",
+      "Load / Effort",
+      "Effort distance / Load distance"
+    ],
+    "ans": 1,
+    "exp": "VR = velocity of effort / velocity of load = effort distance / load distance."
+  },
+  {
+    "id": 585,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "If a force of 10 N moves a body 5 m in its direction, the work done is:",
+    "opts": [
+      "50 J",
+      "2 J",
+      "15 J",
+      "0.5 J"
+    ],
+    "ans": 0,
+    "exp": "W = Fs = 10×5 = 50 J."
+  },
+  {
+    "id": 586,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A body of mass 2 kg moving at 4 m/s has kinetic energy:",
+    "opts": [
+      "16 J",
+      "8 J",
+      "32 J",
+      "4 J"
+    ],
+    "ans": 0,
+    "exp": "KE = ½×2×4² = ½×2×16 = 16 J."
+  },
+  {
+    "id": 587,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A 5 kg mass is lifted 3 m. Its gain in PE (g=10 m/s²):",
+    "opts": [
+      "150 J",
+      "50 J",
+      "15 J",
+      "30 J"
+    ],
+    "ans": 0,
+    "exp": "PE = mgh = 5×10×3 = 150 J."
+  },
+  {
+    "id": 588,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A machine does 200 J of work in 10 s. Its power is:",
+    "opts": [
+      "20 W",
+      "2000 W",
+      "2 W",
+      "2000 J"
+    ],
+    "ans": 0,
+    "exp": "P = W/t = 200/10 = 20 W."
+  },
+  {
+    "id": 589,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Efficiency of a machine is given by:",
+    "opts": [
+      "(MA/VR)×100%",
+      "(VR/MA)×100%",
+      "MA×VR",
+      "(Work input/Work output)×100%"
+    ],
+    "ans": 0,
+    "exp": "Efficiency η = (MA/VR)×100% = (Useful output / Total input)×100%."
+  },
+  {
+    "id": 590,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Work done against gravity is stored as:",
+    "opts": [
+      "Kinetic energy",
+      "Sound energy",
+      "Gravitational potential energy",
+      "Heat energy"
+    ],
+    "ans": 2,
+    "exp": "Lifting against gravity increases gravitational PE."
+  },
+  {
+    "id": 591,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A machine with VR=4 and MA=3 has efficiency:",
+    "opts": [
+      "75%",
+      "133%",
+      "48%",
+      "25%"
+    ],
+    "ans": 0,
+    "exp": "η = MA/VR × 100 = 3/4 × 100 = 75%."
+  },
+  {
+    "id": 592,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A ball thrown upward slows down because:",
+    "opts": [
+      "Kinetic energy converts to potential energy",
+      "Potential energy converts to kinetic energy",
+      "Work is done by gravity on the ball",
+      "Both A and C"
+    ],
+    "ans": 3,
+    "exp": "As ball rises, KE converts to PE; gravity does negative work on upward-moving ball."
+  },
+  {
+    "id": 593,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A pendulum swings back and forth. At the lowest point it has:",
+    "opts": [
+      "Maximum PE, minimum KE",
+      "Minimum PE, maximum KE",
+      "Equal PE and KE",
+      "Zero total energy"
+    ],
+    "ans": 1,
+    "exp": "At lowest point: maximum speed → maximum KE; minimum height → minimum PE."
+  },
+  {
+    "id": 594,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "If the speed of a car doubles, its kinetic energy becomes:",
+    "opts": [
+      "Double",
+      "Four times",
+      "Half",
+      "Same"
+    ],
+    "ans": 1,
+    "exp": "KE ∝ v²; if v doubles, KE quadruples."
+  },
+  {
+    "id": 595,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A man pushes a wall but the wall doesn't move. Work done by man on wall:",
+    "opts": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Equal to his energy spent"
+    ],
+    "ans": 2,
+    "exp": "Work = Force × displacement; if displacement is zero, work done = 0."
+  },
+  {
+    "id": 596,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "On a frictionless surface, a ball rolls indefinitely because:",
+    "opts": [
+      "Work is done continuously",
+      "No energy is lost to friction",
+      "Gravity acts on it",
+      "Its momentum decreases"
+    ],
+    "ans": 1,
+    "exp": "No friction → no energy loss → ball maintains KE indefinitely."
+  },
+  {
+    "id": 597,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "In a pulley system with VR=3, if effort moves 6 m, the load moves:",
+    "opts": [
+      "18 m",
+      "2 m",
+      "3 m",
+      "9 m"
+    ],
+    "ans": 1,
+    "exp": "VR = d_effort/d_load → d_load = 6/3 = 2 m."
+  },
+  {
+    "id": 598,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Why does an inclined plane make it easier to raise a load to a given height (ideally, neglecting friction)?",
+    "opts": [
+      "It increases the weight of the load",
+      "It allows the same gain in gravitational potential energy over a larger distance, reducing the required force",
+      "It removes gravity",
+      "It increases the mass of the load"
+    ],
+    "ans": 1,
+    "exp": "Ideally, work input equals the gain in potential energy. Increasing the distance over which the force acts reduces the force needed to reach the same height."
+  },
+  {
+    "id": 599,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A machine cannot have efficiency greater than 100% because:",
+    "opts": [
+      "Energy cannot be created; useful output ≤ total input",
+      "It violates Newton's first law",
+      "Friction increases with efficiency",
+      "Power output exceeds power input"
+    ],
+    "ans": 0,
+    "exp": "Conservation of energy: output energy ≤ input energy; efficiency ≤ 100%."
+  },
+  {
+    "id": 600,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Two balls of masses 1 kg and 2 kg have the same kinetic energy. The heavier ball has:",
+    "opts": [
+      "Greater speed",
+      "Less speed",
+      "Same speed",
+      "Greater momentum"
+    ],
+    "ans": 3,
+    "exp": "KE equal → ½m₁v₁² = ½m₂v₂²; heavier ball is slower. Momentum p=mv=√(2m·KE); more mass → more momentum."
+  },
+  {
+    "id": 601,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Work done by friction on a sliding block is:",
+    "opts": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Equal to normal force"
+    ],
+    "ans": 1,
+    "exp": "Friction opposes motion; force and displacement are antiparallel → W = F·s·cos180° < 0."
+  },
+  {
+    "id": 602,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A hydraulic jack is an application of:",
+    "opts": [
+      "Pascal's principle",
+      "Archimedes' principle",
+      "Newton's second law",
+      "Lever principle"
+    ],
+    "ans": 0,
+    "exp": "Hydraulic machines use Pascal's principle: pressure applied at one point is transmitted equally."
+  },
+  {
+    "id": 603,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A 60 W bulb converts electrical energy to light. Assuming 5% efficiency, heat produced per second:",
+    "opts": [
+      "57 J",
+      "3 J",
+      "60 J",
+      "55 J"
+    ],
+    "ans": 0,
+    "exp": "Heat = (1-0.05)×60 = 57 J/s; only 3 J useful light."
+  },
+  {
+    "id": 604,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Which type of energy does a compressed spring possess?",
+    "opts": [
+      "Kinetic",
+      "Gravitational PE",
+      "Elastic PE",
+      "Thermal"
+    ],
+    "ans": 2,
+    "exp": "Compressed spring stores elastic potential energy due to its configuration."
+  },
+  {
+    "id": 605,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "The energy of a satellite in circular orbit is:",
+    "opts": [
+      "Only kinetic",
+      "Only potential",
+      "Zero total",
+      "Constant total (KE+PE)"
+    ],
+    "ans": 3,
+    "exp": "Total mechanical energy is constant; KE and PE change together as radius changes."
+  },
+  {
+    "id": 606,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Design a lever system that provides MA of 5 using effort arm = 50 cm. Load arm must be:",
+    "opts": [
+      "10 cm",
+      "250 cm",
+      "50 cm",
+      "5 cm"
+    ],
+    "ans": 0,
+    "exp": "MA = effort arm / load arm → load arm = 50/5 = 10 cm."
+  },
+  {
+    "id": 607,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A student proposes increasing machine efficiency by reducing friction. Which method is best?",
+    "opts": [
+      "Applying oil/lubricant",
+      "Applying more force",
+      "Increasing load",
+      "Reducing effort arm"
+    ],
+    "ans": 0,
+    "exp": "Lubrication reduces friction between moving parts, increasing η = MA/VR × 100%."
+  },
+  {
+    "id": 608,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 6,
+    "q": "The Sun's energy comes from nuclear fusion. This is an example of:",
+    "opts": [
+      "KE converting to PE",
+      "Mass-energy equivalence (E=mc²)",
+      "Chemical energy conversion",
+      "Potential energy release"
+    ],
+    "ans": 1,
+    "exp": "Solar energy → nuclear fusion converts mass to energy via E=mc² (Einstein's equation)."
+  },
+  {
+    "id": 609,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A 10 kg box is pushed up a frictionless incline 5 m long and 3 m high. Work done:",
+    "opts": [
+      "300 J",
+      "500 J",
+      "150 J",
+      "50 J"
+    ],
+    "ans": 0,
+    "exp": "Work = mgh = 10×10×3 = 300 J (equals gain in PE; incline frictionless)."
+  },
+  {
+    "id": 610,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "1 kWh (kilowatt-hour) equals:",
+    "opts": [
+      "1000 J",
+      "3,600 J",
+      "3,600,000 J",
+      "1,000,000 J"
+    ],
+    "ans": 2,
+    "exp": "1 kWh = 1000 W × 3600 s = 3,600,000 J = 3.6 MJ."
+  },
+  {
+    "id": 611,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A first-class lever has:",
+    "opts": [
+      "Load between fulcrum and effort",
+      "Fulcrum between load and effort",
+      "Effort between load and fulcrum",
+      "All three at the same point"
+    ],
+    "ans": 1,
+    "exp": "Class 1 lever: fulcrum between load and effort (e.g., seesaw, scissors)."
+  },
+  {
+    "id": 612,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A second-class lever has:",
+    "opts": [
+      "Fulcrum between load and effort",
+      "Load between fulcrum and effort",
+      "Effort between load and fulcrum",
+      "No fulcrum"
+    ],
+    "ans": 1,
+    "exp": "Class 2 lever: load between fulcrum and effort (e.g., wheelbarrow, nutcracker). MA > 1."
+  },
+  {
+    "id": 613,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A third-class lever has:",
+    "opts": [
+      "Effort between fulcrum and load",
+      "Load between fulcrum and effort",
+      "Fulcrum between load and effort",
+      "MA always > 1"
+    ],
+    "ans": 0,
+    "exp": "Class 3 lever: effort between fulcrum and load (e.g., tweezers, human forearm). MA < 1."
+  },
+  {
+    "id": 614,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "In a movable pulley system with one movable pulley, the VR is:",
+    "opts": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "ans": 1,
+    "exp": "One movable pulley: VR = 2; effort distance is twice the load distance."
+  },
+  {
+    "id": 615,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A 60 kg person climbs 10 m of stairs in 30 s. Power exerted (g=10):",
+    "opts": [
+      "200 W",
+      "20 W",
+      "300 W",
+      "2000 W"
+    ],
+    "ans": 0,
+    "exp": "W = mgh = 60×10×10 = 6000 J; P = W/t = 6000/30 = 200 W."
+  },
+  {
+    "id": 616,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A spring with spring constant k=100 N/m is compressed by 0.2 m. PE stored:",
+    "opts": [
+      "10 J",
+      "20 J",
+      "2 J",
+      "1 J"
+    ],
+    "ans": 2,
+    "exp": "PE = ½kx² = ½×100×0.04 = 2 J."
+  },
+  {
+    "id": 617,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A body at rest can have energy. This is:",
+    "opts": [
+      "False; energy needs motion",
+      "True; it can have potential energy",
+      "True; it has kinetic energy",
+      "False; energy is always zero at rest"
+    ],
+    "ans": 1,
+    "exp": "A body at rest can have PE (height) or elastic PE (compressed spring)."
+  },
+  {
+    "id": 618,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Why is work done by centripetal force on a satellite zero?",
+    "opts": [
+      "Force is zero",
+      "Satellite doesn't move",
+      "Force is perpendicular to velocity/displacement",
+      "Satellite has no mass"
+    ],
+    "ans": 2,
+    "exp": "Work = F·s·cosθ; centripetal force ⊥ velocity → θ=90° → cos90°=0 → W=0."
+  },
+  {
+    "id": 619,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "In an ideal machine, energy input equals energy output. This means:",
+    "opts": [
+      "Efficiency is 100%",
+      "MA = VR",
+      "Both A and B",
+      "No friction exists"
+    ],
+    "ans": 2,
+    "exp": "Ideal machine: no friction → η=100% → MA/VR=1 → MA=VR. Both true."
+  },
+  {
+    "id": 620,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 6,
+    "q": "If Earth's radius suddenly doubled but mass stayed same, g would become:",
+    "opts": [
+      "g/2",
+      "g/4",
+      "2g",
+      "4g"
+    ],
+    "ans": 1,
+    "exp": "g = GM/R²; if R doubles, g becomes GM/(2R)² = g/4."
+  },
+  {
+    "id": 621,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "An object falls from height h. Just before hitting ground (no air), its speed is:",
+    "opts": [
+      "√(gh)",
+      "√(2gh)",
+      "2gh",
+      "gh/2"
+    ],
+    "ans": 1,
+    "exp": "Energy conservation: mgh = ½mv² → v = √(2gh)."
+  },
+  {
+    "id": 622,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Power of a motor lifting 100 kg at 2 m/s (g=10):",
+    "opts": [
+      "2000 W",
+      "200 W",
+      "20000 W",
+      "500 W"
+    ],
+    "ans": 0,
+    "exp": "P = Fv = mgv = 100×10×2 = 2000 W."
+  },
+  {
+    "id": 623,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Negative work is done when:",
+    "opts": [
+      "Force and displacement are in the same direction",
+      "Force and displacement are in opposite directions",
+      "No force acts",
+      "Force is zero"
+    ],
+    "ans": 1,
+    "exp": "W = Fscosθ; when θ=180°, cosθ=-1, so W is negative."
+  },
+  {
+    "id": 624,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "The law of conservation of energy states:",
+    "opts": [
+      "Energy can be created from nothing",
+      "Energy can be destroyed",
+      "Total energy remains constant in an isolated system",
+      "Energy changes form and total decreases"
+    ],
+    "ans": 2,
+    "exp": "Conservation of energy: total energy of an isolated system is constant."
+  },
+  {
+    "id": 625,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Work done by gravity on a horizontally moving object:",
+    "opts": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Equal to weight"
+    ],
+    "ans": 2,
+    "exp": "Gravity acts downward; horizontal motion → θ=90° → W = mgs·cos90° = 0."
+  },
+  {
+    "id": 626,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 1,
+    "a": "Work is a scalar quantity.",
+    "r": "Work is defined as the dot product of force and displacement vectors.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; W = F·s·cosθ is a scalar (dot product). R explains A."
+  },
+  {
+    "id": 627,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 1,
+    "a": "Kinetic energy is always positive.",
+    "r": "KE = ½mv² and since v² ≥ 0 and m > 0, KE is always non-negative.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; v² ≥ 0 → KE ≥ 0. R explains A."
+  },
+  {
+    "id": 628,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "A body thrown upward has maximum potential energy at the top.",
+    "r": "At the highest point, velocity is zero; all kinetic energy has converted to potential energy.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; at peak v=0, all energy is PE. R explains A."
+  },
+  {
+    "id": 629,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "An electric motor with more power can lift a load faster.",
+    "r": "Power = Work/time; higher power means more work done per second, enabling faster lifting.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; P = W/t → more P → more work per time → faster lifting. R explains A."
+  },
+  {
+    "id": 630,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "Simple machines make work easier but do not reduce total work done.",
+    "r": "The principle of conservation of energy ensures input work ≥ output work.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; machines redirect/concentrate force but cannot reduce total energy needed. R explains A."
+  },
+  {
+    "id": 631,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "A satellite needs no fuel to maintain its circular orbit.",
+    "r": "In circular orbit, no work is done by gravity (force ⊥ velocity), so satellite's speed remains constant.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; centripetal force ⊥ velocity → no work done → no energy needed to maintain orbit. R explains A."
+  },
+  {
+    "id": 632,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "Roller coasters use the principle of energy conservation.",
+    "r": "A roller coaster converts gravitational PE to KE on descent and KE back to PE on ascent.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; PE ↔ KE conversions power the ride. R explains A."
+  },
+  {
+    "id": 633,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "A car's brakes convert kinetic energy to heat.",
+    "r": "Friction between brake pads and wheels converts KE to thermal energy (heat).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; braking friction converts KE to heat. R explains A."
+  },
+  {
+    "id": 634,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "A machine with low friction has high efficiency.",
+    "r": "Efficiency = (useful output / input) × 100%; less energy lost to friction means higher useful output.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; less friction loss → more useful energy → higher η. R explains A."
+  },
+  {
+    "id": 635,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "The velocity ratio of a fixed pulley is 1.",
+    "r": "A fixed pulley only changes the direction of force; effort and load move equal distances.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; fixed pulley: VR=1, MA<1 (friction reduces it). R explains A."
+  },
+  {
+    "id": 636,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "A wheelbarrow is a second-class lever.",
+    "r": "In a wheelbarrow, the wheel axle is the fulcrum, the load is between fulcrum and effort (handles).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; wheelbarrow is a class-2 lever with MA > 1. R explains A."
+  },
+  {
+    "id": 637,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "The human arm is a third-class lever.",
+    "r": "The biceps muscle (effort) is inserted between the elbow (fulcrum) and the load (hand weight).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; elbow=fulcrum, biceps=effort between fulcrum and load. R explains A."
+  },
+  {
+    "id": 638,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "Work done by friction on a body sliding down a slope is negative.",
+    "r": "Friction acts opposite to the direction of motion, so the angle between F_friction and displacement is 180°.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; friction opposes sliding → θ=180° → W=Fdcos180°<0. R explains A."
+  },
+  {
+    "id": 639,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "An inclined plane reduces the effort needed to lift an object.",
+    "r": "By spreading the lifting over a longer distance (the slope), the force needed at each point is smaller.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; W=Fs; same W over longer s → smaller F. R explains A."
+  },
+  {
+    "id": 640,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 1,
+    "a": "Gravitational potential energy depends on the chosen reference level.",
+    "r": "The height h in PE=mgh is measured from a chosen zero reference level, which is arbitrary.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; only differences in PE are physically meaningful. R explains A."
+  },
+  {
+    "id": 641,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "A compressed spring has more potential energy than an uncompressed one.",
+    "r": "Work done against the spring force is stored as elastic potential energy; PE = ½kx².",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; compressing stores energy. R explains A."
+  },
+  {
+    "id": 642,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "The efficiency of a machine is always less than 100%.",
+    "r": "All real machines have friction that converts some input energy to heat, reducing useful output.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; friction exists in all real machines. R explains A."
+  },
+  {
+    "id": 643,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "A class-2 lever always has MA > 1.",
+    "r": "In class-2, load arm < effort arm always, so MA = effort arm / load arm > 1.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; load arm < effort arm in class-2 → MA > 1. R explains A."
+  },
+  {
+    "id": 644,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "Potential energy can be negative.",
+    "r": "Potential energy is measured relative to a reference; below the reference, PE = mgh with negative h, so PE < 0.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; PE can be negative relative to a chosen reference. R explains A."
+  },
+  {
+    "id": 645,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "Nuclear energy is a form of potential energy stored in atomic nuclei.",
+    "r": "Nuclear binding energy holds nucleons together; releasing this energy involves mass-energy conversion per E=mc².",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 1,
+    "exp": "Both true; nuclear energy is indeed stored in nuclei, but R describes a different mechanism (mass-energy, not classical PE storage). Answer B."
+  },
+  {
+    "id": 646,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 1,
+    "a": "Power is a scalar quantity.",
+    "r": "Power P = W/t; since work W is scalar and time t is scalar, power is scalar.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; P = W/t, both scalars. R explains A."
+  },
+  {
+    "id": 647,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "A body can have kinetic energy without potential energy.",
+    "r": "An object moving horizontally at the reference height h=0 has KE but no gravitational PE.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; KE without PE is possible at reference level. R explains A."
+  },
+  {
+    "id": 648,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "The efficiency of a pulley system increases with lubrication.",
+    "r": "Lubrication reduces friction between rope and pulley, decreasing energy wasted as heat.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; less friction → more useful output → higher efficiency. R explains A."
+  },
+  {
+    "id": 649,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "Hydroelectric power plants convert potential energy to electrical energy.",
+    "r": "Water stored at height has gravitational PE; when released, PE converts to KE of water, then to electrical energy via turbines.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; PE → KE → electrical. R explains A."
+  },
+  {
+    "id": 650,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "A wind turbine converts kinetic energy of wind to electrical energy.",
+    "r": "Moving wind has KE; the turbine blades capture this KE, rotating a generator to produce electricity.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; wind KE → mechanical rotation → electrical energy. R explains A."
+  },
+  {
+    "id": 651,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "A pendulum clock uses the principle of conservation of energy to keep time.",
+    "r": "As the pendulum swings, energy oscillates between KE and PE with constant total, maintaining regular oscillations.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; regular energy oscillations maintain period. R explains A."
+  },
+  {
+    "id": 652,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 1,
+    "a": "Energy can be stored in a magnetic field.",
+    "r": "A magnetic field can store energy; transformers and inductors store energy in their magnetic fields.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; magnetic field energy density = B²/2μ₀. R explains A."
+  },
+  {
+    "id": 653,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "A heavier person needs more energy to climb the same flight of stairs.",
+    "r": "PE gained = mgh; more mass → more PE needed for the same h, requiring more energy input.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; PE = mgh → heavier person → more energy needed. R explains A."
+  },
+  {
+    "id": 654,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "A ball rolling down a ramp speeds up due to energy conservation.",
+    "r": "As the ball descends, gravitational PE converts to KE, increasing the ball's speed.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; PE converts to KE on descent. R explains A."
+  },
+  {
+    "id": 655,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "Work done by normal force on a moving body is usually zero.",
+    "r": "Normal force is perpendicular to the surface, and motion (displacement) is along the surface, making angle = 90°.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; N ⊥ displacement → W = Ns·cos90° = 0. R explains A."
+  },
+  {
+    "id": 656,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "A class-3 lever has mechanical advantage less than 1.",
+    "r": "In class-3, effort arm < load arm, so MA = effort arm / load arm < 1; force is not multiplied.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; MA<1 means velocity advantage: load moves faster than effort. R explains A."
+  },
+  {
+    "id": 657,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "Renewable energy sources are better for the environment than fossil fuels.",
+    "r": "Renewable sources (solar, wind, hydro) do not emit greenhouse gases, unlike fossil fuels which release CO₂.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; renewables emit no greenhouse gases. R explains A."
+  },
+  {
+    "id": 658,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 1,
+    "a": "Mechanical energy is conserved in the absence of non-conservative forces.",
+    "r": "Gravity is a conservative force; only friction and air resistance (non-conservative) dissipate mechanical energy.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; conservative forces conserve mechanical energy. R explains A."
+  },
+  {
+    "id": 659,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "Power output of human muscles is limited.",
+    "r": "Muscles can sustain only a limited rate of energy conversion; maximum human muscle power is about 200–400 W.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; human muscles have a finite power limit. R explains A."
+  },
+  {
+    "id": 660,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "A person carrying a heavy bag across a flat floor does no work on the bag.",
+    "r": "The person exerts an upward force (supporting weight) while the bag moves horizontally; F ⊥ displacement → W=0.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; upward force ⊥ horizontal displacement → W = 0 by physics definition. R explains A."
+  },
+  {
+    "id": 661,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "Golden Gate Bridge cables store elastic potential energy when loaded.",
+    "r": "Loaded cables stretch elastically; this deformation stores elastic PE like a stretched spring.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; stretched cables store elastic PE. R explains A."
+  },
+  {
+    "id": 662,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "Solar panels have low efficiency (typically 15–25%).",
+    "r": "Solar panels can only convert photons in a specific wavelength range to electricity; much energy is lost as heat.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; bandgap limitations and reflection losses reduce solar cell efficiency. R explains A."
+  },
+  {
+    "id": 663,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "A perfectly elastic collision conserves both momentum and kinetic energy.",
+    "r": "In elastic collision, no energy is converted to deformation or heat, so KE is conserved along with momentum.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; perfectly elastic → no energy loss → both KE and p conserved. R explains A."
+  },
+  {
+    "id": 664,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 1,
+    "a": "Energy has the same unit as work.",
+    "r": "Both work and energy are measured in Joules (J = N·m = kg·m²/s²).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; work-energy theorem shows they are the same physical quantity in different forms. R explains A."
+  },
+  {
+    "id": 665,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "When a spring oscillates, total energy remains constant (ideal case).",
+    "r": "Without friction or air resistance, the spring's total energy (KE + PE) remains constant as energy oscillates between forms.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; ideal spring: no energy loss → total E constant. R explains A."
+  },
+  {
+    "id": 666,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "Gravitational PE depends on mass, g, and height only.",
+    "r": "PE = mgh; it does not depend on the path taken, only on the initial and final positions.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; gravity is conservative → PE = mgh, path-independent. R explains A."
+  },
+  {
+    "id": 667,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "A car moving at 100 km/h has more KE than at 50 km/h.",
+    "r": "KE = ½mv²; at 100 km/h, v is double, so KE is four times that at 50 km/h.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; doubling speed quadruples KE. R explains A."
+  },
+  {
+    "id": 668,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "Using a longer effort arm in a lever increases mechanical advantage.",
+    "r": "MA = effort arm / load arm; increasing effort arm while keeping load arm constant increases MA.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; longer effort arm → larger MA. R explains A."
+  },
+  {
+    "id": 669,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "Bow and arrow demonstrate conversion of elastic PE to kinetic energy.",
+    "r": "Drawing the bow stores elastic PE in the bent bow; releasing converts this to KE of the arrow.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; elastic PE of bent bow converts to KE of arrow. R explains A."
+  },
+  {
+    "id": 670,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 1,
+    "a": "A stationary object has no kinetic energy.",
+    "r": "KE = ½mv²; when v=0, KE = 0 regardless of mass.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; zero velocity → zero KE. R explains A."
+  },
+  {
+    "id": 671,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "Heavy vehicles are more destructive in collisions than lighter ones at the same speed.",
+    "r": "Heavier vehicles have more KE (KE=½mv²) and more momentum, requiring more force to stop them.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; more KE and momentum → more destructive. R explains A."
+  },
+  {
+    "id": 672,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "In bungee jumping, the jumper's PE converts to elastic PE of the cord at the lowest point.",
+    "r": "At the lowest point, all gravitational PE has converted to elastic PE of the stretched bungee cord.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; GPE → elastic PE at bottom. R explains A."
+  },
+  {
+    "id": 673,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "Watt is the unit of power, not energy.",
+    "r": "Power is rate of doing work (P=W/t); energy (or work) is measured in Joules, not Watts.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; Watt = J/s (power), Joule = energy unit. R explains A."
+  },
+  {
+    "id": 674,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "Potential energy is always zero at the Earth's surface.",
+    "r": "The reference level for PE is chosen by convention; usually ground level is chosen as PE=0, but it can be any level.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 3,
+    "exp": "A is false and R is true. The zero level of gravitational potential energy is chosen by convention; it is not inherently fixed at Earth's surface."
+  },
+  {
+    "id": 675,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "An ideal frictionless machine can be 100% efficient.",
+    "r": "In an ideal frictionless machine, all input energy is converted into useful output with no energy dissipated.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both A and R are true, and R correctly explains ideal 100% efficiency. Real machines have losses and are less than 100% efficient."
+  },
+  {
+    "id": 676,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "The SI unit of work is the Newton.",
+    "ans": 0,
+    "exp": "The SI unit of work is the Joule (J = N·m), not Newton (which is unit of force)."
+  },
+  {
+    "id": 677,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Kinetic energy is the energy of a body due to its motion.",
+    "ans": 1,
+    "exp": "KE = ½mv² is the energy possessed by a moving body."
+  },
+  {
+    "id": 678,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A book resting on a shelf has potential energy.",
+    "ans": 1,
+    "exp": "It has gravitational PE = mgh relative to the ground."
+  },
+  {
+    "id": 679,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Work done is a vector quantity.",
+    "ans": 0,
+    "exp": "Work = F·s·cosθ is a scalar quantity; it has magnitude but no direction."
+  },
+  {
+    "id": 680,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "1 Watt = 1 Joule per second.",
+    "ans": 1,
+    "exp": "Power P = W/t; 1 W = 1 J/s by definition."
+  },
+  {
+    "id": 681,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "When a ball is thrown upward, its kinetic energy increases.",
+    "ans": 0,
+    "exp": "As it goes up, speed decreases, so KE = ½mv² decreases."
+  },
+  {
+    "id": 682,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Work done by friction is always negative.",
+    "ans": 1,
+    "exp": "Friction always opposes motion (F and d antiparallel) → W = Fd·cos180° < 0."
+  },
+  {
+    "id": 683,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Mechanical advantage can exceed 1 only if VR > 1.",
+    "ans": 0,
+    "exp": "MA = η × VR; if η < 100%, MA < VR; for MA > 1 we need η×VR > 1, not simply VR > 1."
+  },
+  {
+    "id": 684,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A pendulum at the top of its swing has maximum kinetic energy.",
+    "ans": 0,
+    "exp": "At top of swing, speed is minimum (momentarily zero at extreme); KE is minimum there."
+  },
+  {
+    "id": 685,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Simple machines always increase both force and speed simultaneously.",
+    "ans": 0,
+    "exp": "Simple machines trade force for speed; increasing force (MA > 1) means decreasing speed (VR > 1)."
+  },
+  {
+    "id": 686,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A body sliding on a frictionless surface will have constant kinetic energy.",
+    "ans": 1,
+    "exp": "No friction → no work done → KE remains constant (energy conserved)."
+  },
+  {
+    "id": 687,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "In a class-2 lever, the load is between the fulcrum and the effort.",
+    "ans": 1,
+    "exp": "Wheelbarrow, nutcracker: load between fulcrum and effort; MA > 1."
+  },
+  {
+    "id": 688,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "The efficiency of a machine can be greater than 100%.",
+    "ans": 0,
+    "exp": "Would violate conservation of energy; useful output cannot exceed input."
+  },
+  {
+    "id": 689,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Potential energy increases when a body is lowered below a reference level.",
+    "ans": 0,
+    "exp": "PE = mgh; lowering (h decreasing) decreases PE. (It may become negative.)"
+  },
+  {
+    "id": 690,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Work done by centripetal force on a body in circular motion is zero.",
+    "ans": 1,
+    "exp": "Centripetal force ⊥ velocity → W = F·v·cos90° = 0 at every instant."
+  },
+  {
+    "id": 691,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A compressed spring has elastic potential energy.",
+    "ans": 1,
+    "exp": "Work done compressing spring is stored as elastic PE = ½kx²."
+  },
+  {
+    "id": 692,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "1 kWh = 3.6 × 10⁶ J.",
+    "ans": 1,
+    "exp": "1 kWh = 1000 W × 3600 s = 3,600,000 J = 3.6 MJ."
+  },
+  {
+    "id": 693,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "The velocity ratio of a system of pulleys equals the number of rope segments supporting the movable pulley.",
+    "ans": 1,
+    "exp": "In a block-and-tackle, VR = number of rope segments holding the movable block."
+  },
+  {
+    "id": 694,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A class-3 lever multiplies force.",
+    "ans": 0,
+    "exp": "Class-3 lever: effort between fulcrum and load → MA < 1; it does NOT multiply force."
+  },
+  {
+    "id": 695,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Gravitational PE depends on the path taken to reach a height.",
+    "ans": 0,
+    "exp": "GPE = mgh depends only on height (h), not path. Gravity is a conservative force."
+  },
+  {
+    "id": 696,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Solar energy is a form of radiant energy.",
+    "ans": 1,
+    "exp": "Solar energy travels as electromagnetic radiation (light/heat) from the Sun."
+  },
+  {
+    "id": 697,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "The efficiency of a pulley system improves with lubrication.",
+    "ans": 1,
+    "exp": "Lubrication reduces friction → less energy wasted as heat → higher efficiency."
+  },
+  {
+    "id": 698,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "In a perfectly inelastic collision, kinetic energy is conserved.",
+    "ans": 0,
+    "exp": "In perfectly inelastic collision, KE is NOT conserved (some converts to heat/deformation); momentum is conserved."
+  },
+  {
+    "id": 699,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Power = Force × velocity.",
+    "ans": 1,
+    "exp": "P = W/t = (F·s)/t = F·(s/t) = F·v when force and velocity are in same direction."
+  },
+  {
+    "id": 700,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A body at rest on the ground has zero potential energy always.",
+    "ans": 0,
+    "exp": "PE is relative to a chosen reference; ground-level PE is zero only by convention."
+  },
+  {
+    "id": 701,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "An electric motor converts electrical energy to mechanical energy.",
+    "ans": 1,
+    "exp": "Electric motors use electromagnetic forces to convert electrical input to mechanical rotation."
+  },
+  {
+    "id": 702,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Work done against gravity depends on the path taken.",
+    "ans": 0,
+    "exp": "Gravity is conservative; work done = mgh (height difference only), independent of path."
+  },
+  {
+    "id": 703,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A perfectly efficient machine is possible in practice.",
+    "ans": 0,
+    "exp": "Friction, air resistance, and material deformation always cause energy losses in real machines."
+  },
+  {
+    "id": 704,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "The energy of the universe is constant according to the law of conservation of energy.",
+    "ans": 1,
+    "exp": "In an isolated system (the universe), total energy is constant; energy only changes form."
+  },
+  {
+    "id": 705,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Watt-hour and Joule are both units of energy.",
+    "ans": 1,
+    "exp": "Both measure energy; 1 Wh = 3600 J."
+  },
+  {
+    "id": 706,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Negative work can be done on a body.",
+    "ans": 1,
+    "exp": "When force and displacement are in opposite directions, work done is negative (e.g., braking)."
+  },
+  {
+    "id": 707,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A moving car has both kinetic and potential energy.",
+    "ans": 1,
+    "exp": "Moving car: KE due to motion; if elevated, also has gravitational PE."
+  },
+  {
+    "id": 708,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "In a lever, increasing effort arm reduces the effort needed for same load.",
+    "ans": 1,
+    "exp": "MA = effort arm / load arm; longer effort arm → more MA → less effort needed."
+  },
+  {
+    "id": 709,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Energy is lost during each energy conversion.",
+    "ans": 1,
+    "exp": "Each conversion has some inefficiency; energy is degraded (often to heat)."
+  },
+  {
+    "id": 710,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A hydroelectric dam converts kinetic energy of water into electrical energy.",
+    "ans": 0,
+    "exp": "Water at height has gravitational PE → KE as it falls → electrical (turbines). Primary source is PE, not KE directly."
+  },
+  {
+    "id": 711,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "All energy ultimately comes from the Sun.",
+    "ans": 1,
+    "exp": "Most energy on Earth (solar, wind, hydroelectric, fossil fuels) traces back to solar energy."
+  },
+  {
+    "id": 712,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A pulley changes the direction of force applied.",
+    "ans": 1,
+    "exp": "A fixed pulley redirects force; you pull down instead of lifting up."
+  },
+  {
+    "id": 713,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Work done on a body always increases its kinetic energy.",
+    "ans": 0,
+    "exp": "Work can increase PE, temperature, etc., not just KE (e.g., lifting an object does work that becomes PE)."
+  },
+  {
+    "id": 714,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Springs store gravitational potential energy.",
+    "ans": 0,
+    "exp": "Springs store elastic potential energy, not gravitational PE."
+  },
+  {
+    "id": 715,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Power is the rate of doing work.",
+    "ans": 1,
+    "exp": "P = W/t; power measures how quickly work is done."
+  },
+  {
+    "id": 716,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Mechanical advantage equals load divided by effort.",
+    "ans": 1,
+    "exp": "MA = Load/Effort by definition."
+  },
+  {
+    "id": 717,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Friction always reduces efficiency of a machine.",
+    "ans": 1,
+    "exp": "Friction converts useful energy to heat, reducing η = (output/input)×100%."
+  },
+  {
+    "id": 718,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "The law of conservation of energy applies only to mechanical systems.",
+    "ans": 0,
+    "exp": "It applies to all forms of energy (thermal, electrical, chemical, nuclear, etc.)."
+  },
+  {
+    "id": 719,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Gravitational PE is converted to kinetic energy during free fall.",
+    "ans": 1,
+    "exp": "As body falls: h decreases → mgh decreases; v increases → ½mv² increases. Energy is conserved."
+  },
+  {
+    "id": 720,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A moving body cannot do work on another body.",
+    "ans": 0,
+    "exp": "A moving hammer does work on a nail; a moving billiard ball does work on another ball on collision."
+  },
+  {
+    "id": 721,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Effort in a machine is the force applied by the user.",
+    "ans": 1,
+    "exp": "Effort = force applied by the user to operate the machine."
+  },
+  {
+    "id": 722,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Load in a machine is the resistance overcome by the machine.",
+    "ans": 1,
+    "exp": "Load = weight or resistance force the machine acts against."
+  },
+  {
+    "id": 723,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A screw is a form of inclined plane wrapped around a cylinder.",
+    "ans": 1,
+    "exp": "The thread of a screw is an inclined plane; turning the screw moves it along its axis."
+  },
+  {
+    "id": 724,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Work has the same SI unit as torque.",
+    "ans": 1,
+    "exp": "Both work (N·m = Joule) and torque (N·m) have the same unit, but they are different physical quantities."
+  },
+  {
+    "id": 725,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "In ideal conditions, energy input equals energy output in a machine.",
+    "ans": 1,
+    "exp": "Ideal machine: no friction → η = 100% → work input = work output."
+  },
+  {
+    "id": 726,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Fossil fuels are a stored form of solar energy.",
+    "ans": 1,
+    "exp": "Ancient organisms converted solar energy via photosynthesis; over millions of years this became fossil fuels."
+  },
+  {
+    "id": 727,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Horsepower (HP) is a unit of energy.",
+    "ans": 0,
+    "exp": "Horsepower is a unit of POWER (1 HP ≈ 746 W), not energy."
+  },
+  {
+    "id": 728,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A freely falling body has constant total mechanical energy.",
+    "ans": 1,
+    "exp": "During free fall (no air resistance), KE + PE = constant; energy just converts form."
+  },
+  {
+    "id": 729,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Work = Force × ___",
+    "ans": [
+      "displacement (in the direction of force)"
+    ],
+    "exp": "W = F × s × cosθ; for θ=0, W = Fs."
+  },
+  {
+    "id": 730,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Kinetic energy = ½ × mass × ___²",
+    "ans": [
+      "velocity"
+    ],
+    "exp": "KE = ½mv²."
+  },
+  {
+    "id": 731,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Gravitational potential energy = mass × g × ___",
+    "ans": [
+      "height"
+    ],
+    "exp": "GPE = mgh."
+  },
+  {
+    "id": 732,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Power = Work / ___",
+    "ans": [
+      "time"
+    ],
+    "exp": "P = W/t."
+  },
+  {
+    "id": 733,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "1 Joule = 1 Newton × 1 ___",
+    "ans": [
+      "metre"
+    ],
+    "exp": "J = N·m = kg·m²/s²."
+  },
+  {
+    "id": 734,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "The efficiency of a machine = (MA/VR) × ___ %",
+    "ans": [
+      "100"
+    ],
+    "exp": "η = (MA/VR)×100%."
+  },
+  {
+    "id": 735,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A lever consists of a rigid rod and a fixed point called the ___",
+    "ans": [
+      "fulcrum"
+    ],
+    "exp": "The fulcrum is the pivot point of a lever."
+  },
+  {
+    "id": 736,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Mechanical advantage = ___ / Effort",
+    "ans": [
+      "Load"
+    ],
+    "exp": "MA = Load/Effort."
+  },
+  {
+    "id": 737,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Velocity ratio = Effort distance / ___ distance",
+    "ans": [
+      "Load"
+    ],
+    "exp": "VR = d_effort/d_load."
+  },
+  {
+    "id": 738,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "In a class-1 lever, the ___ is between the load and the effort.",
+    "ans": [
+      "fulcrum"
+    ],
+    "exp": "Examples: seesaw, scissors. Fulcrum in the middle."
+  },
+  {
+    "id": 739,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "At the highest point of a projectile, the kinetic energy is ___",
+    "ans": [
+      "minimum"
+    ],
+    "exp": "Speed is minimum at the top; KE = ½mv²_min."
+  },
+  {
+    "id": 740,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Friction converts kinetic energy into ___ energy",
+    "ans": [
+      "heat (thermal)"
+    ],
+    "exp": "Friction is a dissipative force converting KE to heat."
+  },
+  {
+    "id": 741,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A machine with VR = 5 and efficiency 80% has MA = ___",
+    "ans": [
+      "4"
+    ],
+    "exp": "MA = η × VR/100 = 0.80 × 5 = 4."
+  },
+  {
+    "id": 742,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Work done by gravity on a freely falling body is ___ (positive/negative)",
+    "ans": [
+      "positive"
+    ],
+    "exp": "Gravity acts downward, displacement is downward → same direction → W > 0."
+  },
+  {
+    "id": 743,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "In a movable pulley system with two movable pulleys, VR = ___",
+    "ans": [
+      "4"
+    ],
+    "exp": "Each movable pulley doubles the VR: 2 movable pulleys → VR = 4."
+  },
+  {
+    "id": 744,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "1 kWh = ___ × 10⁶ J",
+    "ans": [
+      "3.6"
+    ],
+    "exp": "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J."
+  },
+  {
+    "id": 745,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "The energy stored in a stretched spring is called ___ potential energy",
+    "ans": [
+      "elastic"
+    ],
+    "exp": "PE_spring = ½kx² (elastic/spring potential energy)."
+  },
+  {
+    "id": 746,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Law of conservation of energy: energy can neither be ___ nor ___",
+    "ans": [
+      "created, destroyed"
+    ],
+    "exp": "Energy transforms from one form to another; total remains constant."
+  },
+  {
+    "id": 747,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A class-2 lever has mechanical advantage ___ than 1",
+    "ans": [
+      "greater"
+    ],
+    "exp": "Load arm < effort arm in class-2 → MA > 1."
+  },
+  {
+    "id": 748,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "The point where load is applied in a lever is called the ___ point",
+    "ans": [
+      "load (resistance) point"
+    ],
+    "exp": "Three key points: fulcrum, load point, effort point."
+  },
+  {
+    "id": 749,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Power = Force × ___",
+    "ans": [
+      "velocity"
+    ],
+    "exp": "P = Fv (when F is parallel to v)."
+  },
+  {
+    "id": 750,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Efficiency = (Useful output energy / Total input energy) × ___ %",
+    "ans": [
+      "100"
+    ],
+    "exp": "η = (W_out/W_in) × 100%."
+  },
+  {
+    "id": 751,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "An inclined plane has VR = ___ / height",
+    "ans": [
+      "length of incline"
+    ],
+    "exp": "VR of inclined plane = L/h (slope length/height)."
+  },
+  {
+    "id": 752,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A ___ class lever has effort between the fulcrum and the load",
+    "ans": [
+      "third (3rd)"
+    ],
+    "exp": "Class-3: effort between fulcrum and load; MA < 1."
+  },
+  {
+    "id": 753,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Work done against gravity when lifting mass m by height h = ___",
+    "ans": [
+      "mgh"
+    ],
+    "exp": "Equal to gain in gravitational PE."
+  },
+  {
+    "id": 754,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "The unit of energy equivalent to 3.6 × 10⁶ J is 1 ___",
+    "ans": [
+      "kilowatt-hour (kWh)"
+    ],
+    "exp": "Used on electricity meters; 1 kWh = 3.6 MJ."
+  },
+  {
+    "id": 755,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Energy conservation: KE + PE = ___ in a closed system",
+    "ans": [
+      "constant (total mechanical energy)"
+    ],
+    "exp": "Mechanical energy is conserved in absence of non-conservative forces."
+  },
+  {
+    "id": 756,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A wedge is a simple machine based on the ___ plane",
+    "ans": [
+      "inclined"
+    ],
+    "exp": "A wedge is two inclined planes joined back-to-back."
+  },
+  {
+    "id": 757,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "The efficiency of a real machine is always ___ 100%",
+    "ans": [
+      "less than"
+    ],
+    "exp": "Due to friction, real machines always have η < 100%."
+  },
+  {
+    "id": 758,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "In free fall, velocity increases and PE ___ while KE ___",
+    "ans": [
+      "decreases, increases"
+    ],
+    "exp": "As height decreases: mgh decreases (PE falls), ½mv² increases (KE rises)."
+  },
+  {
+    "id": 759,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Work done = Force × distance × cos ___ ",
+    "ans": [
+      "θ (theta)"
+    ],
+    "exp": "θ is angle between force and displacement vectors."
+  },
+  {
+    "id": 760,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A third-class lever ___ force but gains in ___",
+    "ans": [
+      "does not multiply (reduces), speed/distance"
+    ],
+    "exp": "MA<1 for class-3; distance advantage instead."
+  },
+  {
+    "id": 761,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Spring potential energy = ½ × k × ___²",
+    "ans": [
+      "x (extension or compression)"
+    ],
+    "exp": "PE_spring = ½kx², where k is spring constant and x is deformation."
+  },
+  {
+    "id": 762,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A fixed pulley has MA less than 1 due to ___",
+    "ans": [
+      "friction"
+    ],
+    "exp": "Friction in the pulley/rope reduces MA below VR (=1)."
+  },
+  {
+    "id": 763,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Chemical energy in food is converted to ___ energy in muscles",
+    "ans": [
+      "mechanical (kinetic)"
+    ],
+    "exp": "Muscles convert chemical (ATP) to mechanical energy."
+  },
+  {
+    "id": 764,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A screw with more threads per cm requires ___ turns to advance by 1 cm",
+    "ans": [
+      "more"
+    ],
+    "exp": "More threads per cm = smaller pitch = more turns for same linear advance."
+  },
+  {
+    "id": 765,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "The principle of moments states that sum of clockwise moments = sum of ___ moments",
+    "ans": [
+      "anticlockwise (counterclockwise)"
+    ],
+    "exp": "Equilibrium condition for lever: Σclockwise moments = Σanticlockwise moments."
+  },
+  {
+    "id": 766,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "In a pulley with VR=3, if load = 300 N and η=100%, effort = ___ N",
+    "ans": [
+      "100"
+    ],
+    "exp": "MA = VR = 3 (if η=100%); Effort = Load/MA = 300/3 = 100 N."
+  },
+  {
+    "id": 767,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Work-energy theorem: Net work done on a body = change in its ___ energy",
+    "ans": [
+      "kinetic"
+    ],
+    "exp": "W_net = ΔKE = KE_final - KE_initial."
+  },
+  {
+    "id": 768,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A body at rest has ___ kinetic energy",
+    "ans": [
+      "zero"
+    ],
+    "exp": "KE = ½mv²; v=0 → KE=0."
+  },
+  {
+    "id": 769,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Energy input to a machine = useful output + energy lost to ___",
+    "ans": [
+      "friction (heat)"
+    ],
+    "exp": "η = useful output/input; lost energy = friction heating."
+  },
+  {
+    "id": 770,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Nuclear power plants convert ___ energy to electrical energy",
+    "ans": [
+      "nuclear (atomic)"
+    ],
+    "exp": "Fission of uranium releases nuclear energy → heat → steam → turbine → electricity."
+  },
+  {
+    "id": 771,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Effort arm × Effort = Load arm × ___ (law of lever)",
+    "ans": [
+      "Load"
+    ],
+    "exp": "Principle of moments; MA = effort arm / load arm."
+  },
+  {
+    "id": 772,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "The number of movable pulleys in a block-and-tackle equals VR ÷ ___",
+    "ans": [
+      "2"
+    ],
+    "exp": "Each movable pulley adds 2 rope segments; n pulleys → VR = 2n."
+  },
+  {
+    "id": 773,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "When a body slides down a frictionless incline, its total mechanical energy ___",
+    "ans": [
+      "remains constant (is conserved)"
+    ],
+    "exp": "Frictionless → no energy loss → PE converts to KE; total stays same."
+  },
+  {
+    "id": 774,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "The energy stored in a dam's reservoir is mainly ___ energy",
+    "ans": [
+      "gravitational potential"
+    ],
+    "exp": "Water at height h has GPE = mgh."
+  },
+  {
+    "id": 775,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Human body's efficiency in converting food to mechanical work is approximately ___",
+    "ans": [
+      "25–30%"
+    ],
+    "exp": "Rest is lost as heat; metabolic efficiency is about 25–30%."
+  },
+  {
+    "id": 776,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "In a bicycle, pedaling turns the wheel using a ___ and chain system",
+    "ans": [
+      "gear (sprocket)"
+    ],
+    "exp": "Gears change the speed and force; chain transmits energy from pedals to rear wheel."
+  },
+  {
+    "id": 777,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Work done is positive when force and displacement are in the ___ direction",
+    "ans": [
+      "same"
+    ],
+    "exp": "W = Fd·cosθ; when θ=0, cosθ=1, W=Fd > 0."
+  },
+  {
+    "id": 778,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A seesaw is an example of a class ___ lever",
+    "ans": [
+      "1 (first)"
+    ],
+    "exp": "Seesaw: fulcrum between load and effort → class-1 lever."
+  },
+  {
+    "id": 779,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "The velocity of a body in free fall after falling height h (no air): v = ___",
+    "ans": [
+      "√(2gh)"
+    ],
+    "exp": "From energy conservation: mgh = ½mv² → v = √(2gh)."
+  },
+  {
+    "id": 780,
+    "type": "num",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A force of 20 N moves an object 8 m in its direction. Work done:",
+    "ans": "160",
+    "unit": "J",
+    "exp": "W = F × d = 20 × 8 = 160 J."
+  },
+  {
+    "id": 781,
+    "type": "num",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Mass = 5 kg, velocity = 6 m/s. KE =",
+    "ans": "90",
+    "unit": "J",
+    "exp": "KE = ½mv² = ½ × 5 × 36 = 90 J."
+  },
+  {
+    "id": 782,
+    "type": "num",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Mass = 4 kg, height = 5 m, g = 10 m/s². GPE =",
+    "ans": "200",
+    "unit": "J",
+    "exp": "GPE = mgh = 4 × 10 × 5 = 200 J."
+  },
+  {
+    "id": 783,
+    "type": "num",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Work done = 600 J in 20 s. Power =",
+    "ans": "30",
+    "unit": "W",
+    "exp": "P = W/t = 600/20 = 30 W."
+  },
+  {
+    "id": 784,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A 50 kg person climbs 4 m in 5 s. Power (g=10):",
+    "ans": "400",
+    "unit": "W",
+    "exp": "W = mgh = 50×10×4 = 2000 J; P = 2000/5 = 400 W."
+  },
+  {
+    "id": 785,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A machine with MA=4 and VR=5. Efficiency:",
+    "ans": "80",
+    "unit": "%",
+    "exp": "η = (MA/VR)×100 = (4/5)×100 = 80%."
+  },
+  {
+    "id": 786,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Load = 500 N, effort = 100 N. MA:",
+    "ans": "5",
+    "unit": "",
+    "exp": "MA = Load/Effort = 500/100 = 5."
+  },
+  {
+    "id": 787,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Effort moves 2 m; load moves 0.5 m. VR:",
+    "ans": "4",
+    "unit": "",
+    "exp": "VR = d_effort/d_load = 2/0.5 = 4."
+  },
+  {
+    "id": 788,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Force = 10 N, velocity = 5 m/s. Power:",
+    "ans": "50",
+    "unit": "W",
+    "exp": "P = Fv = 10 × 5 = 50 W."
+  },
+  {
+    "id": 789,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A ball (2 kg) at height 10 m falls. Speed just before impact (g=10):",
+    "ans": "14.1",
+    "unit": "m/s",
+    "exp": "v = √(2gh) = √(2×10×10) = √200 ≈ 14.1 m/s."
+  },
+  {
+    "id": 790,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A spring (k=200 N/m) is compressed 0.1 m. PE stored:",
+    "ans": "1",
+    "unit": "J",
+    "exp": "PE = ½kx² = ½×200×0.01 = 1 J."
+  },
+  {
+    "id": 791,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A 3 kg ball falls from 20 m. Its KE just before impact (g=10):",
+    "ans": "600",
+    "unit": "J",
+    "exp": "KE = mgh = 3×10×20 = 600 J (energy conserved)."
+  },
+  {
+    "id": 792,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Machine: load 400 N, effort arm 80 cm, load arm 20 cm. Effort needed (ideal):",
+    "ans": "100",
+    "unit": "N",
+    "exp": "MA = 80/20 = 4; Effort = Load/MA = 400/4 = 100 N."
+  },
+  {
+    "id": 793,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "An engine does 3×10⁵ J of work per hour. Power in watts:",
+    "ans": "83.3",
+    "unit": "W",
+    "exp": "P = 300000/3600 ≈ 83.3 W."
+  },
+  {
+    "id": 794,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A car (1000 kg) at 20 m/s. KE:",
+    "ans": "200000",
+    "unit": "J",
+    "exp": "KE = ½×1000×400 = 200,000 J = 200 kJ."
+  },
+  {
+    "id": 795,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Efficiency 75%, VR=8. MA:",
+    "ans": "6",
+    "unit": "",
+    "exp": "MA = η/100 × VR = 0.75 × 8 = 6."
+  },
+  {
+    "id": 796,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Rope pulled 3 m to lift 1 kg by 1 m. VR:",
+    "ans": "3",
+    "unit": "",
+    "exp": "VR = 3/1 = 3."
+  },
+  {
+    "id": 797,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Power 500 W, time 60 s. Work done:",
+    "ans": "30000",
+    "unit": "J",
+    "exp": "W = Pt = 500 × 60 = 30,000 J."
+  },
+  {
+    "id": 798,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Mass 10 kg falls 5 m (g=10). Final KE (no air resistance):",
+    "ans": "500",
+    "unit": "J",
+    "exp": "KE = mgh = 10×10×5 = 500 J."
+  },
+  {
+    "id": 799,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A pump lifts 100 kg water to height 20 m in 10 s. Power (g=10):",
+    "ans": "2000",
+    "unit": "W",
+    "exp": "W = mgh = 100×10×20 = 20000 J; P = 20000/10 = 2000 W."
+  },
+  {
+    "id": 800,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "1.5 kW motor runs for 2 hours. Energy consumed in kWh:",
+    "ans": "3",
+    "unit": "kWh",
+    "exp": "E = P×t = 1.5 kW × 2 h = 3 kWh."
+  },
+  {
+    "id": 801,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A crane lifts 2000 N load with 250 N effort. MA:",
+    "ans": "8",
+    "unit": "",
+    "exp": "MA = 2000/250 = 8."
+  },
+  {
+    "id": 802,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Effort moves 4 m; load rises 0.5 m; η=100%. MA =",
+    "ans": "8",
+    "unit": "",
+    "exp": "VR = 4/0.5 = 8; η=100% → MA=VR=8."
+  },
+  {
+    "id": 803,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "KE of 5 kg body = 250 J. Speed:",
+    "ans": "10",
+    "unit": "m/s",
+    "exp": "KE=½mv² → 250=½×5×v² → v²=100 → v=10 m/s."
+  },
+  {
+    "id": 804,
+    "type": "num",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A 70 kg athlete runs up 10 m stairs in 5 s. Power (g=10):",
+    "ans": "1400",
+    "unit": "W",
+    "exp": "W = mgh = 70×10×10 = 7000 J; P = 7000/5 = 1400 W."
+  },
+  {
+    "id": 805,
+    "type": "num",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Spring k=500 N/m, x=0.4 m. PE:",
+    "ans": "40",
+    "unit": "J",
+    "exp": "PE = ½×500×0.16 = 40 J."
+  },
+  {
+    "id": 806,
+    "type": "num",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Pendulum bob mass 0.5 kg, height 0.2 m. Max speed at bottom (g=10):",
+    "ans": "2",
+    "unit": "m/s",
+    "exp": "½mv²=mgh → v=√(2gh)=√(2×10×0.2)=√4=2 m/s."
+  },
+  {
+    "id": 807,
+    "type": "num",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A 500 W motor runs for 3 min. Work done:",
+    "ans": "90000",
+    "unit": "J",
+    "exp": "W = Pt = 500 × 180 = 90,000 J."
+  },
+  {
+    "id": 808,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Lever: load = 100 N, effort = 25 N, effort arm = 2 m. Load arm:",
+    "ans": "0.5",
+    "unit": "m",
+    "exp": "MA = effort arm/load arm → 4 = 2/load arm → load arm = 0.5 m."
+  },
+  {
+    "id": 809,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Engine power 40 kW, speed 20 m/s. Traction force:",
+    "ans": "2000",
+    "unit": "N",
+    "exp": "P = Fv → F = P/v = 40000/20 = 2000 N."
+  },
+  {
+    "id": 810,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Efficiency 60%, input work 500 J. Useful output:",
+    "ans": "300",
+    "unit": "J",
+    "exp": "Output = η × input = 0.60 × 500 = 300 J."
+  },
+  {
+    "id": 811,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Body (mass 2 kg) moves from height 10 m to 4 m. Change in GPE (g=10):",
+    "ans": "120",
+    "unit": "J",
+    "exp": "ΔGPE = mg(h1-h2) = 2×10×6 = 120 J (decrease in PE)."
+  },
+  {
+    "id": 812,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A box weighing 200 N is pushed 5 m along a floor against friction of 50 N. Net work:",
+    "ans": "750",
+    "unit": "J",
+    "exp": "Net work = work by applied force - work against friction. If pushed with 200 N: W_net = (200-50)×5=750 J."
+  },
+  {
+    "id": 813,
+    "type": "num",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Water (1000 kg) falls 50 m. Max electrical energy if 80% efficient (g=10):",
+    "ans": "400000",
+    "unit": "J",
+    "exp": "PE = 1000×10×50 = 500,000 J; Electrical = 0.8×500,000 = 400,000 J."
+  },
+  {
+    "id": 814,
+    "type": "num",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Bullet mass 0.01 kg, speed 400 m/s. KE:",
+    "ans": "800",
+    "unit": "J",
+    "exp": "KE = ½×0.01×160000 = 800 J."
+  },
+  {
+    "id": 815,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Person lifts 10 N book 1.5 m. Work done:",
+    "ans": "15",
+    "unit": "J",
+    "exp": "W = F×d = 10×1.5 = 15 J."
+  },
+  {
+    "id": 816,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Power 200 W, time 30 s. Work done:",
+    "ans": "6000",
+    "unit": "J",
+    "exp": "W = Pt = 200×30 = 6000 J."
+  },
+  {
+    "id": 817,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A 60 W bulb runs for 5 hours. Energy in kWh:",
+    "ans": "0.3",
+    "unit": "kWh",
+    "exp": "E = 0.06 kW × 5 h = 0.3 kWh."
+  },
+  {
+    "id": 818,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Elevator motor: load 800 kg, velocity 2 m/s (g=10). Power:",
+    "ans": "16000",
+    "unit": "W",
+    "exp": "P = Fv = mgv = 800×10×2 = 16,000 W = 16 kW."
+  },
+  {
+    "id": 819,
+    "type": "num",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A 1200 kg car brakes from 25 m/s to rest. KE lost:",
+    "ans": "375000",
+    "unit": "J",
+    "exp": "KE = ½×1200×625 = 375,000 J (all converted to heat)."
+  },
+  {
+    "id": 820,
+    "type": "num",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Work = 0 J when angle between F and d is ___ degrees:",
+    "ans": "90",
+    "unit": "°",
+    "exp": "cos90° = 0 → W = Fd·cos90° = 0."
+  },
+  {
+    "id": 821,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Gravitational PE = 1000 J, mass = 5 kg (g=10). Height:",
+    "ans": "20",
+    "unit": "m",
+    "exp": "h = PE/(mg) = 1000/50 = 20 m."
+  },
+  {
+    "id": 822,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A 3 kW motor works for 2 hours. Total energy (kWh):",
+    "ans": "6",
+    "unit": "kWh",
+    "exp": "E = 3 kW × 2 h = 6 kWh."
+  },
+  {
+    "id": 823,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Load 60 N, effort arm 1.2 m, load arm 0.3 m. Effort (ideal):",
+    "ans": "15",
+    "unit": "N",
+    "exp": "MA = 1.2/0.3 = 4; Effort = 60/4 = 15 N."
+  },
+  {
+    "id": 824,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Height 80 m, mass 2 kg (g=10). Time for free fall (½gt²=h):",
+    "ans": "4",
+    "unit": "s",
+    "exp": "h=½gt² → 80=½×10×t² → t²=16 → t=4 s."
+  },
+  {
+    "id": 825,
+    "type": "num",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Ball (0.5 kg) at 8 m. KE at ground after fall (g=10):",
+    "ans": "40",
+    "unit": "J",
+    "exp": "KE = mgh = 0.5×10×8 = 40 J."
+  },
+  {
+    "id": 826,
+    "type": "num",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Force = 30 N at 60° to displacement of 10 m. Work done:",
+    "ans": "150",
+    "unit": "J",
+    "exp": "W = Fd·cosθ = 30×10×cos60° = 300×0.5 = 150 J."
+  },
+  {
+    "id": 827,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Spring compressed 5 cm (k=2000 N/m). PE:",
+    "ans": "2.5",
+    "unit": "J",
+    "exp": "PE = ½×2000×(0.05)² = ½×2000×0.0025 = 2.5 J."
+  },
+  {
+    "id": 828,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Machine: effort 50 N over 3 m lifts 100 N load 1 m. Work input:",
+    "ans": "150",
+    "unit": "J",
+    "exp": "W_input = effort × effort distance = 50 × 3 = 150 J."
+  },
+  {
+    "id": 829,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Work output for above machine:",
+    "ans": "100",
+    "unit": "J",
+    "exp": "W_output = load × load distance = 100 × 1 = 100 J."
+  },
+  {
+    "id": 830,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Efficiency of above machine:",
+    "ans": "66.7",
+    "unit": "%",
+    "exp": "η = (100/150)×100 = 66.7%."
+  },
+  {
+    "id": 831,
+    "type": "num",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A horse exerts 750 N and trots at 2 m/s. Power (in W and HP):",
+    "ans": "1500",
+    "unit": "W",
+    "exp": "P = Fv = 750×2 = 1500 W ≈ 2 HP (1 HP≈746 W)."
+  },
+  {
+    "id": 832,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 1,
+    "q": "What is the difference between work in the scientific sense and in everyday language?",
+    "ans": "In everyday language, 'work' means any physical or mental effort. In physics, work is done only when a force causes displacement in its direction (W=Fscosθ). Holding a heavy bag without moving does NO scientific work despite effort.",
+    "exp": "Scientific work requires both force AND displacement in force's direction; everyday work is any effort."
+  },
+  {
+    "id": 833,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 1,
+    "q": "State and explain the law of conservation of energy with an example.",
+    "ans": "Energy can neither be created nor destroyed; it can only change form. Total energy of an isolated system remains constant. Example: A falling ball — GPE converts to KE as it falls. At any point: mgh + ½mv² = constant.",
+    "exp": "Conservation of energy: energy changes form but total is constant."
+  },
+  {
+    "id": 834,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 1,
+    "q": "What are simple machines? What do they do for us?",
+    "ans": "Simple machines (lever, pulley, inclined plane, wedge, screw, wheel-and-axle) make work easier by: (1) multiplying force (MA>1), (2) changing direction of force, or (3) gaining speed (MA<1). They cannot reduce total work needed.",
+    "exp": "Simple machines redirect/multiply force but cannot reduce total energy required."
+  },
+  {
+    "id": 835,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Distinguish between kinetic energy and potential energy.",
+    "ans": "KE is energy due to motion (KE=½mv²). PE is energy stored due to position or configuration (GPE=mgh, elastic PE=½kx²). They can interconvert. A thrown ball has KE; when it stops momentarily at top, it has only PE. Total E = KE + PE = constant (no friction).",
+    "exp": "KE = energy of motion; PE = stored energy due to position/configuration."
+  },
+  {
+    "id": 836,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Why is efficiency of a real machine always less than 100%?",
+    "ans": "Real machines have friction between moving parts. Some input energy converts to heat (thermal energy) due to friction, which is not useful output. Since useful output < total input, η = (output/input)×100% < 100%. This cannot be avoided in practice.",
+    "exp": "Friction dissipates some input energy as heat, making useful output < input."
+  },
+  {
+    "id": 837,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Explain the relationship between work done and mechanical energy.",
+    "ans": "Work-Energy Theorem: Net work done on a body equals its change in KE. When a force does positive work on a body, its KE increases. Against gravity, work done becomes stored as PE. The total mechanical energy (KE+PE) is conserved when no non-conservative forces act.",
+    "exp": "Net work = change in KE (work-energy theorem); total ME is conserved without friction."
+  },
+  {
+    "id": 838,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Why does a longer effort arm make a lever more efficient?",
+    "ans": "MA = effort arm / load arm. A longer effort arm increases MA, so less effort is needed for the same load. Though the effort moves through a longer distance, the force required decreases proportionally. Total work = effort × distance remains the same (energy conservation).",
+    "exp": "Longer effort arm increases MA (= effort arm/load arm), reducing force needed."
+  },
+  {
+    "id": 839,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Explain with an example how an inclined plane reduces effort needed.",
+    "ans": "An inclined plane spreads the lifting over a longer path. VR = length of slope/height. For a ramp of length 5 m and height 1 m, VR=5; effort needed = Load/5 (with no friction). The trade-off: effort moves 5 m to lift load by 1 m. Work input = Work output.",
+    "exp": "Inclined plane increases effort distance and reduces effort force by factor of VR."
+  },
+  {
+    "id": 840,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Describe the energy transformations in a hydroelectric power plant.",
+    "ans": "Water stored at height has GPE. When released, GPE converts to KE as water falls. Moving water turns turbines, converting KE to rotational mechanical energy. Turbines drive generators, converting mechanical to electrical energy. Each step has some energy loss.",
+    "exp": "GPE → KE of water → mechanical rotation → electrical energy."
+  },
+  {
+    "id": 841,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Compare the three classes of levers with one example each.",
+    "ans": "Class 1: Fulcrum between load and effort. MA can be > or < 1. Examples: seesaw, scissors, crowbar. Class 2: Load between fulcrum and effort. MA always > 1. Examples: wheelbarrow, nutcracker. Class 3: Effort between fulcrum and load. MA always < 1 (speed gain). Examples: tweezers, forearm.",
+    "exp": "Class 1: fulcrum in middle; Class 2: load in middle (MA>1); Class 3: effort in middle (MA<1)."
+  },
+  {
+    "id": 842,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Why does a ball thrown upward not reach the initial height when it bounces?",
+    "ans": "Each time the ball collides with the ground, some energy is lost as heat, sound, and deformation. This energy is not returned as KE. So after each bounce, the ball returns to a lower height. This is an example of an inelastic collision; total mechanical energy is NOT conserved.",
+    "exp": "Inelastic bounce: energy lost as heat, sound, deformation → ball rises to lower height each time."
+  },
+  {
+    "id": 843,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "How does a pulley system differ from a single fixed pulley?",
+    "ans": "A single fixed pulley only changes direction of force (VR=1, MA<1 due to friction). A movable pulley or pulley system (block-and-tackle) has VR>1, so it can provide MA>1 by having multiple rope segments support the load. More pulleys → greater VR → potentially greater MA.",
+    "exp": "Fixed pulley: changes direction only (VR=1). Movable/system: multiplies force (VR>1)."
+  },
+  {
+    "id": 844,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Explain why friction is said to be both a friend and an enemy.",
+    "ans": "Friction is a friend: without friction, we could not walk (no grip), vehicles couldn't brake (brakes use friction), nails and screws wouldn't hold. Friction is an enemy: in machines it reduces efficiency (converts energy to heat), causes wear of parts, and requires lubrication. We need to control, not eliminate it.",
+    "exp": "Friction is necessary for walking and braking but reduces machine efficiency; we manage it."
+  },
+  {
+    "id": 845,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "What is the significance of 1 kWh as a unit of energy?",
+    "ans": "1 kWh = energy used by a 1 kW device in 1 hour = 3.6 × 10⁶ J. It is the commercial unit of electrical energy used by electricity boards to measure consumption. It is more practical than Joule for everyday use since appliances draw thousands of Joules.",
+    "exp": "1 kWh = 3.6 MJ; practical unit for electrical energy billing."
+  },
+  {
+    "id": 846,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Describe how a spring demonstrates conservation of energy.",
+    "ans": "When a spring is compressed or stretched by x, elastic PE = ½kx² is stored. When released, this converts to KE of the attached mass. At equilibrium (natural length), all PE is KE. At maximum compression, all KE is PE. Total E = ½kx² + ½mv² = constant (no friction).",
+    "exp": "Spring oscillation: PE and KE interchange while total E remains constant."
+  },
+  {
+    "id": 847,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Design an experiment to determine the efficiency of a pulley system.",
+    "ans": "Materials: pulley system, known weights, ruler. Steps: (1) Measure effort force applied (spring balance). (2) Measure load (weight). (3) Measure effort distance moved and load distance raised. (4) Calculate: Work input = Effort × effort distance; Work output = Load × load distance. (5) η = (W_out/W_in) × 100%. Compare with η = (MA/VR) × 100%.",
+    "exp": "Efficiency experiment: measure effort and load forces and distances; calculate η."
+  },
+  {
+    "id": 848,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "How does a bicycle gear system function as a simple machine?",
+    "ans": "A bicycle uses a gear system (sprockets and chain). The pedal sprocket (large gear) and wheel sprocket (small gear) change the velocity ratio. High gear (large/small = big VR): less force on pedals but need more turns; provides more speed. Low gear (small/large = small VR): more force output for climbing hills.",
+    "exp": "Bicycle gears change VR: high gear = more speed; low gear = more force for climbing."
+  },
+  {
+    "id": 849,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 1,
+    "q": "What is power and why is a more powerful engine better?",
+    "ans": "Power P = W/t = rate of doing work. A more powerful engine can do the same work in less time, or more work in the same time. For example, a 100 kW engine can lift a given load 10× faster than a 10 kW engine. Power is important for comparing performance.",
+    "exp": "Power = work/time; higher power means more work done per second."
+  },
+  {
+    "id": 850,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Explain why a hammer drives a nail more effectively when swung faster.",
+    "ans": "A faster hammer has more KE (KE = ½mv²; KE ∝ v²). More KE is transferred to the nail on impact. The nail must do work against the wood's resistance force over some distance; more KE means more work can be done, so the nail goes deeper.",
+    "exp": "More velocity → more KE → more work done on nail → nail goes deeper."
+  },
+  {
+    "id": 851,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "How is potential energy related to the work done in lifting an object?",
+    "ans": "When an object of mass m is lifted by height h, work done against gravity = mgh. This work is stored as gravitational PE = mgh in the object. If released, this PE converts back to KE. The work done in lifting IS the increase in PE: W = ΔGPE = mgh.",
+    "exp": "Work done lifting = gain in GPE; lifting work is stored as potential energy."
+  },
+  {
+    "id": 852,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Why is it easier to cut with a sharp blade than a blunt one?",
+    "ans": "A sharp blade is a wedge (simple machine — inclined plane). Sharpness means smaller cross-sectional area at the cutting edge. The same force applied over a smaller area creates more pressure (P=F/A), concentrating force and overcoming molecular bonds of the material being cut.",
+    "exp": "Sharp blade = smaller area → more pressure from same force → easier cutting."
+  },
+  {
+    "id": 853,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Describe how energy is wasted in machines and suggest ways to reduce this.",
+    "ans": "Energy is wasted mainly through: (1) Friction between parts → heat, (2) Air resistance, (3) Material deformation. Ways to reduce: (1) Lubrication (oil, grease) reduces friction, (2) Streamlining reduces air resistance, (3) Using stiffer/better materials reduces deformation, (4) Ball bearings replace sliding with rolling friction.",
+    "exp": "Energy wasted via friction, air resistance, deformation; reduced by lubrication, streamlining."
+  },
+  {
+    "id": 854,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Why is conservation of energy called a fundamental law of physics?",
+    "ans": "Conservation of energy holds in all physical, chemical, and nuclear processes without exception. It has never been violated in any experiment. It constrains what is possible (no perpetual motion machine), unifies all branches of physics, and is derived from time-translation symmetry (Noether's theorem).",
+    "exp": "Conservation of energy: universal, never violated, constrains all physical processes."
+  },
+  {
+    "id": 855,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Distinguish between useful work and wasted energy in a machine.",
+    "ans": "Useful work (work output) is the work done on the load — what the machine is designed to accomplish. Wasted energy is energy lost to friction, heat, sound, etc. Total work input = useful work + wasted energy. Efficiency measures the fraction of input that becomes useful output.",
+    "exp": "Useful work = work on load; wasted = friction/heat losses; input = useful + waste."
+  },
+  {
+    "id": 856,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 2,
+    "q": "How does the pendulum serve as an energy conversion device?",
+    "ans": "A swinging pendulum continuously converts energy: At the highest points (extremes), all energy is GPE = mgh and KE = 0. At the lowest point, all energy is KE = ½mv²_max and GPE = 0 (relative to bottom). In between, both coexist. Total E = constant (no friction); a real pendulum slowly loses energy to air friction.",
+    "exp": "Pendulum: GPE↔KE cycling; total E constant (ideal); slowly loses to air friction (real)."
+  },
+  {
+    "id": 857,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "What are the advantages and disadvantages of using a single movable pulley?",
+    "ans": "Advantages: VR=2, so effort = load/2 (ideal); changes direction and halves effort. Disadvantages: MA < 2 (friction in pulley), effort side of rope must be pulled upward, efficiency < 100%. It gives mechanical advantage but the effort still has to move twice the distance the load moves.",
+    "exp": "Single movable pulley: halves effort but you pull twice the distance; efficiency < 100%."
+  },
+  {
+    "id": 858,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Explain why a truck moving at 60 km/h is harder to stop than a car at the same speed.",
+    "ans": "KE = ½mv²; at the same speed, the truck's greater mass gives it much more KE. To stop a vehicle, brakes must do negative work equal to KE (W = ½mv²). More KE requires either greater braking force or longer stopping distance. Truck also has more momentum (p=mv) to overcome.",
+    "exp": "More mass → more KE and momentum → more braking work needed → longer stopping distance."
+  },
+  {
+    "id": 859,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "How does nuclear energy differ from chemical energy?",
+    "ans": "Chemical energy involves electrons rearranging between atoms (breaking/forming chemical bonds). Nuclear energy involves changes in atomic nuclei (fission or fusion), releasing energy from nuclear binding energy per E=mc² (mass-energy conversion). Nuclear energy is about a million times more energy-dense than chemical energy.",
+    "exp": "Chemical energy: electron bonds; nuclear energy: nuclear forces and mass-energy conversion (E=mc²)."
+  },
+  {
+    "id": 860,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Explain the energy cycle in nature from Sun to living beings.",
+    "ans": "Sun produces energy by nuclear fusion. Light energy travels to Earth. Plants capture light via photosynthesis → chemical energy (glucose). Animals eat plants → chemical energy in food → metabolic processes → ATP → mechanical energy (movement), heat. Dead organisms → fossil fuels over millions of years → released by burning.",
+    "exp": "Sun's nuclear energy → light → plant photosynthesis → food energy → mechanical/heat in animals."
+  },
+  {
+    "id": 861,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Why is power a more useful quantity than work alone in comparing machines?",
+    "ans": "Work alone doesn't tell how quickly a task was done. Two machines can do the same work, but a more powerful one finishes sooner. Power = W/t measures the rate. For example, a 100 W motor does in 1 minute what a 10 W motor takes 10 minutes to do. Power is the key to comparing performance.",
+    "exp": "Power includes time; same work done faster = more power = more useful machine."
+  },
+  {
+    "id": 862,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Compare renewable and non-renewable energy sources in terms of energy conversion.",
+    "ans": "Non-renewable (fossil fuels, nuclear fission): chemical/nuclear PE → heat → mechanical → electrical; finite reserves, pollution. Renewable (solar, wind, hydro): Solar radiation/gravitational PE/KE → electrical; virtually unlimited, clean. Renewable sources are more sustainable but may have lower energy density.",
+    "exp": "Fossil fuels: stored chemical/nuclear energy (finite, polluting). Renewables: ongoing natural flows (sustainable)."
+  },
+  {
+    "id": 863,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Explain how a car airbag uses energy principles to protect passengers.",
+    "ans": "On collision, the car decelerates rapidly; passenger's KE must be absorbed. Without airbag, all KE is absorbed over the small distance the seatbelt allows — huge force (F=W/s; small s → large F). Airbag inflates and then deflates, increasing the distance over which passenger decelerates, reducing peak force F=ΔP/Δt = F×Δs, protecting passengers.",
+    "exp": "Airbag increases deceleration distance → reduces peak force on passenger → less injury."
+  },
+  {
+    "id": 864,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "How does the concept of mechanical advantage apply to everyday tools?",
+    "ans": "Screwdriver (wheel-and-axle): rotating handle (large radius) → tip (small radius), MA = handle radius / tip radius. Bottle opener (class-2 lever): MA > 1. Scissors (class-1 lever): cutting blades. Nail clipper (class-1 lever). All use mechanical advantage to make tasks easier with less effort.",
+    "exp": "Everyday tools are simple machines using MA to multiply force or change direction."
+  },
+  {
+    "id": 865,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 2,
+    "q": "What is meant by 'efficiency' of a machine and why does it matter?",
+    "ans": "Efficiency η = (useful work output / total work input) × 100%. It indicates how effectively input energy is converted to useful output. High efficiency means less waste. In industry, higher efficiency reduces fuel costs and environmental impact. Machines are designed to maximize efficiency through lubrication, better materials, and engineering.",
+    "exp": "Efficiency = useful output/input × 100%; higher η means less energy wasted."
+  },
+  {
+    "id": 866,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Explain the energy transformations in a thermal power plant.",
+    "ans": "Coal (chemical energy) → burned → heat (thermal energy) → water → steam (kinetic energy of molecules) → steam drives turbines (rotational mechanical energy) → generator (electrical energy). Each step loses some energy to friction and heat. Typical efficiency: 35–40%.",
+    "exp": "Chemical → heat → steam → mechanical rotation → electrical energy in thermal power plant."
+  },
+  {
+    "id": 867,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "How does a jack-screw (car jack) demonstrate principles of simple machines?",
+    "ans": "A jack-screw is an inclined plane (thread) wrapped around a cylinder. When the handle (effort arm) is turned, the screw advances by one thread pitch per turn. VR = circumference of handle circle / pitch. This gives very high MA, allowing a small person to lift a heavy car with little effort.",
+    "exp": "Car jack = screw (inclined plane spiral): large effort circle / small pitch → very high MA."
+  },
+  {
+    "id": 868,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Describe the energy flow in a photovoltaic (solar) cell.",
+    "ans": "Photons from sunlight hit semiconductor material (silicon). High-energy photons knock electrons free (photoelectric effect). Internal electric field drives electrons in one direction → direct current (DC). The DC can be converted to AC by an inverter. Energy: radiant → electrical. Efficiency: 15–25%.",
+    "exp": "Solar cell: photons → free electrons → DC current; radiant energy → electrical energy."
+  },
+  {
+    "id": 869,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Why is the concept of efficiency important in engineering and environmental science?",
+    "ans": "Higher efficiency = less waste = less fuel consumed for same output. This saves money, reduces fossil fuel consumption, and lowers CO₂ emissions. In environmental science, improving efficiency of energy systems is a key strategy for reducing the impact of climate change. Every %improvement saves significant resources at scale.",
+    "exp": "Higher efficiency → less fuel, less waste, lower emissions; crucial for sustainability."
+  },
+  {
+    "id": 870,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Define the principle of moments and explain its application in levers.",
+    "ans": "Principle of Moments: For a body in equilibrium, sum of clockwise moments about any point = sum of anticlockwise moments. Applied to levers: Load × Load arm = Effort × Effort arm. This means MA = effort arm / load arm. Levers are designed using this principle to achieve desired mechanical advantages.",
+    "exp": "Principle of moments: Σclockwise = Σanticlockwise; gives lever law: L×l = E×e."
+  },
+  {
+    "id": 871,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 2,
+    "q": "What is the work-energy theorem and how does it explain stopping distance?",
+    "ans": "Work-Energy Theorem: Net work done on a body = change in its KE (W_net = ΔKE). For braking: braking force × stopping distance = ½mv². So stopping distance = mv²/(2F_brake). At double speed: v² quadruples → stopping distance quadruples. This is why speed limits are critical for safety.",
+    "exp": "W_net = ΔKE; braking: F×d = ½mv² → d ∝ v² → doubling speed quadruples stopping distance."
+  },
+  {
+    "id": 872,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Explain why mountaineers use zigzag paths to climb steep hills.",
+    "ans": "A zigzag path is like an inclined plane with a longer path length for the same height gain. VR = path length / height. Longer path → greater VR → less force needed to climb (at same body weight, F_effort = weight/VR). The total work = mgh remains the same, but the effort per step is reduced.",
+    "exp": "Zigzag = inclined plane with greater length/height ratio (VR) → less force needed per step."
+  },
+  {
+    "id": 873,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "How do animals demonstrate principles of levers in their bodies?",
+    "ans": "Animal bones and muscles form lever systems. Human forearm: elbow = fulcrum, biceps = effort (class-3 lever, MA<1 but speed advantage). Bird wings: flight muscles (effort) attach near shoulder (fulcrum), wing tip is load (class-3). Kangaroo tail and hind legs form class-1 lever for jumping efficiency.",
+    "exp": "Animal limbs are lever systems; forearm is class-3 lever (MA<1, speed/distance advantage)."
+  },
+  {
+    "id": 874,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Why is nuclear power considered a high-density energy source?",
+    "ans": "Uranium fission releases about 80 million times more energy per kg than coal. This is because nuclear energy comes from E=mc²; even tiny mass converts to enormous energy. 1 kg of U-235 releases ~8×10¹³ J; 1 kg of coal releases ~3×10⁷ J. High energy density means less fuel is needed for same output.",
+    "exp": "Nuclear E = mc²: 1 kg uranium ≈ 80 million × energy of 1 kg coal; mass converts to energy."
+  },
+  {
+    "id": 875,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Propose three ways to make a city more energy-efficient.",
+    "ans": "(1) Building insulation: reduce heat loss, less heating/cooling energy needed. (2) Efficient public transport/electric vehicles: reduce energy per km travelled. (3) LED lighting: 80% more efficient than incandescent. (4) Renewable energy: solar/wind with no fuel costs. (5) Smart grids: balance supply and demand, reduce waste.",
+    "exp": "Energy efficiency in cities: insulation, EVs/transit, LED lighting, renewables, smart grids."
+  },
+  {
+    "id": 876,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 1,
+    "q": "What is the difference between a machine being powerful and being efficient?",
+    "ans": "A powerful machine does more work per second (high P = W/t) but may waste a lot of energy (low η). An efficient machine wastes little energy (high η) but may be slow (low P). Ideally, a machine should be both powerful AND efficient. A diesel truck is powerful but less efficient; a bicycle is efficient but less powerful.",
+    "exp": "Power = how fast work is done; efficiency = how little is wasted; can be high power but low efficiency."
+  },
+  {
+    "id": 877,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 2,
+    "q": "How do regenerative brakes in electric vehicles work?",
+    "ans": "Instead of converting KE to heat (as in conventional brakes), regenerative brakes use the electric motor as a generator. When braking, wheels drive the motor backwards, generating electricity stored back in the battery. This recovers 60–70% of braking energy. Net effect: vehicle goes farther on same charge.",
+    "exp": "Regen brakes: motor acts as generator during braking → KE → electrical energy → stored in battery."
+  },
+  {
+    "id": 878,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Describe energy transformations in a bouncing rubber ball.",
+    "ans": "Ball dropped: GPE → KE (falling). Hits floor: KE → elastic PE of ball (compression) → heat and KE of rebound. Ball rises: KE → GPE. At each bounce, some energy converts to heat/sound (inelastic collision). Ball bounces progressively lower until all KE is dissipated as heat.",
+    "exp": "Each bounce: KE→elastic PE→KE (partial); lost fraction becomes heat/sound → lower bounce."
+  },
+  {
+    "id": 879,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Explain why water stored at higher altitude in a dam is a better energy resource.",
+    "ans": "PE = mgh; more height (h) means more PE per kg of water. When water falls, this PE converts to KE → electricity. A higher dam stores more energy per unit mass of water, generating more electricity per release. However, higher dams are more expensive and risk greater flooding if they fail.",
+    "exp": "Higher water → more GPE = mgh → more electricity per unit mass; trade-off: cost and risk."
+  },
+  {
+    "id": 880,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "How does a wind turbine work, and what are its energy conversion steps?",
+    "ans": "Wind (moving air) has KE. Turbine blades are aerofoils that experience lift force from wind, causing rotation. Rotating shaft drives a gearbox (increases rotational speed) connected to a generator (converts mechanical → electrical energy). Typical efficiency: 35–45%. Steps: Wind KE → blade rotation → gearbox → generator → electricity.",
+    "exp": "Wind KE → blade rotation (mechanical) → gearbox → generator → electrical energy."
+  },
+  {
+    "id": 881,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Evaluate the statement: 'A machine that does more work is always better.'",
+    "ans": "This statement is incomplete. A machine doing more work in the same time (more power) is better in one sense. But if it wastes a lot of energy (low efficiency), it's costly and polluting. A 'better' machine should consider: power output, efficiency, cost, environmental impact, durability, and ease of maintenance.",
+    "exp": "'More work' alone is insufficient; efficiency, power, cost, and environment all matter."
+  }
+]
