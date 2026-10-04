@@ -1,0 +1,3576 @@
+[
+  {
+    "id": 882,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound waves are:",
+    "opts": [
+      "Transverse",
+      "Longitudinal",
+      "Electromagnetic",
+      "Transverse and longitudinal"
+    ],
+    "ans": 1,
+    "exp": "Sound waves are longitudinal mechanical waves; particles vibrate along the direction of propagation."
+  },
+  {
+    "id": 883,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The speed of sound in air at room temperature is approximately:",
+    "opts": [
+      "100 m/s",
+      "340 m/s",
+      "3×10⁸ m/s",
+      "1500 m/s"
+    ],
+    "ans": 1,
+    "exp": "Speed of sound in air ≈ 340 m/s at ~20°C."
+  },
+  {
+    "id": 884,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Frequency of sound is measured in:",
+    "opts": [
+      "Hertz (Hz)",
+      "Decibel (dB)",
+      "Metre (m)",
+      "Second (s)"
+    ],
+    "ans": 0,
+    "exp": "Frequency = number of vibrations per second; unit is Hertz."
+  },
+  {
+    "id": 885,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The human ear can detect sounds in the range:",
+    "opts": [
+      "0–20 Hz",
+      "20–20,000 Hz",
+      "20,000–100,000 Hz",
+      "Below 1 Hz"
+    ],
+    "ans": 1,
+    "exp": "Audible range for humans: 20 Hz to 20,000 Hz (20 kHz)."
+  },
+  {
+    "id": 886,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound with frequency below 20 Hz is called:",
+    "opts": [
+      "Ultrasound",
+      "Audible sound",
+      "Infrasound",
+      "Supersound"
+    ],
+    "ans": 2,
+    "exp": "Infrasound: f < 20 Hz; below the lower limit of human hearing."
+  },
+  {
+    "id": 887,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound with frequency above 20,000 Hz is called:",
+    "opts": [
+      "Infrasound",
+      "Audible sound",
+      "Ultrasound",
+      "Hypersound"
+    ],
+    "ans": 2,
+    "exp": "Ultrasound: f > 20,000 Hz; above the upper limit of human hearing."
+  },
+  {
+    "id": 888,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Loudness of sound is related to:",
+    "opts": [
+      "Frequency",
+      "Wavelength",
+      "Amplitude",
+      "Speed"
+    ],
+    "ans": 2,
+    "exp": "Loudness depends on amplitude: greater amplitude → greater energy → louder sound."
+  },
+  {
+    "id": 889,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Pitch of sound is related to:",
+    "opts": [
+      "Amplitude",
+      "Frequency",
+      "Speed",
+      "Wavelength only"
+    ],
+    "ans": 1,
+    "exp": "Pitch is the perceived quality related to frequency; higher f → higher pitch."
+  },
+  {
+    "id": 890,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The relationship between speed, frequency and wavelength is:",
+    "opts": [
+      "v = f + λ",
+      "v = f / λ",
+      "v = f × λ",
+      "v = λ / f"
+    ],
+    "ans": 2,
+    "exp": "v = fλ; wave equation: speed = frequency × wavelength."
+  },
+  {
+    "id": 891,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Minimum distance from a wall to hear an echo:",
+    "opts": [
+      "17 m",
+      "34 m",
+      "10 m",
+      "50 m"
+    ],
+    "ans": 0,
+    "exp": "Echo: sound must travel 2×d in ≥ 0.1 s; d = v×t/2 = 340×0.1/2 = 17 m."
+  },
+  {
+    "id": 892,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "A sound wave has frequency 500 Hz and wavelength 0.68 m. Its speed is:",
+    "opts": [
+      "735 m/s",
+      "340 m/s",
+      "368 m/s",
+      "0.00136 m/s"
+    ],
+    "ans": 1,
+    "exp": "v = fλ = 500×0.68 = 340 m/s."
+  },
+  {
+    "id": 893,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "If the frequency of sound doubles, the wavelength:",
+    "opts": [
+      "Doubles",
+      "Halves",
+      "Stays the same",
+      "Quadruples"
+    ],
+    "ans": 1,
+    "exp": "v = fλ; if v is constant and f doubles, λ halves."
+  },
+  {
+    "id": 894,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "In which medium does sound travel fastest?",
+    "opts": [
+      "Air",
+      "Water",
+      "Steel",
+      "Vacuum"
+    ],
+    "ans": 2,
+    "exp": "Speed of sound in steel ≈ 5000 m/s; water ≈ 1500 m/s; air ≈ 340 m/s."
+  },
+  {
+    "id": 895,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Sound cannot travel through:",
+    "opts": [
+      "Water",
+      "Air",
+      "Steel",
+      "Vacuum"
+    ],
+    "ans": 3,
+    "exp": "Sound needs a medium (matter) to travel; it cannot travel through vacuum."
+  },
+  {
+    "id": 896,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "An echo is heard 2 s after shouting near a cliff. Distance to cliff (v=340 m/s):",
+    "opts": [
+      "680 m",
+      "170 m",
+      "340 m",
+      "1360 m"
+    ],
+    "ans": 2,
+    "exp": "d = v×t/2 = 340×2/2 = 340 m."
+  },
+  {
+    "id": 897,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "The quality or timbre of sound depends on:",
+    "opts": [
+      "Amplitude",
+      "Frequency",
+      "Both amplitude and frequency",
+      "Waveform shape (overtones)"
+    ],
+    "ans": 3,
+    "exp": "Timbre is determined by the shape of the wave (mix of harmonics/overtones)."
+  },
+  {
+    "id": 898,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "A bat uses ultrasound to navigate. If it emits a pulse and receives the echo after 0.04 s, distance to obstacle (v=340 m/s):",
+    "opts": [
+      "13.6 m",
+      "6.8 m",
+      "0.68 m",
+      "340 m"
+    ],
+    "ans": 1,
+    "exp": "d = v×t/2 = 340×0.04/2 = 6.8 m."
+  },
+  {
+    "id": 899,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Which property of sound enables SONAR to detect underwater objects?",
+    "opts": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Absorption"
+    ],
+    "ans": 0,
+    "exp": "SONAR (Sound Navigation and Ranging) uses reflection (echo) of ultrasound underwater."
+  },
+  {
+    "id": 900,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Standing under a bridge during thunder, why do you hear a prolonged rumble?",
+    "opts": [
+      "Multiple reflections of sound from different surfaces.",
+      "Because of rain interference",
+      "Because thunder is loud",
+      "Because of lightning"
+    ],
+    "ans": 0,
+    "exp": "Multiple echoes from different surfaces arrive at different times, creating prolonged rumble."
+  },
+  {
+    "id": 901,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Why do sounds seem louder in a hall with hard walls than an open field?",
+    "opts": [
+      "Sound travels faster in halls",
+      "Hard walls reflect sound, causing multiple echoes that add to loudness",
+      "Open air absorbs sound",
+      "Halls are smaller"
+    ],
+    "ans": 1,
+    "exp": "Hard walls reflect sound (reverberation), multiple reflections add to apparent loudness."
+  },
+  {
+    "id": 902,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "A dolphin emits ultrasound at 150,000 Hz. In seawater (v=1500 m/s), wavelength:",
+    "opts": [
+      "0.01 m",
+      "0.1 m",
+      "10 m",
+      "0.001 m"
+    ],
+    "ans": 0,
+    "exp": "λ = v/f = 1500/150000 = 0.01 m = 1 cm."
+  },
+  {
+    "id": 903,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Why is ultrasound used in medical imaging rather than audible sound?",
+    "opts": [
+      "Ultrasound travels faster",
+      "Ultrasound has shorter wavelength, giving better resolution",
+      "Ultrasound is louder",
+      "Audible sound is dangerous"
+    ],
+    "ans": 1,
+    "exp": "Shorter wavelength → can resolve smaller structures. Better imaging detail at higher f."
+  },
+  {
+    "id": 904,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 4,
+    "q": "SONAR detected an underwater object. Echo time = 3 s, speed = 1500 m/s. Depth:",
+    "opts": [
+      "2250 m",
+      "4500 m",
+      "1500 m",
+      "750 m"
+    ],
+    "ans": 0,
+    "exp": "d = v×t/2 = 1500×3/2 = 2250 m."
+  },
+  {
+    "id": 905,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Reverberation in a concert hall is controlled by:",
+    "opts": [
+      "Using hard concrete walls",
+      "Using sound-absorbing materials (curtains, carpets)",
+      "Increasing room volume",
+      "Decreasing temperature"
+    ],
+    "ans": 1,
+    "exp": "Soft, porous materials absorb sound, reducing multiple reflections (reverberation)."
+  },
+  {
+    "id": 906,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Which animal uses infrasound for communication?",
+    "opts": [
+      "Bat",
+      "Dog",
+      "Elephant",
+      "Dolphin"
+    ],
+    "ans": 2,
+    "exp": "Elephants use infrasound (< 20 Hz) to communicate over long distances."
+  },
+  {
+    "id": 907,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "A patient's kidney stone is broken by:",
+    "opts": [
+      "X-rays",
+      "Laser",
+      "Ultrasound (lithotripsy)",
+      "Gamma rays"
+    ],
+    "ans": 2,
+    "exp": "Lithotripsy uses focused high-energy ultrasound waves to break kidney stones without surgery."
+  },
+  {
+    "id": 908,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "The Doppler effect causes a sound to appear:",
+    "opts": [
+      "Higher pitched when source moves toward listener",
+      "Lower pitched when source approaches",
+      "Same pitch always",
+      "Higher pitched when source moves away"
+    ],
+    "ans": 0,
+    "exp": "Doppler effect: source approaching → compressed waves → higher frequency (pitch)."
+  },
+  {
+    "id": 909,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Speed of sound increases with temperature because:",
+    "opts": [
+      "Air becomes lighter",
+      "Molecules move faster and transmit vibrations more quickly",
+      "Air pressure decreases",
+      "Sound has more energy at higher T"
+    ],
+    "ans": 1,
+    "exp": "Higher temperature → faster molecular motion → faster energy transfer → higher speed of sound."
+  },
+  {
+    "id": 910,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Which property of ultrasound allows it to clean delicate instruments?",
+    "opts": [
+      "High frequency causes cavitation (bubble formation/collapse)",
+      "Ultrasound is very loud",
+      "It emits heat",
+      "It dissolves dirt"
+    ],
+    "ans": 0,
+    "exp": "Cavitation: ultrasound creates tiny imploding bubbles that dislodge dirt, used in ultrasonic cleaners."
+  },
+  {
+    "id": 911,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 6,
+    "q": "If you could design a device to detect distant earthquakes, which sound type would you use?",
+    "opts": [
+      "Audible sound",
+      "Ultrasound",
+      "Infrasound",
+      "Visible light"
+    ],
+    "ans": 2,
+    "exp": "Earthquakes produce infrasound that travels through rock; infrasound detectors can sense these at great distances."
+  },
+  {
+    "id": 912,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 6,
+    "q": "A musician doubles the tension in a guitar string. The frequency:",
+    "opts": [
+      "Doubles",
+      "Increases by √2",
+      "Halves",
+      "Stays same"
+    ],
+    "ans": 1,
+    "exp": "f ∝ √T (tension); doubling T → f multiplied by √2 ≈ 1.41."
+  },
+  {
+    "id": 913,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The unit of loudness (intensity level) is:",
+    "opts": [
+      "Hz",
+      "dB (decibel)",
+      "m/s",
+      "Watt"
+    ],
+    "ans": 1,
+    "exp": "Decibel (dB) is used to measure sound intensity level."
+  },
+  {
+    "id": 914,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "A sound of 60 dB is ___ times louder than 0 dB:",
+    "opts": [
+      "60",
+      "1000",
+      "1,000,000",
+      "600"
+    ],
+    "ans": 2,
+    "exp": "dB scale is logarithmic; 60 dB = 10^6 times the reference intensity (0 dB)."
+  },
+  {
+    "id": 915,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Why does thunder always follow lightning?",
+    "opts": [
+      "Sound travels slower than light",
+      "Lightning causes thunder to delay",
+      "They are unrelated",
+      "Light reflects more than sound"
+    ],
+    "ans": 0,
+    "exp": "Light travels at 3×10⁸ m/s; sound at 340 m/s. Light reaches us almost instantly; sound takes longer."
+  },
+  {
+    "id": 916,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 4,
+    "q": "The time between lightning flash and thunder is 4 s. Distance to storm (v=340 m/s):",
+    "opts": [
+      "1360 m",
+      "680 m",
+      "170 m",
+      "85 m"
+    ],
+    "ans": 0,
+    "exp": "d = v×t = 340×4 = 1360 m (sound travels one way only)."
+  },
+  {
+    "id": 917,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Noise pollution can cause:",
+    "opts": [
+      "Improved hearing",
+      "Deafness and stress",
+      "Better concentration",
+      "Faster heart rate only"
+    ],
+    "ans": 1,
+    "exp": "Prolonged exposure to loud noise (>85 dB) can damage hearing and cause stress, hypertension."
+  },
+  {
+    "id": 918,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "The speed of sound in water is about 1500 m/s. This is because:",
+    "opts": [
+      "Water is denser than air",
+      "Water molecules are more strongly bonded and transmit vibrations faster",
+      "Water is lighter",
+      "Water has more temperature"
+    ],
+    "ans": 1,
+    "exp": "Higher bulk modulus (stiffness) of water → faster wave propagation despite higher density."
+  },
+  {
+    "id": 919,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "A ship's SONAR pulse returns after 6 s. Depth of ocean (v=1500 m/s):",
+    "opts": [
+      "9000 m",
+      "4500 m",
+      "1500 m",
+      "3000 m"
+    ],
+    "ans": 1,
+    "exp": "d = v×t/2 = 1500×6/2 = 4500 m."
+  },
+  {
+    "id": 920,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Compression in a sound wave is a region of:",
+    "opts": [
+      "Low pressure",
+      "High pressure",
+      "Zero pressure",
+      "No particles"
+    ],
+    "ans": 1,
+    "exp": "Compression: particles pushed together → high density and pressure region."
+  },
+  {
+    "id": 921,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Rarefaction in a sound wave is a region of:",
+    "opts": [
+      "High pressure",
+      "Low pressure",
+      "Zero displacement",
+      "Maximum amplitude"
+    ],
+    "ans": 1,
+    "exp": "Rarefaction: particles spread apart → low density and pressure region."
+  },
+  {
+    "id": 922,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Speed of sound in air increases with:",
+    "opts": [
+      "Decrease in temperature",
+      "Increase in temperature",
+      "Increase in pressure (at constant T)",
+      "Decrease in humidity"
+    ],
+    "ans": 1,
+    "exp": "Speed of sound ∝ √T (temperature in Kelvin); higher T → higher speed."
+  },
+  {
+    "id": 923,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "The number of compressions passing a point per second equals the:",
+    "opts": [
+      "Wavelength",
+      "Speed",
+      "Frequency",
+      "Amplitude"
+    ],
+    "ans": 2,
+    "exp": "Each compression represents one complete vibration; frequency = compressions/second."
+  },
+  {
+    "id": 924,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Echo sounders (SONAR) work best with ultrasound rather than audible sound because:",
+    "opts": [
+      "Ultrasound is faster",
+      "Ultrasound has shorter wavelength (better resolution) and less divergence",
+      "Audible sound reflects less",
+      "Ultrasound is louder"
+    ],
+    "ans": 1,
+    "exp": "Shorter λ → better resolution of small objects; less spreading → more directional beam."
+  },
+  {
+    "id": 925,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Dogs can hear frequencies up to:",
+    "opts": [
+      "20,000 Hz",
+      "50,000 Hz",
+      "1000 Hz",
+      "200,000 Hz"
+    ],
+    "ans": 1,
+    "exp": "Dogs can hear up to about 50,000–65,000 Hz, well above human range."
+  },
+  {
+    "id": 926,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "The technique of ultrasound prenatal scanning works by:",
+    "opts": [
+      "Reflection of ultrasound from fetal tissues",
+      "Transmission of X-rays",
+      "Absorption of infrared",
+      "Emission of gamma rays"
+    ],
+    "ans": 0,
+    "exp": "Ultrasound pulses reflect off fetal structures; reflected pulses are timed to create images."
+  },
+  {
+    "id": 927,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 6,
+    "q": "A supersonic aircraft creates a sonic boom because:",
+    "opts": [
+      "It makes extra loud sounds",
+      "It produces a conical shock wave when it exceeds the speed of sound",
+      "It flies very high",
+      "It is very large"
+    ],
+    "ans": 1,
+    "exp": "When aircraft exceeds speed of sound, it outruns its own sound waves, creating a shock wave (sonic boom)."
+  },
+  {
+    "id": 928,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 2,
+    "q": "If wavelength of a sound wave doubles (constant speed), frequency:",
+    "opts": [
+      "Doubles",
+      "Stays same",
+      "Halves",
+      "Quadruples"
+    ],
+    "ans": 2,
+    "exp": "v = fλ; v constant, λ doubles → f halves."
+  },
+  {
+    "id": 929,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 3,
+    "q": "The wavelength of sound in air at 340 m/s and 85 Hz is:",
+    "opts": [
+      "4 m",
+      "0.25 m",
+      "28,900 m",
+      "400 m"
+    ],
+    "ans": 0,
+    "exp": "λ = v/f = 340/85 = 4 m."
+  },
+  {
+    "id": 930,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Which organ detects sound in humans?",
+    "opts": [
+      "Cornea",
+      "Cochlea (in ear)",
+      "Tympanic membrane only",
+      "Retina"
+    ],
+    "ans": 1,
+    "exp": "The cochlea (inner ear) contains hair cells that detect different frequencies and convert to nerve impulses."
+  },
+  {
+    "id": 931,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Ultrasound images are called:",
+    "opts": [
+      "X-rays",
+      "Sonograms/ultrasonograms",
+      "CT scans",
+      "MRI scans"
+    ],
+    "ans": 1,
+    "exp": "Ultrasound imaging produces sonograms; used in obstetrics, cardiology, etc."
+  },
+  {
+    "id": 932,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Which of the following represents the correct order of speed of sound?",
+    "opts": [
+      "Air < Water < Steel",
+      "Steel < Water < Air",
+      "Air < Steel < Water",
+      "Water < Air < Steel"
+    ],
+    "ans": 0,
+    "exp": "v_air ≈ 340 m/s < v_water ≈ 1500 m/s < v_steel ≈ 5000 m/s."
+  },
+  {
+    "id": 933,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 6,
+    "q": "The pitch of a woman's voice is generally higher than a man's because:",
+    "opts": [
+      "Women have more air in lungs",
+      "Women's vocal cords are shorter and vibrate at higher frequency",
+      "Women speak louder",
+      "Men have heavier skulls"
+    ],
+    "ans": 1,
+    "exp": "Shorter, thinner vocal cords vibrate at higher frequency → higher pitch."
+  },
+  {
+    "id": 934,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 1,
+    "a": "Sound is a mechanical wave.",
+    "r": "Sound requires a material medium (solid, liquid, or gas) to propagate.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; sound needs a medium → it is a mechanical wave. R explains A."
+  },
+  {
+    "id": 935,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 1,
+    "a": "Sound cannot travel through vacuum.",
+    "r": "Sound is a mechanical wave requiring a medium; vacuum has no particles to vibrate.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; no particles → no wave propagation. R explains A."
+  },
+  {
+    "id": 936,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "The speed of sound depends on the medium.",
+    "r": "Different media have different elastic properties and densities, which determine wave speed.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; v = √(B/ρ) depends on medium properties. R explains A."
+  },
+  {
+    "id": 937,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "Ultrasound is used in medical imaging.",
+    "r": "Ultrasound has shorter wavelengths that can resolve fine structural details inside the body.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; high frequency → short λ → better resolution. R explains A."
+  },
+  {
+    "id": 938,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "Sound travels faster in solids than in liquids.",
+    "r": "Solids have stronger intermolecular bonds (higher bulk modulus) and transmit vibrations more rapidly.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; rigid bonds in solids → faster sound transmission. R explains A."
+  },
+  {
+    "id": 939,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "Bats can navigate in total darkness.",
+    "r": "Bats emit ultrasound pulses and detect echoes from objects, allowing echolocation.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; echolocation using ultrasound allows bats to navigate without light. R explains A."
+  },
+  {
+    "id": 940,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "Thunder sounds like a prolonged rumble, not a single crack.",
+    "r": "Sound from different parts of the lightning bolt reaches the observer at different times, and reflections from terrain add to the prolonged effect.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; multiple reflections and path differences create prolonged rumble. R explains A."
+  },
+  {
+    "id": 941,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "Ultrasound can break kidney stones.",
+    "r": "High-intensity focused ultrasound creates mechanical stress that fractures stones (lithotripsy).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; ultrasound waves create pressure fluctuations that crack stones. R explains A."
+  },
+  {
+    "id": 942,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "Reverberation is the persistence of sound after the source has stopped.",
+    "r": "Sound reflects repeatedly from walls and ceiling, arriving at the listener with slight delays, prolonging the perceived sound.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; multiple reflections cause persistence. R explains A."
+  },
+  {
+    "id": 943,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "Auditoriums are designed with sound-absorbing materials.",
+    "r": "Excessive reverberation makes speech unintelligible; absorbing materials reduce echo and reverberation time.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; soft materials absorb sound, improving acoustics. R explains A."
+  },
+  {
+    "id": 944,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "SONAR is used to measure depth of oceans.",
+    "r": "SONAR sends ultrasound pulses underwater and measures time for echo return; depth = v×t/2.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; echo timing gives depth. R explains A."
+  },
+  {
+    "id": 945,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "The loudness of sound depends on its amplitude.",
+    "r": "The energy of a sound wave is proportional to the square of its amplitude; greater amplitude → more energy → louder sound.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; E ∝ A² → more amplitude → louder. R explains A."
+  },
+  {
+    "id": 946,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "The pitch of sound depends on its frequency.",
+    "r": "Higher frequency means more vibrations per second, which the ear perceives as higher pitch.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; pitch is perceptual correlate of frequency. R explains A."
+  },
+  {
+    "id": 947,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "Infrasound can travel very long distances.",
+    "r": "Infrasound has very long wavelengths that diffract around obstacles and suffer less absorption than high-frequency sound.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; long λ → less absorption → travels farther. R explains A."
+  },
+  {
+    "id": 948,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "Dolphins communicate using ultrasound.",
+    "r": "Dolphins produce high-frequency clicks (up to 150,000 Hz) for echolocation and communication.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; dolphin sonar uses high-frequency ultrasound clicks. R explains A."
+  },
+  {
+    "id": 949,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "A sonic boom is created when an aircraft exceeds the speed of sound.",
+    "r": "At supersonic speeds, the aircraft outruns sound waves, creating a conical shock wave that produces a loud boom.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; shock wave at supersonic speed creates sonic boom. R explains A."
+  },
+  {
+    "id": 950,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 1,
+    "a": "Sound waves are longitudinal.",
+    "r": "In a longitudinal wave, particles vibrate parallel to the direction of wave propagation, creating compressions and rarefactions.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; sound compressions and rarefactions are along direction of travel. R explains A."
+  },
+  {
+    "id": 951,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "Frequency of sound determines its pitch.",
+    "r": "The auditory system interprets higher-frequency sounds as having a higher pitch (more vibrations per second = higher tone).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; pitch is perception of frequency. R explains A."
+  },
+  {
+    "id": 952,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "An echo is heard when sound reflects off a hard surface.",
+    "r": "Hard surfaces reflect more sound energy; soft surfaces absorb it. Reflected sound reaching us after a noticeable delay is heard as an echo.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; hard surfaces reflect → echo heard. R explains A."
+  },
+  {
+    "id": 953,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "A whistle produces sound of higher frequency than a drum.",
+    "r": "Whistles use small cavities that vibrate at high frequencies; drums use large membranes vibrating at low frequencies.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; small cavity/string → high f; large membrane → low f. R explains A."
+  },
+  {
+    "id": 954,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "The speed of sound in water is greater than in air.",
+    "r": "Water has a higher bulk modulus (stiffness) than air; even though it's denser, the stiffness effect dominates, giving higher speed.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; v = √(B/ρ); higher B for water dominates. R explains A."
+  },
+  {
+    "id": 955,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "Ultrasonic cleaning uses high-frequency sound waves.",
+    "r": "Ultrasound creates cavitation (rapidly collapsing bubbles) in the cleaning liquid, which mechanically removes dirt from surfaces.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; cavitation is the key mechanism. R explains A."
+  },
+  {
+    "id": 956,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 1,
+    "a": "Sound cannot be heard on the Moon.",
+    "r": "The Moon has no atmosphere (essentially a vacuum), and sound needs a medium to travel.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; no atmosphere → no sound transmission. R explains A."
+  },
+  {
+    "id": 957,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "The amplitude of a sound wave decreases as it travels outward from the source.",
+    "r": "As the wave spreads over a larger area (inversely proportional to square of distance), the energy per unit area (intensity) decreases.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; inverse square law: intensity ∝ 1/r² → amplitude decreases. R explains A."
+  },
+  {
+    "id": 958,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "Earthquakes generate infrasound.",
+    "r": "The movement of tectonic plates generates very low-frequency vibrations (infrasound) in the Earth, detectable by seismographs.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; seismic waves include very low-frequency components. R explains A."
+  },
+  {
+    "id": 959,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "Some animals can hear sounds that humans cannot.",
+    "r": "Bats (ultrasound to 100 kHz), dogs (to 65 kHz), and elephants (infrasound) have hearing ranges beyond human 20–20,000 Hz.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; many animals have wider hearing ranges. R explains A."
+  },
+  {
+    "id": 960,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "Defects in metal components can be detected using ultrasound.",
+    "r": "Ultrasound passes through metal; reflections from internal cracks or voids are detected, revealing defects (non-destructive testing).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; ultrasonic testing uses reflections from defects. R explains A."
+  },
+  {
+    "id": 961,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "The Doppler effect applies to both sound and light waves.",
+    "r": "The Doppler effect is a wave phenomenon (shift in observed frequency due to relative motion); it applies to all waves, including electromagnetic waves.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; Doppler effect is universal for all wave types. R explains A."
+  },
+  {
+    "id": 962,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 1,
+    "a": "A compression is a region of high density in a sound wave.",
+    "r": "In a compression, particles are pushed together, increasing local density and pressure.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; compression = particles crowded = high density/pressure. R explains A."
+  },
+  {
+    "id": 963,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "Higher temperature leads to faster sound propagation in a gas.",
+    "r": "At higher temperatures, gas molecules have more kinetic energy and collide more frequently, transmitting vibrations faster.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; faster molecules → faster energy transmission. R explains A."
+  },
+  {
+    "id": 964,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "Noise is described as a mix of sounds with no regular pattern.",
+    "r": "Musical notes have regular, periodic waveforms, while noise consists of irregular, random vibrations of many frequencies.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; irregular/random vibrations = noise. R explains A."
+  },
+  {
+    "id": 965,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "The human ear can perceive depth (3D) of sound.",
+    "r": "The brain compares arrival time and intensity differences between the two ears to locate sound sources in 3D space.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; binaural hearing enables 3D sound localization. R explains A."
+  },
+  {
+    "id": 966,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "Sound travels faster in warmer air than in colder air.",
+    "r": "The speed of sound in air increases as temperature increases.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both A and R are true, and R correctly explains the temperature dependence of sound speed in air."
+  },
+  {
+    "id": 967,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "Ultrasound can detect a submarine deep under the ocean.",
+    "r": "SONAR uses ultrasound pulses sent through water; reflections from the submarine allow its detection and location.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; SONAR uses ultrasound reflection for submarine detection. R explains A."
+  },
+  {
+    "id": 968,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 1,
+    "a": "Loudness and pitch are independent properties of sound.",
+    "r": "Loudness depends on amplitude; pitch depends on frequency; these are separate properties and can vary independently.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; amplitude and frequency are independent wave properties. R explains A."
+  },
+  {
+    "id": 969,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "The wavelength of ultrasound in air is shorter than audible sound at the same speed.",
+    "r": "λ = v/f; at the same speed, higher frequency (ultrasound) gives shorter wavelength.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; λ = v/f → higher f → shorter λ. R explains A."
+  },
+  {
+    "id": 970,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "Whales use sound to communicate across vast ocean distances.",
+    "r": "Low-frequency whale songs (infrasound/low audio range) can travel thousands of km through ocean sound channels (SOFAR channel).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; whales use low-f sound that travels enormous distances. R explains A."
+  },
+  {
+    "id": 971,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "Recording studios have padded walls.",
+    "r": "Padding absorbs sound waves, preventing echoes and reverberation that would muddy recordings.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; absorption reduces echo for clean recordings. R explains A."
+  },
+  {
+    "id": 972,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "Sound energy can be converted to electrical energy.",
+    "r": "A microphone converts sound waves to electrical signals; the vibrating diaphragm creates varying electrical signals.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; microphone is a sound-to-electricity transducer. R explains A."
+  },
+  {
+    "id": 973,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "A stringed instrument produces higher pitch when the string is tighter.",
+    "r": "Greater tension increases the speed of transverse waves in the string, raising the fundamental frequency.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; f ∝ √T → tighter string → higher f → higher pitch. R explains A."
+  },
+  {
+    "id": 974,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 1,
+    "a": "Amplitude is related to the energy of a sound wave.",
+    "r": "Wave energy is proportional to the square of the amplitude (E ∝ A²); greater amplitude = more energy.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; E ∝ A². R explains A."
+  },
+  {
+    "id": 975,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "An echo requires a minimum distance from a reflecting surface.",
+    "r": "The ear needs at least 0.1 s gap to distinguish echo from original sound; at 340 m/s, the wall must be ≥17 m away.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; 17 m minimum for echo. R explains A."
+  },
+  {
+    "id": 976,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "Ultrasound is used to remove dental tartar.",
+    "r": "Ultrasonic scalers vibrate at high frequency, mechanically dislodging tartar from teeth without harm to enamel.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; ultrasonic dental tools use vibration to clean teeth. R explains A."
+  },
+  {
+    "id": 977,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "A guitar string vibrates to produce sound.",
+    "r": "Plucking the string causes it to oscillate; these oscillations disturb surrounding air molecules, creating a sound wave.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; string vibration → air vibration → sound. R explains A."
+  },
+  {
+    "id": 978,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "The intensity of sound follows an inverse square law.",
+    "r": "Sound spreads in all directions from a point source; as area ∝ r², intensity = power/area ∝ 1/r².",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; I ∝ 1/r² (inverse square law). R explains A."
+  },
+  {
+    "id": 979,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "Active noise cancellation headphones use destructive interference.",
+    "r": "They detect incoming sound and produce an inverted (antiphase) version; the two waves cancel each other out.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; superposition of equal-amplitude, opposite-phase waves → destructive interference → silence. R explains A."
+  },
+  {
+    "id": 980,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 1,
+    "a": "A ringing bell inside a glass jar becomes inaudible as air is pumped out.",
+    "r": "With no air medium, sound waves cannot propagate from the bell to the outside of the jar.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; no medium → no sound. R explains A."
+  },
+  {
+    "id": 981,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 2,
+    "a": "Sound waves can be reflected, refracted, and diffracted.",
+    "r": "Like all waves, sound obeys wave properties: reflection (echo), refraction (bending in different media), diffraction (bending around corners).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; sound exhibits all wave behaviours. R explains A."
+  },
+  {
+    "id": 982,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "You can hear sound around corners but not see around them.",
+    "r": "Sound has much longer wavelengths than light; longer wavelengths diffract (bend) more easily around obstacles.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; diffraction ∝ λ; long λ sound diffracts well; short λ light diffracts minimally. R explains A."
+  },
+  {
+    "id": 983,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "Noise pollution can be reduced by planting trees near roads.",
+    "r": "Trees and vegetation absorb and scatter sound waves, acting as natural sound barriers.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; trees reduce sound transmission. R explains A."
+  },
+  {
+    "id": 984,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 5,
+    "a": "The speed of sound does not depend on frequency.",
+    "r": "All frequencies of sound in a given medium travel at the same speed; otherwise a symphony would sound distorted at a distance.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; sound is non-dispersive in a normal medium. R explains A."
+  },
+  {
+    "id": 985,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "Ultrasound inspection of aeroplane wings can detect hidden cracks.",
+    "r": "Cracks cause unexpected reflections of ultrasound waves; the pattern of reflections reveals the crack's location and size.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; non-destructive testing with ultrasound detects internal defects. R explains A."
+  },
+  {
+    "id": 986,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound is a transverse wave.",
+    "ans": 0,
+    "exp": "Sound is a longitudinal wave; particles vibrate parallel to the direction of propagation."
+  },
+  {
+    "id": 987,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound requires a material medium to propagate.",
+    "ans": 1,
+    "exp": "Sound is a mechanical wave; it cannot travel through vacuum."
+  },
+  {
+    "id": 988,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The human ear can hear frequencies above 20,000 Hz.",
+    "ans": 0,
+    "exp": "Frequencies above 20,000 Hz are ultrasound; the human ear cannot hear them."
+  },
+  {
+    "id": 989,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Speed of sound in air is approximately 340 m/s at room temperature.",
+    "ans": 1,
+    "exp": "Standard value: v_sound ≈ 340 m/s in air at ~20°C."
+  },
+  {
+    "id": 990,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Infrasound has frequencies above 20,000 Hz.",
+    "ans": 0,
+    "exp": "Infrasound has frequencies BELOW 20 Hz; ultrasound is ABOVE 20,000 Hz."
+  },
+  {
+    "id": 991,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 2,
+    "q": "The pitch of a sound depends on its amplitude.",
+    "ans": 0,
+    "exp": "Pitch depends on frequency; amplitude determines loudness."
+  },
+  {
+    "id": 992,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Compression is a region of low pressure in a sound wave.",
+    "ans": 0,
+    "exp": "Compression is a region of HIGH pressure (particles pushed together); rarefaction is low pressure."
+  },
+  {
+    "id": 993,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Speed of sound increases with temperature in a gas.",
+    "ans": 1,
+    "exp": "Higher T → faster molecular motion → faster sound propagation (v ∝ √T)."
+  },
+  {
+    "id": 994,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Bats use infrasound for echolocation.",
+    "ans": 0,
+    "exp": "Bats use ULTRASOUND (high frequency, 20,000–100,000 Hz) for echolocation."
+  },
+  {
+    "id": 995,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 2,
+    "q": "v = fλ is the wave equation.",
+    "ans": 1,
+    "exp": "Speed = frequency × wavelength; this is the fundamental wave equation."
+  },
+  {
+    "id": 996,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "An echo requires the reflector to be at least 17 m away.",
+    "ans": 1,
+    "exp": "Echo requires 0.1 s delay; at 340 m/s, wall must be ≥17 m (sound travels 34 m in 0.1 s)."
+  },
+  {
+    "id": 997,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Sound travels faster in water than in air.",
+    "ans": 1,
+    "exp": "v_water ≈ 1500 m/s > v_air ≈ 340 m/s; water's bulk modulus is much higher."
+  },
+  {
+    "id": 998,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "SONAR uses light waves to detect underwater objects.",
+    "ans": 0,
+    "exp": "SONAR uses sound (ultrasound) waves; light is absorbed rapidly in water."
+  },
+  {
+    "id": 999,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "The timbre of a sound is determined by its frequency alone.",
+    "ans": 0,
+    "exp": "Timbre (quality) depends on the waveform shape — the mix of harmonics/overtones, not just fundamental frequency."
+  },
+  {
+    "id": 1000,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Noise pollution can cause permanent hearing damage.",
+    "ans": 1,
+    "exp": "Prolonged exposure to sounds above 85 dB can cause irreversible damage to cochlear hair cells."
+  },
+  {
+    "id": 1001,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Sound travels faster in denser media.",
+    "ans": 0,
+    "exp": "Denser media don't always carry sound faster; stiffness (bulk modulus) matters more. v = √(B/ρ)."
+  },
+  {
+    "id": 1002,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Reverberation improves the intelligibility of speech in large halls.",
+    "ans": 0,
+    "exp": "Excess reverberation makes speech sounds overlap, reducing intelligibility; moderate reverberation is acceptable for music."
+  },
+  {
+    "id": 1003,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Ultrasound can be used to clean delicate jewellery.",
+    "ans": 1,
+    "exp": "Ultrasonic cleaners use cavitation to remove dirt from surfaces without scratching."
+  },
+  {
+    "id": 1004,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Louder sounds have greater amplitude.",
+    "ans": 1,
+    "exp": "Loudness ∝ amplitude²; greater amplitude → more energy → louder sound."
+  },
+  {
+    "id": 1005,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Sound waves can travel around corners due to diffraction.",
+    "ans": 1,
+    "exp": "Sound's long wavelengths allow significant diffraction around obstacles and corners."
+  },
+  {
+    "id": 1006,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "A dog can hear frequencies that humans cannot.",
+    "ans": 1,
+    "exp": "Dogs can hear up to ~65,000 Hz; humans only to ~20,000 Hz."
+  },
+  {
+    "id": 1007,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Ultrasound imaging is dangerous because it uses radiation.",
+    "ans": 0,
+    "exp": "Ultrasound uses sound waves, not ionising radiation (unlike X-rays); it is safe for foetal imaging."
+  },
+  {
+    "id": 1008,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Frequency of sound heard by a stationary observer increases when the source approaches.",
+    "ans": 1,
+    "exp": "Doppler effect: approaching source → compressed waves → higher frequency perceived."
+  },
+  {
+    "id": 1009,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Amplitude and frequency of a sound wave are independent.",
+    "ans": 1,
+    "exp": "They can be varied independently; amplitude = loudness, frequency = pitch."
+  },
+  {
+    "id": 1010,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "The decibel scale is logarithmic.",
+    "ans": 1,
+    "exp": "The dB scale is logarithmic; a 10 dB increase represents a 10× increase in sound intensity."
+  },
+  {
+    "id": 1011,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Music has a regular, periodic waveform while noise is irregular.",
+    "ans": 1,
+    "exp": "Musical sounds have repeating waveforms; noise consists of random, irregular vibrations."
+  },
+  {
+    "id": 1012,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Ultrasound is used in prenatal scanning to image the foetus.",
+    "ans": 1,
+    "exp": "Ultrasound pulses reflect off different tissues; the reflected waves create ultrasound images (sonograms)."
+  },
+  {
+    "id": 1013,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "The denser the medium, the faster sound travels in it.",
+    "ans": 0,
+    "exp": "Speed depends on both elasticity (bulk modulus) and density: v = √(B/ρ); higher density alone slows sound."
+  },
+  {
+    "id": 1014,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Infrasound is used in earthquake early warning systems.",
+    "ans": 1,
+    "exp": "Earthquakes produce infrasound waves; early warning systems detect these before the destructive seismic waves arrive."
+  },
+  {
+    "id": 1015,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Sound can travel in a vacuum.",
+    "ans": 0,
+    "exp": "Sound is a mechanical wave requiring a medium; vacuum has no particles, so sound cannot propagate."
+  },
+  {
+    "id": 1016,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Both sound and light are mechanical waves.",
+    "ans": 0,
+    "exp": "Sound is mechanical (needs medium); light is an electromagnetic wave (needs no medium)."
+  },
+  {
+    "id": 1017,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 2,
+    "q": "A sound wave transfers energy without transferring matter.",
+    "ans": 1,
+    "exp": "Wave energy is transferred through vibrations of particles; particles oscillate about mean positions, not permanently displaced."
+  },
+  {
+    "id": 1018,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Increasing the frequency of sound makes it softer.",
+    "ans": 0,
+    "exp": "Frequency affects pitch; loudness depends on amplitude, not frequency."
+  },
+  {
+    "id": 1019,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Whispering involves low-amplitude sound waves.",
+    "ans": 1,
+    "exp": "Whispering produces sounds with low amplitude → low intensity → quiet sound."
+  },
+  {
+    "id": 1020,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Speed of sound in steel is approximately 5000 m/s.",
+    "ans": 1,
+    "exp": "v_steel ≈ 5000 m/s, much faster than in air or water."
+  },
+  {
+    "id": 1021,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "A megaphone directs sound and increases its effective loudness.",
+    "ans": 1,
+    "exp": "Megaphone channels sound in one direction, reducing spreading and increasing intensity at a target."
+  },
+  {
+    "id": 1022,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Echoes are used in SONAR to find the depth of the sea.",
+    "ans": 1,
+    "exp": "SONAR = Sound Navigation And Ranging; uses echo timing: depth = v×t/2."
+  },
+  {
+    "id": 1023,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Long-distance phone calls always have delay because sound travels slowly.",
+    "ans": 0,
+    "exp": "Modern phone calls use electrical/optical signals (speed of light); delay is from electronics/satellites, not sound speed."
+  },
+  {
+    "id": 1024,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Higher amplitude makes a sound wave of higher pitch.",
+    "ans": 0,
+    "exp": "Higher amplitude makes the sound LOUDER (greater intensity), not higher in pitch."
+  },
+  {
+    "id": 1025,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Wavelength is the distance between two consecutive compressions.",
+    "ans": 1,
+    "exp": "Wavelength = distance from one compression to the next (or one rarefaction to the next)."
+  },
+  {
+    "id": 1026,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Ultrasound is used in non-destructive testing of materials.",
+    "ans": 1,
+    "exp": "Ultrasound reveals internal cracks/defects in metals and composites without damaging the material."
+  },
+  {
+    "id": 1027,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Audible range for children is generally wider than for adults.",
+    "ans": 1,
+    "exp": "Age-related hearing loss typically reduces the upper frequency limit; children can often hear up to 20,000 Hz or higher."
+  },
+  {
+    "id": 1028,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "The Moon is silent because it has no atmosphere.",
+    "ans": 1,
+    "exp": "Without air, sound waves cannot propagate; the Moon is effectively silent."
+  },
+  {
+    "id": 1029,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Elephants can communicate using infrasound.",
+    "ans": 1,
+    "exp": "Elephants produce and detect infrasound (<20 Hz) to communicate over distances of several km."
+  },
+  {
+    "id": 1030,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Sound quality (timbre) is the same for violin and flute playing the same note.",
+    "ans": 0,
+    "exp": "Same frequency → same pitch, but different overtone patterns give different timbres."
+  },
+  {
+    "id": 1031,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Period (T) and frequency (f) are related by T = 1/f.",
+    "ans": 1,
+    "exp": "T = 1/f; period is the time for one complete vibration."
+  },
+  {
+    "id": 1032,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Sound energy decreases as it travels from the source.",
+    "ans": 1,
+    "exp": "Intensity ∝ 1/r²; as wave spreads outward, energy per unit area decreases."
+  },
+  {
+    "id": 1033,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Noise-cancelling headphones work by generating sound waves.",
+    "ans": 1,
+    "exp": "They produce antiphase sound waves that destructively interfere with incoming noise."
+  },
+  {
+    "id": 1034,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "The cochlea in the human ear converts sound to nerve impulses.",
+    "ans": 1,
+    "exp": "The cochlea contains hair cells that detect different frequencies and send signals to the auditory nerve."
+  },
+  {
+    "id": 1035,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Ultrasound is safer than X-rays for repeated medical scans.",
+    "ans": 1,
+    "exp": "Ultrasound uses non-ionising sound waves; X-rays are ionising radiation. Ultrasound is safer for foetal/regular scans."
+  },
+  {
+    "id": 1036,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Speed of sound in different materials is the same.",
+    "ans": 0,
+    "exp": "Speed varies greatly: air ≈ 340, water ≈ 1500, steel ≈ 5000 m/s."
+  },
+  {
+    "id": 1037,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound waves are ___ waves (transverse/longitudinal).",
+    "ans": [
+      "longitudinal"
+    ],
+    "exp": "Particles vibrate along the direction of propagation → longitudinal wave."
+  },
+  {
+    "id": 1038,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The unit of frequency is ___",
+    "ans": [
+      "Hertz (Hz)"
+    ],
+    "exp": "1 Hz = 1 vibration per second."
+  },
+  {
+    "id": 1039,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The audible frequency range for humans is ___ Hz to ___ Hz.",
+    "ans": [
+      "20 to 20,000 (20 kHz)"
+    ],
+    "exp": "Normal human hearing range."
+  },
+  {
+    "id": 1040,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound with frequency below 20 Hz is called ___",
+    "ans": [
+      "infrasound"
+    ],
+    "exp": "Sub-sonic: below lower hearing limit of humans."
+  },
+  {
+    "id": 1041,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound with frequency above 20,000 Hz is called ___",
+    "ans": [
+      "ultrasound"
+    ],
+    "exp": "Super-sonic (in frequency): above upper hearing limit of humans."
+  },
+  {
+    "id": 1042,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 2,
+    "q": "v = f × ___ (wave equation)",
+    "ans": [
+      "λ (wavelength)"
+    ],
+    "exp": "Speed = frequency × wavelength."
+  },
+  {
+    "id": 1043,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Speed of sound in air ≈ ___ m/s",
+    "ans": [
+      "340"
+    ],
+    "exp": "At room temperature (~20°C) in air."
+  },
+  {
+    "id": 1044,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 2,
+    "q": "In a sound wave, regions of high pressure are called ___",
+    "ans": [
+      "compressions"
+    ],
+    "exp": "Compressions: particles crowded together, high pressure."
+  },
+  {
+    "id": 1045,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 2,
+    "q": "In a sound wave, regions of low pressure are called ___",
+    "ans": [
+      "rarefactions"
+    ],
+    "exp": "Rarefactions: particles spread apart, low pressure."
+  },
+  {
+    "id": 1046,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 2,
+    "q": "For an echo to be heard, distance from reflector must be ≥ ___ m",
+    "ans": [
+      "17"
+    ],
+    "exp": "Min 17 m for 0.1 s delay at 340 m/s."
+  },
+  {
+    "id": 1047,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "SONAR stands for ___ Navigation And Ranging",
+    "ans": [
+      "Sound"
+    ],
+    "exp": "Sound Navigation And Ranging."
+  },
+  {
+    "id": 1048,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "The formula to find depth using SONAR: depth = v × t / ___",
+    "ans": [
+      "2"
+    ],
+    "exp": "Sound travels to object AND back; so distance = vt/2."
+  },
+  {
+    "id": 1049,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Loudness of sound is measured in ___ (dB)",
+    "ans": [
+      "decibels"
+    ],
+    "exp": "dB is the unit of sound intensity level."
+  },
+  {
+    "id": 1050,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "The property of sound that depends on frequency is ___",
+    "ans": [
+      "pitch"
+    ],
+    "exp": "Higher frequency → higher pitch."
+  },
+  {
+    "id": 1051,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "The property of sound that depends on amplitude is ___",
+    "ans": [
+      "loudness"
+    ],
+    "exp": "Greater amplitude → louder sound."
+  },
+  {
+    "id": 1052,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Bats use ___ for echolocation",
+    "ans": [
+      "ultrasound"
+    ],
+    "exp": "Bats emit high-frequency pulses (20 kHz–100 kHz) to locate objects."
+  },
+  {
+    "id": 1053,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Elephants communicate using ___ (type of sound)",
+    "ans": [
+      "infrasound"
+    ],
+    "exp": "Infrasound below 20 Hz; travels great distances in the wild."
+  },
+  {
+    "id": 1054,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Reverberation is the persistence of sound due to ___ reflections",
+    "ans": [
+      "multiple"
+    ],
+    "exp": "Sound bounces off walls/ceiling multiple times before dying out."
+  },
+  {
+    "id": 1055,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Ultrasound scanning used in medicine is called ___",
+    "ans": [
+      "ultrasonography (sonography)"
+    ],
+    "exp": "Used to image internal organs and foetus during pregnancy."
+  },
+  {
+    "id": 1056,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Wavelength of sound = v / ___",
+    "ans": [
+      "f (frequency)"
+    ],
+    "exp": "λ = v/f; rearranged from v = fλ."
+  },
+  {
+    "id": 1057,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Speed of sound in water ≈ ___ m/s",
+    "ans": [
+      "1500"
+    ],
+    "exp": "v_water ≈ 1500 m/s (about 4× speed in air)."
+  },
+  {
+    "id": 1058,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Speed of sound in steel ≈ ___ m/s",
+    "ans": [
+      "5000"
+    ],
+    "exp": "v_steel ≈ 5000 m/s (about 15× speed in air)."
+  },
+  {
+    "id": 1059,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "A guitar string vibrating faster produces a sound of ___ pitch",
+    "ans": [
+      "higher"
+    ],
+    "exp": "Higher vibration frequency → higher pitch."
+  },
+  {
+    "id": 1060,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Ultrasound used to break kidney stones is called ___",
+    "ans": [
+      "lithotripsy"
+    ],
+    "exp": "Non-surgical procedure using focused ultrasound to shatter kidney/gallbladder stones."
+  },
+  {
+    "id": 1061,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "The time between a lightning flash and thunder divided by ___ gives approximate distance to storm (in seconds)",
+    "ans": [
+      "3 (or use v=340 m/s × time)"
+    ],
+    "exp": "Rule of thumb: 1 s per 340 m; divide by 3 for km, divide by 5 for miles."
+  },
+  {
+    "id": 1062,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "The quality of sound that distinguishes two notes of the same pitch is ___",
+    "ans": [
+      "timbre (tone quality)"
+    ],
+    "exp": "Timbre depends on the mix of harmonics (overtones) present in the sound."
+  },
+  {
+    "id": 1063,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "The phenomenon of change in frequency of sound due to relative motion between source and listener is called the ___ effect",
+    "ans": [
+      "Doppler"
+    ],
+    "exp": "Doppler effect: approaching source → higher pitch; receding → lower pitch."
+  },
+  {
+    "id": 1064,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Ultrasonic cleaning uses ___ (bubble formation) to remove dirt",
+    "ans": [
+      "cavitation"
+    ],
+    "exp": "Cavitation: ultrasound creates and collapses tiny bubbles; impact dislodges dirt."
+  },
+  {
+    "id": 1065,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Non-destructive testing of metals uses ___",
+    "ans": [
+      "ultrasound"
+    ],
+    "exp": "Ultrasonic waves detect internal cracks without damaging the material."
+  },
+  {
+    "id": 1066,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "The minimum time interval for the ear to distinguish the echo from the original sound is ___ s",
+    "ans": [
+      "0.1"
+    ],
+    "exp": "Persistence of hearing is ~0.1 s; echo must arrive after this interval."
+  },
+  {
+    "id": 1067,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The distance between two consecutive compressions (or rarefactions) is the ___",
+    "ans": [
+      "wavelength (λ)"
+    ],
+    "exp": "Wavelength = distance for one full cycle of the wave."
+  },
+  {
+    "id": 1068,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Period = 1 / ___ (the reciprocal relationship)",
+    "ans": [
+      "frequency (f)"
+    ],
+    "exp": "T = 1/f; e.g., f=100 Hz → T=0.01 s."
+  },
+  {
+    "id": 1069,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Frequency of 260 Hz, speed 340 m/s. Wavelength = ___ m",
+    "ans": [
+      "1.31 (approx)"
+    ],
+    "exp": "λ = v/f = 340/260 ≈ 1.31 m."
+  },
+  {
+    "id": 1070,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Sound waves undergo ___ when they bend around obstacles",
+    "ans": [
+      "diffraction"
+    ],
+    "exp": "Long wavelengths diffract significantly; explains why you can hear around corners."
+  },
+  {
+    "id": 1071,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Sound ___ (can/cannot) be heard on the Moon",
+    "ans": [
+      "cannot"
+    ],
+    "exp": "Moon has no atmosphere; no medium for sound."
+  },
+  {
+    "id": 1072,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Echo time = 4 s, v = 340 m/s. Distance to reflector = ___ m",
+    "ans": [
+      "680"
+    ],
+    "exp": "d = vt/2 = 340×4/2 = 680 m."
+  },
+  {
+    "id": 1073,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "A ___ converts sound energy into electrical energy",
+    "ans": [
+      "microphone"
+    ],
+    "exp": "Microphone: sound → electrical signal (via vibrating diaphragm)."
+  },
+  {
+    "id": 1074,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "A ___ converts electrical energy into sound energy",
+    "ans": [
+      "loudspeaker"
+    ],
+    "exp": "Loudspeaker: electrical signal → mechanical vibration → sound."
+  },
+  {
+    "id": 1075,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "The sound channel in the ocean that allows whale songs to travel vast distances is called the ___ channel",
+    "ans": [
+      "SOFAR (Sound Fixing and Ranging)"
+    ],
+    "exp": "SOFAR channel: natural sound guide in ocean; low-frequency sound trapped at a depth of minimum speed."
+  },
+  {
+    "id": 1076,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 1,
+    "q": "The number of complete vibrations per second is called ___",
+    "ans": [
+      "frequency"
+    ],
+    "exp": "Frequency = vibrations/second; unit = Hz."
+  },
+  {
+    "id": 1077,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 2,
+    "q": "At frequency 1000 Hz and speed 340 m/s, wavelength = ___ m",
+    "ans": [
+      "0.34"
+    ],
+    "exp": "λ = 340/1000 = 0.34 m."
+  },
+  {
+    "id": 1078,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "A ship's SONAR echo returns in 3 s (v = 1500 m/s). Ocean depth = ___ m",
+    "ans": [
+      "2250"
+    ],
+    "exp": "d = 1500×3/2 = 2250 m."
+  },
+  {
+    "id": 1079,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "The three characteristics of musical sound are ___, ___, and ___",
+    "ans": [
+      "loudness, pitch, timbre"
+    ],
+    "exp": "Loudness (amplitude), pitch (frequency), timbre (waveform/overtones)."
+  },
+  {
+    "id": 1080,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "The sensation of hearing is produced in the ___ of the inner ear",
+    "ans": [
+      "cochlea"
+    ],
+    "exp": "Cochlea contains hair cells; converts mechanical vibration to nerve impulses."
+  },
+  {
+    "id": 1081,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "A sound wave of 680 Hz has wavelength 0.5 m. Its speed = ___ m/s",
+    "ans": [
+      "340"
+    ],
+    "exp": "v = fλ = 680×0.5 = 340 m/s."
+  },
+  {
+    "id": 1082,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Speed of sound ___ (increases/decreases) with temperature in air",
+    "ans": [
+      "increases"
+    ],
+    "exp": "Higher T → faster molecular motion → faster sound. v ∝ √T (Kelvin)."
+  },
+  {
+    "id": 1083,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 2,
+    "q": "A compression wave requires a ___ medium to propagate",
+    "ans": [
+      "material (solid/liquid/gas)"
+    ],
+    "exp": "Mechanical wave: needs matter to transfer energy through vibration."
+  },
+  {
+    "id": 1084,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Increasing the ___ of a sound wave makes it louder",
+    "ans": [
+      "amplitude"
+    ],
+    "exp": "Loudness ∝ amplitude²; greater amplitude → more energy → louder."
+  },
+  {
+    "id": 1085,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Bats detect ___ from objects to navigate",
+    "ans": [
+      "echoes (reflected ultrasound)"
+    ],
+    "exp": "Echolocation: emit ultrasound → detect echo → brain calculates distance and direction."
+  },
+  {
+    "id": 1086,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "The unit of sound intensity level is the ___ (dB)",
+    "ans": [
+      "decibel"
+    ],
+    "exp": "dB scale: logarithmic; 0 dB = threshold of hearing; 120 dB = threshold of pain."
+  },
+  {
+    "id": 1087,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Auditorium walls have ___ materials to reduce echo",
+    "ans": [
+      "sound-absorbing (padded/soft)"
+    ],
+    "exp": "Curtains, carpets, foam absorb sound, reducing reverberation."
+  },
+  {
+    "id": 1088,
+    "type": "num",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Frequency = 440 Hz, speed = 340 m/s. Wavelength:",
+    "ans": "0.773",
+    "unit": "m",
+    "exp": "λ = v/f = 340/440 ≈ 0.773 m."
+  },
+  {
+    "id": 1089,
+    "type": "num",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Speed = 340 m/s, wavelength = 0.5 m. Frequency:",
+    "ans": "680",
+    "unit": "Hz",
+    "exp": "f = v/λ = 340/0.5 = 680 Hz."
+  },
+  {
+    "id": 1090,
+    "type": "num",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Echo heard after 2 s, v = 340 m/s. Distance to reflector:",
+    "ans": "340",
+    "unit": "m",
+    "exp": "d = vt/2 = 340×2/2 = 340 m."
+  },
+  {
+    "id": 1091,
+    "type": "num",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Frequency = 200 Hz. Period:",
+    "ans": "0.005",
+    "unit": "s",
+    "exp": "T = 1/f = 1/200 = 0.005 s."
+  },
+  {
+    "id": 1092,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Bat emits pulse, echo in 0.06 s, v = 340 m/s. Distance to obstacle:",
+    "ans": "10.2",
+    "unit": "m",
+    "exp": "d = 340×0.06/2 = 10.2 m."
+  },
+  {
+    "id": 1093,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "SONAR: echo returns in 4 s, v = 1500 m/s. Ocean depth:",
+    "ans": "3000",
+    "unit": "m",
+    "exp": "d = 1500×4/2 = 3000 m."
+  },
+  {
+    "id": 1094,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Speed = 340 m/s, f = 1000 Hz. Wavelength:",
+    "ans": "0.34",
+    "unit": "m",
+    "exp": "λ = 340/1000 = 0.34 m."
+  },
+  {
+    "id": 1095,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Wavelength = 2 m, f = 170 Hz. Speed:",
+    "ans": "340",
+    "unit": "m/s",
+    "exp": "v = fλ = 170×2 = 340 m/s."
+  },
+  {
+    "id": 1096,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Thunder heard 5 s after lightning (v=340 m/s). Distance to storm:",
+    "ans": "1700",
+    "unit": "m",
+    "exp": "d = v×t = 340×5 = 1700 m (sound travels one way)."
+  },
+  {
+    "id": 1097,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Speed of sound in steel = 5000 m/s, f = 50,000 Hz. Wavelength:",
+    "ans": "0.1",
+    "unit": "m",
+    "exp": "λ = 5000/50000 = 0.1 m."
+  },
+  {
+    "id": 1098,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "A ship sends SONAR pulse; echo in 6 s (v=1500 m/s). Depth of sea:",
+    "ans": "4500",
+    "unit": "m",
+    "exp": "d = 1500×6/2 = 4500 m."
+  },
+  {
+    "id": 1099,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Frequency = 85 Hz, speed = 340 m/s. Wavelength:",
+    "ans": "4",
+    "unit": "m",
+    "exp": "λ = 340/85 = 4 m."
+  },
+  {
+    "id": 1100,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Period = 0.002 s. Frequency:",
+    "ans": "500",
+    "unit": "Hz",
+    "exp": "f = 1/T = 1/0.002 = 500 Hz."
+  },
+  {
+    "id": 1101,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Speed of sound in water = 1500 m/s, wavelength = 0.015 m. Frequency:",
+    "ans": "100000",
+    "unit": "Hz",
+    "exp": "f = v/λ = 1500/0.015 = 100,000 Hz = 100 kHz (ultrasound)."
+  },
+  {
+    "id": 1102,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "A sound wave travels 3 km in 9 s. Speed:",
+    "ans": "333",
+    "unit": "m/s",
+    "exp": "v = d/t = 3000/9 ≈ 333 m/s."
+  },
+  {
+    "id": 1103,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Echo: distance to wall = 170 m, v = 340 m/s. Time to hear echo:",
+    "ans": "1",
+    "unit": "s",
+    "exp": "t = 2d/v = 2×170/340 = 1 s."
+  },
+  {
+    "id": 1104,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "A bat emits 50,000 Hz ultrasound (v=340 m/s in air). Wavelength:",
+    "ans": "0.0068",
+    "unit": "m",
+    "exp": "λ = 340/50000 = 0.0068 m = 6.8 mm."
+  },
+  {
+    "id": 1105,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Dolphin: f = 150,000 Hz, v = 1500 m/s. Wavelength:",
+    "ans": "0.01",
+    "unit": "m",
+    "exp": "λ = 1500/150000 = 0.01 m = 1 cm."
+  },
+  {
+    "id": 1106,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Sound wave: v = 340 m/s, T = 0.004 s. Wavelength:",
+    "ans": "1.36",
+    "unit": "m",
+    "exp": "λ = v×T = 340×0.004 = 1.36 m."
+  },
+  {
+    "id": 1107,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Two echoes from hills: d₁ = 340 m, d₂ = 680 m, v=340 m/s. Time of 1st echo:",
+    "ans": "2",
+    "unit": "s",
+    "exp": "t₁ = 2×340/340 = 2 s."
+  },
+  {
+    "id": 1108,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Time of 2nd echo from d₂=680 m (v=340):",
+    "ans": "4",
+    "unit": "s",
+    "exp": "t₂ = 2×680/340 = 4 s."
+  },
+  {
+    "id": 1109,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "SONAR pulse: depth = 1000 m, v = 1500 m/s. Time for echo:",
+    "ans": "1.33",
+    "unit": "s",
+    "exp": "t = 2d/v = 2×1000/1500 ≈ 1.33 s."
+  },
+  {
+    "id": 1110,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Frequency = 250 Hz (in air, v=340). Wavelength:",
+    "ans": "1.36",
+    "unit": "m",
+    "exp": "λ = 340/250 = 1.36 m."
+  },
+  {
+    "id": 1111,
+    "type": "num",
+    "ch": 10,
+    "bloom": 6,
+    "q": "SONAR detects submarine: echo in 0.8 s (v=1500). Distance:",
+    "ans": "600",
+    "unit": "m",
+    "exp": "d = 1500×0.8/2 = 600 m."
+  },
+  {
+    "id": 1112,
+    "type": "num",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Ultrasound pulse: f = 200 kHz, v = 1500 m/s. Wavelength in mm:",
+    "ans": "7.5",
+    "unit": "mm",
+    "exp": "λ = 1500/200000 = 0.0075 m = 7.5 mm."
+  },
+  {
+    "id": 1113,
+    "type": "num",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Speed of sound at 0°C ≈ 332 m/s. If temperature raises by 1°C, speed increases by ≈0.6 m/s. Speed at 20°C:",
+    "ans": "344",
+    "unit": "m/s",
+    "exp": "v ≈ 332 + 0.6×20 = 332 + 12 = 344 m/s."
+  },
+  {
+    "id": 1114,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "A foghorn blasts every 1.5 s. Frequency:",
+    "ans": "0.67",
+    "unit": "Hz",
+    "exp": "f = 1/T = 1/1.5 ≈ 0.67 Hz (infrasound range)."
+  },
+  {
+    "id": 1115,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Wavelength in air = 0.68 m (v=340 m/s). Frequency:",
+    "ans": "500",
+    "unit": "Hz",
+    "exp": "f = v/λ = 340/0.68 = 500 Hz."
+  },
+  {
+    "id": 1116,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "A sound travels 1020 m in 3 s. Speed in the medium:",
+    "ans": "340",
+    "unit": "m/s",
+    "exp": "v = d/t = 1020/3 = 340 m/s."
+  },
+  {
+    "id": 1117,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Minimum wall distance for echo at v=340 m/s (use 0.1 s):",
+    "ans": "17",
+    "unit": "m",
+    "exp": "d = v×t/2 = 340×0.1/2 = 17 m."
+  },
+  {
+    "id": 1118,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "A source vibrates 260 times in 0.5 s. Frequency:",
+    "ans": "520",
+    "unit": "Hz",
+    "exp": "f = 260/0.5 = 520 Hz."
+  },
+  {
+    "id": 1119,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "In steel (v=5000 m/s), f=25,000 Hz. Wavelength:",
+    "ans": "0.2",
+    "unit": "m",
+    "exp": "λ = 5000/25000 = 0.2 m."
+  },
+  {
+    "id": 1120,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Sound travels 1500 m in water. At v=1500 m/s, time:",
+    "ans": "1",
+    "unit": "s",
+    "exp": "t = d/v = 1500/1500 = 1 s."
+  },
+  {
+    "id": 1121,
+    "type": "num",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Echo from cliff: time = 3 s, v = 340 m/s. Distance to cliff:",
+    "ans": "510",
+    "unit": "m",
+    "exp": "d = 340×3/2 = 510 m."
+  },
+  {
+    "id": 1122,
+    "type": "num",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Frequency 20 Hz (lower hearing limit), v=340 m/s. Wavelength:",
+    "ans": "17",
+    "unit": "m",
+    "exp": "λ = 340/20 = 17 m."
+  },
+  {
+    "id": 1123,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Frequency 20,000 Hz (upper limit), v=340 m/s. Wavelength:",
+    "ans": "0.017",
+    "unit": "m",
+    "exp": "λ = 340/20000 = 0.017 m = 1.7 cm."
+  },
+  {
+    "id": 1124,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Ultrasound f=1 MHz (10⁶ Hz), v=1500 m/s (water). Wavelength:",
+    "ans": "0.0015",
+    "unit": "m",
+    "exp": "λ = 1500/10⁶ = 1.5×10⁻³ m = 1.5 mm."
+  },
+  {
+    "id": 1125,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Period of a 440 Hz A-note (tuning fork):",
+    "ans": "0.00227",
+    "unit": "s",
+    "exp": "T = 1/440 ≈ 0.00227 s ≈ 2.27 ms."
+  },
+  {
+    "id": 1126,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Speed = 340 m/s, λ = 0.085 m. Frequency:",
+    "ans": "4000",
+    "unit": "Hz",
+    "exp": "f = 340/0.085 = 4000 Hz."
+  },
+  {
+    "id": 1127,
+    "type": "num",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Two successive echoes heard 1 s and 2.5 s after shout (v=340). Distances:",
+    "ans": "170",
+    "unit": "m and 425 m",
+    "exp": "d₁=340×1/2=170 m; d₂=340×2.5/2=425 m."
+  },
+  {
+    "id": 1128,
+    "type": "num",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound travels 1 km in air (v=340 m/s). Time:",
+    "ans": "2.94",
+    "unit": "s",
+    "exp": "t = 1000/340 ≈ 2.94 s."
+  },
+  {
+    "id": 1129,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Human heartbeat: 75 beats/min. Frequency in Hz:",
+    "ans": "1.25",
+    "unit": "Hz",
+    "exp": "f = 75/60 = 1.25 Hz."
+  },
+  {
+    "id": 1130,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Seismic infrasound: f = 0.1 Hz, v = 3000 m/s. Wavelength:",
+    "ans": "30000",
+    "unit": "m (30 km)",
+    "exp": "λ = v/f = 3000/0.1 = 30,000 m."
+  },
+  {
+    "id": 1131,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Waves: 400 complete waves pass in 2 s. Frequency:",
+    "ans": "200",
+    "unit": "Hz",
+    "exp": "f = 400/2 = 200 Hz."
+  },
+  {
+    "id": 1132,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Shouted: echo heard after 0.5 s (v=340). Wall distance:",
+    "ans": "85",
+    "unit": "m",
+    "exp": "d = 340×0.5/2 = 85 m."
+  },
+  {
+    "id": 1133,
+    "type": "num",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Ultrasound in human tissue (v=1540 m/s), f=5 MHz. Wavelength:",
+    "ans": "0.000308",
+    "unit": "m (0.308 mm)",
+    "exp": "λ = 1540/(5×10⁶) ≈ 3.08×10⁻⁴ m. Enables imaging of small structures."
+  },
+  {
+    "id": 1134,
+    "type": "num",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Sound intensity at 2 m from source = 1 W/m². At 4 m (inverse square law):",
+    "ans": "0.25",
+    "unit": "W/m²",
+    "exp": "I ∝ 1/r²; I₂ = I₁×(r₁/r₂)² = 1×(2/4)² = 0.25 W/m²."
+  },
+  {
+    "id": 1135,
+    "type": "num",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Echo: total time 1.2 s (v=340). Distance:",
+    "ans": "204",
+    "unit": "m",
+    "exp": "d = 340×1.2/2 = 204 m."
+  },
+  {
+    "id": 1136,
+    "type": "num",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Speed of sound at 15°C ≈ 340 m/s, f = 512 Hz. Wavelength:",
+    "ans": "0.664",
+    "unit": "m",
+    "exp": "λ = 340/512 ≈ 0.664 m."
+  },
+  {
+    "id": 1137,
+    "type": "num",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Bat emits 80,000 Hz pulse; echo returns in 0.01 s (v=340). Distance:",
+    "ans": "1.7",
+    "unit": "m",
+    "exp": "d = 340×0.01/2 = 1.7 m."
+  },
+  {
+    "id": 1138,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "A violin string: f=440 Hz. If tension doubles, new f:",
+    "ans": "622",
+    "unit": "Hz",
+    "exp": "f ∝ √T; new f = 440×√2 ≈ 622 Hz."
+  },
+  {
+    "id": 1139,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 1,
+    "q": "What is sound and how is it produced?",
+    "ans": "Sound is a form of energy produced by vibrating objects. When an object vibrates, it pushes and pulls surrounding air particles, creating alternating regions of compression (high pressure) and rarefaction (low pressure). These pressure variations propagate as longitudinal waves through the medium.",
+    "exp": "Sound = energy from vibrations; compressions and rarefactions propagate as longitudinal waves."
+  },
+  {
+    "id": 1140,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Why can sound not travel through vacuum?",
+    "ans": "Sound is a mechanical wave that requires a medium (solid, liquid, or gas) for propagation. In a vacuum, there are no particles to vibrate and carry the wave. This is demonstrated by placing a ringing bell inside a jar and pumping out air — the sound diminishes and disappears as air is removed.",
+    "exp": "No particles in vacuum → no medium for vibration → sound cannot propagate."
+  },
+  {
+    "id": 1141,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Distinguish between longitudinal and transverse waves with examples.",
+    "ans": "In longitudinal waves, particles vibrate parallel to the direction of wave propagation (e.g., sound, P-waves in earthquakes). In transverse waves, particles vibrate perpendicular to wave direction (e.g., light waves, waves on a string). Sound in air is longitudinal; it creates compressions and rarefactions.",
+    "exp": "Longitudinal: vibration parallel to propagation (sound). Transverse: perpendicular (light, string waves)."
+  },
+  {
+    "id": 1142,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Explain why sound travels faster in solids than in liquids than in gases.",
+    "ans": "Speed of sound v = √(B/ρ) where B = bulk modulus (stiffness) and ρ = density. Solids have very strong intermolecular bonds (highest B); liquids are less rigid; gases are compressible (lowest B). Although solids are denser, their much higher stiffness dominates, giving the highest sound speed.",
+    "exp": "v = √(B/ρ); solids have highest stiffness → highest speed; gases have lowest stiffness → slowest."
+  },
+  {
+    "id": 1143,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 2,
+    "q": "What is an echo and how is it used practically?",
+    "ans": "An echo is the reflection of sound from a distant hard surface, heard after the original sound has ended. For an echo to be heard separately, the reflector must be ≥17 m away (0.1 s minimum delay at 340 m/s). Used in: SONAR (ocean depth), rangefinding, medical imaging, echolocation by bats and dolphins.",
+    "exp": "Echo = reflected sound (min 17 m distance); used in SONAR, ranging, medical ultrasound."
+  },
+  {
+    "id": 1144,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 2,
+    "q": "What is the difference between loudness and intensity of sound?",
+    "ans": "Intensity is the power per unit area (W/m²) of a sound wave — an objective physical quantity. Loudness is the subjective human perception of sound intensity, measured in decibels (dB). The dB scale is logarithmic: 10 dB increase = 10× intensity. 0 dB = threshold of hearing; 120 dB = threshold of pain.",
+    "exp": "Intensity = power/area (W/m², objective); loudness = subjective perception measured in dB."
+  },
+  {
+    "id": 1145,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "How do bats use echolocation to navigate?",
+    "ans": "Bats emit short pulses of ultrasound (20,000–100,000 Hz) from their larynx or nose. The pulses reflect off objects; the bat's brain processes the returning echoes to determine distance (from time delay), direction, and size of objects. This allows navigation in total darkness and catching prey insects.",
+    "exp": "Bats emit ultrasound → detect echoes → brain calculates distance and direction of objects."
+  },
+  {
+    "id": 1146,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Explain the working principle of SONAR.",
+    "ans": "SONAR (Sound Navigation And Ranging) sends a pulse of ultrasound from a ship into water. The pulse reflects off underwater objects (sea floor, submarines, fish) and returns. Time taken for echo return gives distance: d = v×t/2. Used for mapping ocean floor, detecting submarines, locating fish schools, measuring sea depth.",
+    "exp": "SONAR: emit ultrasound → measure echo return time → depth = v×t/2."
+  },
+  {
+    "id": 1147,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Why do auditoriums use carpets, curtains, and soft furnishings?",
+    "ans": "These materials absorb sound energy, reducing reflections (reverberation). Excessive reverberation (multiple echoes) makes speech unintelligible as sounds overlap. Soft, porous materials convert sound energy to heat. Proper acoustic design balances absorption (for clarity) with mild reverberation (for pleasant music quality).",
+    "exp": "Soft materials absorb sound → reduce reverberation → clearer speech in halls."
+  },
+  {
+    "id": 1148,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "What is the Doppler effect and what are its applications?",
+    "ans": "The Doppler effect is the change in perceived frequency of sound (or light) due to relative motion between source and observer. When source approaches, waves are compressed → higher frequency (pitch). Receding: waves stretched → lower frequency. Applications: speed guns, weather radar, medical blood flow measurement (Doppler ultrasound), astronomy (star velocity from red/blue shift).",
+    "exp": "Doppler: relative motion shifts frequency; approaching → higher f; receding → lower f."
+  },
+  {
+    "id": 1149,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "How does medical ultrasound imaging work?",
+    "ans": "A transducer emits high-frequency ultrasound pulses (1–20 MHz) into the body. Pulses reflect from tissue boundaries (organs, bones, foetus). The reflected pulses return at different times depending on depth. A computer reconstructs these into a 2D or 3D image. Safe (no ionising radiation), real-time imaging for soft tissues.",
+    "exp": "Ultrasound pulses reflect from tissue boundaries; timing and intensity create images."
+  },
+  {
+    "id": 1150,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Why is infrasound used for earthquake early warning?",
+    "ans": "Earthquakes generate infrasound waves that propagate through the Earth's crust. These waves travel faster than the destructive seismic surface waves. Seismographs and infrasound detectors can detect them seconds to minutes before the devastating shaking arrives, giving warning time for evacuation.",
+    "exp": "Infrasound from earthquakes travels ahead of destructive waves; detected for early warning."
+  },
+  {
+    "id": 1151,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Compare the hearing ranges of humans, dogs, bats, and elephants.",
+    "ans": "Humans: 20–20,000 Hz. Dogs: 40–65,000 Hz (can hear ultrasound we miss). Bats: 1,000–100,000 Hz (specialist echolocation). Elephants: 1–20,000 Hz (infrasound communication plus normal range). Different ranges evolved for different ecological needs: bats for echolocation, elephants for long-distance communication.",
+    "exp": "Human 20–20k Hz; dogs to 65k; bats to 100k (ultrasound); elephants down to 1 Hz (infrasound)."
+  },
+  {
+    "id": 1152,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Explain how ultrasonic cleaning works.",
+    "ans": "An ultrasonic cleaner tank filled with liquid vibrates at frequencies of 20,000–400,000 Hz. This creates rapid pressure changes that cause tiny bubbles to form and implode violently (cavitation). The implosion creates intense local forces that dislodge dirt, grease, and bacteria from surfaces without scratching. Used for glasses, dental instruments, jewellery, circuit boards.",
+    "exp": "Ultrasound → cavitation (bubble implosion) → mechanical removal of dirt."
+  },
+  {
+    "id": 1153,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Describe noise pollution: sources, effects, and control.",
+    "ans": "Sources: traffic, construction, aircraft, industry, loudspeakers. Effects: hearing damage (>85 dB prolonged), stress, hypertension, sleep disturbance, cognitive impairment in children. Control: sound barriers (walls, trees), industrial ear protection, vehicle silencers, building insulation, noise regulations. WHO recommends <55 dB daytime environmental noise.",
+    "exp": "Noise pollution sources: traffic/industry; effects: hearing loss, stress; control: barriers, insulation, regulation."
+  },
+  {
+    "id": 1154,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Design a simple experiment to measure the speed of sound in air using an echo.",
+    "ans": "Method: Stand at measured distance d from a large flat wall. Clap hands rhythmically until each clap aligns with its own echo. Gradually adjust timing. Count claps (n) in measured time t. Each 'two-clap period' = 2d/v. So v = 2dn/t. Alternatively, one person fires a gun; observer notes time between flash and sound over known distance.",
+    "exp": "Echo experiment: clap timing method or gun-flash method; v = 2d/t (echo time)."
+  },
+  {
+    "id": 1155,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "How does a stethoscope use sound principles?",
+    "ans": "A stethoscope picks up body sounds (heartbeat, breath) with a chest piece (closed cavity amplifies sound). Sound travels through flexible tubes to the earpieces. The closed system prevents sound energy from dispersing into the air, allowing the doctor to hear weak internal sounds. The chest piece acts as a resonator and transmitter.",
+    "exp": "Stethoscope channels body sounds through closed cavity and tubes, amplifying weak sounds to ears."
+  },
+  {
+    "id": 1156,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 1,
+    "q": "What is the difference between noise and music?",
+    "ans": "Music consists of sounds with regular, periodic waveforms at specific frequencies (notes), produced intentionally. Noise is a mixture of sound waves with irregular frequencies and random amplitudes. Musically, the distinction is subjective; physically, music has defined pitches and timbres, while noise has a random spectrum.",
+    "exp": "Music: regular periodic waveforms; noise: irregular, random frequency mixture."
+  },
+  {
+    "id": 1157,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Explain the three characteristics of musical sound.",
+    "ans": "(1) Loudness: depends on amplitude; greater amplitude → louder sound; measured in dB. (2) Pitch: depends on frequency; higher frequency → higher pitch (soprano vs bass). (3) Timbre: depends on waveform shape (harmonics/overtones); allows us to tell a piano from a violin playing the same note.",
+    "exp": "Loudness (amplitude), pitch (frequency), timbre (waveform/overtones)."
+  },
+  {
+    "id": 1158,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "How are sound waves used to detect cracks in metal rails?",
+    "ans": "Ultrasonic testing: a transducer attached to the rail sends ultrasound pulses along the metal. In defect-free rail, the pulse travels to the end and reflects back. A crack or internal void causes an unexpected echo mid-way, detected by the receiver. The time of the extra echo indicates the crack's location.",
+    "exp": "Ultrasound in rail → early echo = crack detected; defect-free = echo only from end."
+  },
+  {
+    "id": 1159,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Why is ultrasound safer than X-rays for foetal imaging?",
+    "ans": "X-rays are ionising radiation that can damage DNA and cause cell mutations, especially harmful to rapidly dividing foetal cells. Ultrasound is non-ionising mechanical energy (sound waves) that does not damage DNA. Ultrasound is considered safe at diagnostic intensities; X-rays are avoided during pregnancy whenever possible.",
+    "exp": "Ultrasound = non-ionising sound energy (safe). X-rays = ionising radiation (can harm DNA → avoid in pregnancy)."
+  },
+  {
+    "id": 1160,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "How does temperature affect the speed of sound?",
+    "ans": "Sound speed in a gas is v ∝ √T (where T is temperature in Kelvin). Higher temperature → molecules have more kinetic energy → vibrate and collide more rapidly → energy transmits faster → speed increases. At room temperature, each 1°C rise increases sound speed by ~0.6 m/s. At 0°C: 332 m/s; at 20°C: ~344 m/s.",
+    "exp": "v ∝ √T; higher temperature → faster molecules → faster energy transfer → faster sound."
+  },
+  {
+    "id": 1161,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Critically evaluate: 'Silence is the absence of all sound.' Is this possible in practice?",
+    "ans": "In theory, absolute silence (0 dB) exists only in a perfect anechoic chamber or deep space. In practice, thermal vibrations, air molecules, background radiation, and one's own body sounds (heartbeat, blood flow) mean we always experience some sound. The quietest place on Earth (Microsoft's anechoic chamber) is measured at about -20 dB SPL.",
+    "exp": "True silence is impossible; thermal motion and body sounds create minimum background; anechoic chambers approach it."
+  },
+  {
+    "id": 1162,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Explain why you can hear someone talking around a corner but cannot see them.",
+    "ans": "This is due to diffraction. Sound waves have wavelengths of 0.017–17 m (for 20–20,000 Hz); these long wavelengths diffract (bend) significantly around corners. Light has wavelengths of ~400–700 nm (nanometres); these tiny wavelengths barely diffract around everyday obstacles. Diffraction extent ∝ λ/obstacle size.",
+    "exp": "Diffraction: sound's long λ bends well around corners; light's tiny λ does not."
+  },
+  {
+    "id": 1163,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Describe how dolphins use ultrasound and compare with human-made SONAR.",
+    "ans": "Dolphins emit click sounds at 0.2–150 kHz from the melon (fatty organ in head). Echoes from objects are received through the lower jaw and transmitted to the inner ear and brain. Resolution is excellent due to short wavelengths. Human SONAR works similarly: emit ultrasound → receive echo → compute distance. Dolphins can discriminate object shapes; SONAR gives position/distance.",
+    "exp": "Dolphins: natural biological sonar using melon and jaw for emitting/receiving ultrasound; similar principle to man-made SONAR."
+  },
+  {
+    "id": 1164,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "What is reverberation and when is it desirable or undesirable?",
+    "ans": "Reverberation is the persistence of sound after the source stops, caused by multiple reflections from walls, floor, and ceiling. Desirable: in music (concert halls, churches) a moderate reverberation time (1–2 s) enriches musical sound. Undesirable: in lecture halls (excess reverberation muddles speech) or recording studios (requires near-zero reverberation for clean recording).",
+    "exp": "Reverberation: persistence from multiple reflections; good for music (1–2 s); bad for speech intelligibility."
+  },
+  {
+    "id": 1165,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "How is sound used in the treatment of medical conditions?",
+    "ans": "Ultrasound is used in: (1) Lithotripsy: focused ultrasound breaks kidney stones. (2) Physiotherapy: therapeutic ultrasound heats deep tissues, promotes healing. (3) Cancer treatment: high-intensity focused ultrasound (HIFU) destroys tumor cells. (4) Dental cleaners: ultrasonic scalers remove tartar. (5) Diagnostic imaging: sonography (prenatal, cardiac, abdominal).",
+    "exp": "Medical ultrasound: lithotripsy, physiotherapy, HIFU cancer treatment, dental cleaning, diagnostic imaging."
+  },
+  {
+    "id": 1166,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 1,
+    "q": "How is the wavelength of sound related to the pitch we perceive?",
+    "ans": "Wavelength λ = v/f. At constant speed, higher frequency → shorter wavelength → higher pitch. Lower frequency → longer wavelength → lower pitch. We perceive bass (long wavelength, low f) and treble (short wavelength, high f). Wavelength is not directly perceived; we sense pitch from frequency.",
+    "exp": "λ = v/f; higher f (shorter λ) → higher pitch; lower f (longer λ) → lower pitch."
+  },
+  {
+    "id": 1167,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Explain why sounds are louder and carry farther on cold nights.",
+    "ans": "At night, air near the ground is cooler (and denser) while air higher up is warmer. Sound is refracted (bent) downward toward cooler, denser air. This bending keeps more sound energy near the ground level, where listeners are. Also, less wind and less ambient noise at night. Result: sound appears louder and travels farther.",
+    "exp": "Cold night: sound refracted toward cooler ground air → more energy reaches ground level → sounds louder."
+  },
+  {
+    "id": 1168,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "Describe how military submarines use SONAR and how they avoid detection.",
+    "ans": "Active SONAR: submarine sends pulses; echoes reveal objects. Passive SONAR: listens for enemy sounds only (submarine's own engines, hull vibrations). To avoid detection, submarines use: anechoic (sound-absorbing) coatings, quiet electric motors, slow speed, and float neutrally. Modern subs are very quiet, making passive detection difficult.",
+    "exp": "Active SONAR emits; passive SONAR listens. Submarines use anechoic coatings and quiet motors to avoid detection."
+  },
+  {
+    "id": 1169,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Why are old buildings with marble floors and high ceilings often very echoey?",
+    "ans": "Marble is hard and smooth — it reflects sound efficiently with little absorption. High ceilings increase the distance sound must travel for each reflection, allowing many echoes at different delays. The combination of reflective surfaces and large volume produces long reverberation times. Drapes, carpets, and acoustic panels would help.",
+    "exp": "Hard marble + high ceiling → many strong reflections + long delay = long reverberation; soft furnishings reduce this."
+  },
+  {
+    "id": 1170,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "How does the human ear detect different frequencies of sound?",
+    "ans": "The cochlea is a fluid-filled spiral. Sound vibrations enter via the eardrum → three bones (ossicles: malleus, incus, stapes) → oval window → cochlea. The basilar membrane inside the cochlea vibrates at different points for different frequencies (high f near base, low f near apex). Hair cells at each location convert mechanical vibration to nerve signals.",
+    "exp": "Cochlea: basilar membrane resonates at different points for different f; hair cells convert to nerve signals."
+  },
+  {
+    "id": 1171,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Propose how infrasound monitoring could improve disaster management.",
+    "ans": "Volcanoes, landslides, avalanches, earthquakes, and severe storms all generate infrasound. A global network of infrasound sensors could detect these events before they become catastrophic, provide early warnings, and help locate events precisely. Infrasound travels vast distances with little attenuation; sensors can be placed at strategic locations globally to cover Earth's surface.",
+    "exp": "Global infrasound network: detects disasters (quakes, eruptions, storms) early → saves lives through early warning."
+  },
+  {
+    "id": 1172,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Explain why echoes in mountains seem to last longer than in open fields.",
+    "ans": "Mountain echoes involve sound reflecting off multiple large surfaces (cliff faces, valley walls) at various distances. Each reflection adds another delayed echo, creating a prolonged series of echoes. In open fields, there are no large reflectors; sound disperses without returning. The sustained mountain echo is due to multiple superimposed reflections arriving continuously.",
+    "exp": "Mountains: multiple large reflective surfaces at varied distances → many delayed echoes → prolonged sound."
+  },
+  {
+    "id": 1173,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "How does active noise cancellation work?",
+    "ans": "A microphone picks up incoming noise. A processor analyzes the waveform and instantly generates an exactly opposite (inverted/antiphase) sound wave from the speaker in the headphone. The two waves destructively interfere: their compressions and rarefactions cancel each other. The listener hears greatly reduced noise. Best for constant, low-frequency noise (aircraft engines, traffic).",
+    "exp": "ANC: microphone detects noise → generates antiphase signal → destructive interference → silence."
+  },
+  {
+    "id": 1174,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Why do older adults often lose the ability to hear high-pitched sounds?",
+    "ans": "Age-related hearing loss (presbycusis) involves gradual degeneration of cochlear hair cells, especially those at the base of the cochlea (where high frequencies are detected). These cells do not regenerate. By age 60, many people cannot hear above ~8,000–12,000 Hz. Noise exposure throughout life accelerates this.",
+    "exp": "Cochlear hair cells at high-f base degenerate with age → loss of high-frequency hearing (presbycusis)."
+  },
+  {
+    "id": 1175,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Compare SONAR with RADAR: principles, medium, and applications.",
+    "ans": "SONAR uses sound waves in water (v≈1500 m/s); limited to underwater or air. RADAR uses electromagnetic waves (v=3×10⁸ m/s) in air/space. Both use echo timing for distance. SONAR: submarine detection, ocean mapping, fish finding. RADAR: aircraft tracking, weather, speed guns, astronomical mapping. SONAR works in water (EM waves absorbed); RADAR works in air (sound disperses).",
+    "exp": "SONAR: sound in water (1500 m/s) for underwater. RADAR: EM waves in air/space (3×10⁸ m/s) for aircraft/weather."
+  },
+  {
+    "id": 1176,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Propose an experiment to demonstrate that sound travels faster in solids than in air.",
+    "ans": "Tap one end of a long iron rail with a hammer. A person at the other end places their ear on the rail. They hear two sounds: first through the rail (solid, faster) then through air (slower). The time gap between the two sounds increases with length of rail. This demonstrates v_solid > v_air.",
+    "exp": "Rail experiment: one sound through solid (first, fast) then air (second, slower) → v_solid > v_air."
+  },
+  {
+    "id": 1177,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "What are the advantages of using ultrasound over audible sound for medical imaging?",
+    "ans": "Higher frequency → shorter wavelength → can image smaller structures (better resolution). Ultrasound is non-ionising (no radiation damage). Can produce real-time moving images (Doppler for blood flow). Can focus on specific tissue layers. Works well in soft tissue. Safe for repeated use and for fetuses during pregnancy.",
+    "exp": "Ultrasound advantages: short λ → better resolution; non-ionising; real-time; safe; Doppler for blood flow."
+  },
+  {
+    "id": 1178,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Explain why jet aircraft produce a sonic boom.",
+    "ans": "When an aircraft travels slower than sound, it produces a bow wave of sound around it. At the speed of sound, sound waves pile up at the nose. Beyond the speed of sound (supersonic), the aircraft outruns its own sound waves, creating a cone-shaped shock wave (Mach cone) that sweeps along the ground as a loud 'boom'.",
+    "exp": "Supersonic aircraft creates conical shock wave (Mach cone) that sweeps ground producing sonic boom."
+  },
+  {
+    "id": 1179,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "How can trees and vegetation act as a sound barrier near busy roads?",
+    "ans": "Trees have leaves, branches, and rough bark that absorb, scatter, and reflect sound waves. A band of dense trees 30–40 m wide can reduce road noise by 5–10 dB. The longer the path through vegetation, the more attenuation. Trees also block line-of-sight sound paths. Combined with berm (earth mound), significant noise reduction is achievable.",
+    "exp": "Trees absorb, scatter, and reflect sound; 30–40 m dense belt reduces noise by 5–10 dB."
+  },
+  {
+    "id": 1180,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Evaluate the role of sound technology in modern medicine.",
+    "ans": "Ultrasound: diagnostic imaging (most safe, no radiation), Doppler flow measurement, echocardiography. Therapeutic: lithotripsy (kidney stones), HIFU (tumor treatment), physiotherapy. Dental: ultrasonic scaling. Surgical: ultrasonic scalpels. Sound is also used in hearing aids (amplification). These technologies have made diagnosis safer (no X-ray exposure) and enabled non-invasive treatments that replace surgery.",
+    "exp": "Ultrasound in medicine: diagnosis (sonography, echo), therapy (HIFU, lithotripsy), dental, surgical — non-invasive and radiation-free."
+  },
+  {
+    "id": 1181,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 1,
+    "q": "Explain the difference between pitch and loudness with everyday examples.",
+    "ans": "Pitch is the quality of sound related to frequency. A piccolo (high pitch) has higher frequency than a bass tuba (low pitch). Loudness is related to amplitude (energy). A shout (high amplitude, loud) vs a whisper (low amplitude, soft) can both be at the same pitch. You can have a loud, low-pitched sound (thunder) or a quiet, high-pitched sound (whisper).",
+    "exp": "Pitch ↔ frequency (piccolo vs tuba). Loudness ↔ amplitude (shout vs whisper). They are independent."
+  },
+  {
+    "id": 1182,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 2,
+    "q": "Why do we hear thunder after seeing lightning?",
+    "ans": "Light travels at 3×10⁸ m/s; it reaches us almost instantaneously. Sound travels at only 340 m/s in air. A storm 1 km away produces lightning and thunder simultaneously, but the light arrives in 0.0033 s while the sound takes 2.94 s. The delay between flash and thunder allows us to estimate storm distance (count seconds, multiply by 340 m).",
+    "exp": "Light (3×10⁸ m/s) arrives instantly; sound (340 m/s) takes 2.94 s per km → delay tells distance."
+  },
+  {
+    "id": 1183,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "What is echolocation and which animals use it?",
+    "ans": "Echolocation: an animal emits sound pulses, listens for echoes, and processes timing and intensity to 'see' with sound. Users: bats (ultrasound; most precise echolocators), dolphins and porpoises (clicks up to 150 kHz), some blind humans (tongue clicks; surprisingly precise), cave-dwelling birds (oilbird, swiftlet). SONAR is the human-engineered equivalent.",
+    "exp": "Echolocation: emit → listen to echo → compute distance/direction. Used by bats, dolphins, some humans."
+  },
+  {
+    "id": 1184,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "How does a loudspeaker convert electrical signals to sound?",
+    "ans": "An electrical signal passes through a coil of wire (voice coil) attached to a cone-shaped diaphragm. The coil sits in a permanent magnetic field. The alternating current creates alternating forces (Fleming's left hand rule) that push/pull the coil and cone in and out, vibrating at the signal frequency. These vibrations compress and rarefy air, creating sound.",
+    "exp": "Loudspeaker: AC in coil → alternating magnetic force → cone vibrates → air compressions/rarefactions → sound."
+  },
+  {
+    "id": 1185,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Discuss the biological importance of the range of frequencies animals can detect.",
+    "ans": "Each frequency range evolved for a specific ecological advantage. Bats' ultrasound: echolocate tiny insects (short λ needed to detect small prey). Elephants' infrasound: communicate across km of savanna (long λ travels far). Dogs' extended upper range: detect prey and danger. Fish detect very low frequencies (lateral line organ). The evolution of each range is finely tuned to survival needs.",
+    "exp": "Each animal's hearing range evolved for survival: bats (echolocation), elephants (long-distance), dogs (acute detection)."
+  },
+  {
+    "id": 1186,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "How does a noise barrier (sound wall) on a highway work?",
+    "ans": "A solid wall reflects and partially absorbs sound waves from vehicles. Sound diffracts over the wall top, so taller walls (4–6 m) reduce diffraction. The height determines the shadow zone behind the wall where diffraction is minimal. Multiple reflections between wall and vehicle lane may occur, so the interior surface of the wall is often sound-absorbing. Noise reduction: 5–15 dB.",
+    "exp": "Noise wall reflects and absorbs sound; reduces diffraction shadow; taller = better shadow zone; 5–15 dB reduction."
+  }
+]
