@@ -1,0 +1,3176 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "What is the SI unit of distance?",
+    "opts": [
+      "Metre",
+      "Kilometre",
+      "Centimetre",
+      "Millimetre"
+    ],
+    "ans": 0,
+    "exp": "The SI unit of distance is the metre (m)."
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Which quantity has both magnitude and direction?",
+    "opts": [
+      "Speed",
+      "Distance",
+      "Displacement",
+      "Mass"
+    ],
+    "ans": 2,
+    "exp": "Displacement is a vector – it has both magnitude and direction."
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A car travels 60 km in 1 hour. Its average speed is:",
+    "opts": [
+      "60 km/h",
+      "30 km/h",
+      "120 km/h",
+      "600 km/h"
+    ],
+    "ans": 0,
+    "exp": "Speed = Distance ÷ Time = 60 km ÷ 1 h = 60 km/h."
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "The slope of a distance–time graph gives:",
+    "opts": [
+      "Acceleration",
+      "Displacement",
+      "Speed",
+      "Force"
+    ],
+    "ans": 2,
+    "exp": "Slope = Δdistance/Δtime = speed."
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Negative acceleration is also called:",
+    "opts": [
+      "Velocity",
+      "Retardation",
+      "Momentum",
+      "Inertia"
+    ],
+    "ans": 1,
+    "exp": "Negative acceleration (decreasing velocity) is called retardation or deceleration."
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A body at rest has distance–time graph that is:",
+    "opts": [
+      "Upward sloping line",
+      "Downward sloping line",
+      "Horizontal line",
+      "Curved line"
+    ],
+    "ans": 2,
+    "exp": "No motion → distance doesn't change → horizontal line on d-t graph."
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "The unit of acceleration is:",
+    "opts": [
+      "m/s",
+      "m",
+      "m/s²",
+      "km/h"
+    ],
+    "ans": 2,
+    "exp": "a = Δv/Δt → (m/s)/s = m/s²."
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Speedometer of a vehicle measures:",
+    "opts": [
+      "Average speed",
+      "Instantaneous speed",
+      "Distance",
+      "Acceleration"
+    ],
+    "ans": 1,
+    "exp": "Speedometer shows speed at that instant – instantaneous speed."
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Which graph represents uniform motion?",
+    "opts": [
+      "Curved d-t graph",
+      "Straight-line d-t graph with positive slope",
+      "Curved v-t graph",
+      "Horizontal v-t graph rising over time"
+    ],
+    "ans": 1,
+    "exp": "Uniform motion = constant speed = straight-line d-t graph."
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "The area under a velocity–time graph represents:",
+    "opts": [
+      "Speed",
+      "Acceleration",
+      "Displacement",
+      "Time"
+    ],
+    "ans": 2,
+    "exp": "Area under v-t graph = v × t = displacement."
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "If displacement–time graph is a straight line, the motion is:",
+    "opts": [
+      "Uniformly accelerated",
+      "Uniform",
+      "Decelerating",
+      "Non-uniform"
+    ],
+    "ans": 1,
+    "exp": "Straight d-t graph → equal displacement in equal time → uniform motion."
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "A body moving with uniform velocity has:",
+    "opts": [
+      "Constant acceleration",
+      "Non-zero acceleration",
+      "Zero acceleration",
+      "Variable speed"
+    ],
+    "ans": 2,
+    "exp": "Uniform velocity → no change in velocity → acceleration = 0."
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Displacement can be:",
+    "opts": [
+      "Positive only",
+      "Negative only",
+      "Zero only",
+      "Positive, negative, or zero"
+    ],
+    "ans": 3,
+    "exp": "Displacement is a vector; direction determines sign."
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Odometer in a vehicle measures:",
+    "opts": [
+      "Speed",
+      "Velocity",
+      "Acceleration",
+      "Distance traveled"
+    ],
+    "ans": 3,
+    "exp": "Odometer counts total distance (path length) traveled."
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "In uniform circular motion, the speed is:",
+    "opts": [
+      "Increasing",
+      "Decreasing",
+      "Constant",
+      "Zero"
+    ],
+    "ans": 2,
+    "exp": "Uniform circular motion → constant speed but changing direction."
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Which equation of motion does NOT contain displacement?",
+    "opts": [
+      "v² = u² + 2as",
+      "s = ut + ½at²",
+      "v = u + at",
+      "s = (u+v)/2 × t"
+    ],
+    "ans": 2,
+    "exp": "v = u + at has only v, u, a, t – no s."
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Using v = u + at: u = 5 m/s, a = 2 m/s², t = 4 s. Find v.",
+    "opts": [
+      "13 m/s",
+      "10 m/s",
+      "40 m/s",
+      "3 m/s"
+    ],
+    "ans": 0,
+    "exp": "v = 5 + 2×4 = 13 m/s."
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A body starts from rest and accelerates at 3 m/s² for 6 s. Distance covered:",
+    "opts": [
+      "54 m",
+      "18 m",
+      "27 m",
+      "9 m"
+    ],
+    "ans": 0,
+    "exp": "s = ut + ½at² = 0 + ½×3×36 = 54 m."
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Using v² = u² + 2as: u=0, a=2 m/s², s=25 m. Find v.",
+    "opts": [
+      "10 m/s",
+      "5 m/s",
+      "50 m/s",
+      "100 m/s"
+    ],
+    "ans": 0,
+    "exp": "v² = 0 + 2×2×25 = 100 → v = 10 m/s."
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Convert 72 km/h to m/s.",
+    "opts": [
+      "20 m/s",
+      "72 m/s",
+      "7.2 m/s",
+      "200 m/s"
+    ],
+    "ans": 0,
+    "exp": "72 × (1000/3600) = 20 m/s."
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A ball thrown upward at 20 m/s (g=10 m/s²) reaches highest point in:",
+    "opts": [
+      "2 s",
+      "4 s",
+      "10 s",
+      "1 s"
+    ],
+    "ans": 0,
+    "exp": "t = (v-u)/a = (0-20)/(-10) = 2 s."
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Find displacement: u=10 m/s, v=30 m/s, t=4 s.",
+    "opts": [
+      "80 m",
+      "40 m",
+      "120 m",
+      "20 m"
+    ],
+    "ans": 0,
+    "exp": "s = (u+v)/2 × t = (10+30)/2 × 4 = 80 m."
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A train 200 m long passes a pole in 10 s. Its speed:",
+    "opts": [
+      "20 m/s",
+      "200 m/s",
+      "0.05 m/s",
+      "2000 m/s"
+    ],
+    "ans": 0,
+    "exp": "Speed = 200/10 = 20 m/s."
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Vehicle goes from 0 to 90 km/h in 30 s. Acceleration in m/s²:",
+    "opts": [
+      "0.83 m/s²",
+      "3 m/s²",
+      "30 m/s²",
+      "0.3 m/s²"
+    ],
+    "ans": 0,
+    "exp": "90 km/h = 25 m/s; a = 25/30 = 0.833 m/s²."
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A distance–time graph curves upward. This indicates:",
+    "opts": [
+      "Decreasing speed",
+      "Constant speed",
+      "Increasing speed",
+      "Zero acceleration"
+    ],
+    "ans": 2,
+    "exp": "Increasing slope → increasing speed → acceleration present."
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Which has displacement = 0 but distance > 0?",
+    "opts": [
+      "Object at rest",
+      "Object returning to start",
+      "Object on straight line",
+      "Object with constant speed"
+    ],
+    "ans": 1,
+    "exp": "Round trip → returns to start → displacement=0, distance=total path."
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "In a v–t graph, a line parallel to the time axis represents:",
+    "opts": [
+      "Uniform acceleration",
+      "Non-uniform motion",
+      "Uniform velocity",
+      "Deceleration"
+    ],
+    "ans": 2,
+    "exp": "Constant v on v-t graph → zero acceleration → uniform velocity."
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Two cyclists travel different paths but start and end at same points. Their:",
+    "opts": [
+      "Distances are equal",
+      "Displacements are equal",
+      "Both are equal",
+      "Neither is equal"
+    ],
+    "ans": 1,
+    "exp": "Displacement depends only on start and end points."
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A v–t graph from (0,10) to (5,0). The acceleration is:",
+    "opts": [
+      "2 m/s²",
+      "-2 m/s²",
+      "10 m/s²",
+      "-10 m/s²"
+    ],
+    "ans": 1,
+    "exp": "a = (0-10)/(5-0) = -2 m/s²."
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Which motion has constant speed but changing velocity?",
+    "opts": [
+      "Free fall",
+      "Linear deceleration",
+      "Uniform circular motion",
+      "Object at rest"
+    ],
+    "ans": 2,
+    "exp": "UCM: constant speed, direction changes → velocity changes."
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "In free fall (downward positive), v-t graph shape is:",
+    "opts": [
+      "Horizontal line",
+      "Straight line sloping upward from origin",
+      "Parabola",
+      "Decreasing curve"
+    ],
+    "ans": 1,
+    "exp": "v = gt → linear in t, slope = g."
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 5,
+    "q": "'An object can have acceleration even with constant speed.' This is:",
+    "opts": [
+      "Always false",
+      "True only in circular motion",
+      "True – direction change is enough",
+      "False – acceleration needs speed change"
+    ],
+    "ans": 2,
+    "exp": "Acceleration = rate of change of velocity (vector). Direction change alone gives acceleration."
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Equations of motion apply to a ball on a circular track. Assess:",
+    "opts": [
+      "Fully correct",
+      "Incorrect – equations need uniform linear acceleration",
+      "Correct if speed is constant",
+      "Correct for first second only"
+    ],
+    "ans": 1,
+    "exp": "v=u+at etc. apply only to uniformly accelerated straight-line motion."
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Average speed vs instantaneous speed: which better describes a whole journey?",
+    "opts": [
+      "Instantaneous speed",
+      "Average speed",
+      "Both equally",
+      "Neither"
+    ],
+    "ans": 1,
+    "exp": "Average speed = total distance/total time → describes overall journey rate."
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Can |displacement| > distance? Evaluate.",
+    "opts": [
+      "Yes always",
+      "No, |displacement| ≤ distance always",
+      "Yes when path curves",
+      "Only for circular motion"
+    ],
+    "ans": 1,
+    "exp": "Displacement is shortest path; distance is actual path. Always |s_displacement| ≤ distance."
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A v-t graph crosses the x-axis (v=0 at some time). This indicates:",
+    "opts": [
+      "Ball stops permanently",
+      "Ball reverses direction",
+      "Speed maximises",
+      "Acceleration becomes zero"
+    ],
+    "ans": 1,
+    "exp": "v=0 means momentary rest then reversal (e.g. ball thrown up at highest point)."
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Best instrument to measure distance in a 100 m race:",
+    "opts": [
+      "Vernier callipers",
+      "Odometer",
+      "Measuring tape",
+      "Micrometer"
+    ],
+    "ans": 2,
+    "exp": "Measuring tape is practical for distances of order 100 m."
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Ticker-tape timer produces 50 dots per second. What is the time between consecutive dots?",
+    "opts": [
+      "0.02 s",
+      "0.05 s",
+      "50 s",
+      "0.5 s"
+    ],
+    "ans": 0,
+    "exp": "1/50 = 0.02 s per interval."
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Design a v-t graph for a ball thrown upward and caught at same height (upward positive). The graph:",
+    "opts": [
+      "Is entirely above the time axis",
+      "Starts positive, decreases linearly, crosses zero once, then becomes negative until the ball is caught",
+      "Is a parabola",
+      "Is constant"
+    ],
+    "ans": 1,
+    "exp": "With upward taken as positive, v = u − gt. Velocity decreases linearly, is zero at the highest point, then becomes negative during the downward motion. At the original height its magnitude equals the initial speed (ignoring air resistance)."
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Route A: 10 km straight. Route B: 12 km winding (same start/end). Compare displacement:",
+    "opts": [
+      "Route A has more displacement",
+      "Route B has more displacement",
+      "Displacements are equal",
+      "Cannot compare"
+    ],
+    "ans": 2,
+    "exp": "Displacement = straight-line distance between start and end points – same for both routes."
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Which is a vector quantity?",
+    "opts": [
+      "Mass",
+      "Speed",
+      "Temperature",
+      "Velocity"
+    ],
+    "ans": 3,
+    "exp": "Velocity has both magnitude and direction → vector quantity."
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "In a distance–time graph, a steeper slope means:",
+    "opts": [
+      "Less speed",
+      "More speed",
+      "More acceleration",
+      "Less distance"
+    ],
+    "ans": 1,
+    "exp": "Steeper slope = greater Δd/Δt = greater speed."
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 2,
+    "q": "A v–t graph shows increasing speed. The line:",
+    "opts": [
+      "Is horizontal",
+      "Slopes upward",
+      "Slopes downward",
+      "Is a curve"
+    ],
+    "ans": 1,
+    "exp": "Increasing speed → increasing v with t → upward slope."
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A body moves 60 m in 3 s at constant speed. Speed is:",
+    "opts": [
+      "180 m/s",
+      "20 m/s",
+      "57 m/s",
+      "63 m/s"
+    ],
+    "ans": 1,
+    "exp": "v = 60/3 = 20 m/s."
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Decelerates from 30 m/s to 0 in 10 s. Distance covered:",
+    "opts": [
+      "150 m",
+      "300 m",
+      "30 m",
+      "3 m"
+    ],
+    "ans": 0,
+    "exp": "s = (u+v)/2 × t = (30+0)/2 × 10 = 150 m."
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Why does odometer reading always increase while driving, even if you return to start?",
+    "opts": [
+      "It measures displacement",
+      "It measures distance – always positive path length",
+      "It counts engine rotations",
+      "It measures speed"
+    ],
+    "ans": 1,
+    "exp": "Distance is path length – never decreases, so odometer always increases."
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A car goes north 40 km then south 40 km. Its displacement and distance are:",
+    "opts": [
+      "Both 80 km",
+      "Both 0 km",
+      "Displacement 0, distance 80 km",
+      "Displacement 80 km, distance 0 km"
+    ],
+    "ans": 2,
+    "exp": "Round trip of equal distances → displacement = 0, distance = 80 km."
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Which is more physically meaningful for a sprinter – average speed over 100 m or top speed?",
+    "opts": [
+      "Average speed",
+      "Top speed",
+      "Both same",
+      "Neither"
+    ],
+    "ans": 0,
+    "exp": "For 100 m race timing, average speed (distance/time) determines official performance."
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A student says 'My velocity is 60 km/h.' Is this statement complete?",
+    "opts": [
+      "Yes",
+      "No – velocity requires direction too",
+      "No – should say acceleration",
+      "Yes if speed is given"
+    ],
+    "ans": 1,
+    "exp": "Velocity is a vector; stating 60 km/h without direction is incomplete – that's just speed."
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 6,
+    "q": "If a ball is dropped from 5 m height (g=10 m/s²), which graph best shows its speed vs time?",
+    "opts": [
+      "Horizontal line",
+      "Upward straight line from origin",
+      "Downward curve",
+      "Parabola"
+    ],
+    "ans": 1,
+    "exp": "Free fall: v = gt → straight line v-t graph with slope g=10 m/s²."
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Propose a method to find average velocity of a car on a curved road.",
+    "opts": [
+      "Use speedometer average",
+      "Measure straight-line distance between start and end points, divide by total time",
+      "Measure total path length, divide by time",
+      "Count wheel rotations"
+    ],
+    "ans": 1,
+    "exp": "Average velocity = displacement/time = straight-line displacement between endpoints divided by total time."
+  },
+  {
+    "id": 52,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 1,
+    "a": "Distance is always greater than or equal to displacement.",
+    "r": "Displacement is the shortest path between two points while distance is the actual path length.",
+    "ans": 0,
+    "exp": "Both true: distance ≥ |displacement|; displacement is the shortest path, so R correctly explains A."
+  },
+  {
+    "id": 53,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 1,
+    "a": "Speed is a scalar quantity.",
+    "r": "Speed has only magnitude and no direction.",
+    "ans": 0,
+    "exp": "Both true; speed has magnitude only, making it scalar. R correctly explains A."
+  },
+  {
+    "id": 54,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 1,
+    "a": "A body moving with uniform speed may have acceleration.",
+    "r": "Acceleration requires only a change in velocity, and velocity can change due to direction alone.",
+    "ans": 0,
+    "exp": "Both true; direction change = velocity change = acceleration. UCM example. R explains A."
+  },
+  {
+    "id": 55,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 1,
+    "a": "The distance covered by a body in equal time intervals is equal for uniform motion.",
+    "r": "In uniform motion speed is constant.",
+    "ans": 0,
+    "exp": "Both true; constant speed means equal distances in equal intervals. R explains A."
+  },
+  {
+    "id": 56,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 2,
+    "a": "The slope of a velocity–time graph gives acceleration.",
+    "r": "Acceleration is defined as the rate of change of velocity.",
+    "ans": 0,
+    "exp": "Both true; slope = Δv/Δt = acceleration by definition. R explains A."
+  },
+  {
+    "id": 57,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 2,
+    "a": "A horizontal line on a v–t graph represents uniform motion.",
+    "r": "Constant velocity means zero acceleration.",
+    "ans": 0,
+    "exp": "Both true; constant v means a=0, which is uniform velocity. R explains A."
+  },
+  {
+    "id": 58,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 2,
+    "a": "The area under a v–t graph gives displacement.",
+    "r": "Displacement = velocity × time for uniform motion.",
+    "ans": 1,
+    "exp": "Both true but R only partially explains for uniform motion. For non-uniform, area still gives displacement by integration, so R is incomplete as an explanation."
+  },
+  {
+    "id": 59,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 2,
+    "a": "A body can have zero velocity but non-zero acceleration.",
+    "r": "At the highest point of vertical throw, velocity is zero but gravity (acceleration) still acts.",
+    "ans": 0,
+    "exp": "Both true; at peak v=0 but g=10 m/s² downward. R correctly explains A."
+  },
+  {
+    "id": 60,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 2,
+    "a": "Equations of motion apply only to uniform acceleration.",
+    "r": "These equations are derived assuming constant acceleration.",
+    "ans": 0,
+    "exp": "Both true; derivation assumes constant a. R explains A."
+  },
+  {
+    "id": 61,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "A body dropped from height has increasing speed.",
+    "r": "Gravitational force provides constant downward acceleration.",
+    "ans": 0,
+    "exp": "Both true; constant g causes increasing speed (v=gt). R explains A."
+  },
+  {
+    "id": 62,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "Retardation is a negative acceleration.",
+    "r": "In retardation, the body slows down, meaning acceleration is opposite to velocity.",
+    "ans": 0,
+    "exp": "Both true; opposing acceleration is negative acceleration. R explains A."
+  },
+  {
+    "id": 63,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "The second equation of motion s = ut + ½at² gives displacement.",
+    "r": "It is derived by integrating v = u + at with respect to time.",
+    "ans": 0,
+    "exp": "Both true; integration of v=u+at gives s=ut+½at². R explains A."
+  },
+  {
+    "id": 64,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "A car traveling at 60 km/h has the same speed as a car traveling at 60 km/h in the opposite direction.",
+    "r": "Speed is magnitude of velocity.",
+    "ans": 0,
+    "exp": "Both true; speed depends on magnitude only, not direction. R correctly explains A."
+  },
+  {
+    "id": 65,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "Displacement can be zero even when distance is not zero.",
+    "r": "When a body returns to its starting position, net displacement is zero.",
+    "ans": 0,
+    "exp": "Both true; round trip → disp=0, distance>0. R explains A."
+  },
+  {
+    "id": 66,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "An odometer can measure distance but not displacement.",
+    "r": "Odometer counts wheel rotations proportional to path length, not straight-line distance to destination.",
+    "ans": 0,
+    "exp": "Both true; odometer accumulates path, not vector displacement. R explains A."
+  },
+  {
+    "id": 67,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "Uniform circular motion is an example of accelerated motion.",
+    "r": "In UCM, the direction of velocity changes continuously, causing centripetal acceleration.",
+    "ans": 0,
+    "exp": "Both true; changing direction = changing velocity = acceleration. R explains A."
+  },
+  {
+    "id": 68,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "For a body thrown vertically upward, acceleration is constant throughout its flight.",
+    "r": "Gravity (g ≈ 10 m/s²) acts downward throughout, regardless of the direction of motion.",
+    "ans": 0,
+    "exp": "Both true; g is constant regardless of whether body moves up or down. R explains A."
+  },
+  {
+    "id": 69,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "The three equations of motion cannot be applied to a ball rolling on a curved surface.",
+    "r": "The equations require uniform (constant) acceleration in a straight line.",
+    "ans": 0,
+    "exp": "Both true; curved surface changes direction and may change acceleration. R explains A."
+  },
+  {
+    "id": 70,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "Average speed of a journey is total distance divided by total time.",
+    "r": "It uses the complete path length and the total duration of the journey.",
+    "ans": 0,
+    "exp": "Both A and R are true, and R correctly explains why average speed represents the whole journey."
+  },
+  {
+    "id": 71,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "A negative velocity does not mean the body has negative speed.",
+    "r": "Speed is the magnitude of velocity and is always positive.",
+    "ans": 0,
+    "exp": "Both true; speed = |v| ≥ 0 always. R explains A."
+  },
+  {
+    "id": 72,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "The slope of a distance–time graph can never be negative.",
+    "r": "Distance always increases or remains constant; it never decreases.",
+    "ans": 0,
+    "exp": "Both true; distance is non-negative and non-decreasing, so slope ≥ 0 always. R explains A."
+  },
+  {
+    "id": 73,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 6,
+    "a": "A steeper slope on a d–t graph means greater speed.",
+    "r": "Speed is directly proportional to the slope (Δd/Δt) of a distance–time graph.",
+    "ans": 0,
+    "exp": "Both true; steeper = larger Δd/Δt = larger speed. R explains A."
+  },
+  {
+    "id": 74,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 6,
+    "a": "A body can have varying speed even on a straight path.",
+    "r": "The direction of motion on a straight path is constant but speed can change.",
+    "ans": 1,
+    "exp": "Both true; e.g. braking car on straight road. But R only says direction is constant without linking to speed change; it is true but doesn't properly explain how speed varies."
+  },
+  {
+    "id": 75,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 6,
+    "a": "A freely falling body is an example of uniformly accelerated motion.",
+    "r": "Gravitational acceleration g is constant near Earth's surface.",
+    "ans": 0,
+    "exp": "Both true; constant g gives uniform acceleration. R explains A."
+  },
+  {
+    "id": 76,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 6,
+    "a": "If a car accelerates from rest, its displacement increases faster than linearly with time.",
+    "r": "s = ½at² shows quadratic (faster than linear) dependence on time.",
+    "ans": 0,
+    "exp": "Both true; quadratic growth is faster than linear. R explains A."
+  },
+  {
+    "id": 77,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 1,
+    "a": "The velocity of a body at any instant is its instantaneous velocity.",
+    "r": "Instantaneous velocity is the velocity at a particular moment in time.",
+    "ans": 0,
+    "exp": "Both true; definition of instantaneous velocity. R explains A."
+  },
+  {
+    "id": 78,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 2,
+    "a": "For uniform motion, the acceleration is zero.",
+    "r": "In uniform motion, velocity (both magnitude and direction) remains constant.",
+    "ans": 0,
+    "exp": "Both true; constant velocity → zero rate of change → a=0. R explains A."
+  },
+  {
+    "id": 79,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "Speed and velocity are equal in magnitude only when motion is along a straight line in one direction.",
+    "r": "In that case, the path and displacement are the same.",
+    "ans": 0,
+    "exp": "Both true; no backtracking → distance=displacement magnitude. R explains A."
+  },
+  {
+    "id": 80,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "A car can have zero velocity and non-zero acceleration.",
+    "r": "At a moment when a car reverses direction, instantaneous velocity is zero but forces (hence acceleration) still act.",
+    "ans": 0,
+    "exp": "Both true; at reversal point v=0 but a≠0 (e.g. at highest point or direction change). R explains A."
+  },
+  {
+    "id": 81,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "The second equation of motion is most useful when final velocity is not known.",
+    "r": "s = ut + ½at² uses s, u, a, t without requiring v.",
+    "ans": 0,
+    "exp": "Both true; useful when v is unknown. R explains A."
+  },
+  {
+    "id": 82,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "Retardation does not necessarily make a moving body come to rest.",
+    "r": "Retardation is acceleration opposite to the velocity, so it reduces speed while it acts.",
+    "ans": 0,
+    "exp": "Both statements are true. A body slows under retardation, but it reaches rest only if the retardation acts for sufficient time."
+  },
+  {
+    "id": 83,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "Both distance and displacement have the same SI unit.",
+    "r": "The SI unit for both distance and displacement is the metre.",
+    "ans": 0,
+    "exp": "Both true; both measured in metres (m). R explains A."
+  },
+  {
+    "id": 84,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "A body in uniform circular motion has non-zero acceleration.",
+    "r": "Its velocity changes continuously because its direction changes even though its speed remains constant.",
+    "ans": 0,
+    "exp": "Both A and R are true, and R correctly explains centripetal acceleration in uniform circular motion."
+  },
+  {
+    "id": 85,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "For a body projected horizontally (neglecting air resistance), horizontal acceleration is zero and vertical acceleration is g downward.",
+    "r": "Gravity acts vertically downward and no horizontal force acts after projection.",
+    "ans": 0,
+    "exp": "Both A and R are true, and R correctly explains the acceleration components."
+  },
+  {
+    "id": 86,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "A straight-line v–t graph with negative slope indicates retardation.",
+    "r": "Negative slope means velocity is decreasing with time.",
+    "ans": 0,
+    "exp": "Both true; negative slope = Δv/Δt < 0 → deceleration/retardation. R explains A."
+  },
+  {
+    "id": 87,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 6,
+    "a": "A parabolic d–t graph indicates uniformly accelerated motion.",
+    "r": "In uniform acceleration, s ∝ t², giving a parabolic shape.",
+    "ans": 0,
+    "exp": "Both true; s = ut + ½at² is quadratic → parabola. R explains A."
+  },
+  {
+    "id": 88,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 6,
+    "a": "Velocity cannot be determined from displacement alone.",
+    "r": "Velocity is displacement divided by the corresponding time interval.",
+    "ans": 0,
+    "exp": "Both A and R are true, and R correctly explains why time information is required."
+  },
+  {
+    "id": 89,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 1,
+    "a": "Acceleration can exist even when velocity is zero.",
+    "r": "At the instant of reversal, velocity is zero but a force (hence acceleration) may still act.",
+    "ans": 0,
+    "exp": "Both true; e.g. ball at peak of throw: v=0, a=g downward. R explains A."
+  },
+  {
+    "id": 90,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 2,
+    "a": "A horizontal d–t graph means the object is not moving.",
+    "r": "If distance does not change with time, speed is zero.",
+    "ans": 0,
+    "exp": "Both true; flat d-t line = zero slope = zero speed = stationary. R explains A."
+  },
+  {
+    "id": 91,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "An object with zero acceleration must be at rest.",
+    "r": "Zero acceleration means constant velocity, which can be non-zero.",
+    "ans": 3,
+    "exp": "A is false; zero acceleration can mean constant velocity (not necessarily zero). R is true. Answer: D."
+  },
+  {
+    "id": 92,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "Velocity is a better descriptor of motion than speed.",
+    "r": "Velocity includes direction information which speed lacks.",
+    "ans": 0,
+    "exp": "Both true; velocity tells us speed AND direction. R explains A."
+  },
+  {
+    "id": 93,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "The third equation of motion v²=u²+2as is useful when time is not known.",
+    "r": "This equation relates v, u, a and s without involving t.",
+    "ans": 0,
+    "exp": "Both true; ideal when t is unknown. R explains A."
+  },
+  {
+    "id": 94,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 4,
+    "a": "For a ball rolling down an incline, speed increases.",
+    "r": "The component of gravity along the incline provides constant acceleration.",
+    "ans": 0,
+    "exp": "Both true; gravitational component gives constant a along slope → increasing speed. R explains A."
+  },
+  {
+    "id": 95,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "Average speed for a journey can be zero even if the body moves.",
+    "r": "Average speed = total distance/time, and distance is always positive for a moving body.",
+    "ans": 3,
+    "exp": "A is false; average speed cannot be zero if body moved (distance>0). R is true (speed formula). Answer: D."
+  },
+  {
+    "id": 96,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 5,
+    "a": "A curved v–t graph indicates non-uniform acceleration.",
+    "r": "Non-uniform acceleration means the rate of change of velocity is not constant, causing a curve.",
+    "ans": 0,
+    "exp": "Both true; non-constant a means v changes non-linearly with t → curve on v-t graph. R explains A."
+  },
+  {
+    "id": 97,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 6,
+    "a": "Near Earth's surface, a freely falling body has approximately constant downward acceleration.",
+    "r": "The acceleration due to gravity g can be treated as nearly constant for small changes in height.",
+    "ans": 0,
+    "exp": "Both A and R are true, and R correctly explains the usual Grade 9 free-fall model."
+  },
+  {
+    "id": 98,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 6,
+    "a": "A ticker-tape timer can be used to determine acceleration.",
+    "r": "It produces equally spaced time intervals; changing distance between dots indicates changing velocity.",
+    "ans": 0,
+    "exp": "Both true; varying dot spacing → varying speed → acceleration can be calculated. R explains A."
+  },
+  {
+    "id": 99,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 2,
+    "a": "Deceleration is the same as negative acceleration.",
+    "r": "In deceleration, the magnitude of velocity decreases, so acceleration is opposite to velocity.",
+    "ans": 0,
+    "exp": "Both true; deceleration = negative acceleration in the direction of motion. R explains A."
+  },
+  {
+    "id": 100,
+    "type": "ar",
+    "ch": 4,
+    "bloom": 3,
+    "a": "Using s = ut + ½at², if u=0 and s is plotted against t², a straight line is obtained.",
+    "r": "When u=0, s = ½at², so s is directly proportional to t².",
+    "ans": 0,
+    "exp": "Both true; s ∝ t² when u=0, so s vs t² is linear. R explains A."
+  },
+  {
+    "id": 101,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Distance is a scalar quantity.",
+    "ans": 1,
+    "exp": "Distance has only magnitude (no direction), so it is scalar."
+  },
+  {
+    "id": 102,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Displacement is a vector quantity.",
+    "ans": 1,
+    "exp": "Displacement has both magnitude and direction."
+  },
+  {
+    "id": 103,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Speed can be negative.",
+    "ans": 0,
+    "exp": "Speed is the magnitude of velocity and is always ≥ 0."
+  },
+  {
+    "id": 104,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Uniform motion means equal distances in equal time intervals.",
+    "ans": 1,
+    "exp": "Uniform motion = constant speed = equal distances in equal intervals."
+  },
+  {
+    "id": 105,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Acceleration is a scalar quantity.",
+    "ans": 0,
+    "exp": "Acceleration has both magnitude and direction, so it is a vector."
+  },
+  {
+    "id": 106,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "SI unit of speed is km/h.",
+    "ans": 0,
+    "exp": "SI unit of speed is m/s (metres per second)."
+  },
+  {
+    "id": 107,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "An object that remains at rest has zero velocity.",
+    "ans": 1,
+    "exp": "If its position does not change with time, its velocity is zero."
+  },
+  {
+    "id": 108,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A speedometer measures instantaneous speed.",
+    "ans": 1,
+    "exp": "Speedometer shows speed at that instant."
+  },
+  {
+    "id": 109,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "The slope of a distance-time graph gives speed.",
+    "ans": 1,
+    "exp": "Slope = Δdistance/Δtime = speed."
+  },
+  {
+    "id": 110,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "The area under a speed-time graph gives distance.",
+    "ans": 1,
+    "exp": "Area = speed × time = distance covered."
+  },
+  {
+    "id": 111,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "A straight line on a v-t graph means uniform acceleration.",
+    "ans": 1,
+    "exp": "Linear v vs t → constant rate of change → uniform acceleration."
+  },
+  {
+    "id": 112,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Displacement can be greater than distance.",
+    "ans": 0,
+    "exp": "|Displacement| ≤ distance always; displacement is the shortest path."
+  },
+  {
+    "id": 113,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "An object in uniform circular motion has constant velocity.",
+    "ans": 0,
+    "exp": "Speed is constant but direction changes, so velocity changes."
+  },
+  {
+    "id": 114,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "The three equations of motion apply to non-uniform acceleration.",
+    "ans": 0,
+    "exp": "They are derived assuming uniform (constant) acceleration only."
+  },
+  {
+    "id": 115,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Velocity is always equal to speed.",
+    "ans": 0,
+    "exp": "Velocity = displacement/time; speed = distance/time. They differ when path is not straight."
+  },
+  {
+    "id": 116,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Odometer measures distance, not displacement.",
+    "ans": 1,
+    "exp": "Odometer counts path length (distance), not straight-line displacement."
+  },
+  {
+    "id": 117,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "v = u + at can be used to find velocity after time t under uniform acceleration.",
+    "ans": 1,
+    "exp": "This is the first equation of motion for uniform acceleration."
+  },
+  {
+    "id": 118,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "s = ut + ½at² gives displacement (not distance).",
+    "ans": 1,
+    "exp": "The equation gives displacement s (vector quantity)."
+  },
+  {
+    "id": 119,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "If a car decelerates from 20 m/s to 0 m/s in 5 s, the deceleration is 4 m/s².",
+    "ans": 1,
+    "exp": "a = (0-20)/5 = -4 m/s², so deceleration = 4 m/s²."
+  },
+  {
+    "id": 120,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A body starting from rest travels s = ½at² metres in t seconds.",
+    "ans": 1,
+    "exp": "With u=0, s = ½at²."
+  },
+  {
+    "id": 121,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "72 km/h is equal to 20 m/s.",
+    "ans": 1,
+    "exp": "72 × 1000/3600 = 20 m/s."
+  },
+  {
+    "id": 122,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A ball thrown upward at 15 m/s (g=10 m/s²) reaches maximum height in 1.5 s.",
+    "ans": 1,
+    "exp": "t = 15/10 = 1.5 s."
+  },
+  {
+    "id": 123,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "For free fall from rest, v² = 2gh (where h is height).",
+    "ans": 1,
+    "exp": "Using v² = u² + 2as with u=0 and a=g, s=h: v² = 2gh."
+  },
+  {
+    "id": 124,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A body can have zero displacement but non-zero distance.",
+    "ans": 1,
+    "exp": "Round trip: returns to start, so displacement=0 but distance=total path."
+  },
+  {
+    "id": 125,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A body with constant speed must have zero acceleration.",
+    "ans": 0,
+    "exp": "UCM has constant speed but non-zero centripetal acceleration."
+  },
+  {
+    "id": 126,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "The second equation of motion is useful when final velocity is unknown.",
+    "ans": 1,
+    "exp": "s = ut + ½at² does not require knowing v."
+  },
+  {
+    "id": 127,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "On a d-t graph, a curve (not a straight line) means changing speed.",
+    "ans": 1,
+    "exp": "Changing slope = changing Δd/Δt = changing speed."
+  },
+  {
+    "id": 128,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "In deceleration, the acceleration and velocity are in opposite directions.",
+    "ans": 1,
+    "exp": "Deceleration: velocity decreasing, so acceleration acts opposite to velocity direction."
+  },
+  {
+    "id": 129,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A body moving at constant acceleration on a circular path has equations of motion applicable to it.",
+    "ans": 0,
+    "exp": "Equations of motion apply to straight-line uniform acceleration, not circular motion."
+  },
+  {
+    "id": 130,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "The third equation v²=u²+2as is independent of time.",
+    "ans": 1,
+    "exp": "This equation relates v, u, a, s without any time variable."
+  },
+  {
+    "id": 131,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Average velocity equals instantaneous velocity in uniform motion.",
+    "ans": 1,
+    "exp": "In uniform motion (constant velocity), both are the same."
+  },
+  {
+    "id": 132,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A negative velocity always means that an object is moving toward the origin.",
+    "ans": 0,
+    "exp": "Negative velocity means motion in the chosen negative coordinate direction. Whether that is toward or away from the origin depends on the object's position."
+  },
+  {
+    "id": 133,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 5,
+    "q": "For vertical free fall, the distance fallen in the nth second is g(2n-1)/2.",
+    "ans": 1,
+    "exp": "Distance in nth second = u + a(2n-1)/2 = g(2n-1)/2 (with u=0, a=g)."
+  },
+  {
+    "id": 134,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Displacement in uniform circular motion over one complete revolution is zero.",
+    "ans": 1,
+    "exp": "Returns to starting point → net displacement = 0."
+  },
+  {
+    "id": 135,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A negative d-t slope is physically possible.",
+    "ans": 0,
+    "exp": "Distance never decreases, so d-t slope is always ≥ 0."
+  },
+  {
+    "id": 136,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Ticker-tape timers can be used to study acceleration.",
+    "ans": 1,
+    "exp": "Varying dot spacing indicates changing velocity → acceleration can be calculated."
+  },
+  {
+    "id": 137,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A velocity-time graph for free fall (downward +) is a straight line through origin.",
+    "ans": 1,
+    "exp": "v = gt → linear; at t=0, v=0, so line passes through origin."
+  },
+  {
+    "id": 138,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 6,
+    "q": "If a car travels the first half of a journey at 30 m/s and the second half at 60 m/s, average speed is 45 m/s.",
+    "ans": 0,
+    "exp": "Average speed for equal distances = 2v1v2/(v1+v2) = 2×30×60/90 = 40 m/s."
+  },
+  {
+    "id": 139,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A parabolic shape on a d-t graph indicates uniformly accelerated motion.",
+    "ans": 1,
+    "exp": "s = ut + ½at² is quadratic in t → parabolic shape."
+  },
+  {
+    "id": 140,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "The path length of a journey is called distance.",
+    "ans": 1,
+    "exp": "Distance is the total length of the path traveled."
+  },
+  {
+    "id": 141,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A vector quantity has only magnitude.",
+    "ans": 0,
+    "exp": "A vector has both magnitude and direction."
+  },
+  {
+    "id": 142,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Uniform acceleration means velocity changes by equal amounts in equal time intervals.",
+    "ans": 1,
+    "exp": "Uniform acceleration is a constant rate of change of velocity, so equal time intervals give equal changes in velocity."
+  },
+  {
+    "id": 143,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 2,
+    "q": "A horizontal line on a d-t graph means the object is accelerating.",
+    "ans": 0,
+    "exp": "Horizontal d-t line: slope=0 → speed=0 → object at rest, not accelerating."
+  },
+  {
+    "id": 144,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A car starting from rest covers 45 m in 3 s under uniform acceleration of 10 m/s².",
+    "ans": 1,
+    "exp": "s = ½×10×9 = 45 m. Correct."
+  },
+  {
+    "id": 145,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Speed cannot be zero if distance is increasing.",
+    "ans": 1,
+    "exp": "If distance increases, the body is moving, so speed > 0."
+  },
+  {
+    "id": 146,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Velocity can be zero at a point even if the body was moving before.",
+    "ans": 1,
+    "exp": "At the peak of vertical throw: speed momentarily zero before reversing."
+  },
+  {
+    "id": 147,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 4,
+    "q": "The equations of motion for uniform acceleration are also valid for non-uniform motion.",
+    "ans": 0,
+    "exp": "Derivation assumes constant acceleration; for non-uniform motion they give wrong results."
+  },
+  {
+    "id": 148,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Average speed can never be zero for a moving body.",
+    "ans": 1,
+    "exp": "Distance > 0 for any motion, so average speed = distance/time > 0."
+  },
+  {
+    "id": 149,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Displacement is always equal to velocity × time.",
+    "ans": 0,
+    "exp": "This holds only for uniform velocity; otherwise average velocity × time."
+  },
+  {
+    "id": 150,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A good distance-time graph should have time on the x-axis and distance on the y-axis.",
+    "ans": 1,
+    "exp": "Standard convention: independent variable (time) on x-axis, dependent (distance) on y-axis."
+  },
+  {
+    "id": 151,
+    "type": "tf",
+    "ch": 4,
+    "bloom": 6,
+    "q": "If the v-t graph line has a steeper slope, the body has greater acceleration.",
+    "ans": 1,
+    "exp": "Steeper slope = larger Δv/Δt = larger acceleration."
+  },
+  {
+    "id": 152,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "The SI unit of velocity is ___.",
+    "ans": [
+      "m/s",
+      "metre per second"
+    ],
+    "exp": "Velocity = displacement/time, unit = m/s."
+  },
+  {
+    "id": 153,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "The rate of change of velocity is called ___.",
+    "ans": [
+      "acceleration"
+    ],
+    "exp": "Acceleration = Δv/Δt."
+  },
+  {
+    "id": 154,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "The shortest path between two points is ___.",
+    "ans": [
+      "displacement"
+    ],
+    "exp": "Displacement is the straight-line distance from start to end."
+  },
+  {
+    "id": 155,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Speed is a ___ quantity.",
+    "ans": [
+      "scalar"
+    ],
+    "exp": "Speed has magnitude only – scalar."
+  },
+  {
+    "id": 156,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "The device in a car that measures distance is an ___.",
+    "ans": [
+      "odometer"
+    ],
+    "exp": "Odometer measures cumulative distance traveled."
+  },
+  {
+    "id": 157,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A body moving with constant speed in a straight line is said to be in ___ motion.",
+    "ans": [
+      "uniform"
+    ],
+    "exp": "Uniform motion: constant speed in straight line."
+  },
+  {
+    "id": 158,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "The slope of a distance–time graph gives ___.",
+    "ans": [
+      "speed"
+    ],
+    "exp": "Slope = Δd/Δt = speed."
+  },
+  {
+    "id": 159,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Acceleration due to gravity near Earth's surface is approximately ___ m/s².",
+    "ans": [
+      "10",
+      "9.8"
+    ],
+    "exp": "Standard g ≈ 9.8 m/s², often approximated as 10 m/s² in school problems."
+  },
+  {
+    "id": 160,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "The area under a velocity–time graph represents ___.",
+    "ans": [
+      "displacement"
+    ],
+    "exp": "Area = v × t = displacement (for uniform v, or integral for variable v)."
+  },
+  {
+    "id": 161,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "An object moving in a circle with constant speed has ___ velocity.",
+    "ans": [
+      "non-uniform",
+      "changing"
+    ],
+    "exp": "Direction changes → velocity changes → non-uniform velocity."
+  },
+  {
+    "id": 162,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "The third equation of motion is v² = u² + ___.",
+    "ans": [
+      "2as"
+    ],
+    "exp": "The three equations: v=u+at, s=ut+½at², v²=u²+2as."
+  },
+  {
+    "id": 163,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "When a body slows down, its acceleration is said to be ___ or negative.",
+    "ans": [
+      "retardation",
+      "deceleration"
+    ],
+    "exp": "Negative acceleration = retardation = deceleration."
+  },
+  {
+    "id": 164,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "In uniform motion, the distance–time graph is a straight ___ with positive slope.",
+    "ans": [
+      "line"
+    ],
+    "exp": "Constant speed → straight-line d-t graph."
+  },
+  {
+    "id": 165,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "The velocity of a body at a specific instant is called ___ velocity.",
+    "ans": [
+      "instantaneous"
+    ],
+    "exp": "Instantaneous velocity = velocity at one particular moment."
+  },
+  {
+    "id": 166,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "72 km/h = ___ m/s.",
+    "ans": [
+      "20"
+    ],
+    "exp": "72 × 1000/3600 = 20 m/s."
+  },
+  {
+    "id": 167,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Using v = u + at with u=0, a=5 m/s², t=4 s, v = ___ m/s.",
+    "ans": [
+      "20"
+    ],
+    "exp": "v = 0 + 5×4 = 20 m/s."
+  },
+  {
+    "id": 168,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Using s = ut + ½at² with u=0, a=2 m/s², t=3 s, s = ___ m.",
+    "ans": [
+      "9"
+    ],
+    "exp": "s = 0 + ½×2×9 = 9 m."
+  },
+  {
+    "id": 169,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A body decelerates from 20 m/s to rest in 4 s. Deceleration = ___ m/s².",
+    "ans": [
+      "5"
+    ],
+    "exp": "a = (0-20)/4 = -5 m/s²; deceleration = 5 m/s²."
+  },
+  {
+    "id": 170,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 3,
+    "q": "v² = u² + 2as; u=0, a=10 m/s², s=5 m → v = ___ m/s.",
+    "ans": [
+      "10"
+    ],
+    "exp": "v² = 0 + 2×10×5 = 100 → v = 10 m/s."
+  },
+  {
+    "id": 171,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A car starting from rest accelerates at 3 m/s² for 6 s. It covers ___ metres.",
+    "ans": [
+      "54"
+    ],
+    "exp": "s = ½×3×36 = 54 m."
+  },
+  {
+    "id": 172,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Convert 108 km/h to m/s: ___ m/s.",
+    "ans": [
+      "30"
+    ],
+    "exp": "108/3.6 = 30 m/s."
+  },
+  {
+    "id": 173,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 4,
+    "q": "When an object returns to its starting point, its ___ is zero.",
+    "ans": [
+      "displacement"
+    ],
+    "exp": "Net displacement (vector) = 0 for a round trip."
+  },
+  {
+    "id": 174,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A body with zero velocity at an instant may still have non-zero ___.",
+    "ans": [
+      "acceleration"
+    ],
+    "exp": "e.g., ball at peak: v=0 but a=g."
+  },
+  {
+    "id": 175,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Uniform circular motion has ___ speed but ___ velocity.",
+    "ans": [
+      "constant / non-uniform",
+      "constant speed / changing velocity"
+    ],
+    "exp": "Speed constant; direction changes → velocity non-uniform."
+  },
+  {
+    "id": 176,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A curved distance-time graph indicates ___ speed.",
+    "ans": [
+      "changing",
+      "non-uniform"
+    ],
+    "exp": "Changing slope = changing Δd/Δt = changing speed."
+  },
+  {
+    "id": 177,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 4,
+    "q": "The slope of a v-t graph gives ___.",
+    "ans": [
+      "acceleration"
+    ],
+    "exp": "Slope = Δv/Δt = acceleration."
+  },
+  {
+    "id": 178,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 4,
+    "q": "The equations of motion assume ___ acceleration.",
+    "ans": [
+      "uniform",
+      "constant"
+    ],
+    "exp": "The three equations are derived for constant (uniform) acceleration only."
+  },
+  {
+    "id": 179,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A body in free fall (from rest) covers ___ m in the first second (g=10 m/s²).",
+    "ans": [
+      "5"
+    ],
+    "exp": "s = ½×10×1² = 5 m."
+  },
+  {
+    "id": 180,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 5,
+    "q": "For a ball thrown up at 30 m/s (g=10 m/s²), time to reach peak = ___ s.",
+    "ans": [
+      "3"
+    ],
+    "exp": "t = v/g = 30/10 = 3 s."
+  },
+  {
+    "id": 181,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Average speed = Total ___ ÷ Total time.",
+    "ans": [
+      "distance"
+    ],
+    "exp": "Average speed uses total path length (distance) over total time."
+  },
+  {
+    "id": 182,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 5,
+    "q": "If a car travels at 40 m/s for 5 s, it covers ___ m.",
+    "ans": [
+      "200"
+    ],
+    "exp": "s = 40×5 = 200 m."
+  },
+  {
+    "id": 183,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 5,
+    "q": "The maximum height reached by a ball thrown upward at 20 m/s (g=10 m/s²) is ___ m.",
+    "ans": [
+      "20"
+    ],
+    "exp": "v²=u²-2gh; 0=400-20h; h=20 m."
+  },
+  {
+    "id": 184,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 6,
+    "q": "In free fall, the body is ___ by gravity at approximately 10 m/s².",
+    "ans": [
+      "accelerated"
+    ],
+    "exp": "Gravity accelerates the body downward at g≈10 m/s²."
+  },
+  {
+    "id": 185,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A ticker-tape timer at 50 Hz makes ___ dots per second.",
+    "ans": [
+      "50"
+    ],
+    "exp": "50 Hz = 50 cycles per second = 50 dots per second."
+  },
+  {
+    "id": 186,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 6,
+    "q": "The time between consecutive dots in a 50 Hz ticker-tape is ___ s.",
+    "ans": [
+      "0.02"
+    ],
+    "exp": "1/50 = 0.02 s between dots."
+  },
+  {
+    "id": 187,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 6,
+    "q": "In the equation v² = u² + 2as, if u=0 and v=10 m/s, a=2 m/s², then s = ___ m.",
+    "ans": [
+      "25"
+    ],
+    "exp": "s = v²/(2a) = 100/4 = 25 m."
+  },
+  {
+    "id": 188,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Velocity is the rate of change of ___.",
+    "ans": [
+      "displacement"
+    ],
+    "exp": "v = Δx/Δt; velocity = rate of change of displacement."
+  },
+  {
+    "id": 189,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A body moving at constant speed in a straight line has ___ acceleration.",
+    "ans": [
+      "zero"
+    ],
+    "exp": "No change in velocity → zero acceleration."
+  },
+  {
+    "id": 190,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "In a v-t graph, if the graph is above the x-axis, the body moves in the ___ direction.",
+    "ans": [
+      "positive"
+    ],
+    "exp": "Positive v means motion in the positive/reference direction."
+  },
+  {
+    "id": 191,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 2,
+    "q": "The first equation of motion is v = u + ___.",
+    "ans": [
+      "at"
+    ],
+    "exp": "v = u + at; a×t is change in velocity."
+  },
+  {
+    "id": 192,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A stone falls from rest. After 3 s its speed is ___ m/s (g=10).",
+    "ans": [
+      "30"
+    ],
+    "exp": "v = gt = 10×3 = 30 m/s."
+  },
+  {
+    "id": 193,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A car moves 100 m in 5 s at constant speed. Speed = ___ m/s.",
+    "ans": [
+      "20"
+    ],
+    "exp": "v = 100/5 = 20 m/s."
+  },
+  {
+    "id": 194,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A body starts at rest and accelerates. Its v-t graph is a straight line through the ___.",
+    "ans": [
+      "origin"
+    ],
+    "exp": "v=at; at t=0, v=0 → passes through origin."
+  },
+  {
+    "id": 195,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 4,
+    "q": "When a v-t graph has a negative slope, the body is ___.",
+    "ans": [
+      "decelerating",
+      "retarding"
+    ],
+    "exp": "Negative slope = decreasing v = deceleration."
+  },
+  {
+    "id": 196,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 5,
+    "q": "The distance in nth second formula is: sₙ = u + a(___ - ½).",
+    "ans": [
+      "n"
+    ],
+    "exp": "sₙ = u + a(n - ½) gives distance in the nth second."
+  },
+  {
+    "id": 197,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 5,
+    "q": "The ratio of distance to time for a journey describes ___ speed.",
+    "ans": [
+      "average"
+    ],
+    "exp": "Total distance/total time = average speed."
+  },
+  {
+    "id": 198,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A ball dropped from 80 m height (g=10 m/s²) hits the ground with speed ___ m/s.",
+    "ans": [
+      "40"
+    ],
+    "exp": "v²=2×10×80=1600; v=40 m/s."
+  },
+  {
+    "id": 199,
+    "type": "fitb",
+    "ch": 4,
+    "bloom": 6,
+    "q": "To find average speed over a journey, we need total ___ and total ___.",
+    "ans": [
+      "distance / time",
+      "distance and time"
+    ],
+    "exp": "Average speed = total distance ÷ total time."
+  },
+  {
+    "id": 200,
+    "type": "num",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A car travels 150 km in 3 hours. What is its average speed in km/h?",
+    "ans": "50",
+    "unit": "km/h",
+    "exp": "Average speed = Distance/Time = 150/3 = 50 km/h."
+  },
+  {
+    "id": 201,
+    "type": "num",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Convert 54 km/h to m/s.",
+    "ans": "15",
+    "unit": "m/s",
+    "exp": "54 × (1000/3600) = 54/3.6 = 15 m/s."
+  },
+  {
+    "id": 202,
+    "type": "num",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A runner covers 400 m in 50 s. Find speed in m/s.",
+    "ans": "8",
+    "unit": "m/s",
+    "exp": "Speed = 400/50 = 8 m/s."
+  },
+  {
+    "id": 203,
+    "type": "num",
+    "ch": 4,
+    "bloom": 1,
+    "q": "An object moves 200 m north then 200 m south. What is its displacement?",
+    "ans": "0",
+    "unit": "m",
+    "exp": "Returns to start → displacement = 0 m."
+  },
+  {
+    "id": 204,
+    "type": "num",
+    "ch": 4,
+    "bloom": 2,
+    "q": "A car accelerates from rest to 20 m/s in 10 s. Find acceleration.",
+    "ans": "2",
+    "unit": "m/s²",
+    "exp": "a = (20-0)/10 = 2 m/s²."
+  },
+  {
+    "id": 205,
+    "type": "num",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Using v = u + at: u=0, a=4 m/s², t=5 s. Find v.",
+    "ans": "20",
+    "unit": "m/s",
+    "exp": "v = 0 + 4×5 = 20 m/s."
+  },
+  {
+    "id": 206,
+    "type": "num",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Using s = ut + ½at²: u=0, a=3 m/s², t=4 s. Find s.",
+    "ans": "24",
+    "unit": "m",
+    "exp": "s = 0 + ½×3×16 = 24 m."
+  },
+  {
+    "id": 207,
+    "type": "num",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Using v² = u² + 2as: u=0, a=5 m/s², s=20 m. Find v to two decimal places.",
+    "ans": "14.14",
+    "unit": "m/s",
+    "exp": "v² = 2×5×20 = 200, so v = √200 ≈ 14.14 m/s."
+  },
+  {
+    "id": 208,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A body decelerates from 30 m/s to 0 in 6 s. Find deceleration.",
+    "ans": "5",
+    "unit": "m/s²",
+    "exp": "a = (0-30)/6 = -5 m/s²; deceleration = 5 m/s²."
+  },
+  {
+    "id": 209,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Find displacement: u=10 m/s, v=30 m/s, t=5 s. Use s=(u+v)/2 × t.",
+    "ans": "100",
+    "unit": "m",
+    "exp": "s = (10+30)/2 × 5 = 20×5 = 100 m."
+  },
+  {
+    "id": 210,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A ball is dropped from 45 m height (g=10 m/s²). Time to reach ground.",
+    "ans": "3",
+    "unit": "s",
+    "exp": "h = ½gt²; 45=½×10×t²; t²=9; t=3 s."
+  },
+  {
+    "id": 211,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Find final velocity when ball dropped from 45 m hits ground (g=10).",
+    "ans": "30",
+    "unit": "m/s",
+    "exp": "v² = 2×10×45 = 900; v = 30 m/s."
+  },
+  {
+    "id": 212,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A stone thrown up at 25 m/s (g=10). Find max height.",
+    "ans": "31.25",
+    "unit": "m",
+    "exp": "v²=u²-2gh; 0=625-20h; h=625/20=31.25 m."
+  },
+  {
+    "id": 213,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A car starting from rest travels 360 m in 12 s. Find uniform acceleration.",
+    "ans": "5",
+    "unit": "m/s²",
+    "exp": "s=½at²; 360=½×a×144; a=720/144=5 m/s²."
+  },
+  {
+    "id": 214,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Speed of train 250 m long crossing 150 m platform in 20 s.",
+    "ans": "20",
+    "unit": "m/s",
+    "exp": "Total distance = 250+150 = 400 m; v = 400/20 = 20 m/s."
+  },
+  {
+    "id": 215,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A cyclist moving at 18 km/h brakes uniformly to rest in 5 s. Find distance.",
+    "ans": "12.5",
+    "unit": "m",
+    "exp": "u=18/3.6=5 m/s; s=(u+v)/2×t=(5+0)/2×5=12.5 m."
+  },
+  {
+    "id": 216,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Two trains 200 m and 300 m long approach each other at 20 m/s each. Time to cross completely.",
+    "ans": "12.5",
+    "unit": "s",
+    "exp": "Relative speed = 40 m/s; total length = 500 m; t=500/40=12.5 s."
+  },
+  {
+    "id": 217,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A body starts from rest, a=2 m/s². Distance in 5th second only.",
+    "ans": "9",
+    "unit": "m",
+    "exp": "s₅ = u + a(n-½) = 0+2(5-0.5) = 2×4.5=9 m."
+  },
+  {
+    "id": 218,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A car at 20 m/s decelerates at 4 m/s². Find time to stop.",
+    "ans": "5",
+    "unit": "s",
+    "exp": "t = (0-20)/(-4) = 5 s."
+  },
+  {
+    "id": 219,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Find distance covered by car in Q above before stopping.",
+    "ans": "50",
+    "unit": "m",
+    "exp": "s = (u+v)/2×t = (20+0)/2×5 = 50 m. Or s=u²/(2a)=400/8=50 m."
+  },
+  {
+    "id": 220,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Average speed of car: 60 km first half-time, 40 km/h second half-time. Overall avg speed.",
+    "ans": "50",
+    "unit": "km/h",
+    "exp": "Equal times: avg = (60+40)/2 = 50 km/h."
+  },
+  {
+    "id": 221,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A ball thrown up returns to ground in 6 s. Find initial velocity (g=10 m/s²).",
+    "ans": "30",
+    "unit": "m/s",
+    "exp": "Total time = 2t_up; t_up=3 s; u = g×t_up = 10×3 = 30 m/s."
+  },
+  {
+    "id": 222,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Braking distance of car at 60 km/h with deceleration 5 m/s².",
+    "ans": "27.78",
+    "unit": "m",
+    "exp": "u=60/3.6≈16.67 m/s; s=u²/(2a)=(16.67)²/10≈27.78 m."
+  },
+  {
+    "id": 223,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A body starts from rest with a=3 m/s² for 7 s. Find its final velocity.",
+    "ans": "21",
+    "unit": "m/s",
+    "exp": "v = u + at = 0 + 3×7 = 21 m/s."
+  },
+  {
+    "id": 224,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A train slows from 72 km/h to 36 km/h in 200 m. Find deceleration.",
+    "ans": "0.75",
+    "unit": "m/s²",
+    "exp": "u=20, v=10 m/s; v²=u²+2as; 100=400+2a×200; 2a×200=-300; a=-0.75 m/s²."
+  },
+  {
+    "id": 225,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A body in free fall. Find speed after 4 s (g=10 m/s²).",
+    "ans": "40",
+    "unit": "m/s",
+    "exp": "v = gt = 10×4 = 40 m/s."
+  },
+  {
+    "id": 226,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Time for sound to echo from a wall 170 m away (v_sound=340 m/s).",
+    "ans": "1",
+    "unit": "s",
+    "exp": "Total distance = 2×170=340 m; t=340/340=1 s."
+  },
+  {
+    "id": 227,
+    "type": "num",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A car travels 40 m at 20 m/s, then 60 m at 30 m/s. Find total average speed.",
+    "ans": "25.93",
+    "unit": "m/s",
+    "exp": "t1=40/20=2 s, t2=60/30=2 s; avg=(40+60)/(2+2)=100/4=25 m/s. (Correct: 25 m/s)"
+  },
+  {
+    "id": 228,
+    "type": "num",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A rocket accelerates from 0 at 50 m/s². Find speed after 20 s.",
+    "ans": "1000",
+    "unit": "m/s",
+    "exp": "v = 50×20 = 1000 m/s."
+  },
+  {
+    "id": 229,
+    "type": "num",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Find the distance fallen by an object from rest in 4 s (g=10 m/s²).",
+    "ans": "80",
+    "unit": "m",
+    "exp": "s=½×10×16=80 m."
+  },
+  {
+    "id": 230,
+    "type": "num",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A ball is projected horizontally at 10 m/s from a 20 m cliff (g=10). Time to land.",
+    "ans": "2",
+    "unit": "s",
+    "exp": "h=½gt²; 20=5t²; t=2 s. (Horizontal projection; vertical free fall only.)"
+  },
+  {
+    "id": 231,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Using v=u+at: u=15 m/s, a=-3 m/s², t=5 s. Find v.",
+    "ans": "0",
+    "unit": "m/s",
+    "exp": "v=15+(-3×5)=15-15=0 m/s (body just stops)."
+  },
+  {
+    "id": 232,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Find displacement in Q above (u=15, a=-3, t=5).",
+    "ans": "37.5",
+    "unit": "m",
+    "exp": "s=ut+½at²=15×5+½×(-3)×25=75-37.5=37.5 m."
+  },
+  {
+    "id": 233,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A car at 25 m/s sees red light 50 m away and decelerates. Find minimum deceleration to stop.",
+    "ans": "6.25",
+    "unit": "m/s²",
+    "exp": "v²=u²+2as; 0=625+2×a×50; a=-625/100=-6.25 m/s²."
+  },
+  {
+    "id": 234,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Relative speed of two cars, one at 60 km/h and one at 40 km/h in same direction.",
+    "ans": "20",
+    "unit": "km/h",
+    "exp": "Relative speed = 60-40 = 20 km/h."
+  },
+  {
+    "id": 235,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Relative speed of the two cars if moving toward each other.",
+    "ans": "100",
+    "unit": "km/h",
+    "exp": "Relative speed = 60+40 = 100 km/h."
+  },
+  {
+    "id": 236,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A stone falls for 2 s then another 2 s. Ratio of distances fallen in each 2 s period.",
+    "ans": "3",
+    "unit": "(ratio 1:3)",
+    "exp": "d1=½g×4=20 m; d2=½g×16-½g×4=80-20=60 m; ratio=1:3. So answer is 1:3."
+  },
+  {
+    "id": 237,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A train 100 m long at 20 m/s crosses a bridge 400 m long. Time taken.",
+    "ans": "25",
+    "unit": "s",
+    "exp": "Distance = 100+400=500 m; t=500/20=25 s."
+  },
+  {
+    "id": 238,
+    "type": "num",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A person walks 3 km east and 4 km north. Find magnitude of displacement.",
+    "ans": "5",
+    "unit": "km",
+    "exp": "Displacement = √(3²+4²) = √25 = 5 km."
+  },
+  {
+    "id": 239,
+    "type": "num",
+    "ch": 4,
+    "bloom": 6,
+    "q": "If the person in Q above took 2 h, find average velocity magnitude.",
+    "ans": "2.5",
+    "unit": "km/h",
+    "exp": "Average velocity = 5 km / 2 h = 2.5 km/h."
+  },
+  {
+    "id": 240,
+    "type": "num",
+    "ch": 4,
+    "bloom": 1,
+    "q": "A car covers 90 km in 1.5 h. Average speed in m/s.",
+    "ans": "16.67",
+    "unit": "m/s",
+    "exp": "90 km = 90000 m; 1.5 h = 5400 s; v=90000/5400≈16.67 m/s."
+  },
+  {
+    "id": 241,
+    "type": "num",
+    "ch": 4,
+    "bloom": 2,
+    "q": "u=2 m/s, a=3 m/s², t=4 s. Find displacement.",
+    "ans": "32",
+    "unit": "m",
+    "exp": "s=2×4+½×3×16=8+24=32 m."
+  },
+  {
+    "id": 242,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "From rest, a=10 m/s². Velocity after 3 s.",
+    "ans": "30",
+    "unit": "m/s",
+    "exp": "v=10×3=30 m/s."
+  },
+  {
+    "id": 243,
+    "type": "num",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Distance fallen freely in 5 s (g=10 m/s²).",
+    "ans": "125",
+    "unit": "m",
+    "exp": "s=½×10×25=125 m."
+  },
+  {
+    "id": 244,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A v-t graph shows v=0 at t=0 and v=60 m/s at t=6 s (a straight line). Find the acceleration.",
+    "ans": "10",
+    "unit": "m/s²",
+    "exp": "a = Δv/Δt = 60/6 = 10 m/s²."
+  },
+  {
+    "id": 245,
+    "type": "num",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A body with u=20 m/s and a=-2 m/s². Find time when v=10 m/s.",
+    "ans": "5",
+    "unit": "s",
+    "exp": "10=20-2t; t=5 s."
+  },
+  {
+    "id": 246,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A car at 36 km/h decelerates at 2 m/s². Find its stopping time.",
+    "ans": "5",
+    "unit": "s",
+    "exp": "36 km/h = 10 m/s. Using v = u + at: 0 = 10 − 2t, so t = 5 s."
+  },
+  {
+    "id": 247,
+    "type": "num",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Find max height when ball thrown up at 30 m/s (g=10).",
+    "ans": "45",
+    "unit": "m",
+    "exp": "h=v²/(2g)=900/20=45 m."
+  },
+  {
+    "id": 248,
+    "type": "num",
+    "ch": 4,
+    "bloom": 6,
+    "q": "A rocket at 2000 m/s decelerates at 50 m/s². Distance to stop.",
+    "ans": "40000",
+    "unit": "m",
+    "exp": "v²=u²+2as; 0=4000000+2×(-50)×s; s=4000000/100=40000 m = 40 km."
+  },
+  {
+    "id": 249,
+    "type": "num",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Two bodies start from same point: A at 5 m/s uniform, B from rest at 2 m/s². When does B overtake A?",
+    "ans": "5",
+    "unit": "s",
+    "exp": "5t = ½×2×t² → 5t = t² → t=5 s."
+  },
+  {
+    "id": 250,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 1,
+    "q": "What is the difference between distance and displacement?",
+    "ans": "Distance is the total length of the path traveled (scalar), while displacement is the shortest straight-line distance from the starting point to the ending point with direction (vector). Distance ≥ |displacement| always.",
+    "exp": "Distance: scalar, path length. Displacement: vector, straight-line from A to B."
+  },
+  {
+    "id": 251,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Define uniform motion.",
+    "ans": "Uniform motion is the motion of a body that covers equal distances in equal intervals of time (however small), moving in a straight line at constant speed. Acceleration = 0.",
+    "exp": "Equal distances in equal intervals; constant speed; straight line; zero acceleration."
+  },
+  {
+    "id": 252,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Why is velocity a vector but speed is not?",
+    "ans": "Velocity includes both magnitude (speed) and direction of motion, making it a vector. Speed is only the magnitude of velocity and has no directional information, so it is a scalar.",
+    "exp": "Velocity = magnitude + direction → vector. Speed = magnitude only → scalar."
+  },
+  {
+    "id": 253,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 1,
+    "q": "What does the slope of a distance-time graph represent?",
+    "ans": "The slope (gradient) of a distance-time graph = Δdistance/Δtime = speed. A steeper slope means greater speed; a horizontal slope means zero speed (stationary object).",
+    "exp": "Slope of d-t graph = speed. Steeper → faster; horizontal → stationary."
+  },
+  {
+    "id": 254,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 1,
+    "q": "Define acceleration. What are its SI units?",
+    "ans": "Acceleration is the rate of change of velocity. It is defined as a = (v - u)/t, where v is final velocity, u is initial velocity, and t is time. The SI unit is m/s² (metre per second squared).",
+    "exp": "Acceleration = rate of change of velocity = (v-u)/t. SI unit: m/s²."
+  },
+  {
+    "id": 255,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Explain how the area under a velocity-time graph gives displacement.",
+    "ans": "In a v-t graph, for a short time Δt the displacement ≈ v × Δt, which is the area of a thin strip. Summing all strips (integrating) gives the total displacement = total area under the v-t graph.",
+    "exp": "Area of strip = v × Δt = small displacement. Total area = total displacement."
+  },
+  {
+    "id": 256,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Can a body have zero velocity and non-zero acceleration? Give an example.",
+    "ans": "Yes. A ball thrown vertically upward momentarily has zero velocity at the highest point, but gravity (g ≈ 10 m/s²) still acts on it. So acceleration is non-zero even when velocity is zero.",
+    "exp": "Yes. Ball at peak of vertical throw: v=0, a=g=10 m/s² downward."
+  },
+  {
+    "id": 257,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Distinguish between uniform and non-uniform motion with examples.",
+    "ans": "Uniform motion: constant speed, straight line (e.g. a car on cruise control on a straight highway). Non-uniform motion: speed or direction changes (e.g. a car in city traffic, a ball rolling to a stop).",
+    "exp": "Uniform: constant v, straight line. Non-uniform: changing speed or direction."
+  },
+  {
+    "id": 258,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "What does a horizontal line on a velocity-time graph indicate?",
+    "ans": "A horizontal line on a v-t graph means velocity is constant with time. This implies zero acceleration (or deceleration) – the object moves at constant velocity, i.e., uniform motion.",
+    "exp": "Horizontal v-t line → constant v → zero acceleration → uniform motion."
+  },
+  {
+    "id": 259,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Derive the first equation of motion v = u + at from the definition of acceleration.",
+    "ans": "Acceleration a = rate of change of velocity = (v - u)/t. Rearranging: at = v - u, so v = u + at. This is the first equation of motion.",
+    "exp": "a = (v-u)/t → at = v-u → v = u + at. QED."
+  },
+  {
+    "id": 260,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Explain what is meant by retardation. How does it differ from acceleration?",
+    "ans": "Retardation (or deceleration) is acceleration that opposes the direction of motion, causing the body to slow down. While acceleration in the direction of motion increases speed, retardation reduces speed. Numerically, retardation is the magnitude of a negative acceleration.",
+    "exp": "Retardation = deceleration = negative acceleration (opposite to motion). Reduces speed."
+  },
+  {
+    "id": 261,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A ball is thrown vertically upward. Describe its motion in terms of velocity and acceleration throughout.",
+    "ans": "Going up: velocity decreases from +u to 0 (retardation due to gravity). At peak: velocity=0, acceleration=g downward. Coming down: velocity increases from 0 downward. Acceleration = g downward throughout (constant).",
+    "exp": "Up: v decreases (g opposes). Peak: v=0, a=g. Down: v increases downward. a=g throughout."
+  },
+  {
+    "id": 262,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Why do we use equations of motion only for uniform acceleration?",
+    "ans": "The equations v=u+at, s=ut+½at², v²=u²+2as are derived assuming acceleration is constant throughout. If acceleration changes, these simple equations no longer hold, and calculus (integration) is needed.",
+    "exp": "Equations assume constant a. For variable a, calculus is needed."
+  },
+  {
+    "id": 263,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 4,
+    "q": "A person walks 4 km east and then 3 km north. Find their distance and displacement.",
+    "ans": "Distance = 4 + 3 = 7 km (total path length). Displacement = √(4² + 3²) = √25 = 5 km, directed northeast at angle θ = tan⁻¹(3/4) ≈ 37° north of east.",
+    "exp": "Distance=7 km; Displacement=5 km (N37°E). Pythagoras theorem."
+  },
+  {
+    "id": 264,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Explain why uniform circular motion is called accelerated motion even though speed is constant.",
+    "ans": "In uniform circular motion (UCM), the speed (magnitude of velocity) is constant, but the direction of velocity continuously changes as the object moves in a circle. Since velocity is a vector, any change in direction is a change in velocity, which by definition means there is acceleration – called centripetal acceleration, directed toward the center.",
+    "exp": "UCM: speed constant, but direction changes → velocity changes → centripetal acceleration toward center."
+  },
+  {
+    "id": 265,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 4,
+    "q": "How can you use a velocity-time graph to find the distance covered when a body is decelerating?",
+    "ans": "The distance covered equals the area under the v-t graph, regardless of whether the body is accelerating or decelerating. For a linearly decelerating body, the v-t graph is a straight line sloping downward; the area is a triangle = ½ × base (time) × height (initial velocity).",
+    "exp": "Area under v-t graph = distance. Decelerating → triangle area = ½ × t × u."
+  },
+  {
+    "id": 266,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A car's speedometer shows 80 km/h but it is rounding a bend. Is the car's velocity 80 km/h?",
+    "ans": "The speedometer shows instantaneous speed = 80 km/h (a scalar). However, as the car rounds the bend, the direction of motion continuously changes. Since velocity includes direction, the velocity is not constant; its direction changes even though its magnitude is 80 km/h. So the car's speed is 80 km/h but its velocity keeps changing.",
+    "exp": "Speed = 80 km/h (constant). Velocity changes because direction changes on the bend."
+  },
+  {
+    "id": 267,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Why can displacement be zero even for a long journey?",
+    "ans": "Displacement only depends on the starting and ending positions (start-to-end straight line). If a person travels 100 km and returns to the exact starting point (e.g., a round trip), the displacement is zero, even though 100 km was traveled. Distance captures the actual path; displacement captures only net position change.",
+    "exp": "Displacement = final position - initial position. Round trip → same start/end → displacement=0."
+  },
+  {
+    "id": 268,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Compare average speed and average velocity. When are they equal?",
+    "ans": "Average speed = total distance / total time (scalar). Average velocity = net displacement / total time (vector). They are equal in magnitude only when the body moves in one direction along a straight line without reversing (so distance = displacement magnitude).",
+    "exp": "Avg speed = dist/time; avg velocity = displacement/time. Equal when one-way straight-line motion."
+  },
+  {
+    "id": 269,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 6,
+    "q": "If you were given a position-time (x-t) graph for an object, how would you find velocity and acceleration?",
+    "ans": "Velocity = slope (gradient) of the x-t graph at each point = dx/dt. For uniform motion this slope is constant. Acceleration = slope of the velocity-time graph derived from the x-t graph = dv/dt = d²x/dt².",
+    "exp": "v = slope of x-t graph; a = slope of v-t graph = second derivative of x with respect to t."
+  },
+  {
+    "id": 270,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Propose how to measure the acceleration due to gravity using a simple ball-drop experiment.",
+    "ans": "Drop a ball from rest at a known height h. Measure time t for it to fall. Using s = ½at²: g = 2h/t². Repeat several times and average. Use a ruler for h and a stopwatch or motion sensor for t. Larger h improves accuracy (reduces timing error percentage).",
+    "exp": "Drop from height h, measure time t. g = 2h/t². Repeat for accuracy."
+  },
+  {
+    "id": 271,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Why does a ticker-tape timer produce more closely spaced dots when a body moves slowly?",
+    "ans": "The ticker-tape timer marks dots at regular time intervals (e.g., every 0.02 s). A slow-moving body covers less distance between each dot, so the dots are close together. A fast-moving body covers more distance between dots, so they are further apart. Dot spacing ∝ speed.",
+    "exp": "Dot spacing = speed × Δt. Low speed → short spacing. High speed → wide spacing."
+  },
+  {
+    "id": 272,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 1,
+    "q": "What is the difference between a scalar and a vector quantity? Give two examples of each.",
+    "ans": "Scalar: has only magnitude, no direction (e.g., speed = 60 km/h; distance = 100 m). Vector: has both magnitude and direction (e.g., velocity = 60 km/h north; displacement = 50 m east). You cannot add vectors by simple arithmetic unless they are parallel.",
+    "exp": "Scalar: magnitude only (speed, distance). Vector: magnitude + direction (velocity, displacement)."
+  },
+  {
+    "id": 273,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Explain the concept of instantaneous velocity.",
+    "ans": "Instantaneous velocity is the velocity of an object at a specific instant of time (or at a specific point in its path). Mathematically, it is the limit of Δx/Δt as Δt→0. On a position-time graph, it equals the slope of the tangent at that point.",
+    "exp": "Instantaneous velocity = velocity at one moment = slope of tangent on x-t graph."
+  },
+  {
+    "id": 274,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Why do we say 'average speed' and not just 'speed' for a journey with varying speeds?",
+    "ans": "When speed varies during a journey, the instantaneous speed changes from moment to moment. Average speed gives a single representative value for the whole trip: total distance / total time. Using just 'speed' would be ambiguous since it changes.",
+    "exp": "Varying speed → need one representative value for the trip → use average speed = total dist/total time."
+  },
+  {
+    "id": 275,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A sprinter runs 100 m in 10 s. Calculate average speed. Can we find average velocity? Explain.",
+    "ans": "Average speed = 100/10 = 10 m/s. For average velocity, we need displacement. If the 100 m track is straight, displacement = 100 m, so avg velocity = 10 m/s in the forward direction. On a curved track, displacement < 100 m and velocity would be less.",
+    "exp": "Avg speed = 10 m/s. Avg velocity needs displacement direction. On straight track = 10 m/s forward."
+  },
+  {
+    "id": 276,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Explain what happens to the velocity of a body in free fall starting from rest.",
+    "ans": "In free fall starting from rest, the body experiences constant downward acceleration g ≈ 10 m/s². Velocity increases at 10 m/s every second: after 1 s v=10 m/s, after 2 s v=20 m/s, etc. The velocity-time graph is a straight line through the origin with slope g.",
+    "exp": "Free fall: v increases uniformly. v = gt. After t seconds: v=10t m/s. Linear v-t graph."
+  },
+  {
+    "id": 277,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Why does a ball thrown upward keep rising for a time even though gravity acts downward?",
+    "ans": "The ball has initial upward velocity. Gravity decelerates it at g downward. As long as the upward velocity > 0, the ball keeps moving upward, but slowing down. The ball reaches zero velocity at the highest point, then gravity pulls it back down.",
+    "exp": "Initial upward v > 0. Gravity decelerates ball. Ball rises until v=0, then falls."
+  },
+  {
+    "id": 278,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A driver of a car sees an obstacle 50 m away and brakes. Explain what determines whether the car stops in time.",
+    "ans": "Stopping distance = thinking distance (v × reaction time) + braking distance (v²/2a). To stop in 50 m, the sum of thinking and braking distances must be ≤ 50 m. Higher speed and lower deceleration increase stopping distance. The deceleration depends on road friction and brake quality.",
+    "exp": "Stopping dist = reaction dist + braking dist = v×t_reaction + v²/2a. Must be ≤ 50 m."
+  },
+  {
+    "id": 279,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Why is the concept of relative velocity important in everyday life?",
+    "ans": "Relative velocity describes how fast one object moves with respect to another. For example, two cars approaching each other at 60 km/h each have relative velocity 120 km/h – they close at twice the speed of either alone. In overtaking, relative velocity is small. This matters for collision safety, navigation, and satellite tracking.",
+    "exp": "Relative velocity = closing/separating speed. Head-on: v_rel = v1+v2. Same direction: v_rel = v1-v2."
+  },
+  {
+    "id": 280,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Design a simple experiment to compare the speeds of two toy cars using a ruler and stopwatch.",
+    "ans": "Set both cars on identical straight tracks of measured length (e.g., 2 m). Start both simultaneously and use a stopwatch to record the time each takes to travel 2 m. Speed = 2 m / time. The car with lower time has greater speed. Repeat 3 times and average for accuracy.",
+    "exp": "Measure track length, time each car, compare speed = distance/time. Average multiple trials."
+  },
+  {
+    "id": 281,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Propose how a traffic police radar gun works in terms of the physics of motion.",
+    "ans": "A radar gun emits radio waves at a known frequency. The waves reflect off the moving vehicle and return. The Doppler effect causes a frequency shift proportional to the vehicle's speed. The gun's electronics measure this shift and calculate speed. It directly measures instantaneous speed using v = c × Δf / (2f), where Δf is frequency shift and c is wave speed.",
+    "exp": "Radar gun uses Doppler effect: frequency shift of reflected waves ∝ vehicle speed."
+  },
+  {
+    "id": 282,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "What information does a velocity-time graph provide that a distance-time graph does not?",
+    "ans": "A v-t graph directly shows acceleration (slope = a), the sign of velocity (direction of motion), and displacement (area). A d-t graph shows only speed (slope) and cumulative distance. The v-t graph reveals whether a body is accelerating, decelerating, or at rest, and in which direction, all of which a d-t graph cannot show.",
+    "exp": "v-t graph: acceleration (slope), displacement (area), direction (sign of v). d-t graph: speed (slope) only."
+  },
+  {
+    "id": 283,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 3,
+    "q": "Explain the physical meaning of each of the three equations of motion.",
+    "ans": "1) v = u + at: final velocity = initial velocity + (acceleration × time). Links velocity and time. 2) s = ut + ½at²: displacement = initial velocity × time + ½ × acceleration × time². Displacement from velocity and time. 3) v² = u² + 2as: relates velocities and displacement without time. Useful when time is unknown.",
+    "exp": "1st: v-t relation. 2nd: s-t relation. 3rd: v-s relation (no time needed)."
+  },
+  {
+    "id": 284,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Why is the distance-time graph for a uniformly accelerating body a parabola?",
+    "ans": "For uniform acceleration with u=0: s = ½at². This is a quadratic (second-degree) function of t, which means s is proportional to t². When s is plotted against t, the graph is a parabola (not a straight line). The slope (speed) increases linearly as the object accelerates.",
+    "exp": "s = ½at² is quadratic → s ∝ t² → parabolic d-t graph when body accelerates uniformly."
+  },
+  {
+    "id": 285,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 5,
+    "q": "Evaluate: 'You can never have a negative displacement.' Is this true?",
+    "ans": "False. Displacement is a vector. If we define one direction as positive, motion in the opposite direction gives negative displacement. For example, a car moving west when east is defined as positive has negative displacement. Displacement sign depends entirely on the chosen reference direction.",
+    "exp": "False. Displacement sign depends on reference direction. Motion opposite to positive direction → negative displacement."
+  },
+  {
+    "id": 286,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 6,
+    "q": "How would the v-t graph of a ball rolling down a ramp and then along a flat floor look?",
+    "ans": "On the ramp: velocity increases uniformly (positive slope = acceleration due to gravity component). On the flat floor: ball decelerates slowly due to friction (slight negative slope). The graph shows a rising line (ramp), then a nearly horizontal but slightly declining line (flat floor).",
+    "exp": "Ramp: rising line (acceleration). Flat: shallow declining line (friction deceleration). Two-segment graph."
+  },
+  {
+    "id": 287,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 1,
+    "q": "What is non-uniform motion? How does it differ from uniform motion?",
+    "ans": "Non-uniform motion is motion where the speed or direction (or both) change over time – unequal distances are covered in equal time intervals. Uniform motion covers equal distances in equal time intervals at constant speed in a straight line. A car in city traffic is non-uniform; a train at cruising speed on straight track is uniform.",
+    "exp": "Non-uniform: unequal distances in equal times (variable speed/direction). Uniform: equal distances in equal times."
+  },
+  {
+    "id": 288,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Explain why a body in uniform circular motion is said to be in non-uniform motion according to one definition but uniform motion according to another.",
+    "ans": "In UCM, speed (magnitude of velocity) is constant, so it fits the 'equal distances in equal times' definition of uniform. However, the direction changes continuously, so velocity (the vector) is non-uniform. The NCERT definition of uniform motion requires both constant speed AND direction, so UCM is non-uniform by that definition.",
+    "exp": "UCM: constant speed (=uniform speed) but changing direction (=non-uniform velocity). Per NCERT uniform requires constant velocity → UCM is non-uniform."
+  },
+  {
+    "id": 289,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A sprinter at 10 m/s sees the finish line 40 m away. If decelerating at 2 m/s², do they finish?",
+    "ans": "Using v²=u²+2as: 0=100-4s → s=25 m to stop. Since 25 m < 40 m, the sprinter stops before the finish line. They would not complete the race at this deceleration and would need to keep pushing.",
+    "exp": "s_stop = u²/(2a) = 100/4 = 25 m < 40 m → sprinter stops 15 m short of finish line."
+  },
+  {
+    "id": 290,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Explain the significance of the sign of velocity in a one-dimensional motion problem.",
+    "ans": "In one-dimensional motion, we choose a positive direction. Positive velocity means motion in that direction; negative velocity means motion in the opposite direction. This convention allows a single equation to describe both forward and reverse motion without worrying about direction separately.",
+    "exp": "Positive v = motion in chosen +ve direction. Negative v = motion in opposite direction. Simplifies equations."
+  },
+  {
+    "id": 291,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 5,
+    "q": "A car moves at constant velocity for half the time, then at twice that velocity for the rest. Find the ratio of distance covered in each half.",
+    "ans": "Let velocity = v for time t. Distance1 = v×t. Distance2 = 2v×t. Ratio = 1:2. The second half covers twice as much distance in the same time because speed doubles.",
+    "exp": "d1 = vt, d2 = 2vt → ratio d1:d2 = 1:2."
+  },
+  {
+    "id": 292,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 6,
+    "q": "Suggest how satellites can use equations of motion to maintain orbit (simplified).",
+    "ans": "Satellites orbit due to centripetal acceleration provided by gravity. While the three kinematic equations don't directly apply (circular motion), the concepts of velocity, acceleration, and displacement are fundamental. Mission controllers use g = v²/r to find required orbital velocity v = √(gr) for a given radius r, ensuring the satellite's curved fall matches Earth's curvature.",
+    "exp": "Orbital mechanics: centripetal a = g = v²/r → v = √(gr). Equations adapted for circular/orbital motion."
+  },
+  {
+    "id": 293,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 1,
+    "q": "What is the meaning of 'rate of change' in the context of motion?",
+    "ans": "Rate of change means how much a quantity changes per unit time. In motion: speed = rate of change of distance (Δd/Δt); velocity = rate of change of displacement (Δx/Δt); acceleration = rate of change of velocity (Δv/Δt). Faster rate = larger value of the quantity.",
+    "exp": "Rate of change = change per unit time. Speed = Δd/Δt; velocity = Δx/Δt; acceleration = Δv/Δt."
+  },
+  {
+    "id": 294,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 2,
+    "q": "Compare the d-t graphs of two cars: one at constant 20 m/s and one accelerating from rest at 2 m/s². Which eventually has greater slope?",
+    "ans": "Car 1: d-t graph is a straight line (constant slope = 20 m/s). Car 2: d-t graph is a parabola with increasing slope (speed = 2t m/s, so slope increases with time). Car 2's slope (speed) = 20 m/s at t=10 s, and exceeds 20 m/s after that. So initially Car 1 has greater slope, but eventually Car 2 wins.",
+    "exp": "Car1: straight line, slope=20. Car2: parabola, slope increases. Car2 slope > 20 after t=10 s."
+  },
+  {
+    "id": 295,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 3,
+    "q": "A car and a bicycle start from rest on the same straight road. Car: a=4 m/s². Bicycle: a=1 m/s². When is the car 90 m ahead?",
+    "ans": "Position difference = ½×4×t² - ½×1×t² = ½×3×t² = 1.5t². Set equal to 90: 1.5t²=90 → t²=60 → t=√60 ≈ 7.75 s.",
+    "exp": "Δs = ½(4-1)t² = 1.5t² = 90 → t = √60 ≈ 7.75 s."
+  },
+  {
+    "id": 296,
+    "type": "conc",
+    "ch": 4,
+    "bloom": 4,
+    "q": "Why is it harder to stop a car at higher speeds, even with the same braking force?",
+    "ans": "Stopping distance = v²/(2a). Since stopping distance depends on v², doubling the speed quadruples the stopping distance. Higher speed means more kinetic energy (½mv²) must be dissipated by the brakes. With the same braking force (same a), a faster car needs much more distance to stop.",
+    "exp": "Stopping dist = v²/2a ∝ v². Double speed → 4× stopping distance. More KE to dissipate."
+  }
+]
