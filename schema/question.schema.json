@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PrepEnroll Practice Question",
+  "type": "object",
+  "required": ["id","curriculum","grade","topic","type","difficulty","marks","verified","lastReviewed"],
+  "properties": {
+    "id": {"type":["string","integer"]},
+    "curriculum": {"type":"string"},
+    "grade": {"type":"string"},
+    "topic": {"type":"string"},
+    "subtopic": {"type":"string"},
+    "type": {"enum":["mcq","ar","tf","fitb","num","conc","frq","short","long"]},
+    "difficulty": {"enum":["easy","medium","hard"]},
+    "bloom": {"type":["string","integer"]},
+    "marks": {"type":"number","minimum":0},
+    "question": {"type":"string"},
+    "options": {"type":"array","items":{"type":"string"}},
+    "answer": {},
+    "explanation": {"type":"string"},
+    "keyPoints": {"type":"array","items":{"type":"string"}},
+    "verified": {"type":"boolean"},
+    "lastReviewed": {"type":"string"}
+  },
+  "additionalProperties": true
+}
