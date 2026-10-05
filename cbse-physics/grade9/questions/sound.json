@@ -865,7 +865,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "competency_focused"
   },
   {
     "id": 918,
@@ -4883,7 +4883,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1089,
@@ -4906,7 +4906,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1090,
@@ -4929,7 +4929,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1091,
@@ -4952,7 +4952,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1092,
@@ -4975,7 +4975,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1093,
@@ -4998,7 +4998,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1094,
@@ -5021,7 +5021,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1095,
@@ -5044,7 +5044,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1096,
@@ -5067,7 +5067,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1097,
@@ -5090,7 +5090,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1098,
@@ -5113,7 +5113,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1099,
@@ -5136,7 +5136,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1100,
@@ -5159,7 +5159,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1101,
@@ -5182,7 +5182,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1102,
@@ -5205,7 +5205,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1103,
@@ -5228,7 +5228,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1104,
@@ -5251,7 +5251,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1105,
@@ -5274,7 +5274,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1106,
@@ -5297,7 +5297,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1107,
@@ -5320,7 +5320,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1108,
@@ -5343,7 +5343,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1109,
@@ -5366,7 +5366,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1110,
@@ -5389,7 +5389,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1111,
@@ -5412,7 +5412,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1112,
@@ -5435,7 +5435,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1113,
@@ -5458,7 +5458,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1114,
@@ -5481,7 +5481,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1115,
@@ -5504,7 +5504,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1116,
@@ -5527,7 +5527,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1117,
@@ -5550,7 +5550,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1118,
@@ -5573,7 +5573,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1119,
@@ -5596,7 +5596,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1120,
@@ -5619,7 +5619,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1121,
@@ -5642,7 +5642,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1122,
@@ -5665,7 +5665,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1123,
@@ -5688,7 +5688,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1124,
@@ -5711,7 +5711,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1125,
@@ -5734,7 +5734,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1126,
@@ -5757,7 +5757,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1127,
@@ -5780,7 +5780,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1128,
@@ -5803,7 +5803,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1129,
@@ -5826,7 +5826,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1130,
@@ -5849,7 +5849,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1131,
@@ -5872,7 +5872,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1132,
@@ -5895,7 +5895,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1133,
@@ -5918,7 +5918,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1134,
@@ -5941,7 +5941,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1135,
@@ -5964,7 +5964,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1136,
@@ -5987,7 +5987,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1137,
@@ -6010,7 +6010,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1139,
@@ -6032,7 +6032,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1140,
@@ -6054,7 +6054,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1141,
@@ -6076,7 +6076,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1142,
@@ -6098,7 +6098,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1143,
@@ -6120,7 +6120,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1144,
@@ -6142,7 +6142,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1145,
@@ -6164,7 +6164,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1146,
@@ -6186,7 +6186,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1147,
@@ -6208,7 +6208,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1149,
@@ -6230,7 +6230,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1151,
@@ -6252,7 +6252,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1153,
@@ -6274,7 +6274,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1154,
@@ -6296,7 +6296,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1155,
@@ -6318,7 +6318,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1156,
@@ -6340,7 +6340,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1157,
@@ -6362,7 +6362,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1158,
@@ -6384,7 +6384,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1159,
@@ -6406,7 +6406,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1160,
@@ -6428,7 +6428,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1161,
@@ -6450,7 +6450,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1162,
@@ -6472,7 +6472,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1163,
@@ -6494,7 +6494,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1164,
@@ -6516,7 +6516,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1166,
@@ -6538,7 +6538,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1167,
@@ -6560,7 +6560,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1168,
@@ -6582,7 +6582,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1169,
@@ -6604,7 +6604,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1170,
@@ -6626,7 +6626,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1171,
@@ -6648,7 +6648,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1172,
@@ -6670,7 +6670,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1173,
@@ -6692,7 +6692,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1174,
@@ -6714,7 +6714,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1175,
@@ -6736,7 +6736,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1176,
@@ -6758,7 +6758,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1178,
@@ -6780,7 +6780,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1179,
@@ -6802,7 +6802,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1181,
@@ -6824,7 +6824,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1182,
@@ -6846,7 +6846,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1183,
@@ -6868,7 +6868,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1184,
@@ -6890,7 +6890,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1185,
@@ -6912,7 +6912,7 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   },
   {
     "id": 1186,
@@ -6934,6 +6934,6 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "constructed_response"
   }
 ]
