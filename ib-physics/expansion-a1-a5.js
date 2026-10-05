@@ -38,31 +38,31 @@ for(let i=0;i<20;i++){
 {q:"Estimate the acceleration from the full data range.",m:2,ms:["use gradient Δv/Δt over widely separated points","a ≈ "+n2((vs[4]-vs[0])/4)+" m s⁻²"]},
 {q:"Explain why widely separated points reduce the fractional effect of reading uncertainty.",m:2,ms:["the same absolute uncertainty is divided by a larger Δv and Δt","gradient uncertainty is relatively smaller"]},
 {q:"Estimate displacement using the area under the v–t graph.",m:2,ms:["use trapezia between successive readings","sum of trapezium areas"]},
-{q:"Suggest one reason for small scatter about a straight line.",m:1,ms:["sensor resolution / track irregularity / timing noise"]}]}
+{q:"Suggest one reason for small scatter about a straight line.",m:1,ms:["sensor resolution / track irregularity / timing noise"]}}]);}
   else if(mode===1){const hs=[0.2,0.4,0.6,0.8,1.0],ts=hs.map(h=>n3(Math.sqrt(2*h/9.81)+0.001*j));addP("A.1",0,i,"A student drops a ball through different vertical heights and measures the fall time. Timing uncertainty is ±0.002 s.",[["h / m","t / s"],hs.map((h,k)=>[h,ts[k]])],[
 {q:"State a transformed graph that should be linear if h = ½gt².",m:1,ms:["plot h against t²"]},
 {q:"State the physical meaning of the gradient.",m:1,ms:["gradient = g/2"]},
 {q:"Explain how a constant trigger delay would appear on an appropriate graph.",m:2,ms:["it produces a systematic departure / non-zero intercept or curvature depending on transformation"]},
 {q:"Identify which timing measurement has the largest percentage uncertainty.",m:1,ms:["the shortest time"]},
-{q:"Suggest one improvement that reduces percentage timing uncertainty.",m:1,ms:["increase drop height / use electronic timing"]}]}
+{q:"Suggest one improvement that reduces percentage timing uncertainty.",m:1,ms:["increase drop height / use electronic timing"]}}]);}
   else if(mode===2){const ang=[25,35,45,55,65],R=ang.map(x=>n2((9+j)**2*Math.sin(2*x*Math.PI/180)/9.81*0.97));addP("A.1",0,i,"A launcher fires a projectile at fixed speed while launch angle is varied. Range uncertainty is ±0.03 m.",[["θ / °","R / m"],ang.map((x,k)=>[x,R[k]])],[
 {q:"State the transformed horizontal variable for a linear test of R ∝ sin2θ.",m:1,ms:["sin(2θ)"]},
 {q:"Explain why data at complementary angles should have similar ranges.",m:2,ms:["sin2θ has equal values for complementary angles"]},
 {q:"Suggest why all measured ranges may be below the ideal model.",m:1,ms:["air resistance / launch speed calibration"]},
 {q:"Explain why locating the precise maximum from points near 45° is difficult.",m:2,ms:["curve is shallow near maximum","changes are comparable with uncertainty"]},
-{q:"State one control variable in the investigation.",m:1,ms:["launch speed / launch height / same projectile"]}]}
+{q:"State one control variable in the investigation.",m:1,ms:["launch speed / launch height / same projectile"]}}]);}
   else if(mode===3){const t=[0,1,2,3,4],x=t.map(z=>n2(0.7*z*z+0.2*j));addP("A.1",0,i,"Position data are recorded for an accelerating glider. Position uncertainty is ±0.01 m.",[["t / s","x / m"],t.map((z,k)=>[z,x[k]])],[
 {q:"State a graph transformation that can test x ∝ t² after allowing for an offset.",m:1,ms:["plot x against t²"]},
 {q:"Explain what a non-zero intercept may represent.",m:1,ms:["initial position / sensor zero offset"]},
 {q:"Describe how the gradient relates to acceleration for motion from rest.",m:2,ms:["x=x0+½at²","gradient = a/2"]},
 {q:"State why repeated measurements are useful.",m:1,ms:["estimate random uncertainty / mean"]},
-{q:"Distinguish random scatter from a constant zero error.",m:2,ms:["random scatter varies reading-to-reading; zero error shifts all readings similarly"]}]}
+{q:"Distinguish random scatter from a constant zero error.",m:2,ms:["random scatter varies reading-to-reading; zero error shifts all readings similarly"]}}]);}
   else {const tt=[0,1,2,3,4],aa=tt.map(z=>n2((0.4+0.05*j)*z));addP("A.1",0,i,"An accelerometer measures acceleration that increases approximately linearly with time.",[["t / s","a / m s⁻²"],tt.map((z,k)=>[z,aa[k]])],[
 {q:"State how the change in velocity is found from an acceleration–time graph.",m:1,ms:["area under the graph"]},
 {q:"Estimate the change in velocity over the full interval.",m:2,ms:["area of triangle / trapezia"]},
 {q:"State how displacement could then be determined.",m:2,ms:["construct/integrate velocity against time and find its area"]},
 {q:"Explain why acceleration at one instant does not by itself determine velocity.",m:1,ms:["velocity depends on initial velocity and accumulated change"]},
-{q:"Suggest one reason an accelerometer may have a non-zero reading at rest.",m:1,ms:["zero offset / calibration"]}]}
+{q:"Suggest one reason an accelerometer may have a non-zero reading at rest.",m:1,ms:["zero offset / calibration"]}}]);}
 }
 for(let i=0;i<20;i++){
  const mode=i%5,j=Math.floor(i/5)+1;
@@ -71,31 +71,31 @@ for(let i=0;i<20;i++){
 {q:"Determine the time to reach the ground using vertical motion.",m:3,ms:["choose a sign convention","use y=uyt−½gt² and solve the quadratic"]},
 {q:"Determine the horizontal range.",m:2,ms:["x=uxt"]},
 {q:"Determine the impact speed.",m:2,ms:["combine horizontal and vertical components / use energy"]},
-{q:"Explain qualitatively how drag changes the trajectory.",m:2,ms:["smaller range and maximum height","trajectory becomes asymmetric"]}]}
+{q:"Explain qualitatively how drag changes the trajectory.",m:2,ms:["smaller range and maximum height","trajectory becomes asymmetric"]}}]);}
  else if(mode===1){addT("A.1",0,i,"A train undergoes two successive intervals of uniform acceleration before coming to rest.",[
 {q:"Sketch a consistent velocity–time graph.",m:2,ms:["two straight segments with appropriate gradients"]},
 {q:"Explain how each gradient gives acceleration.",m:1,ms:["a=dv/dt"]},
 {q:"Explain how total displacement is obtained from the graph.",m:1,ms:["signed area under v–t"]},
 {q:"Determine which interval contributes more displacement from the graph dimensions.",m:2,ms:["compare trapezium areas"]},
-{q:"Discuss how a short measurement delay at the stage transition would affect inferred acceleration.",m:2,ms:["timing offset changes Δt and therefore the gradient"]}]}
+{q:"Discuss how a short measurement delay at the stage transition would affect inferred acceleration.",m:2,ms:["timing offset changes Δt and therefore the gradient"]}}]);}
  else if(mode===2){addT("A.1",0,i,"A particle starts from rest with acceleration a = kt for a fixed interval and then continues at constant velocity.",[
 {q:"Derive an expression for velocity during the accelerated interval.",m:2,ms:["integrate a=kt to obtain v=½kt²"]},
 {q:"Derive an expression for displacement during the accelerated interval.",m:2,ms:["integrate v to obtain s=kt³/6"]},
 {q:"Explain what changes when acceleration becomes zero.",m:1,ms:["velocity becomes constant at its current value"]},
 {q:"Sketch acceleration, velocity and displacement qualitatively.",m:3,ms:["a linear","v quadratic","s cubic during acceleration, then linear s"]},
-{q:"State one experimental measurement that could test the model.",m:1,ms:["position or velocity versus time with a motion sensor"]}]}
+{q:"State one experimental measurement that could test the model.",m:1,ms:["position or velocity versus time with a motion sensor"]}}]);}
  else if(mode===3){addT("A.1",0,i,"Two runners move along perpendicular straight paths and their positions are recorded as functions of time.",[
 {q:"Define the relative position vector of one runner with respect to the other.",m:1,ms:["subtract position vectors"]},
 {q:"Determine relative velocity from the two velocity vectors.",m:2,ms:["vector subtraction"]},
 {q:"Explain how the instant of closest approach can be found.",m:2,ms:["minimize separation / set derivative of separation squared to zero"]},
 {q:"Distinguish path length from magnitude of displacement.",m:2,ms:["path length follows route; displacement is end-to-end vector"]},
-{q:"State a graphical method for displaying the motion.",m:1,ms:["position components against time / trajectory plot"]}]}
+{q:"State a graphical method for displaying the motion.",m:1,ms:["position components against time / trajectory plot"]}}]);}
  else {addT("A.1",0,i,"A student compares free-fall measurements made with a phone video and with a light-gate timer.",[
 {q:"Identify one likely random uncertainty in the video method.",m:1,ms:["frame selection / pixel position"]},
 {q:"Identify one likely systematic uncertainty.",m:1,ms:["scale calibration / camera perspective"]},
 {q:"Explain why plotting h against t² is useful.",m:2,ms:["linearizes h=½gt²; gradient gives g/2"]},
 {q:"Explain why using several heights is better than a single calculation of g.",m:2,ms:["reveals scatter and systematic deviations; gradient uses all data"]},
-{q:"State how uncertainty bars help judge the model.",m:1,ms:["show whether deviations are significant relative to measurement uncertainty"]}]}
+{q:"State how uncertainty bars help judge the model.",m:1,ms:["show whether deviations are significant relative to measurement uncertainty"]}}]);}
 }
 
 /* ---------- A.2 Forces and momentum ---------- */
