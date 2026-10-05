@@ -1,0 +1,221 @@
+[
+  {
+    "id": 309,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Which type of friction acts when a body is on the verge of sliding?",
+    "opts": [
+      "Rolling friction",
+      "Kinetic friction",
+      "Static friction",
+      "Fluid friction"
+    ],
+    "ans": 2,
+    "exp": "Static friction acts when the body is stationary or on the verge of sliding, up to its maximum (limiting static friction).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 312,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 2,
+    "q": "A ball rolling on the floor eventually stops because of:",
+    "opts": [
+      "Gravity",
+      "Air resistance",
+      "Rolling friction",
+      "Normal force"
+    ],
+    "ans": 2,
+    "exp": "Rolling friction (and some air resistance) decelerates the rolling ball until it stops.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 321,
+    "type": "mcq",
+    "ch": 6,
+    "bloom": 4,
+    "q": "Why are roads banked at curves?",
+    "opts": [
+      "To increase friction",
+      "To provide centripetal force component and reduce friction required",
+      "To decrease speed",
+      "To increase normal force"
+    ],
+    "ans": 1,
+    "exp": "Banking provides a component of normal force toward the center, reducing the horizontal friction needed for circular motion.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 360,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "Rolling friction is less than sliding friction.",
+    "r": "Rolling replaces large-area sliding contact with a small contact point, reducing friction.",
+    "ans": 0,
+    "exp": "Both true; rolling gives less friction than sliding. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 368,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "A satellite in orbit does not need engine thrust to maintain speed.",
+    "r": "Gravity provides the centripetal force for circular orbit; no energy is lost (no friction in space).",
+    "ans": 0,
+    "exp": "Both true; gravity = centripetal force; no friction in space. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 379,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 6,
+    "a": "Anti-lock braking systems (ABS) work on the principle of Newton's 2nd and 3rd Laws.",
+    "r": "ABS prevents wheels from locking, maintaining rolling instead of sliding friction, reducing stopping distance.",
+    "ans": 1,
+    "exp": "Both true; ABS uses the principle that rolling friction > 0 and wheels keep rolling for better control (friction and Newton's 2nd Law). R is true and partially explains A, but doesn't mention the 3rd Law aspect. Answer B.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 385,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "Friction can be reduced by using ball bearings.",
+    "r": "Ball bearings replace sliding friction with rolling friction, which is much smaller.",
+    "ans": 0,
+    "exp": "Both true; rolling friction << sliding friction. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 393,
+    "type": "ar",
+    "ch": 6,
+    "bloom": 4,
+    "a": "Astronauts in an orbiting spacecraft appear weightless.",
+    "r": "The spacecraft and astronauts are in continuous free fall under gravity together.",
+    "ans": 0,
+    "exp": "Both A and R are true. Their apparent weightlessness is due to continuous free fall, not the absence of gravity.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 407,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Rolling friction is greater than sliding friction.",
+    "ans": 0,
+    "exp": "Rolling friction < sliding friction (that's why wheels are used).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 431,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Ball bearings reduce friction by converting sliding friction to rolling friction.",
+    "ans": 1,
+    "exp": "Balls roll between surfaces, giving rolling friction which is much less than sliding friction.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 440,
+    "type": "tf",
+    "ch": 6,
+    "bloom": 4,
+    "q": "A satellite orbiting Earth has balanced forces (gravity = centripetal force).",
+    "ans": 1,
+    "exp": "Gravity provides the centripetal force for circular orbit; the satellite is in 'free fall.'",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 458,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 2,
+    "q": "Rolling friction is ___ than sliding friction.",
+    "ans": [
+      "less",
+      "smaller"
+    ],
+    "exp": "Ball-bearing surfaces give less friction than sliding surfaces.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 476,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 5,
+    "q": "The coefficient of friction μ = friction force / ___ force.",
+    "ans": [
+      "normal"
+    ],
+    "exp": "μ = f/N.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 489,
+    "type": "fitb",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Friction force = μ × ___.",
+    "ans": [
+      "Normal force",
+      "N"
+    ],
+    "exp": "f = μN; coefficient of friction × normal force.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 526,
+    "type": "num",
+    "ch": 6,
+    "bloom": 6,
+    "q": "A 50 kg person stands on a scale in free-falling elevator. Scale reading?",
+    "ans": "0",
+    "unit": "N",
+    "exp": "In free fall, apparent weight=m(g-g)=0 (weightlessness).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 559,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 5,
+    "q": "Why do astronauts appear to float inside the International Space Station?",
+    "ans": "The ISS and astronauts inside are both in free fall around Earth. Gravity acts on them, but since everything (ISS + astronauts) falls together at the same rate (g), astronauts don't press on the floor and appear weightless. This is 'microgravity' or apparent weightlessness – not because gravity is absent but because everything accelerates equally.",
+    "exp": "ISS and astronauts both in free fall at same rate → no normal force → apparent weightlessness. Gravity still acts.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 561,
+    "type": "conc",
+    "ch": 6,
+    "bloom": 6,
+    "q": "Propose three methods to reduce friction between two surfaces.",
+    "ans": "1) Lubrication: add oil, grease, or other lubricants between surfaces to replace solid-solid contact with fluid friction (much lower). 2) Polishing: smooth the surfaces to reduce microscopic irregularities. 3) Using rollers or ball bearings: replace sliding friction with rolling friction, which is much lower. 4) Changing the material: use materials with lower coefficient of friction.",
+    "exp": "1) Lubrication (oil/grease). 2) Polishing surfaces. 3) Ball bearings (rolling friction). 4) Material change.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  }
+]
