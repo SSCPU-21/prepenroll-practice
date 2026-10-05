@@ -236,18 +236,18 @@ function buildCustomSet(){
   );
   if(state.bl) return shuffle(pool).slice(0,Math.min(state.length,pool.length));
 
-  // CBSE 2026-27 aligned paper mix:
-  // 50% competency-focused + 20% select-response + 30% constructed-response.
+  // Official CBSE Science 2026-27 competency design:
+  // 50% Knowledge & Understanding, 30% Application, 20% Formulate/Analyse/Evaluate/Create.
   const target=Math.min(state.length,pool.length);
   const desired={
-    competency_focused:Math.round(target*.50),
-    select_response:Math.round(target*.20)
+    knowledge_understanding:Math.round(target*.50),
+    application:Math.round(target*.30)
   };
-  desired.constructed_response=Math.max(0,target-desired.competency_focused-desired.select_response);
+  desired.higher_order=Math.max(0,target-desired.knowledge_understanding-desired.application);
 
   const result=[],used=new Set();
-  for(const cat of ['competency_focused','select_response','constructed_response']){
-    const candidates=shuffle(pool.filter(q=>q.examCategory===cat));
+  for(const cat of ['knowledge_understanding','application','higher_order']){
+    const candidates=shuffle(pool.filter(q=>q.examCompetency===cat));
     for(const q of candidates.slice(0,desired[cat])){result.push(q);used.add(q.id);}
   }
   for(const q of shuffle(pool.filter(q=>!used.has(q.id)))){
@@ -261,14 +261,14 @@ function buildFullPaper(){
   const pool=ALL_Q.filter(q=>state.topics.has(q.ch));
   const target=Math.min(40,pool.length);
   const desired={
-    competency_focused:Math.round(target*.50),
-    select_response:Math.round(target*.20)
+    knowledge_understanding:Math.round(target*.50),
+    application:Math.round(target*.30)
   };
-  desired.constructed_response=Math.max(0,target-desired.competency_focused-desired.select_response);
+  desired.higher_order=Math.max(0,target-desired.knowledge_understanding-desired.application);
 
   const result=[],used=new Set();
-  for(const cat of ['competency_focused','select_response','constructed_response']){
-    const candidates=shuffle(pool.filter(q=>q.examCategory===cat));
+  for(const cat of ['knowledge_understanding','application','higher_order']){
+    const candidates=shuffle(pool.filter(q=>q.examCompetency===cat));
     for(const q of candidates.slice(0,desired[cat])){result.push(q);used.add(q.id);}
   }
   for(const q of shuffle(pool.filter(q=>!used.has(q.id)))){
@@ -527,7 +527,7 @@ document.querySelectorAll('.mode-btn').forEach(b=>b.addEventListener('click',()=
   document.querySelector('.bloom-row').style.display=full?'none':'flex';
   document.querySelector('.type-row').closest('.builder-card').style.opacity=full?'.65':'1';
   document.getElementById('builder-note').textContent=full
-    ? 'Exam-style mix follows the CBSE 2026–27 balance: 50% competency-focused, 20% select-response and 30% constructed-response.'
+    ? 'CBSE 2026–27 competency mix: 50% Knowledge & Understanding, 30% Application, 20% Analyse / Evaluate / Create. Question forms may include objective/VSA, Assertion–Reason, short/long answer and case/source/integrated items.'
     : 'Select topics on the left, then choose one or more question types.';
 }));
 
