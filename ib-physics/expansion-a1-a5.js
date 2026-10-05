@@ -101,7 +101,7 @@ for(let i=0;i<5;i++){
 /* ---------- A.2 Forces and momentum ---------- */
 for(let i=0;i<12;i++){
  const k=i%12,m=1+(i%5),F=6+2*(i%6),g=9.81,v=2+(i%6);
- if(k===0){addM("A.2",0,i,"A resultant force of "+F+" N acts on a "+m+" kg object. What is its acceleration?",opt4(n2(F/m)+" m s⁻²",n2(F*m+1)+" m s⁻²",n2(m/F)+" m s⁻²",n2(F+m)+" m s⁻²"),0,"Use F=ma.");}
+ if(k===0){addM("A.2",0,i,"A resultant force of "+F+" N acts on a "+m+" kg object. What is its acceleration?",opt4(n2(F/m)+" m s⁻²",n2(F*m+1)+" m s⁻²",n2(m/F)+" m s⁻²",n2(F+m+2)+" m s⁻²"),0,"Use F=ma.");}
  else if(k===1){const dp=m*v;addM("A.2",0,i,"A "+m+" kg object moving at "+v+" m s⁻¹ is brought to rest. What is the magnitude of its change in momentum?",opt4(dp+" kg m s⁻¹",n2(dp/2)+" kg m s⁻¹",n2(m/v)+" kg m s⁻¹",n2(dp*v)+" kg m s⁻¹"),0,"|Δp|=mv.");}
  else if(k===2){const dt=0.1+0.05*(i%4),imp=n2(F*dt);addM("A.2",0,i,"A constant force "+F+" N acts for "+dt.toFixed(2)+" s. What impulse is delivered?",opt4(imp+" N s",n2(F/dt)+" N s",n2(dt/F)+" N s",F+" N s"),0,"Impulse = FΔt.");}
  else if(k===3){addM("A.2",0,i,"A car rounds a level curve at constant speed. Which force can provide the horizontal centripetal force?",opt4("friction between tyres and road","weight","normal reaction alone","engine power"),0,"Static friction can act toward the centre.");}
