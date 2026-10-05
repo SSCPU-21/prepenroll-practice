@@ -1,0 +1,1279 @@
+[
+  {
+    "id": 582,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A lever is a simple machine that:",
+    "opts": [
+      "Always multiplies force",
+      "Works on the principle of moments",
+      "Converts potential to kinetic energy",
+      "Reduces friction"
+    ],
+    "ans": 1,
+    "exp": "A lever balances torques: Load × Load arm = Effort × Effort arm.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 583,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Mechanical advantage of a machine is:",
+    "opts": [
+      "Effort / Load",
+      "Load / Effort",
+      "Work output / Work input",
+      "Power output / Power input"
+    ],
+    "ans": 1,
+    "exp": "MA = Load / Effort; ratio of load lifted to effort applied.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 584,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Velocity ratio of a machine is:",
+    "opts": [
+      "Load velocity / Effort velocity",
+      "Effort velocity / Load velocity",
+      "Load / Effort",
+      "Effort distance / Load distance"
+    ],
+    "ans": 1,
+    "exp": "VR = velocity of effort / velocity of load = effort distance / load distance.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 589,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Efficiency of a machine is given by:",
+    "opts": [
+      "(MA/VR)×100%",
+      "(VR/MA)×100%",
+      "MA×VR",
+      "(Work input/Work output)×100%"
+    ],
+    "ans": 0,
+    "exp": "Efficiency η = (MA/VR)×100% = (Useful output / Total input)×100%.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 591,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A machine with VR=4 and MA=3 has efficiency:",
+    "opts": [
+      "75%",
+      "133%",
+      "48%",
+      "25%"
+    ],
+    "ans": 0,
+    "exp": "η = MA/VR × 100 = 3/4 × 100 = 75%.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 597,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 3,
+    "q": "In a pulley system with VR=3, if effort moves 6 m, the load moves:",
+    "opts": [
+      "18 m",
+      "2 m",
+      "3 m",
+      "9 m"
+    ],
+    "ans": 1,
+    "exp": "VR = d_effort/d_load → d_load = 6/3 = 2 m.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 602,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A hydraulic jack is an application of:",
+    "opts": [
+      "Pascal's principle",
+      "Archimedes' principle",
+      "Newton's second law",
+      "Lever principle"
+    ],
+    "ans": 0,
+    "exp": "Hydraulic machines use Pascal's principle: pressure applied at one point is transmitted equally.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 604,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Which type of energy does a compressed spring possess?",
+    "opts": [
+      "Kinetic",
+      "Gravitational PE",
+      "Elastic PE",
+      "Thermal"
+    ],
+    "ans": 2,
+    "exp": "Compressed spring stores elastic potential energy due to its configuration.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 605,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "The energy of a satellite in circular orbit is:",
+    "opts": [
+      "Only kinetic",
+      "Only potential",
+      "Zero total",
+      "Constant total (KE+PE)"
+    ],
+    "ans": 3,
+    "exp": "Total mechanical energy is constant; KE and PE change together as radius changes.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 606,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Design a lever system that provides MA of 5 using effort arm = 50 cm. Load arm must be:",
+    "opts": [
+      "10 cm",
+      "250 cm",
+      "50 cm",
+      "5 cm"
+    ],
+    "ans": 0,
+    "exp": "MA = effort arm / load arm → load arm = 50/5 = 10 cm.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 607,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A student proposes increasing machine efficiency by reducing friction. Which method is best?",
+    "opts": [
+      "Applying oil/lubricant",
+      "Applying more force",
+      "Increasing load",
+      "Reducing effort arm"
+    ],
+    "ans": 0,
+    "exp": "Lubrication reduces friction between moving parts, increasing η = MA/VR × 100%.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 608,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 6,
+    "q": "The Sun's energy comes from nuclear fusion. This is an example of:",
+    "opts": [
+      "KE converting to PE",
+      "Mass-energy equivalence (E=mc²)",
+      "Chemical energy conversion",
+      "Potential energy release"
+    ],
+    "ans": 1,
+    "exp": "Solar energy → nuclear fusion converts mass to energy via E=mc² (Einstein's equation).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 611,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A first-class lever has:",
+    "opts": [
+      "Load between fulcrum and effort",
+      "Fulcrum between load and effort",
+      "Effort between load and fulcrum",
+      "All three at the same point"
+    ],
+    "ans": 1,
+    "exp": "Class 1 lever: fulcrum between load and effort (e.g., seesaw, scissors).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 612,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A second-class lever has:",
+    "opts": [
+      "Fulcrum between load and effort",
+      "Load between fulcrum and effort",
+      "Effort between load and fulcrum",
+      "No fulcrum"
+    ],
+    "ans": 1,
+    "exp": "Class 2 lever: load between fulcrum and effort (e.g., wheelbarrow, nutcracker). MA > 1.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 613,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 1,
+    "q": "A third-class lever has:",
+    "opts": [
+      "Effort between fulcrum and load",
+      "Load between fulcrum and effort",
+      "Fulcrum between load and effort",
+      "MA always > 1"
+    ],
+    "ans": 0,
+    "exp": "Class 3 lever: effort between fulcrum and load (e.g., tweezers, human forearm). MA < 1.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 614,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 2,
+    "q": "In a movable pulley system with one movable pulley, the VR is:",
+    "opts": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "ans": 1,
+    "exp": "One movable pulley: VR = 2; effort distance is twice the load distance.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 616,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A spring with spring constant k=100 N/m is compressed by 0.2 m. PE stored:",
+    "opts": [
+      "10 J",
+      "20 J",
+      "2 J",
+      "1 J"
+    ],
+    "ans": 2,
+    "exp": "PE = ½kx² = ½×100×0.04 = 2 J.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 617,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A body at rest can have energy. This is:",
+    "opts": [
+      "False; energy needs motion",
+      "True; it can have potential energy",
+      "True; it has kinetic energy",
+      "False; energy is always zero at rest"
+    ],
+    "ans": 1,
+    "exp": "A body at rest can have PE (height) or elastic PE (compressed spring).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 618,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Why is work done by centripetal force on a satellite zero?",
+    "opts": [
+      "Force is zero",
+      "Satellite doesn't move",
+      "Force is perpendicular to velocity/displacement",
+      "Satellite has no mass"
+    ],
+    "ans": 2,
+    "exp": "Work = F·s·cosθ; centripetal force ⊥ velocity → θ=90° → cos90°=0 → W=0.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 619,
+    "type": "mcq",
+    "ch": 7,
+    "bloom": 5,
+    "q": "In an ideal machine, energy input equals energy output. This means:",
+    "opts": [
+      "Efficiency is 100%",
+      "MA = VR",
+      "Both A and B",
+      "No friction exists"
+    ],
+    "ans": 2,
+    "exp": "Ideal machine: no friction → η=100% → MA/VR=1 → MA=VR. Both true.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 630,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "Simple machines make work easier but do not reduce total work done.",
+    "r": "The principle of conservation of energy ensures input work ≥ output work.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; machines redirect/concentrate force but cannot reduce total energy needed. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 631,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "A satellite needs no fuel to maintain its circular orbit.",
+    "r": "In circular orbit, no work is done by gravity (force ⊥ velocity), so satellite's speed remains constant.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; centripetal force ⊥ velocity → no work done → no energy needed to maintain orbit. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 635,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "The velocity ratio of a fixed pulley is 1.",
+    "r": "A fixed pulley only changes the direction of force; effort and load move equal distances.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; fixed pulley: VR=1, MA<1 (friction reduces it). R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 636,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "A wheelbarrow is a second-class lever.",
+    "r": "In a wheelbarrow, the wheel axle is the fulcrum, the load is between fulcrum and effort (handles).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; wheelbarrow is a class-2 lever with MA > 1. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 637,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "The human arm is a third-class lever.",
+    "r": "The biceps muscle (effort) is inserted between the elbow (fulcrum) and the load (hand weight).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; elbow=fulcrum, biceps=effort between fulcrum and load. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 641,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 2,
+    "a": "A compressed spring has more potential energy than an uncompressed one.",
+    "r": "Work done against the spring force is stored as elastic potential energy; PE = ½kx².",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; compressing stores energy. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 642,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "The efficiency of a machine is always less than 100%.",
+    "r": "All real machines have friction that converts some input energy to heat, reducing useful output.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; friction exists in all real machines. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 643,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "A class-2 lever always has MA > 1.",
+    "r": "In class-2, load arm < effort arm always, so MA = effort arm / load arm > 1.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; load arm < effort arm in class-2 → MA > 1. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 645,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "Nuclear energy is a form of potential energy stored in atomic nuclei.",
+    "r": "Nuclear binding energy holds nucleons together; releasing this energy involves mass-energy conversion per E=mc².",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 1,
+    "exp": "Both true; nuclear energy is indeed stored in nuclei, but R describes a different mechanism (mass-energy, not classical PE storage). Answer B.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 648,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 3,
+    "a": "The efficiency of a pulley system increases with lubrication.",
+    "r": "Lubrication reduces friction between rope and pulley, decreasing energy wasted as heat.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; less friction → more useful output → higher efficiency. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 656,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "A class-3 lever has mechanical advantage less than 1.",
+    "r": "In class-3, effort arm < load arm, so MA = effort arm / load arm < 1; force is not multiplied.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; MA<1 means velocity advantage: load moves faster than effort. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 661,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 4,
+    "a": "Golden Gate Bridge cables store elastic potential energy when loaded.",
+    "r": "Loaded cables stretch elastically; this deformation stores elastic PE like a stretched spring.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; stretched cables store elastic PE. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 663,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 6,
+    "a": "A perfectly elastic collision conserves both momentum and kinetic energy.",
+    "r": "In elastic collision, no energy is converted to deformation or heat, so KE is conserved along with momentum.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; perfectly elastic → no energy loss → both KE and p conserved. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 668,
+    "type": "ar",
+    "ch": 7,
+    "bloom": 5,
+    "a": "Using a longer effort arm in a lever increases mechanical advantage.",
+    "r": "MA = effort arm / load arm; increasing effort arm while keeping load arm constant increases MA.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; longer effort arm → larger MA. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 683,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Mechanical advantage can exceed 1 only if VR > 1.",
+    "ans": 0,
+    "exp": "MA = η × VR; if η < 100%, MA < VR; for MA > 1 we need η×VR > 1, not simply VR > 1.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 685,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Simple machines always increase both force and speed simultaneously.",
+    "ans": 0,
+    "exp": "Simple machines trade force for speed; increasing force (MA > 1) means decreasing speed (VR > 1).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 687,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "In a class-2 lever, the load is between the fulcrum and the effort.",
+    "ans": 1,
+    "exp": "Wheelbarrow, nutcracker: load between fulcrum and effort; MA > 1.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 688,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "The efficiency of a machine can be greater than 100%.",
+    "ans": 0,
+    "exp": "Would violate conservation of energy; useful output cannot exceed input.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 690,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Work done by centripetal force on a body in circular motion is zero.",
+    "ans": 1,
+    "exp": "Centripetal force ⊥ velocity → W = F·v·cos90° = 0 at every instant.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 691,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A compressed spring has elastic potential energy.",
+    "ans": 1,
+    "exp": "Work done compressing spring is stored as elastic PE = ½kx².",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 693,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "The velocity ratio of a system of pulleys equals the number of rope segments supporting the movable pulley.",
+    "ans": 1,
+    "exp": "In a block-and-tackle, VR = number of rope segments holding the movable block.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 694,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A class-3 lever multiplies force.",
+    "ans": 0,
+    "exp": "Class-3 lever: effort between fulcrum and load → MA < 1; it does NOT multiply force.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 697,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "The efficiency of a pulley system improves with lubrication.",
+    "ans": 1,
+    "exp": "Lubrication reduces friction → less energy wasted as heat → higher efficiency.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 698,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "In a perfectly inelastic collision, kinetic energy is conserved.",
+    "ans": 0,
+    "exp": "In perfectly inelastic collision, KE is NOT conserved (some converts to heat/deformation); momentum is conserved.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 708,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "In a lever, increasing effort arm reduces the effort needed for same load.",
+    "ans": 1,
+    "exp": "MA = effort arm / load arm; longer effort arm → more MA → less effort needed.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 712,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A pulley changes the direction of force applied.",
+    "ans": 1,
+    "exp": "A fixed pulley redirects force; you pull down instead of lifting up.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 714,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Springs store gravitational potential energy.",
+    "ans": 0,
+    "exp": "Springs store elastic potential energy, not gravitational PE.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 716,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Mechanical advantage equals load divided by effort.",
+    "ans": 1,
+    "exp": "MA = Load/Effort by definition.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 717,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Friction always reduces efficiency of a machine.",
+    "ans": 1,
+    "exp": "Friction converts useful energy to heat, reducing η = (output/input)×100%.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 725,
+    "type": "tf",
+    "ch": 7,
+    "bloom": 5,
+    "q": "In ideal conditions, energy input equals energy output in a machine.",
+    "ans": 1,
+    "exp": "Ideal machine: no friction → η = 100% → work input = work output.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 734,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "The efficiency of a machine = (MA/VR) × ___ %",
+    "ans": [
+      "100"
+    ],
+    "exp": "η = (MA/VR)×100%.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 736,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Mechanical advantage = ___ / Effort",
+    "ans": [
+      "Load"
+    ],
+    "exp": "MA = Load/Effort.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 737,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Velocity ratio = Effort distance / ___ distance",
+    "ans": [
+      "Load"
+    ],
+    "exp": "VR = d_effort/d_load.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 738,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "In a class-1 lever, the ___ is between the load and the effort.",
+    "ans": [
+      "fulcrum"
+    ],
+    "exp": "Examples: seesaw, scissors. Fulcrum in the middle.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 741,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A machine with VR = 5 and efficiency 80% has MA = ___",
+    "ans": [
+      "4"
+    ],
+    "exp": "MA = η × VR/100 = 0.80 × 5 = 4.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 743,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "In a movable pulley system with two movable pulleys, VR = ___",
+    "ans": [
+      "4"
+    ],
+    "exp": "Each movable pulley doubles the VR: 2 movable pulleys → VR = 4.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 745,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "The energy stored in a stretched spring is called ___ potential energy",
+    "ans": [
+      "elastic"
+    ],
+    "exp": "PE_spring = ½kx² (elastic/spring potential energy).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 747,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A class-2 lever has mechanical advantage ___ than 1",
+    "ans": [
+      "greater"
+    ],
+    "exp": "Load arm < effort arm in class-2 → MA > 1.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 751,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "An inclined plane has VR = ___ / height",
+    "ans": [
+      "length of incline"
+    ],
+    "exp": "VR of inclined plane = L/h (slope length/height).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 752,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A ___ class lever has effort between the fulcrum and the load",
+    "ans": [
+      "third (3rd)"
+    ],
+    "exp": "Class-3: effort between fulcrum and load; MA < 1.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 756,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 6,
+    "q": "A wedge is a simple machine based on the ___ plane",
+    "ans": [
+      "inclined"
+    ],
+    "exp": "A wedge is two inclined planes joined back-to-back.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 760,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A third-class lever ___ force but gains in ___",
+    "ans": [
+      "does not multiply (reduces), speed/distance"
+    ],
+    "exp": "MA<1 for class-3; distance advantage instead.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 761,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Spring potential energy = ½ × k × ___²",
+    "ans": [
+      "x (extension or compression)"
+    ],
+    "exp": "PE_spring = ½kx², where k is spring constant and x is deformation.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 762,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 4,
+    "q": "A fixed pulley has MA less than 1 due to ___",
+    "ans": [
+      "friction"
+    ],
+    "exp": "Friction in the pulley/rope reduces MA below VR (=1).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 766,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "In a pulley with VR=3, if load = 300 N and η=100%, effort = ___ N",
+    "ans": [
+      "100"
+    ],
+    "exp": "MA = VR = 3 (if η=100%); Effort = Load/MA = 300/3 = 100 N.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 771,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 1,
+    "q": "Effort arm × Effort = Load arm × ___ (law of lever)",
+    "ans": [
+      "Load"
+    ],
+    "exp": "Principle of moments; MA = effort arm / load arm.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 772,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "The number of movable pulleys in a block-and-tackle equals VR ÷ ___",
+    "ans": [
+      "2"
+    ],
+    "exp": "Each movable pulley adds 2 rope segments; n pulleys → VR = 2n.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 778,
+    "type": "fitb",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A seesaw is an example of a class ___ lever",
+    "ans": [
+      "1 (first)"
+    ],
+    "exp": "Seesaw: fulcrum between load and effort → class-1 lever.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 785,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "A machine with MA=4 and VR=5. Efficiency:",
+    "ans": "80",
+    "unit": "%",
+    "exp": "η = (MA/VR)×100 = (4/5)×100 = 80%.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 786,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Load = 500 N, effort = 100 N. MA:",
+    "ans": "5",
+    "unit": "",
+    "exp": "MA = Load/Effort = 500/100 = 5.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 787,
+    "type": "num",
+    "ch": 7,
+    "bloom": 2,
+    "q": "Effort moves 2 m; load moves 0.5 m. VR:",
+    "ans": "4",
+    "unit": "",
+    "exp": "VR = d_effort/d_load = 2/0.5 = 4.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 790,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "A spring (k=200 N/m) is compressed 0.1 m. PE stored:",
+    "ans": "1",
+    "unit": "J",
+    "exp": "PE = ½kx² = ½×200×0.01 = 1 J.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 792,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Machine: load 400 N, effort arm 80 cm, load arm 20 cm. Effort needed (ideal):",
+    "ans": "100",
+    "unit": "N",
+    "exp": "MA = 80/20 = 4; Effort = Load/MA = 400/4 = 100 N.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 795,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Efficiency 75%, VR=8. MA:",
+    "ans": "6",
+    "unit": "",
+    "exp": "MA = η/100 × VR = 0.75 × 8 = 6.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 796,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Rope pulled 3 m to lift 1 kg by 1 m. VR:",
+    "ans": "3",
+    "unit": "",
+    "exp": "VR = 3/1 = 3.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 801,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "A crane lifts 2000 N load with 250 N effort. MA:",
+    "ans": "8",
+    "unit": "",
+    "exp": "MA = 2000/250 = 8.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 802,
+    "type": "num",
+    "ch": 7,
+    "bloom": 5,
+    "q": "Effort moves 4 m; load rises 0.5 m; η=100%. MA =",
+    "ans": "8",
+    "unit": "",
+    "exp": "VR = 4/0.5 = 8; η=100% → MA=VR=8.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 808,
+    "type": "num",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Lever: load = 100 N, effort = 25 N, effort arm = 2 m. Load arm:",
+    "ans": "0.5",
+    "unit": "m",
+    "exp": "MA = effort arm/load arm → 4 = 2/load arm → load arm = 0.5 m.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 823,
+    "type": "num",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Load 60 N, effort arm 1.2 m, load arm 0.3 m. Effort (ideal):",
+    "ans": "15",
+    "unit": "N",
+    "exp": "MA = 1.2/0.3 = 4; Effort = 60/4 = 15 N.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 834,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 1,
+    "q": "What are simple machines? What do they do for us?",
+    "ans": "Simple machines (lever, pulley, inclined plane, wedge, screw, wheel-and-axle) make work easier by: (1) multiplying force (MA>1), (2) changing direction of force, or (3) gaining speed (MA<1). They cannot reduce total work needed.",
+    "exp": "Simple machines redirect/multiply force but cannot reduce total energy required.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 838,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Why does a longer effort arm make a lever more efficient?",
+    "ans": "MA = effort arm / load arm. A longer effort arm increases MA, so less effort is needed for the same load. Though the effort moves through a longer distance, the force required decreases proportionally. Total work = effort × distance remains the same (energy conservation).",
+    "exp": "Longer effort arm increases MA (= effort arm/load arm), reducing force needed.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 839,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Explain with an example how an inclined plane reduces effort needed.",
+    "ans": "An inclined plane spreads the lifting over a longer path. VR = length of slope/height. For a ramp of length 5 m and height 1 m, VR=5; effort needed = Load/5 (with no friction). The trade-off: effort moves 5 m to lift load by 1 m. Work input = Work output.",
+    "exp": "Inclined plane increases effort distance and reduces effort force by factor of VR.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 841,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "Compare the three classes of levers with one example each.",
+    "ans": "Class 1: Fulcrum between load and effort. MA can be > or < 1. Examples: seesaw, scissors, crowbar. Class 2: Load between fulcrum and effort. MA always > 1. Examples: wheelbarrow, nutcracker. Class 3: Effort between fulcrum and load. MA always < 1 (speed gain). Examples: tweezers, forearm.",
+    "exp": "Class 1: fulcrum in middle; Class 2: load in middle (MA>1); Class 3: effort in middle (MA<1).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 843,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "How does a pulley system differ from a single fixed pulley?",
+    "ans": "A single fixed pulley only changes direction of force (VR=1, MA<1 due to friction). A movable pulley or pulley system (block-and-tackle) has VR>1, so it can provide MA>1 by having multiple rope segments support the load. More pulleys → greater VR → potentially greater MA.",
+    "exp": "Fixed pulley: changes direction only (VR=1). Movable/system: multiplies force (VR>1).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 847,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "Design an experiment to determine the efficiency of a pulley system.",
+    "ans": "Materials: pulley system, known weights, ruler. Steps: (1) Measure effort force applied (spring balance). (2) Measure load (weight). (3) Measure effort distance moved and load distance raised. (4) Calculate: Work input = Effort × effort distance; Work output = Load × load distance. (5) η = (W_out/W_in) × 100%. Compare with η = (MA/VR) × 100%.",
+    "exp": "Efficiency experiment: measure effort and load forces and distances; calculate η.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 848,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "How does a bicycle gear system function as a simple machine?",
+    "ans": "A bicycle uses a gear system (sprockets and chain). The pedal sprocket (large gear) and wheel sprocket (small gear) change the velocity ratio. High gear (large/small = big VR): less force on pedals but need more turns; provides more speed. Low gear (small/large = small VR): more force output for climbing hills.",
+    "exp": "Bicycle gears change VR: high gear = more speed; low gear = more force for climbing.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 857,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "What are the advantages and disadvantages of using a single movable pulley?",
+    "ans": "Advantages: VR=2, so effort = load/2 (ideal); changes direction and halves effort. Disadvantages: MA < 2 (friction in pulley), effort side of rope must be pulled upward, efficiency < 100%. It gives mechanical advantage but the effort still has to move twice the distance the load moves.",
+    "exp": "Single movable pulley: halves effort but you pull twice the distance; efficiency < 100%.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 859,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 5,
+    "q": "How does nuclear energy differ from chemical energy?",
+    "ans": "Chemical energy involves electrons rearranging between atoms (breaking/forming chemical bonds). Nuclear energy involves changes in atomic nuclei (fission or fusion), releasing energy from nuclear binding energy per E=mc² (mass-energy conversion). Nuclear energy is about a million times more energy-dense than chemical energy.",
+    "exp": "Chemical energy: electron bonds; nuclear energy: nuclear forces and mass-energy conversion (E=mc²).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 864,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 6,
+    "q": "How does the concept of mechanical advantage apply to everyday tools?",
+    "ans": "Screwdriver (wheel-and-axle): rotating handle (large radius) → tip (small radius), MA = handle radius / tip radius. Bottle opener (class-2 lever): MA > 1. Scissors (class-1 lever): cutting blades. Nail clipper (class-1 lever). All use mechanical advantage to make tasks easier with less effort.",
+    "exp": "Everyday tools are simple machines using MA to multiply force or change direction.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 867,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "How does a jack-screw (car jack) demonstrate principles of simple machines?",
+    "ans": "A jack-screw is an inclined plane (thread) wrapped around a cylinder. When the handle (effort arm) is turned, the screw advances by one thread pitch per turn. VR = circumference of handle circle / pitch. This gives very high MA, allowing a small person to lift a heavy car with little effort.",
+    "exp": "Car jack = screw (inclined plane spiral): large effort circle / small pitch → very high MA.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 872,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 3,
+    "q": "Explain why mountaineers use zigzag paths to climb steep hills.",
+    "ans": "A zigzag path is like an inclined plane with a longer path length for the same height gain. VR = path length / height. Longer path → greater VR → less force needed to climb (at same body weight, F_effort = weight/VR). The total work = mgh remains the same, but the effort per step is reduced.",
+    "exp": "Zigzag = inclined plane with greater length/height ratio (VR) → less force needed per step.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 873,
+    "type": "conc",
+    "ch": 7,
+    "bloom": 4,
+    "q": "How do animals demonstrate principles of levers in their bodies?",
+    "ans": "Animal bones and muscles form lever systems. Human forearm: elbow = fulcrum, biceps = effort (class-3 lever, MA<1 but speed advantage). Bird wings: flight muscles (effort) attach near shoulder (fulcrum), wing tip is load (class-3). Kangaroo tail and hind legs form class-1 lever for jumping efficiency.",
+    "exp": "Animal limbs are lever systems; forearm is class-3 lever (MA<1, speed/distance advantage).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  }
+]
