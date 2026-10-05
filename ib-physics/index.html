@@ -2594,7 +2594,7 @@ function readUI(){S.tier=$('#tierS').checked?'S':($('#tierH').checked?'H':'');S.
 function writeUI(){$('#tierS').checked=S.tier==='S';$('#tierH').checked=S.tier==='H';$('#secM').checked=!!(S.types&1);$('#secT').checked=!!(S.types&2);$('#secP').checked=!!(S.types&4);
   document.querySelectorAll('.theme-chip').forEach((c,i)=>c.setAttribute('aria-pressed',S.topics&(1<<i)?'true':'false'));
   document.querySelectorAll('.sub-check').forEach((x,i)=>x.checked=!!(S.subs&(1<<i)));$('#len'+S.len).checked=true;updateLen()}
-function updateLen(){readUI();const L=getL(S),b=[];if(S.types&1)b.push(L.m+' × 1A');if(S.types&4)b.push(L.p+' × 1B');if(S.types&2)b.push(L.t+' × Paper 2');$('#lenOut').textContent=b.join(' · ')||'Choose at least one section';
+function updateLen(){readUI();const L=getL(S),b=[];if(S.types&1)b.push(L.m+' × 1A');if(S.types&4)b.push(L.p+' × 1B');if(S.types&2)b.push(L.t+' × Paper 2');$('#lenOut').textContent=b.join(' · ')||'Choose at least one question format';
   $('#tierHint').textContent=S.tier==='H'?'HL: SL content plus additional higher level content.':(S.tier==='S'?'SL content only (no AHL).':'Choose SL or HL to begin.');}
 
 const TCOUNT={},SCOUNT={};Object.values(BANKS).forEach(bk=>bk.forEach(it=>{TCOUNT[it.t]=(TCOUNT[it.t]||0)+1;if(it.s)SCOUNT[it.s]=(SCOUNT[it.s]||0)+1}));
@@ -2638,22 +2638,23 @@ $('#gen').addEventListener('click',()=>{
   try{
     readUI();
     const selected=[...document.querySelectorAll('.theme-chip')].filter(x=>x.getAttribute('aria-pressed')==='true');
-    if(!S.types){err.textContent='Choose at least one paper.';err.hidden=false;return}
+    if(!S.tier){err.textContent='Choose SL or HL first.';err.hidden=false;return}
+    if(!S.types){err.textContent='Choose at least one IB question format.';err.hidden=false;return}
     if(!selected.length||!S.topics){err.textContent='Choose at least one theme or subtopic first.';err.hidden=false;return}
     err.hidden=true;
     S.seed=Math.floor(Math.random()*2176782335);
     const testPaper=buildPaper(S);
     if(!testPaper.sections.length||!testPaper.marks){
-      err.textContent='No questions are available for this exact combination. Try another theme or paper.';
+      err.textContent='No questions are available for this exact combination. Try another theme or question format.';
       err.hidden=false;return;
     }
     start();
     $('#sheet').scrollIntoView({behavior:'smooth',block:'start'});
   }catch(ex){
     console.error(ex);
-    err.textContent='The paper could not be generated. Please change one selection and try again.';
+    err.textContent='The practice set could not be generated. Please change one selection and try again.';
     err.hidden=false;
-    $('#sheet').innerHTML='<div class="start-empty"><div class="start-badge">PrepEnroll™ · IB Physics</div><h2>We could not build that paper.</h2><p>Please choose at least one theme and one paper, then try Generate new practice set again.</p></div>';
+    $('#sheet').innerHTML='<div class="start-empty"><div class="start-badge">PrepEnroll™ · IB Physics</div><h2>We could not build that practice set.</h2><p>Please choose SL or HL, at least one theme, and one question format, then try again.</p></div>';
   }
 });
 $('#codeForm').addEventListener('submit',e=>{e.preventDefault();const d=decode($('#codeIn').value),err=$('#codeErr');
@@ -2662,7 +2663,7 @@ $('#codeForm').addEventListener('submit',e=>{e.preventDefault();const d=decode($
 
 function showThemeStart(){
   paper=null;marked=false;clearInterval(timerId);
-  $('#sheet').innerHTML=`<div class="start-empty"><div class="start-badge">PrepEnroll™ · IB Physics</div><h2>Choose what you want to practise.</h2><p>Select one or more IB themes or individual subtopics, choose SL or HL, select the papers and length, then click <b>Generate new practice set</b>.</p><div class="start-steps"><span>1&nbsp; Select theme</span><span>2&nbsp; Choose papers</span><span>3&nbsp; Generate & practise</span></div></div>`;
+  $('#sheet').innerHTML=`<div class="start-empty"><div class="start-badge">PrepEnroll™ · IB Physics</div><h2>Choose what you want to practise.</h2><p>Choose SL or HL, select one or more IB themes or individual subtopics, choose the question formats and practice length, then click <b>Start practice</b>.</p><div class="start-steps"><span>1&nbsp; Choose level</span><span>2&nbsp; Select content</span><span>3&nbsp; Start practice</span></div></div>`;
 }
 function start(){
   paper=buildPaper(S);
@@ -2678,10 +2679,10 @@ const LET='ABCD',PL='abcdefgh';
 
 function render(){
   const code=encode(S),tierName=S.tier==='H'?'HL':'SL';
-  let h=`<div class="phead"><div><div class="eyebrow">PrepEnroll · IB Physics · ${tierName} · ${getL(S).n}</div><h2>Practice Paper ${code.split('-')[1]}</h2></div>
+  let h=`<div class="phead"><div><div class="eyebrow">PrepEnroll · IB Physics · ${tierName} · ${getL(S).n}</div><h2>Practice Set ${code.split('-')[1]}</h2></div>
     <div class="timer" id="timer">${mmss(elapsed)}<small>${marked?'time taken':'elapsed · suggested '+paper.mins+' min'}</small></div>
     <div class="meta"><span>Total <b>${paper.marks} marks</b></span><span>Themes <b>${TOPICS.filter((t,i)=>S.topics&(1<<i)).map(t=>t.k).join(', ')}</b></span>
-    <span class="codebox">Paper code <span class="code">${code}</span><button class="btn" type="button" id="copyCode">Copy</button></span></div></div>`;
+    <span class="codebox">Practice code <span class="code">${code}</span><button class="btn" type="button" id="copyCode">Copy</button></span></div></div>`;
   if(paper.notes.length)h+=`<div class="note">${paper.notes.join(' ')}</div>`;
   h+=`<div id="result"></div>`;
   h+=`<div class="instr"><span><b>Instructions.</b> Answer all questions. In Paper 1A choose one answer; calculators are not needed but are allowed here. In Papers 1B and 2 show your working, write the equation before substituting and give units.</span><span>Take g = 9.81 m s⁻². Data needed is given in each question (IB data booklet values). Numerical answers within 2% are accepted automatically.</span></div>`;
