@@ -1,0 +1,340 @@
+[
+  {
+    "id": 907,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "A patient's kidney stone is broken by:",
+    "opts": [
+      "X-rays",
+      "Laser",
+      "Ultrasound (lithotripsy)",
+      "Gamma rays"
+    ],
+    "ans": 2,
+    "exp": "Lithotripsy uses focused high-energy ultrasound waves to break kidney stones without surgery.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 908,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "The Doppler effect causes a sound to appear:",
+    "opts": [
+      "Higher pitched when source moves toward listener",
+      "Lower pitched when source approaches",
+      "Same pitch always",
+      "Higher pitched when source moves away"
+    ],
+    "ans": 0,
+    "exp": "Doppler effect: source approaching → compressed waves → higher frequency (pitch).",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 910,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Which property of ultrasound allows it to clean delicate instruments?",
+    "opts": [
+      "High frequency causes cavitation (bubble formation/collapse)",
+      "Ultrasound is very loud",
+      "It emits heat",
+      "It dissolves dirt"
+    ],
+    "ans": 0,
+    "exp": "Cavitation: ultrasound creates tiny imploding bubbles that dislodge dirt, used in ultrasonic cleaners.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 911,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 6,
+    "q": "If you could design a device to detect distant earthquakes, which sound type would you use?",
+    "opts": [
+      "Audible sound",
+      "Ultrasound",
+      "Infrasound",
+      "Visible light"
+    ],
+    "ans": 2,
+    "exp": "Earthquakes produce infrasound that travels through rock; infrasound detectors can sense these at great distances.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 912,
+    "type": "mcq",
+    "ch": 10,
+    "bloom": 6,
+    "q": "A musician doubles the tension in a guitar string. The frequency:",
+    "opts": [
+      "Doubles",
+      "Increases by √2",
+      "Halves",
+      "Stays same"
+    ],
+    "ans": 1,
+    "exp": "f ∝ √T (tension); doubling T → f multiplied by √2 ≈ 1.41.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 941,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 3,
+    "a": "Ultrasound can break kidney stones.",
+    "r": "High-intensity focused ultrasound creates mechanical stress that fractures stones (lithotripsy).",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; ultrasound waves create pressure fluctuations that crack stones. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 955,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "Ultrasonic cleaning uses high-frequency sound waves.",
+    "r": "Ultrasound creates cavitation (rapidly collapsing bubbles) in the cleaning liquid, which mechanically removes dirt from surfaces.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; cavitation is the key mechanism. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 961,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "The Doppler effect applies to both sound and light waves.",
+    "r": "The Doppler effect is a wave phenomenon (shift in observed frequency due to relative motion); it applies to all waves, including electromagnetic waves.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; Doppler effect is universal for all wave types. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 973,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 6,
+    "a": "A stringed instrument produces higher pitch when the string is tighter.",
+    "r": "Greater tension increases the speed of transverse waves in the string, raising the fundamental frequency.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; f ∝ √T → tighter string → higher f → higher pitch. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 977,
+    "type": "ar",
+    "ch": 10,
+    "bloom": 4,
+    "a": "A guitar string vibrates to produce sound.",
+    "r": "Plucking the string causes it to oscillate; these oscillations disturb surrounding air molecules, creating a sound wave.",
+    "opts": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "ans": 0,
+    "exp": "Both true; string vibration → air vibration → sound. R explains A.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1003,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Ultrasound can be used to clean delicate jewellery.",
+    "ans": 1,
+    "exp": "Ultrasonic cleaners use cavitation to remove dirt from surfaces without scratching.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1008,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Frequency of sound heard by a stationary observer increases when the source approaches.",
+    "ans": 1,
+    "exp": "Doppler effect: approaching source → compressed waves → higher frequency perceived.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1014,
+    "type": "tf",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Infrasound is used in earthquake early warning systems.",
+    "ans": 1,
+    "exp": "Earthquakes produce infrasound waves; early warning systems detect these before the destructive seismic waves arrive.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1059,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "A guitar string vibrating faster produces a sound of ___ pitch",
+    "ans": [
+      "higher"
+    ],
+    "exp": "Higher vibration frequency → higher pitch.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1060,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Ultrasound used to break kidney stones is called ___",
+    "ans": [
+      "lithotripsy"
+    ],
+    "exp": "Non-surgical procedure using focused ultrasound to shatter kidney/gallbladder stones.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1063,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "The phenomenon of change in frequency of sound due to relative motion between source and listener is called the ___ effect",
+    "ans": [
+      "Doppler"
+    ],
+    "exp": "Doppler effect: approaching source → higher pitch; receding → lower pitch.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1064,
+    "type": "fitb",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Ultrasonic cleaning uses ___ (bubble formation) to remove dirt",
+    "ans": [
+      "cavitation"
+    ],
+    "exp": "Cavitation: ultrasound creates and collapses tiny bubbles; impact dislodges dirt.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1138,
+    "type": "num",
+    "ch": 10,
+    "bloom": 5,
+    "q": "A violin string: f=440 Hz. If tension doubles, new f:",
+    "ans": "622",
+    "unit": "Hz",
+    "exp": "f ∝ √T; new f = 440×√2 ≈ 622 Hz.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1148,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "What is the Doppler effect and what are its applications?",
+    "ans": "The Doppler effect is the change in perceived frequency of sound (or light) due to relative motion between source and observer. When source approaches, waves are compressed → higher frequency (pitch). Receding: waves stretched → lower frequency. Applications: speed guns, weather radar, medical blood flow measurement (Doppler ultrasound), astronomy (star velocity from red/blue shift).",
+    "exp": "Doppler: relative motion shifts frequency; approaching → higher f; receding → lower f.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1150,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 4,
+    "q": "Why is infrasound used for earthquake early warning?",
+    "ans": "Earthquakes generate infrasound waves that propagate through the Earth's crust. These waves travel faster than the destructive seismic surface waves. Seismographs and infrasound detectors can detect them seconds to minutes before the devastating shaking arrives, giving warning time for evacuation.",
+    "exp": "Infrasound from earthquakes travels ahead of destructive waves; detected for early warning.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1152,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 5,
+    "q": "Explain how ultrasonic cleaning works.",
+    "ans": "An ultrasonic cleaner tank filled with liquid vibrates at frequencies of 20,000–400,000 Hz. This creates rapid pressure changes that cause tiny bubbles to form and implode violently (cavitation). The implosion creates intense local forces that dislodge dirt, grease, and bacteria from surfaces without scratching. Used for glasses, dental instruments, jewellery, circuit boards.",
+    "exp": "Ultrasound → cavitation (bubble implosion) → mechanical removal of dirt.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1165,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "How is sound used in the treatment of medical conditions?",
+    "ans": "Ultrasound is used in: (1) Lithotripsy: focused ultrasound breaks kidney stones. (2) Physiotherapy: therapeutic ultrasound heats deep tissues, promotes healing. (3) Cancer treatment: high-intensity focused ultrasound (HIFU) destroys tumor cells. (4) Dental cleaners: ultrasonic scalers remove tartar. (5) Diagnostic imaging: sonography (prenatal, cardiac, abdominal).",
+    "exp": "Medical ultrasound: lithotripsy, physiotherapy, HIFU cancer treatment, dental cleaning, diagnostic imaging.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1177,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 3,
+    "q": "What are the advantages of using ultrasound over audible sound for medical imaging?",
+    "ans": "Higher frequency → shorter wavelength → can image smaller structures (better resolution). Ultrasound is non-ionising (no radiation damage). Can produce real-time moving images (Doppler for blood flow). Can focus on specific tissue layers. Works well in soft tissue. Safe for repeated use and for fetuses during pregnancy.",
+    "exp": "Ultrasound advantages: short λ → better resolution; non-ionising; real-time; safe; Doppler for blood flow.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  },
+  {
+    "id": 1180,
+    "type": "conc",
+    "ch": 10,
+    "bloom": 6,
+    "q": "Evaluate the role of sound technology in modern medicine.",
+    "ans": "Ultrasound: diagnostic imaging (most safe, no radiation), Doppler flow measurement, echocardiography. Therapeutic: lithotripsy (kidney stones), HIFU (tumor treatment), physiotherapy. Dental: ultrasonic scaling. Surgical: ultrasonic scalpels. Sound is also used in hearing aids (amplification). These technologies have made diagnosis safer (no X-ray exposure) and enabled non-invasive treatments that replace surgery.",
+    "exp": "Ultrasound in medicine: diagnosis (sonography, echo), therapy (HIFU, lithotripsy), dental, surgical — non-invasive and radiation-free.",
+    "archiveReason": "Outside regular CBSE Grade 9 core scope; retained for enrichment/reference.",
+    "archivedOn": "2026-10-05"
+  }
+]
