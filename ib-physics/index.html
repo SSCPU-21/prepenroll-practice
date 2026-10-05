@@ -418,52 +418,60 @@ body{background:#EEF3F6;color:#102B43}.brand{background:#fff;border-bottom:1px s
     <div class="eyebrow">PrepEnroll · IB Diploma Physics · SL &amp; HL</div>
     <h1>IB Physics <em>Practice Studio</em></h1>
   </div>
-  <p>Build a fresh IB Physics practice set for SL or HL, solve it at your pace, mark it, and finish with a clear question-by-question scorecard.</p>
+  <p>Choose SL or HL, select the IB themes and subtopics you want to practise, then build a focused question set with Paper 1A, Paper 1B and Paper 2 style questions.</p>
 </header>
 
 <div class="wrap">
   <aside class="builder" aria-label="Paper settings">
     <div class="panel">
       <fieldset class="fs">
-        <legend>Tier</legend>
-        <div class="seg" role="radiogroup">
-          <input type="radio" name="tier" id="tierS" value="S"><label for="tierS">SL</label>
-          <input type="radio" name="tier" id="tierH" value="H" checked><label for="tierH">HL</label>
+        <legend>Session mode</legend>
+        <div style="padding:10px 12px;border:1px solid var(--rule);border-radius:8px;background:var(--field)">
+          <b style="color:var(--blue)">Practice Mode</b>
+          <small style="display:block;margin-top:3px;color:var(--muted)">No exam-mode timing or locked answers at this stage.</small>
         </div>
-        <p class="hint" id="tierHint">SL and additional higher level content.</p>
       </fieldset>
       <fieldset class="fs">
-        <legend>Papers</legend>
+        <legend>Level</legend>
+        <div class="seg" role="radiogroup">
+          <input type="radio" name="tier" id="tierS" value="S"><label for="tierS">SL</label>
+          <input type="radio" name="tier" id="tierH" value="H"><label for="tierH">HL</label>
+        </div>
+        <p class="hint" id="tierHint">Choose SL or HL to begin.</p>
+      </fieldset>
+      <fieldset class="fs">
+        <legend>IB question formats</legend>
         <label class="chk"><input type="checkbox" id="secM" checked><b>Paper 1A · Multiple choice</b><small>auto-marked, with explanations</small></label>
         <label class="chk"><input type="checkbox" id="secP" checked><b>Paper 1B · Data-based</b><small>experimental data, uncertainties, graphs</small></label>
         <label class="chk"><input type="checkbox" id="secT" checked><b>Paper 2 · Structured</b><small>extended response · mark scheme</small></label>
       </fieldset>
       <fieldset class="fs">
         <legend>Themes &amp; subtopics</legend>
+        <p class="hint">Nothing is pre-selected. Choose only the IB Physics content you want to practise.</p>
         <div class="sub-actions"><button type="button" id="allSubs">Select all</button><button type="button" id="clearSubs">Clear</button></div>
         <div class="chips" id="chips"></div>
       </fieldset>
       <fieldset class="fs">
-        <legend>Length</legend>
+        <legend>Practice length</legend>
         <div class="seg three">
           <input type="radio" name="len" id="len0" value="0"><label for="len0">Quick</label>
           <input type="radio" name="len" id="len1" value="1" checked><label for="len1">Standard</label>
-          <input type="radio" name="len" id="len2" value="2"><label for="len2">Full exam</label>
+          <input type="radio" name="len" id="len2" value="2"><label for="len2">Extended</label>
         </div>
         <div class="lenout" id="lenOut"></div>
       </fieldset>
-      <button class="btn primary" id="gen" type="button">Generate new paper</button>
+      <button class="btn primary" id="gen" type="button">Start practice</button>
       <p class="err" id="genErr" hidden></p>
     </div>
     <div class="panel">
       <fieldset class="fs">
-        <legend>Open a paper code</legend>
+        <legend>Open a practice code</legend>
         <form class="row" id="codeForm">
-          <label for="codeIn" class="vh">Paper code</label>
+          <label for="codeIn" class="vh">Practice code</label>
           <input class="codein" id="codeIn" placeholder="H70V1-4K9QZ" autocomplete="off" spellcheck="false">
           <button class="btn" type="submit">Open</button>
         </form>
-        <p class="hint">A class gets the same paper when everyone opens the same code.</p>
+        <p class="hint">A class gets the same practice set when everyone opens the same code.</p>
         <p class="err" id="codeErr" hidden></p>
       </fieldset>
     </div>
@@ -2576,10 +2584,10 @@ function buildPaper(s){
 
 /* ---------- state + UI ---------- */
 const $=s=>document.querySelector(s);
-let S={tier:'H',types:7,topics:0,subs:0,len:1,seed:0};
+let S={tier:'',types:7,topics:0,subs:0,len:1,seed:0};
 let paper=null,marked=false,ticks={},startT=0,timerId=null,elapsed=0,attemptId=null,currentCard=0,instantMCQ=new Set();
 
-function readUI(){S.tier=$('#tierS').checked?'S':'H';S.types=($('#secM').checked?1:0)|($('#secT').checked?2:0)|($('#secP').checked?4:0);
+function readUI(){S.tier=$('#tierS').checked?'S':($('#tierH').checked?'H':'');S.types=($('#secM').checked?1:0)|($('#secT').checked?2:0)|($('#secP').checked?4:0);
   S.topics=[...document.querySelectorAll('.theme-chip')].reduce((a,c,i)=>a|(c.getAttribute('aria-pressed')==='true'?1<<i:0),0);
   S.subs=[...document.querySelectorAll('.sub-check')].reduce((a,x,i)=>a|(x.checked?1<<i:0),0);
   S.len=+document.querySelector('input[name=len]:checked').value}
@@ -2587,7 +2595,7 @@ function writeUI(){$('#tierS').checked=S.tier==='S';$('#tierH').checked=S.tier==
   document.querySelectorAll('.theme-chip').forEach((c,i)=>c.setAttribute('aria-pressed',S.topics&(1<<i)?'true':'false'));
   document.querySelectorAll('.sub-check').forEach((x,i)=>x.checked=!!(S.subs&(1<<i)));$('#len'+S.len).checked=true;updateLen()}
 function updateLen(){readUI();const L=getL(S),b=[];if(S.types&1)b.push(L.m+' × 1A');if(S.types&4)b.push(L.p+' × 1B');if(S.types&2)b.push(L.t+' × Paper 2');$('#lenOut').textContent=b.join(' · ')||'Choose at least one section';
-  $('#tierHint').textContent=S.tier==='H'?'SL and additional higher level content.':'SL content only (no AHL).'}
+  $('#tierHint').textContent=S.tier==='H'?'HL: SL content plus additional higher level content.':(S.tier==='S'?'SL content only (no AHL).':'Choose SL or HL to begin.');}
 
 const TCOUNT={},SCOUNT={};Object.values(BANKS).forEach(bk=>bk.forEach(it=>{TCOUNT[it.t]=(TCOUNT[it.t]||0)+1;if(it.s)SCOUNT[it.s]=(SCOUNT[it.s]||0)+1}));
 $('#chips').innerHTML=TOPICS.map((t,i)=>{
@@ -2645,7 +2653,7 @@ $('#gen').addEventListener('click',()=>{
     console.error(ex);
     err.textContent='The paper could not be generated. Please change one selection and try again.';
     err.hidden=false;
-    $('#sheet').innerHTML='<div class="start-empty"><div class="start-badge">PrepEnroll™ · IB Physics</div><h2>We could not build that paper.</h2><p>Please choose at least one theme and one paper, then try Generate new paper again.</p></div>';
+    $('#sheet').innerHTML='<div class="start-empty"><div class="start-badge">PrepEnroll™ · IB Physics</div><h2>We could not build that paper.</h2><p>Please choose at least one theme and one paper, then try Generate new practice set again.</p></div>';
   }
 });
 $('#codeForm').addEventListener('submit',e=>{e.preventDefault();const d=decode($('#codeIn').value),err=$('#codeErr');
@@ -2654,11 +2662,11 @@ $('#codeForm').addEventListener('submit',e=>{e.preventDefault();const d=decode($
 
 function showThemeStart(){
   paper=null;marked=false;clearInterval(timerId);
-  $('#sheet').innerHTML=`<div class="start-empty"><div class="start-badge">PrepEnroll™ · IB Physics</div><h2>Choose what you want to practise.</h2><p>Select one or more IB themes or individual subtopics, choose SL or HL, select the papers and length, then click <b>Generate new paper</b>.</p><div class="start-steps"><span>1&nbsp; Select theme</span><span>2&nbsp; Choose papers</span><span>3&nbsp; Generate & practise</span></div></div>`;
+  $('#sheet').innerHTML=`<div class="start-empty"><div class="start-badge">PrepEnroll™ · IB Physics</div><h2>Choose what you want to practise.</h2><p>Select one or more IB themes or individual subtopics, choose SL or HL, select the papers and length, then click <b>Generate new practice set</b>.</p><div class="start-steps"><span>1&nbsp; Select theme</span><span>2&nbsp; Choose papers</span><span>3&nbsp; Generate & practise</span></div></div>`;
 }
 function start(){
   paper=buildPaper(S);
-  if(!paper||!paper.sections||!paper.sections.length)throw new Error('No paper sections generated');
+  if(!paper||!paper.sections||!paper.sections.length)throw new Error('No question formats generated');
   marked=false;ticks={};elapsed=0;attemptId=Date.now().toString(36);startT=Date.now();currentCard=0;instantMCQ=new Set();
   try{history.replaceState(null,'','#'+encode(S))}catch(e){}
   render();clearInterval(timerId);timerId=setInterval(tick,1000);tick()
