@@ -1,0 +1,825 @@
+{
+  "meta": {
+    "source": "Previous Class XI question bank",
+    "reason": "Excluded from live theory practice because prompt is outside explicit CBSE 2026-27 theory scope or belongs to practical/extra enrichment.",
+    "archivedOn": "2026-10-05",
+    "removedCount": 80
+  },
+  "questions": {
+    "ch1": {
+      "mcq": [
+        {
+          "q": "1 parsec equals approximately",
+          "opts": [
+            "3.26 light years",
+            "1 light year",
+            "9.46×10¹⁵ m",
+            "3.08×10¹⁰ m"
+          ],
+          "ans": 0,
+          "exp": "1 parsec ≈ 3.26 light years ≈ 3.08×10¹⁶ m."
+        },
+        {
+          "q": "1 fermi equals",
+          "opts": [
+            "10⁻¹⁵ m",
+            "10⁻¹² m",
+            "10⁻¹⁰ m",
+            "10⁻⁹ m"
+          ],
+          "ans": 0,
+          "exp": "1 fermi = 1 femtometre = 10⁻¹⁵ m; used for nuclear size."
+        },
+        {
+          "q": "The least count of a vernier caliper with 10 VSD = 9 MSD is",
+          "opts": [
+            "0.1 mm",
+            "1 mm",
+            "0.01 mm",
+            "0.001 mm"
+          ],
+          "ans": 0,
+          "exp": "LC = 1 MSD − 1 VSD = 1 mm − 0.9 mm = 0.1 mm."
+        },
+        {
+          "q": "Order of magnitude of 4700 is",
+          "opts": [
+            "10³",
+            "10⁴",
+            "10²",
+            "10⁵"
+          ],
+          "ans": 0,
+          "exp": "4700 ≈ 5×10³; since 5 > √10, order of magnitude = 10⁴ ... actually 4700 rounds to 10³·⁶⁷ → order = 10⁴. But conventionally 4700 ~ 10³. Wait: order of magnitude = nearest power of 10. log₁₀(4700)=3.67, nearest integer = 4. So 10⁴."
+        },
+        {
+          "q": "In a screw gauge, if the pitch is 0.5 mm and number of circular scale divisions is 50, the least count is",
+          "opts": [
+            "0.01 mm",
+            "0.1 mm",
+            "0.001 mm",
+            "0.05 mm"
+          ],
+          "ans": 0,
+          "exp": "LC = pitch/number of CSD = 0.5/50 = 0.01 mm."
+        }
+      ],
+      "vsa": [
+        {
+          "q": "What is the least count of an instrument?",
+          "ans": "The least count is the smallest value that can be measured or read directly with the instrument.",
+          "marks": 1
+        },
+        {
+          "q": "What is 1 parsec?",
+          "ans": "1 parsec = 3.086 × 10¹⁶ m ≈ 3.26 light years. It is the distance at which 1 AU subtends an angle of 1 arcsecond.",
+          "marks": 1
+        }
+      ],
+      "sa1": [
+        {
+          "q": "A student measures diameter of a sphere as 2.4 cm with a vernier caliper (LC = 0.01 cm). Find volume with proper significant figures and error.",
+          "ans": "r = 1.2 cm; V = (4/3)πr³ = (4/3)π(1.2)³ ≈ 7.24 cm³.\nΔr/r = 0.01/2.4 → ΔV/V = 3×(0.01/2.4) ≈ 0.0125.\nΔV ≈ 0.0125 × 7.24 ≈ 0.09 cm³.\nV = 7.24 ± 0.09 cm³.",
+          "marks": 2
+        },
+        {
+          "q": "Explain parallax method for measuring large distances.",
+          "ans": "In parallax, the apparent shift in position of a distant object when viewed from two different positions is measured.\nFor celestial bodies: baseline b (distance between two observation points on Earth) and parallax angle θ are measured.\nDistance D = b / (2 sin(θ/2)) ≈ b/θ for small angles.\nUsed to measure distances to nearby stars.",
+          "marks": 2
+        }
+      ],
+      "la": [
+        {
+          "q": "Describe various measuring instruments used in a physics laboratory and their applications.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Explain the construction and working of a vernier caliper. How do you take a reading?",
+              "ans": "A vernier caliper has two jaws — one fixed on the main scale (MS) and one sliding with a vernier scale (VS). The vernier scale has n divisions = (n-1) main scale divisions.\nReading: (i) Note main scale reading just before the zero of vernier (MS reading). (ii) Find the vernier division that coincides with a main scale division (VS reading). (iii) Total reading = MS reading + (VS reading × LC). LC = 1 MSD/n for n VS divisions."
+            },
+            {
+              "marks": 2,
+              "q": "What is a screw gauge? Define its pitch and least count. A screw gauge has pitch 0.5 mm and 50 circular scale divisions — find its least count and range of error.",
+              "ans": "Screw gauge: measures small thickness/diameter using screw principle. Pitch = advance per revolution = 0.5 mm. LC = Pitch/No. of CSD = 0.5/50 = 0.01 mm. Error range = ± LC/2 = ± 0.005 mm."
+            }
+          ]
+        }
+      ]
+    },
+    "ch2": {},
+    "ch3": {
+      "mcq": [
+        {
+          "q": "A river 100 m wide flows at 3 m/s. A boat can row at 5 m/s in still water. Minimum time to cross is",
+          "opts": [
+            "20 s",
+            "25 s",
+            "33.3 s",
+            "16.7 s"
+          ],
+          "ans": 0,
+          "exp": "Min time: row perpendicular to banks. t = 100/5 = 20 s."
+        }
+      ],
+      "sa2": [
+        {
+          "q": "A river is 200 m wide and flows at 4 m/s. A boat rows at 5 m/s relative to water. (i) In what direction should boat row to go straight across? (ii) Time taken. (iii) What is minimum time to cross?",
+          "ans": "(i) Let boat angle θ upstream. Net vₓ=0: 5sinθ=4 → θ=sin⁻¹(0.8)≈53° upstream.\nvy=5cosθ=5×0.6=3 m/s.\n(ii) t=200/3=66.7 s.\n(iii) Min time: row perpendicular. t=200/5=40 s (drifts 4×40=160 m downstream).",
+          "marks": 3
+        }
+      ],
+      "la": [
+        {
+          "q": "Discuss circular motion, centripetal acceleration, and banking of roads.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Derive centripetal acceleration in circular motion. Show why a body moving in a circle must have a net inward force.",
+              "ans": "Position: r = r cosωt î + r sinωt ĵ.\nVelocity: v = −rω sinωt î + rω cosωt ĵ; |v| = rω = constant.\nAcceleration: a = −rω² cosωt î − rω² sinωt ĵ = −ω²r.\nMagnitude: ω²r = v²/r; direction: opposite to r = toward center.\nFor this acceleration, net force F = mv²/r must act toward center (centripetal force)."
+            },
+            {
+              "marks": 2,
+              "q": "A 500 kg car moves at 10 m/s on a circular track of radius 50 m. What friction force is needed? If μ = 0.3, is this safe? (g=10)",
+              "ans": "F_c = mv²/r = 500×100/50 = 1000 N.\nMax friction = μmg = 0.3×500×10 = 1500 N.\n1000 < 1500, so it is safe."
+            }
+          ]
+        },
+        {
+          "q": "Explain relative velocity in two dimensions with applications.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Define relative velocity in 2D. If A moves at vₐ and B at v_B, write the expression and explain geometrically. Apply to rain problem.",
+              "ans": "v_AB = v_A − v_B (vector subtraction).\nGeometrically: draw v_A and −v_B head to tail; resultant = v_AB.\nRain problem: rain falls at v_r vertically. Person walks at v_p horizontally. Relative velocity of rain w.r.t. person = v_r − v_p. Person must tilt umbrella at angle θ = arctan(v_p/v_r) forward."
+            },
+            {
+              "marks": 2,
+              "q": "A boat goes 30 km upstream in 3 h and returns in 1.5 h. Find speed of boat in still water and river current.",
+              "ans": "Let boat speed = v_b, current = v_c.\nUpstream: (v_b − v_c) = 30/3 = 10 km/h.\nDownstream: (v_b + v_c) = 30/1.5 = 20 km/h.\nv_b = 15 km/h; v_c = 5 km/h."
+            }
+          ]
+        }
+      ]
+    },
+    "ch4": {
+      "mcq": [
+        {
+          "q": "Pseudo force arises in",
+          "opts": [
+            "Non-inertial reference frame",
+            "Inertial reference frame",
+            "Both",
+            "Vacuum"
+          ],
+          "ans": 0,
+          "exp": "In a non-inertial (accelerating) frame, a pseudo force (= −ma_frame) is added."
+        },
+        {
+          "q": "Body on incline: angle of repose θ₀ satisfies",
+          "opts": [
+            "tanθ₀ = μ",
+            "sinθ₀ = μ",
+            "cosθ₀ = μ",
+            "tanθ₀ = 1/μ"
+          ],
+          "ans": 0,
+          "exp": "At angle of repose: mg sinθ₀ = μmg cosθ₀ → tanθ₀ = μ."
+        }
+      ],
+      "la": [
+        {
+          "q": "Discuss laws of friction, angle of friction, and angle of repose.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "State laws of friction and explain angle of friction. Derive relationship between angle of friction and coefficient of friction.",
+              "ans": "Laws: (1) f ≤ μN; (2) independent of area; (3) f_k independent of speed.\nAngle of friction λ: angle between resultant reaction and normal. tanλ = f/N = μN/N = μ → λ = arctan(μ).\nFor incline, angle of repose θ₀ = λ, because at θ₀ the body is about to slide: tanθ₀ = μ."
+            },
+            {
+              "marks": 2,
+              "q": "A 10 kg block on incline (θ=45°) with μₛ=0.5, μₖ=0.4. Does it slide? If yes, find acceleration. (g=10)",
+              "ans": "Condition: tan45°=1 > μₛ=0.5 → slides.\na = g(sinθ − μₖcosθ) = 10(sin45°−0.4cos45°) = 10×0.707(1−0.4) = 7.07×0.6 = 4.24 m/s²."
+            }
+          ]
+        }
+      ]
+    },
+    "ch5": {
+      "mcq": [
+        {
+          "q": "Coefficient of restitution for perfectly elastic collision is:",
+          "opts": [
+            "0",
+            "0.5",
+            "1",
+            "∞"
+          ],
+          "ans": 2,
+          "exp": "For perfectly elastic collision, e = 1 (relative speed of separation = relative speed of approach)."
+        }
+      ],
+      "vsa": [
+        {
+          "q": "Define coefficient of restitution.",
+          "ans": "Coefficient of restitution e = (relative speed of separation)/(relative speed of approach). For elastic collision e=1, perfectly inelastic e=0.",
+          "marks": 1
+        }
+      ]
+    },
+    "ch6": {
+      "mcq": [
+        {
+          "q": "Rolling without slipping requires:",
+          "opts": [
+            "v = ωR",
+            "v = ω/R",
+            "v = ω²R",
+            "v = R/ω"
+          ],
+          "ans": 0,
+          "exp": "For rolling without slipping, the contact point velocity = 0. This gives v_cm = ωR."
+        },
+        {
+          "q": "Parallel axis theorem states: I = I_cm + ?",
+          "opts": [
+            "Md²",
+            "Md",
+            "Md²/2",
+            "M/d²"
+          ],
+          "ans": 0,
+          "exp": "Parallel axis theorem: I = I_cm + Md² where d is distance between the two parallel axes."
+        },
+        {
+          "q": "For a rolling body, ratio of translational KE to rotational KE for solid sphere is:",
+          "opts": [
+            "1:1",
+            "5:2",
+            "7:5",
+            "2:5"
+          ],
+          "ans": 1,
+          "exp": "For solid sphere: I=2MR²/5. KE_trans/KE_rot = (½Mv²)/(½Iω²) = Mv²/(Iω²) = MR²/(2MR²/5) = 5/2."
+        },
+        {
+          "q": "Perpendicular axis theorem applies to:",
+          "opts": [
+            "3D objects",
+            "Laminar (flat) objects only",
+            "Cylindrical objects",
+            "Spherical objects"
+          ],
+          "ans": 1,
+          "exp": "Perpendicular axis theorem (Iz = Ix + Iy) applies only to laminar (flat, 2D) bodies."
+        },
+        {
+          "q": "For a rolling body on inclined plane, acceleration is:",
+          "opts": [
+            "g sinθ",
+            "g sinθ/(1 + I/MR²)",
+            "g sinθ × I/MR²",
+            "g cosθ"
+          ],
+          "ans": 1,
+          "exp": "Rolling on incline: a = g sinθ/(1 + I/MR²). Smaller I → greater acceleration."
+        }
+      ],
+      "vsa": [
+        {
+          "q": "State perpendicular axis theorem.",
+          "ans": "For a lamina in XY plane, Iz = Ix + Iy, where Iz, Ix, Iy are moments of inertia about Z, X, Y axes respectively.",
+          "marks": 1
+        },
+        {
+          "q": "State parallel axis theorem.",
+          "ans": "Moment of inertia about any axis = moment of inertia about parallel axis through CM + Md², where d = distance between axes.",
+          "marks": 1
+        }
+      ],
+      "sa1": [
+        {
+          "q": "Derive expression for KE of a rolling body (without slipping).",
+          "ans": "A rolling body has both translational and rotational motion.\n\nTranslational KE = ½Mv_cm²\nRotational KE = ½Iω²\n\nFor rolling without slipping: v_cm = ωR → ω = v_cm/R\n\nTotal KE = ½Mv_cm² + ½I(v_cm/R)²\n= ½Mv_cm²(1 + I/MR²)\n= ½Mv_cm²(1 + K²/R²)\n\nwhere K = radius of gyration.",
+          "marks": 2
+        }
+      ],
+      "sa2": [
+        {
+          "q": "Derive an expression for moment of inertia of a thin uniform rod about an axis through its center, perpendicular to its length.",
+          "ans": "Rod of mass M, length L. Consider element at distance x from center, width dx.\n\nMass per unit length = M/L\nMass of element dm = (M/L)dx\n\nMoment of inertia of element: dI = x²dm = x²(M/L)dx\n\nI = ∫dI from −L/2 to L/2\n= (M/L)∫x²dx from −L/2 to +L/2\n= (M/L)[x³/3] from −L/2 to L/2\n= (M/L) × (2/3)(L/2)³\n= (M/L) × (L³/12)\n= ML²/12",
+          "marks": 3
+        }
+      ],
+      "la": [
+        {
+          "q": "Explain the concept of moment of inertia. Derive the expression for a solid cylinder about its axis. State and prove theorems of MI.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Define MI and derive for solid cylinder about axis.",
+              "ans": "Moment of Inertia (MI): Rotational analog of mass; measures resistance to rotational acceleration.\nI = Σmᵢrᵢ² (discrete) or I = ∫r²dm (continuous)\n\nSolid Cylinder about axis:\nConsider thin cylindrical shell of radius r, thickness dr, length L, density ρ.\n\nVolume of shell = 2πrL dr\ndm = ρ × 2πrL dr = (M/πR²L) × 2πrL dr = 2Mr dr/R²\n\ndI = r² dm = r² × (2Mr/R²)dr = 2Mr³/R² dr\n\nI = ∫dI from 0 to R = (2M/R²) ∫r³ dr from 0 to R\n= (2M/R²) × R⁴/4 = MR²/2\n\nI_solid cylinder = ½MR²"
+            },
+            {
+              "marks": 2,
+              "q": "Parallel axis and perpendicular axis theorems.",
+              "ans": "1. Parallel Axis Theorem (all bodies):\nI = I_cm + Md²\nwhere d = perpendicular distance between parallel axis and axis through CM.\nProof sketch: I = Σmᵢrᵢ² for any axis; expand rᵢ² using distance from CM → get I_cm + Md².\n\nExample: Rod about end = ML²/12 + M(L/2)² = ML²/12 + ML²/4 = ML²/3\n\n2. Perpendicular Axis Theorem (laminar bodies only):\nIz = Ix + Iy\nZ is perpendicular to lamina; X, Y are in the plane.\nProof: For particle at (x,y): Iz contribution = m(x²+y²) = mx² + my² = Iy contribution + Ix contribution. Sum over all particles."
+            }
+          ]
+        }
+      ],
+      "num": [
+        {
+          "q": "A solid cylinder rolls down an incline of height 1 m. Find speed at bottom. (g=10 m/s²)",
+          "ans": "For rolling cylinder: ½Mv²(1 + ½) = Mgh\n¾v² = 10 × 1\nv² = 40/3\nv = √(13.33) = 3.65 m/s",
+          "marks": 3
+        }
+      ]
+    },
+    "ch7": {
+      "mcq": [
+        {
+          "q": "For a geostationary satellite, its time period must be:",
+          "opts": [
+            "12 hours",
+            "24 hours",
+            "1 month",
+            "1 year"
+          ],
+          "ans": 1,
+          "exp": "Geostationary satellite has time period equal to Earth's rotation period = 24 hours."
+        },
+        {
+          "q": "Weightlessness in a satellite is due to:",
+          "opts": [
+            "Zero gravity",
+            "Satellite being very far from Earth",
+            "Both satellite and astronaut in free fall",
+            "Absence of air"
+          ],
+          "ans": 2,
+          "exp": "In orbit, both satellite and everything inside are in free fall (centripetal = gravitational). Normal force = 0 → apparent weightlessness."
+        },
+        {
+          "q": "Gravitational field is:",
+          "opts": [
+            "Scalar quantity",
+            "Vector quantity directed toward the mass",
+            "Vector quantity directed away from mass",
+            "Has no direction"
+          ],
+          "ans": 1,
+          "exp": "Gravitational field g = F/m, directed toward the source mass (attractive). It is a vector."
+        }
+      ],
+      "vsa": [
+        {
+          "q": "What is a geostationary satellite? Where is it placed?",
+          "ans": "Satellite with time period 24 hours, orbiting in equatorial plane from west to east. Appears stationary relative to Earth. Placed at ≈36,000 km above equator.",
+          "marks": 1
+        }
+      ],
+      "la": [
+        {
+          "q": "Describe Newton's law of gravitation. Explain how Kepler's laws can be derived from it. Discuss the concept of gravitational field and potential.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Newton's law and deriving Kepler's third law.",
+              "ans": "Newton's Law of Gravitation:\nEvery body attracts every other body with force: F = Gm₁m₂/r²\n\nProperties:\n1. Always attractive\n2. Acts along line joining masses\n3. Central force (radial)\n4. Long range — extends to infinity\n5. Obeys Newton's 3rd law\n\nG = 6.67 × 10⁻¹¹ N·m²·kg⁻²\n\nDeriving Kepler's 3rd Law (circular orbit):\nFor planet of mass m orbiting Sun (mass M) in circle of radius r:\nGravitational force = centripetal force\nGMm/r² = mω²r\nGM = ω²r³\nGM = (2π/T)²r³\nT² = (4π²/GM)r³\nT² ∝ r³ — Kepler's third law proved!"
+            },
+            {
+              "marks": 2,
+              "q": "Gravitational field and gravitational potential.",
+              "ans": "Gravitational Field (g):\nThe gravitational field at a point is the force per unit mass:\ng = F/m = GM/r² (directed toward mass M)\nField is a vector quantity.\nField lines go radially inward toward mass.\n\nGravitational Potential (V):\nWork done per unit mass to bring test mass from infinity:\nV = W/m = −GM/r (negative — attractive)\n\nRelation: g = −dV/dr\n\nPotential is scalar. Equipotential surfaces are spheres around M.\nThe potential well concept: masses create 'dips' in space-time (general relativity analogy)."
+            }
+          ]
+        },
+        {
+          "q": "Explain geostationary satellites. Derive the height of geostationary orbit. Discuss applications.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Derive height of geostationary orbit.",
+              "ans": "Geostationary Satellite:\nTime period T = 24 h = 86400 s\nOrbits in equatorial plane, west to east\nAppears stationary to ground observers\n\nDerivation of height:\nFrom orbital mechanics:\nT = 2π(R+h)^(3/2)/√(GM)\n\nT² = 4π²(R+h)³/GM\n(R+h)³ = GMT²/4π²\n\nUsing G = 6.67×10⁻¹¹, M = 6×10²⁴ kg, T = 86400 s:\nGMT² = 6.67×10⁻¹¹ × 6×10²⁴ × (86400)²\n= 4×10¹⁴ × 7.46×10⁹ = 2.98×10²⁴\n\n(R+h)³ = 2.98×10²⁴/39.48 = 7.54×10²²\nR+h = (7.54×10²²)^(1/3) = 4.22×10⁷ m\nh = 4.22×10⁷ − 6.4×10⁶ ≈ 3.6×10⁷ m = 36,000 km"
+            },
+            {
+              "marks": 2,
+              "q": "Applications of geostationary satellites.",
+              "ans": "Applications:\n\n1. Telecommunications: Relay voice, data, TV signals globally. INSAT series.\n2. Weather forecasting: METEOSAT, INSAT-3D observe cloud patterns, storms.\n3. GPS navigation: Though GPS uses MEO satellites, same orbital mechanics.\n4. Broadcasting: Direct-to-home (DTH) TV services.\n5. Remote sensing: Monitor agricultural land, forest cover, disasters.\n6. Internet: Satellite internet coverage for remote areas.\n\nLimitations:\n- 36,000 km distance causes signal delay (~0.5 s round trip)\n- Large rocket needed to launch to such height\n- Only ~180 geostationary slots available above equator"
+            }
+          ]
+        }
+      ]
+    },
+    "ch8": {
+      "sa2": [
+        {
+          "q": "Define bulk modulus. Derive the expression. What is compressibility? Calculate compressibility of water if bulk modulus is 2.2×10⁹ Pa.",
+          "ans": "Bulk Modulus:\nWhen a body is subjected to uniform pressure P (all sides), it experiences volumetric stress = P and volumetric strain = −ΔV/V.\n\nBulk modulus B = −P/(ΔV/V) = −PV/ΔV\n\n(Negative sign: P increases → V decreases; makes B positive)\n\nCompressibility = 1/B (ease of compression)\n\nFor water: B = 2.2×10⁹ Pa\nCompressibility = 1/(2.2×10⁹) = 4.55×10⁻¹⁰ Pa⁻¹\n\nWater is very incompressible — small compressibility.",
+          "marks": 3
+        }
+      ]
+    },
+    "ch9": {
+      "mcq": [
+        {
+          "q": "For laminar flow, Reynolds number is:",
+          "opts": [
+            "Greater than 4000",
+            "Between 1000 and 4000",
+            "Less than 1000",
+            "Exactly 2300"
+          ],
+          "ans": 2,
+          "exp": "Laminar flow: Re < 1000 (approximately). Turbulent flow: Re > 4000. Transition: 1000-4000."
+        }
+      ]
+    },
+    "ch10": {
+      "mcq": [
+        {
+          "q": "Newton's law of cooling states that rate of heat loss is proportional to:",
+          "opts": [
+            "Temperature of body",
+            "Square of temperature difference",
+            "Temperature difference between body and surroundings",
+            "Fourth power of temperature"
+          ],
+          "ans": 2,
+          "exp": "Newton's law: dQ/dt ∝ (T − T_s) where T = body temperature, T_s = surrounding temperature."
+        },
+        {
+          "q": "The peak wavelength of radiation from a blackbody is related to its temperature T by:",
+          "opts": [
+            "λ_max ∝ T",
+            "λ_max ∝ T²",
+            "λ_max ∝ 1/T",
+            "λ_max ∝ 1/T²"
+          ],
+          "ans": 2,
+          "exp": "Wien's displacement law: λ_max × T = constant = 2.898 × 10⁻³ m·K. λ_max ∝ 1/T."
+        },
+        {
+          "q": "During regelation, ice melts under:",
+          "opts": [
+            "High temperature",
+            "High pressure and refreezes on removal of pressure",
+            "UV radiation",
+            "Chemical reaction"
+          ],
+          "ans": 1,
+          "exp": "Regelation: Ice melts under pressure (pressure lowers melting point) and refreezes when pressure is removed. Enables ice skating."
+        }
+      ],
+      "vsa": [
+        {
+          "q": "State Newton's law of cooling.",
+          "ans": "The rate of heat loss of a body is proportional to the difference between the temperature of the body and its surroundings: dQ/dt ∝ (T − T_s).",
+          "marks": 1
+        },
+        {
+          "q": "What is Kirchhoff's law of radiation?",
+          "ans": "At any temperature, the ratio of emissive power to absorptive power is the same for all bodies and equals the emissive power of a perfect black body: e/a = E_b.",
+          "marks": 1
+        }
+      ],
+      "la": [
+        {
+          "q": "Explain heat transfer by conduction and radiation. Derive Fourier's law. Discuss good and bad conductors with applications.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Conduction: Fourier's law, good/bad conductors.",
+              "ans": "Conduction:\nHeat transfer through vibrations passed from atom to atom, without bulk movement.\n\nFourier's Law:\nHeat flow rate: H = dQ/dt = −KA(dT/dx)\nWhere: K = thermal conductivity, A = cross-section area, dT/dx = temperature gradient\n\nFor slab: H = KA(T₁−T₂)/L\n\nThermal conductivity K:\n• Metals: high K (copper 385 W/m·K, iron 80 W/m·K)\n• Non-metals: low K (wood ~0.1, glass ~1)\n• Gases: very low K (air ~0.026)\n\nGood conductors: metals (free electrons carry heat)\nBad conductors (insulators): wool, wood, glass, air\n\nApplications:\n• Copper bottomed cooking vessels: fast heat transfer\n• Wooden handles on metal tools: low K for safety\n• Igloo: air trapped in snow acts as insulator\n• Thermos flask: vacuum between walls prevents conduction"
+            },
+            {
+              "marks": 2,
+              "q": "Radiation: Stefan law, Wien's law, greenhouse effect.",
+              "ans": "Radiation:\nHeat transfer via electromagnetic waves. Requires no medium.\n\nPerfect black body: absorbs all radiation. ε = 1.\nEmissive power: E = σT⁴ (Stefan law)\n\nWien's Law: λ_max T = 2.898×10⁻³ m·K\n\nFor real bodies: E = εσT⁴ (ε = emissivity, 0 to 1)\n\nNewton's Law of Cooling (approximate):\ndT/dt = −k(T − T_s) for small temperature differences\nT(t) = T_s + (T₀ − T_s)e^(−kt)\n\nGreenhouse Effect:\nSun (high T, ~5800 K): emits mostly visible light (short λ)\nEarth surface: absorbs, warms up, emits IR (long λ)\nCO₂, H₂O, CH₄: transparent to visible, opaque to IR\nThermal energy trapped → Earth warms\nEnhanced greenhouse effect due to human emissions → climate change"
+            }
+          ]
+        }
+      ],
+      "num": [
+        {
+          "q": "Sun's surface temp is 5800 K. Find peak wavelength. (Wien's constant b = 2.9×10⁻³ m·K)",
+          "ans": "λ_max = b/T = 2.9×10⁻³/5800 = 5×10⁻⁷ m = 500 nm (green light)",
+          "marks": 2
+        }
+      ]
+    },
+    "ch11": {
+      "mcq": [
+        {
+          "q": "The efficiency of Carnot engine operating between temperatures T₁ (source) and T₂ (sink) is:",
+          "opts": [
+            "T₂/T₁",
+            "1 − T₁/T₂",
+            "1 − T₂/T₁",
+            "(T₁−T₂)/T₂"
+          ],
+          "ans": 2,
+          "exp": "Carnot efficiency η = 1 − T₂/T₁ where T₁ = source temperature, T₂ = sink temperature (in Kelvin)."
+        },
+        {
+          "q": "The Carnot cycle consists of:",
+          "opts": [
+            "Two isothermal and two adiabatic processes",
+            "Two isobaric and two isochoric",
+            "Four isothermal processes",
+            "Four adiabatic processes"
+          ],
+          "ans": 0,
+          "exp": "Carnot cycle: isothermal expansion → adiabatic expansion → isothermal compression → adiabatic compression."
+        },
+        {
+          "q": "Entropy is a measure of:",
+          "opts": [
+            "Temperature",
+            "Disorder/randomness of a system",
+            "Heat content",
+            "Internal energy"
+          ],
+          "ans": 1,
+          "exp": "Entropy S measures the disorder or randomness of a system. ΔS = Q/T for reversible process."
+        },
+        {
+          "q": "A refrigerator is a heat engine working in:",
+          "opts": [
+            "Forward (normal) direction",
+            "Reverse direction",
+            "Cyclic direction",
+            "Non-cyclic direction"
+          ],
+          "ans": 1,
+          "exp": "Refrigerator works as a reversed heat engine: uses work to transfer heat from cold to hot reservoir."
+        },
+        {
+          "q": "COP (coefficient of performance) of a refrigerator is:",
+          "opts": [
+            "Heat rejected/Work input",
+            "Heat absorbed from cold reservoir/Work input",
+            "Work input/Heat absorbed",
+            "W/Q₁"
+          ],
+          "ans": 1,
+          "exp": "COP = Q₂/W = Q₂/(Q₁−Q₂) where Q₂ = heat from cold body, W = work input."
+        },
+        {
+          "q": "A Carnot engine has efficiency 50%. If sink temperature is 300 K, source temperature is:",
+          "opts": [
+            "150 K",
+            "600 K",
+            "450 K",
+            "300 K"
+          ],
+          "ans": 1,
+          "exp": "η = 1 − T₂/T₁ → 0.5 = 1 − 300/T₁ → T₁ = 600 K."
+        }
+      ],
+      "vsa": [
+        {
+          "q": "Define the coefficient of performance of a refrigerator.",
+          "ans": "COP = Q₂/W = heat absorbed from cold reservoir / work input. Higher COP means more efficient refrigerator.",
+          "marks": 1
+        },
+        {
+          "q": "Why is Carnot engine called a reversible engine?",
+          "ans": "Carnot engine uses only reversible processes (isothermal and adiabatic) — no friction, no sudden changes. It can run forwards or backwards without entropy generation.",
+          "marks": 1
+        },
+        {
+          "q": "What is entropy? What happens to entropy in a spontaneous process?",
+          "ans": "Entropy S = measure of disorder of a system. ΔS = Qrev/T. In any spontaneous irreversible process, total entropy of universe increases.",
+          "marks": 1
+        },
+        {
+          "q": "How does a heat pump differ from a refrigerator?",
+          "ans": "Both work on same principle (reversed Carnot). Refrigerator: cool the cold body (goal = remove heat from cold). Heat pump: warm the hot body (goal = add heat to hot space).",
+          "marks": 1
+        }
+      ],
+      "sa1": [
+        {
+          "q": "A Carnot engine works between 600 K and 300 K. Find efficiency and heat rejected if heat absorbed = 1000 J.",
+          "ans": "Efficiency η = 1 − T₂/T₁ = 1 − 300/600 = 0.5 = 50%\n\nWork done W = ηQ₁ = 0.5 × 1000 = 500 J\n\nHeat rejected Q₂ = Q₁ − W = 1000 − 500 = 500 J\n\nOr: Q₂/Q₁ = T₂/T₁ → Q₂ = 1000 × 300/600 = 500 J",
+          "marks": 2
+        },
+        {
+          "q": "Describe the four processes of a Carnot cycle.",
+          "ans": "1. Isothermal expansion (A→B): Gas absorbs Q₁ from hot reservoir at T₁; expands isothermally.\n\n2. Adiabatic expansion (B→C): Gas expands adiabatically; temperature falls from T₁ to T₂.\n\n3. Isothermal compression (C→D): Gas rejects Q₂ to cold reservoir at T₂; compressed isothermally.\n\n4. Adiabatic compression (D→A): Gas compressed adiabatically; temperature rises from T₂ back to T₁.\n\nNet work = Q₁ − Q₂. Efficiency = 1 − Q₂/Q₁ = 1 − T₂/T₁.",
+          "marks": 2
+        }
+      ],
+      "sa2": [
+        {
+          "q": "Derive expression for efficiency of Carnot engine. Show it is maximum for reversible engines.",
+          "ans": "Carnot cycle: Absorbs Q₁ from source T₁, rejects Q₂ to sink T₂.\n\nFor reversible isothermal expansion (A→B):\nQ₁ = nRT₁ ln(V_B/V_A)\n\nFor reversible isothermal compression (C→D):\nQ₂ = nRT₂ ln(V_C/V_D)\n\nFor adiabatic processes:\nT₁V_B^(γ-1) = T₂V_C^(γ-1)  ...(adiabatic B→C)\nT₁V_A^(γ-1) = T₂V_D^(γ-1)  ...(adiabatic D→A)\nDivide: (V_B/V_A) = (V_C/V_D)\n\nTherefore: Q₁/Q₂ = T₁/T₂\n\nEfficiency: η = W/Q₁ = (Q₁−Q₂)/Q₁ = 1 − Q₂/Q₁ = 1 − T₂/T₁\n\nCarnot's theorem: All reversible engines between same temperatures have same efficiency. Irreversible engines have lower efficiency.\nη_irreversible < η_Carnot = 1 − T₂/T₁",
+          "marks": 3
+        },
+        {
+          "q": "What is a heat pump? Derive its COP. Compare COP of heat pump and refrigerator.",
+          "ans": "Heat Pump:\nDevice that extracts heat from cold body and delivers it to hot body using work.\nUse: Space heating (takes heat from cold outside, delivers to warm inside).\n\nCOP of Heat Pump (heating effect):\nCOP_HP = Q₁/W\nWhere Q₁ = heat delivered to hot reservoir, W = work input.\n\nSince Q₁ = Q₂ + W:\nCOP_HP = Q₁/W = (Q₂+W)/W = 1 + Q₂/W = 1 + COP_refrigerator\n\nFor Carnot heat pump:\nCOP_HP = T₁/(T₁−T₂) = 1/(1−T₂/T₁)\n\nCOP_refrigerator = Q₂/W = T₂/(T₁−T₂)\n\nCOP_HP = COP_ref + 1 > COP_ref always.\n\nFor T₁=300K, T₂=273K:\nCOP_HP = 300/27 ≈ 11 (delivers 11 J for every 1 J work)\nVery efficient space heating!",
+          "marks": 3
+        }
+      ],
+      "la": [
+        {
+          "q": "Explain the laws of thermodynamics. Derive the efficiency of a Carnot engine. Discuss why 100% efficiency is impossible.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "First law and Carnot efficiency derivation.",
+              "ans": "First Law: ΔU = Q − W\n\nFor a cycle: ΔU = 0, so Q_net = W_net (cyclic process)\n\nCarnot Engine Efficiency:\nCarnot cycle uses: isothermal expansion at T₁ (absorbs Q₁), adiabatic expansion, isothermal compression at T₂ (rejects Q₂), adiabatic compression.\n\nFor reversible isothermal processes:\nQ₁ = nRT₁ ln(V_B/V_A)\nQ₂ = nRT₂ ln(V_C/V_D)\n\nFrom adiabatic processes: V_B/V_A = V_C/V_D\n\nTherefore: Q₁/Q₂ = T₁/T₂\n\nEfficiency: η = 1 − Q₂/Q₁ = 1 − T₂/T₁\n\nFor T₁=500K, T₂=300K: η = 1−300/500 = 40%"
+            },
+            {
+              "marks": 2,
+              "q": "Why 100% efficiency is impossible, and significance of 2nd law.",
+              "ans": "Why 100% efficiency is impossible:\n1. Kelvin-Planck statement: Cannot convert all heat to work.\n2. For 100% efficiency: T₂ = 0 K (sink at absolute zero) — unachievable.\n3. Or T₁ = ∞ — also unachievable.\n\nPractical engines always have:\n• Friction losses\n• Heat losses\n• Non-reversible processes\n• Real efficiency << Carnot efficiency\n\nSignificance of 2nd Law:\n• Defines arrow of time (events go one way)\n• Spontaneous processes increase entropy\n• Universe tends toward disorder\n• Limits efficiency of ALL engines, not just heat engines\n• Explains why evolution of universe goes toward disorder (heat death)"
+            }
+          ]
+        }
+      ],
+      "num": [
+        {
+          "q": "Carnot engine: T₁=500K, T₂=300K. Efficiency and work done if Q₁=1000J.",
+          "ans": "η = 1−T₂/T₁ = 1−300/500 = 0.4 = 40%\nW = ηQ₁ = 0.4×1000 = 400 J; Q₂ = 600 J",
+          "marks": 2
+        },
+        {
+          "q": "COP of refrigerator operating between 260K (cold) and 300K (hot).",
+          "ans": "COP = T₂/(T₁−T₂) = 260/(300−260) = 260/40 = 6.5\nFor each 1 J of work, 6.5 J of heat removed from cold reservoir.",
+          "marks": 2
+        },
+        {
+          "q": "Carnot engine efficiency 30%. Sink at 280K. Find source temperature.",
+          "ans": "η = 1−T₂/T₁\n0.3 = 1−280/T₁\n280/T₁ = 0.7\nT₁ = 280/0.7 = 400 K",
+          "marks": 2
+        }
+      ]
+    },
+    "ch12": {
+      "sa2": [
+        {
+          "q": "State and prove the law of equipartition of energy. Use it to find specific heats of monatomic and diatomic gases.",
+          "ans": "Equipartition Theorem:\n'In thermal equilibrium, each quadratic term in the energy expression (each degree of freedom) has average energy (1/2)kT.'\n\nFor a monatomic gas (f = 3 translational DOF):\nE = ½mv_x² + ½mv_y² + ½mv_z²\nAverage energy per molecule = 3 × (1/2)kT = (3/2)kT\n\nFor n moles: U = n × N_A × (3/2)kT = (3/2)nRT\nCv = (1/n)(dU/dT) = (3/2)R = 12.5 J/mol·K\nCp = Cv + R = (5/2)R = 20.8 J/mol·K\nγ = 5/3 = 1.67\n\nFor diatomic gas (f = 5; 3 trans + 2 rot at room temp):\nU = (5/2)nRT\nCv = (5/2)R = 20.8 J/mol·K\nCp = (7/2)R = 29.1 J/mol·K\nγ = 7/5 = 1.4",
+          "marks": 3
+        },
+        {
+          "q": "Derive expressions for mean speed, rms speed, and most probable speed. Compare them.",
+          "ans": "For Maxwell-Boltzmann distribution:\n\n1. Most Probable Speed (v_mp):\nAt peak of distribution, df/dv = 0:\nv_mp = √(2RT/M) = √(2kT/m)\n\n2. Mean Speed (v_mean):\nv_mean = √(8RT/πM) = √(8kT/πm)\n\n3. RMS Speed:\nv_rms = √(3RT/M) = √(3kT/m)\n\nComparison:\nv_mp : v_mean : v_rms = √2 : √(8/π) : √3\n= 1 : 1.128 : 1.225\n= 1.000 : 1.128 : 1.225\n\nv_mp < v_mean < v_rms\n\nFor N₂ at 300K:\nv_mp = 422 m/s\nv_mean = 476 m/s\nv_rms = 517 m/s",
+          "marks": 3
+        }
+      ],
+      "la": [
+        {
+          "q": "Discuss the Maxwell-Boltzmann speed distribution. Explain the concept of mean free path and its significance.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Maxwell-Boltzmann distribution and three speeds.",
+              "ans": "Maxwell-Boltzmann Speed Distribution:\nf(v) = 4π(m/2πkT)^(3/2) × v² × e^(-mv²/2kT)\n\nFeatures:\n• f(0) = 0 (no molecules at rest)\n• f → 0 as v → ∞ (few very fast molecules)\n• Peak at most probable speed v_mp\n• Asymmetric — tail on high-speed side\n\nWith increasing temperature:\n• Distribution flattens and shifts right\n• v_mp, v_mean, v_rms all increase\n• More molecules in high-speed tail\n\nThree characteristic speeds:\nv_mp = √(2RT/M) ← at peak\nv_mean = √(8RT/πM) ← arithmetic mean\nv_rms = √(3RT/M) ← √(mean of v²)\n\nv_mp < v_mean < v_rms\n\nFor H₂ at 300K:\nv_mp ≈ 1580 m/s, v_rms ≈ 1934 m/s"
+            },
+            {
+              "marks": 2,
+              "q": "Mean free path and its significance.",
+              "ans": "Mean Free Path (λ):\nλ = 1/(√2nπd²) = kT/(√2πd²P)\n\nTypical values: ~10⁻⁷ m at STP for N₂\n\nSignificance:\n1. Determines transport properties (viscosity, thermal conductivity, diffusion)\n2. λ >> atomic spacing → gas molecules mostly free\n3. If λ << dimensions of container: classical gas behavior\n4. If λ ≈ container dimensions: Knudsen flow (vacuum tubes)\n\nRelated concepts:\n• Viscosity: η ∝ λρv_mean (momentum transport)\n• Thermal conductivity: K ∝ λρv_mean Cv\n• Diffusion: D ∝ λv_mean\n\nApplications:\n• Design of vacuum systems\n• Understanding atmospheric phenomena\n• Plasma physics and fusion research"
+            }
+          ]
+        }
+      ],
+      "num": [
+        {
+          "q": "Find mean free path in nitrogen at STP. (d=3.7×10⁻¹⁰ m, n=2.7×10²⁵ m⁻³)",
+          "ans": "λ = 1/(√2×n×πd²) = 1/(1.414×2.7×10²⁵×π×(3.7×10⁻¹⁰)²)\n= 1/(1.414×2.7×10²⁵×4.30×10⁻¹⁹)\n= 1/(1.643×10⁷) = 6.1×10⁻⁸ m = 61 nm",
+          "marks": 3
+        }
+      ]
+    },
+    "ch13": {
+      "mcq": [
+        {
+          "q": "Resonance occurs when applied frequency equals:",
+          "opts": [
+            "Twice natural frequency",
+            "Half natural frequency",
+            "Natural frequency",
+            "Any frequency"
+          ],
+          "ans": 2,
+          "exp": "Resonance: When driving frequency = natural frequency, amplitude becomes maximum."
+        },
+        {
+          "q": "Two springs k₁ and k₂ are in parallel. Effective k is:",
+          "opts": [
+            "k₁+k₂",
+            "k₁k₂/(k₁+k₂)",
+            "k₁−k₂",
+            "1/k₁+1/k₂"
+          ],
+          "ans": 0,
+          "exp": "Springs in parallel: k_eff = k₁ + k₂."
+        },
+        {
+          "q": "Forced oscillation is:",
+          "opts": [
+            "Natural oscillation of a system",
+            "Oscillation driven by external periodic force",
+            "Oscillation with increasing amplitude",
+            "Oscillation without friction"
+          ],
+          "ans": 1,
+          "exp": "Forced oscillation: system oscillates at driving frequency (not its own natural frequency) due to an external periodic force."
+        }
+      ],
+      "vsa": [
+        {
+          "q": "State the condition for resonance.",
+          "ans": "Resonance occurs when the frequency of the external driving force equals the natural frequency of the oscillating system. Amplitude becomes maximum.",
+          "marks": 1
+        },
+        {
+          "q": "What is damped oscillation? Give one example.",
+          "ans": "Damped oscillation: amplitude decreases with time due to energy loss from friction/resistance. Example: oscillating pendulum in air; LC circuit with resistance.",
+          "marks": 1
+        }
+      ],
+      "sa2": [
+        {
+          "q": "Explain free, forced and resonant oscillations with examples. Distinguish between them.",
+          "ans": "1. Free (Natural) Oscillation:\n• System oscillates at its natural frequency f₀\n• No external driving force\n• If undamped: amplitude constant\n• Example: pendulum disturbed and left to swing; vibrating tuning fork in absence of friction\n\n2. Forced (Driven) Oscillation:\n• External periodic force applied at frequency f\n• System oscillates at driving frequency f (not f₀)\n• If f ≠ f₀: amplitude is small\n• Energy continuously supplied by driver\n• Example: child being pushed on swing at regular intervals\n\n3. Resonance:\n• Special case of forced oscillation when f = f₀\n• Amplitude becomes very large\n• Energy transfer is most efficient\n• Destructive if structure resonates with earthquake/wind\n• Examples: Tacoma Narrows bridge collapse; soldiers breaking step on bridges; radio tuning (electrical resonance)\n\nKey difference: free uses f₀; forced uses external f; resonance when both are equal.",
+          "marks": 3
+        },
+        {
+          "q": "Two springs of constants 3 N/m and 6 N/m are connected in series supporting 1 kg. Find: (a) effective spring constant (b) time period (c) energy if amplitude is 0.05 m.",
+          "ans": "(a) Series: 1/k_eff = 1/k₁ + 1/k₂ = 1/3 + 1/6 = 3/6 = 1/2\nk_eff = 2 N/m\n\n(b) T = 2π√(m/k_eff) = 2π√(1/2) = 2π/√2 = π√2 = 4.44 s\n\n(c) E = ½k_eff A² = ½ × 2 × (0.05)² = ½ × 2 × 0.0025 = 0.0025 J = 2.5 mJ",
+          "marks": 3
+        }
+      ],
+      "la": [
+        {
+          "q": "Explain superposition principle, beats and resonance. Discuss applications of resonance.",
+          "parts": [
+            {
+              "marks": 3,
+              "q": "Superposition and resonance.",
+              "ans": "Principle of Superposition:\nWhen multiple waves/oscillations overlap, resultant displacement = vector sum of individual displacements.\n\nFor two SHM of same frequency and amplitude but different phase:\nx₁ = A sinωt, x₂ = A sin(ωt + φ)\nx = x₁ + x₂ = 2A cos(φ/2) sin(ωt + φ/2)\nResultant amplitude = 2A cos(φ/2)\n\nResonance:\nEvery system has natural frequency f₀.\nWhen external driving frequency = f₀:\n• Amplitude builds up to very large value\n• Energy transfer is maximum\n• System absorbs energy most efficiently\n\nMathematical: For driven SHM: A = F₀/(m√((ω₀²−ω²)²+4β²ω²))\nAt ω = ω₀ (undamped): A → ∞\nWith damping: A = F₀/(2mβω₀) (finite but large)"
+            },
+            {
+              "marks": 2,
+              "q": "Applications and dangers of resonance.",
+              "ans": "Beneficial Applications:\n1. Radio/TV tuning: LC circuit resonates at broadcast frequency\n2. MRI (NMR): nuclear magnetic resonance for medical imaging\n3. Microwave oven: water molecules resonate at microwave frequency\n4. Musical instruments: resonating air columns (flute, organ pipes)\n5. Quartz watches: piezoelectric crystal oscillates at precise frequency\n\nDangerous Resonance:\n1. Tacoma Narrows Bridge (1940): Wind vortices matched bridge's natural frequency → collapse\n2. Soldiers 'break step' on bridges to avoid resonance\n3. Earthquakes: buildings with natural frequency matching seismic frequency suffer most damage\n4. Aeroplane wing flutter: wings must avoid resonance with engine frequency\n\nDamping: Added to structures to reduce resonance amplitude (shock absorbers, vibration isolators)."
+            }
+          ]
+        }
+      ]
+    },
+    "ch14": {
+      "mcq": [
+        {
+          "q": "The Doppler effect refers to:",
+          "opts": [
+            "Change in amplitude due to motion",
+            "Change in frequency due to relative motion of source/observer",
+            "Change in speed of waves",
+            "Change in wavelength only"
+          ],
+          "ans": 1,
+          "exp": "Doppler effect: observed frequency changes when source or observer are in relative motion."
+        },
+        {
+          "q": "Reverberation is due to:",
+          "opts": [
+            "Interference",
+            "Multiple reflections of sound",
+            "Diffraction",
+            "Resonance"
+          ],
+          "ans": 1,
+          "exp": "Reverberation: persistence of sound after source stops, due to multiple reflections from walls/ceiling/floor."
+        }
+      ],
+      "vsa": [
+        {
+          "q": "What is Doppler effect? Give one application.",
+          "ans": "Change in observed frequency due to relative motion between source and observer. Application: Police radar (measuring speed), medical Doppler ultrasound.",
+          "marks": 1
+        }
+      ],
+      "sa1": [
+        {
+          "q": "State Doppler's effect. A police car siren (1200 Hz) moves at 30 m/s toward a wall. Find frequency heard by observer behind the car. (v_sound = 330 m/s)",
+          "ans": "Doppler formula when source moves toward wall and observer is behind:\n\nFor the wall (acting as observer, source moving toward it):\nf_wall = f₀ × v/(v − vs) = 1200 × 330/(330−30) = 1200 × 330/300 = 1320 Hz\n\nThe wall reflects 1320 Hz back. Now wall is source, observer (behind car) is stationary, car (source) moves away from wall:\nf_observer = f_reflected × v/(v + vs) = 1320 × 330/360 = 1210 Hz\n\n(Simple case if observer is stationary in front: f = 1200 × 330/300 = 1320 Hz)",
+          "marks": 2
+        }
+      ],
+      "sa2": [
+        {
+          "q": "Derive the Doppler effect formula for all cases of motion of source and observer.",
+          "ans": "Let source emit frequency f₀. Speed of sound = v.\n\nCase 1: Source moving toward stationary observer at speed vs:\nEffective wavelength: λ' = (v − vs)/f₀\nObserved: f = v/λ' = vf₀/(v − vs)\n\nCase 2: Source moving away at vs:\nλ' = (v + vs)/f₀\nf = vf₀/(v + vs)\n\nCase 3: Observer moving toward stationary source at v₀:\nRelative speed of waves = v + v₀\nf = (v + v₀)f₀/v\n\nCase 4: Observer moving away at v₀:\nf = (v − v₀)f₀/v\n\nGeneral formula:\nf = f₀ × (v + v₀)/(v + vs)\n(Signs: + for motion toward, − for motion away)\n\nApplications: Radar speed guns, medical ultrasound, astronomical redshift.",
+          "marks": 3
+        }
+      ]
+    }
+  }
+}
