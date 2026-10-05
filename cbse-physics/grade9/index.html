@@ -83,7 +83,7 @@ body::after{width:420px;height:420px;left:-180px;bottom:40px;background:radial-g
     <div class="topic-list">
       <label class="topic-row"><input class="topic-check" type="checkbox" value="4" checked><span>Motion</span></label>
       <label class="topic-row"><input class="topic-check" type="checkbox" value="6" checked><span>Force &amp; Laws of Motion</span></label>
-      <label class="topic-row"><input class="topic-check" type="checkbox" value="7" checked><span>Work, Energy &amp; Power</span></label>
+      <label class="topic-row"><input class="topic-check" type="checkbox" value="7" checked><span>Work, Energy &amp; Simple Machines</span></label>
       <label class="topic-row"><input class="topic-check" type="checkbox" value="10" checked><span>Sound</span></label>
     </div>
     <div class="side-actions"><button type="button" id="topics-all">Select all</button><button type="button" id="topics-clear">Clear</button></div>
@@ -95,7 +95,7 @@ body::after{width:420px;height:420px;left:-180px;bottom:40px;background:radial-g
         <div class="builder-title">Practice mode</div>
         <div class="mode-row">
           <button class="mode-btn active" data-mode="custom" type="button">Custom Practice</button>
-          <button class="mode-btn" data-mode="full" type="button">Full-Length Practice Paper</button>
+          <button class="mode-btn" data-mode="full" type="button">Exam-Style Mixed Paper</button>
         </div>
       </div>
 
@@ -195,7 +195,7 @@ async function loadQuestionBank(){
     if(button){button.disabled=true;button.textContent='Question bank unavailable';}
   }
 }
-const CH_NAMES = {4:'Ch 4: Describing Motion', 6:'Ch 6: How Forces Affect Motion', 7:'Ch 7: Work, Energy & Power', 10:'Ch 10: Sound Waves'};
+const CH_NAMES = {4:'Ch 4: Describing Motion', 6:'Ch 6: How Forces Affect Motion', 7:'Ch 7: Work, Energy & Simple Machines', 10:'Ch 10: Sound Waves'};
 const BL_NAMES = {1:'Foundation',2:'Understanding',3:'Application',4:'Reasoning / Inquiry'};
 const AR_OPTS = [
   "Both A and R are true, and R is the correct explanation of A.",
@@ -236,14 +236,19 @@ function buildCustomSet(){
   );
   if(state.bl) return shuffle(pool).slice(0,Math.min(state.length,pool.length));
 
-  // CBSE-balanced mix: foundation 25%, understanding 30%, application 30%, reasoning/inquiry 15%.
+  // CBSE 2026-27 aligned paper mix:
+  // 50% competency-focused + 20% select-response + 30% constructed-response.
   const target=Math.min(state.length,pool.length);
-  const plan={1:Math.round(target*.25),2:Math.round(target*.30),3:Math.round(target*.30)};
-  plan[4]=Math.max(0,target-plan[1]-plan[2]-plan[3]);
+  const desired={
+    competency_focused:Math.round(target*.50),
+    select_response:Math.round(target*.20)
+  };
+  desired.constructed_response=Math.max(0,target-desired.competency_focused-desired.select_response);
+
   const result=[],used=new Set();
-  for(const level of [1,2,3,4]){
-    const candidates=shuffle(pool.filter(q=>q.bloom===level));
-    for(const q of candidates.slice(0,plan[level])){result.push(q);used.add(q.id);}
+  for(const cat of ['competency_focused','select_response','constructed_response']){
+    const candidates=shuffle(pool.filter(q=>q.examCategory===cat));
+    for(const q of candidates.slice(0,desired[cat])){result.push(q);used.add(q.id);}
   }
   for(const q of shuffle(pool.filter(q=>!used.has(q.id)))){
     if(result.length>=target) break;
@@ -253,27 +258,22 @@ function buildCustomSet(){
 }
 
 function buildFullPaper(){
-  const topics=[...state.topics];
-  const allTypes=['mcq','ar','tf','fitb','num','conc'];
-  const target=40;
-  const result=[];
-  const used=new Set();
+  const pool=ALL_Q.filter(q=>state.topics.has(q.ch));
+  const target=Math.min(40,pool.length);
+  const desired={
+    competency_focused:Math.round(target*.50),
+    select_response:Math.round(target*.20)
+  };
+  desired.constructed_response=Math.max(0,target-desired.competency_focused-desired.select_response);
 
-  // First balance across topics and types.
-  for(const ch of topics){
-    for(const type of allTypes){
-      const candidates=shuffle(ALL_Q.filter(q=>q.ch===ch&&q.type===type&&!used.has(q.id)));
-      if(candidates.length){
-        result.push(candidates[0]);
-        used.add(candidates[0].id);
-      }
-    }
+  const result=[],used=new Set();
+  for(const cat of ['competency_focused','select_response','constructed_response']){
+    const candidates=shuffle(pool.filter(q=>q.examCategory===cat));
+    for(const q of candidates.slice(0,desired[cat])){result.push(q);used.add(q.id);}
   }
-  // Then fill remaining slots from the selected topics with a mixed pool.
-  const rest=shuffle(ALL_Q.filter(q=>state.topics.has(q.ch)&&!used.has(q.id)));
-  for(const q of rest){
+  for(const q of shuffle(pool.filter(q=>!used.has(q.id)))){
     if(result.length>=target) break;
-    result.push(q); used.add(q.id);
+    result.push(q);used.add(q.id);
   }
   return shuffle(result);
 }
@@ -302,7 +302,7 @@ function generatePractice(){
   state.idx=0; state.answered={}; state.correct=0; state.partial=0; state.wrong=0; state.fitbVals={}; state.numVals={}; state.concVals={}; state.concReview={};
   document.getElementById('setup-stage').classList.add('hidden');
   document.getElementById('test-stage').classList.add('active');
-  document.getElementById('paper-label').textContent = state.mode==='full' ? 'Full-Length Practice Paper' : 'Custom Practice';
+  document.getElementById('paper-label').textContent = state.mode==='full' ? 'Exam-Style Mixed Paper' : 'Custom Practice';
   timerSeconds=0; renderTimer(); startTimer();
   render();
 }
@@ -527,7 +527,7 @@ document.querySelectorAll('.mode-btn').forEach(b=>b.addEventListener('click',()=
   document.querySelector('.bloom-row').style.display=full?'none':'flex';
   document.querySelector('.type-row').closest('.builder-card').style.opacity=full?'.65':'1';
   document.getElementById('builder-note').textContent=full
-    ? 'Full-length practice mixes all available question types across the selected topics.'
+    ? 'Exam-style mix follows the CBSE 2026–27 balance: 50% competency-focused, 20% select-response and 30% constructed-response.'
     : 'Select topics on the left, then choose one or more question types.';
 }));
 
