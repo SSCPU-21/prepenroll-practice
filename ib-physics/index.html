@@ -2541,6 +2541,62 @@ MCQ.push(...X('E',[
 ]));
 
 
+
+/* ===== PrepEnroll original expansion · A.1 Kinematics · IB 2025 assessment style ===== */
+/* Original items based on IB assessment characteristics; no past-paper wording copied. */
+MCQ.push(...X('A.1',[
+[0,"A particle moves along a straight line. Its velocity changes uniformly from +6.0 m s⁻¹ to −2.0 m s⁻¹ in 4.0 s. Which statement is correct?","The acceleration is −2.0 m s⁻² and the particle reverses direction.",["The acceleration is +2.0 m s⁻² and the particle slows down.","The acceleration is −1.0 m s⁻² and the particle does not reverse.","The acceleration is zero when the velocity passes through zero."],"a = (−2−6)/4 = −2.0 m s⁻². A change in sign of velocity means reversal of direction."],
+[0,"An object has a velocity–time graph that is a straight line from (0 s, 8 m s⁻¹) to (6 s, −4 m s⁻¹). What is its displacement during the 6 s interval?","12 m",["24 m","36 m","−12 m"],"The signed area is ½(8 + (−4))×6 = 12 m."],
+[0,"A ball is projected horizontally from a cliff. Air resistance is negligible. Which change leaves the time of flight unchanged?","Doubling the horizontal launch speed",["Doubling the cliff height","Doubling g","Giving the ball an initial upward vertical velocity"],"The time of flight depends only on the vertical motion."],
+[0,"Two projectiles are launched from level ground with the same speed at 30° and 60°. Air resistance is negligible. Which quantity is the same for both?","horizontal range",["maximum height","time of flight","initial vertical velocity"],"R = u²sin2θ/g, and sin60° = sin120°."],
+[0,"A student claims that zero instantaneous velocity implies zero acceleration. Which situation disproves the claim?","A ball at the highest point of vertical motion",["A car moving at constant speed on a straight road","A stationary book on a horizontal table","A spacecraft drifting at constant velocity"],"At the highest point v = 0 but acceleration remains g downward."],
+[0,"A particle has position x = 4t³ − 3t² in SI units. What is its acceleration at t = 2.0 s?","42 m s⁻²",["18 m s⁻²","36 m s⁻²","48 m s⁻²"],"v = 12t² − 6t and a = 24t − 6. At 2.0 s, a = 42 m s⁻²."],
+[0,"A car travels east at 20 m s⁻¹ for 30 s and then west at 10 m s⁻¹ for 20 s. What is the magnitude of its average velocity?","8.0 m s⁻¹",["12 m s⁻¹","14 m s⁻¹","16 m s⁻¹"],"Net displacement = 600 − 200 = 400 m; total time = 50 s."],
+[0,"A projectile is launched with speed u at angle θ. At the highest point its speed is 0.60u. What is θ?","53°",["37°","45°","60°"],"At the top the speed is u cosθ, so cosθ = 0.60."],
+[0,"An object moving in one dimension has constant negative acceleration. Which statement must be true?","Its velocity decreases by equal amounts in equal time intervals.",["Its speed always decreases.","Its displacement is always negative.","It must eventually stop and remain at rest."],"Constant negative acceleration gives equal negative changes in velocity in equal times."],
+[0,"A velocity–time graph consists of a triangle above the time axis followed by an equal-area triangle below it. What is true at the end of the interval?","The net displacement is zero.",["The total distance is zero.","The final velocity must be zero.","The acceleration must have been constant throughout."],"Positive and negative signed areas cancel."],
+[0,"A projectile reaches maximum height H when launched vertically with speed u. With the same speed it is launched at 45°. What is its maximum height?","H/2",["H/4","H/√2","H"],"The vertical component is u/√2, giving height u²/(4g) = H/2."],
+[0,"A motion sensor reports every position 0.20 m too large. Which quantity is unaffected by this constant systematic offset?","velocity determined from the gradient of a position–time graph",["the measured position at each instant","the position intercept","the absolute position from the sensor origin"],"A constant position offset changes the intercept, not the gradient."],
+[0,"An object starts from rest with acceleration a = kt. Which expression gives its displacement after time t?","kt³/6",["kt²/2","kt³/3","kt²"],"Integrating a = kt gives v = kt²/2 and then s = kt³/6."],
+[0,"A projectile has velocity components 12 m s⁻¹ horizontally and 5.0 m s⁻¹ upward. What are the components 1.0 s later? Take g = 9.8 m s⁻².","12 m s⁻¹ horizontally and 4.8 m s⁻¹ downward",["7.0 m s⁻¹ horizontally and 5.0 m s⁻¹ downward","12 m s⁻¹ horizontally and 14.8 m s⁻¹ upward","2.2 m s⁻¹ horizontally and 5.0 m s⁻¹ upward"],"Horizontal velocity is unchanged; vertical velocity becomes 5.0 − 9.8 = −4.8 m s⁻¹."],
+[0,"An athlete runs one complete 400 m lap in 50 s and finishes at the start. Which pair is correct?","average speed 8.0 m s⁻¹; magnitude of average velocity 0",["average speed 0; average velocity 8.0 m s⁻¹","average speed 8.0 m s⁻¹; average velocity 8.0 m s⁻¹","average speed 400 m s⁻¹; average velocity 0"],"Average speed uses distance; average velocity uses displacement."],
+]));
+
+P1B.push(...X('A.1',[
+{f:r=>({intro:"A trolley moves along a horizontal track. A motion sensor records its velocity every 1.0 s. The uncertainty in each velocity is ±0.06 m s⁻¹.",fig:tbl(["t / s","v / m s⁻¹"],[["0.0","1.48"],["1.0","3.31"],["2.0","5.06"],["3.0","6.92"],["4.0","8.69"],["5.0","10.53"]]),parts:[
+{q:"State the graph that should be plotted to test whether the trolley has constant acceleration.",m:1,ms:["plot velocity v against time t"]},
+{q:"Use the first and last readings to estimate the acceleration.",m:2,ms:["a = Δv/Δt = (10.53 − 1.48)/5.0","a = 1.81 m s⁻²"],ans:{v:1.81,u:"m s⁻²"}},
+{q:"Estimate the displacement during the 5.0 s interval using the trapezium rule.",m:3,ms:["add the five trapezium areas under the v–t graph","s ≈ 30.0 m"],ans:{v:30.0,u:"m"}},
+{q:"Explain why a gradient found using widely separated points is generally more reliable than one found from adjacent readings.",m:2,ms:["the same absolute uncertainty is a smaller fraction of a larger change","random scatter has less effect on the gradient"]},
+{q:"The best-fit line has a non-zero velocity intercept. Does this alone prove there is a systematic error?",m:2,ms:["no","the trolley may genuinely have non-zero initial velocity; independent evidence is needed to identify an offset"]},
+]})},
+{f:r=>({intro:"A launcher fires a ball from level ground at a fixed speed. The launch angle θ is varied and the horizontal range R is measured. The uncertainty in each range is ±0.03 m. Air resistance is small but not negligible.",fig:tbl(["θ / °","R / m"],[["20","6.02"],["30","8.14"],["40","9.21"],["50","9.18"],["60","8.08"],["70","5.94"]]),parts:[
+{q:"State the transformed horizontal variable that should be used to test R = (u²/g)sin(2θ) with a straight-line graph.",m:1,ms:["plot R against sin(2θ)"]},
+{q:"Use the 40° and 50° readings to assess whether the expected symmetry is supported by the data.",m:2,ms:["the model predicts equal ranges because sin80° = sin100°","9.21 m and 9.18 m differ by only 0.03 m, comparable with the measurement uncertainty"]},
+{q:"Estimate the launch speed using a maximum range of about 9.2 m.",m:2,ms:["Rmax ≈ u²/g","u ≈ √(9.81×9.2) = 9.5 m s⁻¹"],ans:{v:9.5,u:"m s⁻¹"}},
+{q:"The measured ranges are systematically below an ideal no-drag prediction. Suggest one physical reason and one experimental reason.",m:2,ms:["physical: air resistance","experimental: angle calibration / launch speed / range origin error"]},
+{q:"Explain why measurements concentrated very close to 45° are poor for locating the exact maximum.",m:2,ms:["the R–θ curve is shallow near its maximum","small angle changes cause range changes comparable to uncertainty"]},
+]})},
+]));
+
+P2.push(...X('A.1',[
+{f:r=>({intro:"A rescue package is launched from the roof of a building 24 m above the ground with speed 22 m s⁻¹ at 35° above the horizontal. Air resistance is initially neglected.",parts:[
+{q:"Determine the horizontal and vertical components of the initial velocity.",m:2,ms:["ux = 22 cos35° = 18.0 m s⁻¹","uy = 22 sin35° = 12.6 m s⁻¹"]},
+{q:"Determine the time taken for the package to reach the ground.",m:3,ms:["take upward as positive: −24 = 12.6t − 4.905t²","solve the quadratic","t ≈ 3.83 s"],ans:{v:3.83,u:"s"}},
+{q:"Determine the horizontal distance travelled before impact.",m:2,ms:["x = uxt","x ≈ 18.0×3.83 = 69.0 m"],ans:{v:69.0,u:"m"}},
+{q:"State whether including air resistance makes the horizontal distance larger or smaller, and justify.",m:2,ms:["smaller","drag reduces the horizontal component of velocity"]},
+{q:"A second package of twice the mass is launched with the same initial velocity. In the no-drag model compare its flight time and landing position.",m:2,ms:["same flight time","same landing position; mass cancels from projectile motion"]},
+]})},
+{f:r=>({intro:"A test vehicle starts from rest. Its acceleration increases linearly from 0 to 1.8 m s⁻² during the first 8.0 s, so a(t) = kt.",parts:[
+{q:"Determine k, including its unit.",m:2,ms:["k = 1.8/8.0","k = 0.225 m s⁻³"],ans:{v:0.225,u:"m s⁻³"}},
+{q:"Use the area under the acceleration–time graph to determine the speed at 8.0 s.",m:2,ms:["Δv = area of triangle","v = ½×8.0×1.8 = 7.2 m s⁻¹"],ans:{v:7.2,u:"m s⁻¹"}},
+{q:"Show that the displacement from rest is s = kt³/6.",m:3,ms:["a = kt","integrate to obtain v = kt²/2","integrate again to obtain s = kt³/6"]},
+{q:"Calculate the displacement at 8.0 s.",m:1,ms:["s = 0.225×8³/6 = 19.2 m"],ans:{v:19.2,u:"m"}},
+{q:"A student instead assumes the acceleration was 1.8 m s⁻² for the whole 8.0 s. Explain why the resulting displacement is too large.",m:2,ms:["the assumed acceleration exceeds the actual acceleration for almost the whole interval","therefore predicted velocities and the area under the v–t graph are too large"]},
+]})},
+]));
+
+
 /* ---------- paper assembly ---------- */
 const LENS=[{m:10,t:1,p:1,n:'Quick'},{m:20,t:2,p:1,n:'Standard'}];
 const getL=s=>s.len<2?LENS[s.len]:(s.tier==='H'?{m:40,p:2,t:6,n:'Full exam'}:{m:25,p:2,t:4,n:'Full exam'});
