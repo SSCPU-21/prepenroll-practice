@@ -54,7 +54,7 @@
       <div class="card mode-fixed"><div class="card-title">Session mode</div><div class="mode-name">Practice Mode</div><div class="mode-note">No Exam Mode for Grade 11 at this stage.</div></div>
       <div class="card"><div class="card-title">Practice formats — choose one or more</div><div class="chips" id="type-chips"></div></div>
       <div class="card"><div class="card-title">Set length</div><div class="chips" id="length-chips"><button class="chip active" data-n="10">10 Questions</button><button class="chip" data-n="20">20 Questions</button><button class="chip" data-n="30">30 Questions</button></div></div>
-      <div class="card"><div class="card-title">Build practice</div><div class="generate-row"><div class="note" id="builder-note">Select chapters on the left and choose the question formats you want to practise.</div><button class="generate" id="generate">Start Practice →</button></div></div>
+      <div class="card"><div class="card-title">Build practice</div><div class="generate-row"><div class="note" id="builder-note">Choose at least one chapter on the left, then select the question formats you want to practise.</div><button class="generate" id="generate">Start Practice →</button></div></div>
     </section>
     <section class="practice" id="practice">
       <div class="toolbar"><button class="back" id="new-practice">← New Practice</button><span class="paper-label" id="paper-label">Practice</span><div class="score"><span class="pill">Attempted <b id="attempted">0</b></span><span class="pill">Correct <b id="correct">0</b></span></div></div>
@@ -88,9 +88,9 @@ const CHAPTERS=[
 {id:'ch13',n:13,name:'Oscillations'},
 {id:'ch14',n:14,name:'Waves'}];
 const TYPE_INFO={mcq:'MCQ',vsa:'Very Short Answer',sa1:'Short Answer · 2M',sa2:'Short Answer · 3M',la:'Long Answer',num:'Numerical'};
-let state={chapters:new Set(CHAPTERS.map(x=>x.id)),types:new Set(Object.keys(TYPE_INFO)),length:10,qs:[],idx:0,answered:{},correct:0};
+let state={chapters:new Set(),types:new Set(Object.keys(TYPE_INFO)),length:10,qs:[],idx:0,answered:{},correct:0};
 function shuffle(a){a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
-function renderChapters(){document.getElementById('chapter-list').innerHTML=CHAPTERS.map(c=>'<label class="chapter-row"><input type="checkbox" data-ch="'+c.id+'" checked><span><strong>Ch '+c.n+'</strong> · '+c.name+'</span></label>').join('');document.querySelectorAll('[data-ch]').forEach(cb=>cb.onchange=()=>{cb.checked?state.chapters.add(cb.dataset.ch):state.chapters.delete(cb.dataset.ch)})}
+function renderChapters(){document.getElementById('chapter-list').innerHTML=CHAPTERS.map(c=>'<label class="chapter-row"><input type="checkbox" data-ch="'+c.id+'"><span><strong>Ch '+c.n+'</strong> · '+c.name+'</span></label>').join('');document.querySelectorAll('[data-ch]').forEach(cb=>cb.onchange=()=>{cb.checked?state.chapters.add(cb.dataset.ch):state.chapters.delete(cb.dataset.ch)})}
 function renderTypes(){document.getElementById('type-chips').innerHTML=Object.entries(TYPE_INFO).map(([k,v])=>'<button class="chip active" data-type="'+k+'">'+v+'</button>').join('');document.querySelectorAll('[data-type]').forEach(b=>b.onclick=()=>{const t=b.dataset.type;if(state.types.has(t)){if(state.types.size===1)return;state.types.delete(t);b.classList.remove('active')}else{state.types.add(t);b.classList.add('active')}})}
 function flatten(){const pool=[];for(const ch of state.chapters){const data=QB[ch]||{};for(const t of state.types){for(const q of (data[t]||[]))pool.push({...q,_ch:ch,_type:t,_id:ch+'-'+t+'-'+pool.length})}}return pool}
 function generate(){if(!state.chapters.size){alert('Select at least one chapter.');return}const pool=flatten();if(!pool.length){alert('No questions available for this selection.');return}state.qs=shuffle(pool).slice(0,Math.min(state.length,pool.length));state.idx=0;state.answered={};state.correct=0;document.getElementById('setup').classList.add('hidden');document.getElementById('practice').classList.add('active');document.getElementById('paper-label').textContent='Practice · '+state.qs.length+' questions';render()}
