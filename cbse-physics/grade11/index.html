@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PrepEnroll™ | CBSE Class XI Physics Practice</title>
+<meta name="description" content="CBSE Class XI Physics practice studio for the 2026–27 syllabus. Chapter-wise practice with one-question-at-a-time navigation, instant feedback and progress review.">
+<style>
+:root{--navy:#173654;--green:#3e7b3a;--cyan:#38d9ff;--text:#223044;--muted:#6c7888;--border:#dfe6ee;--bg:#f8fbfd;--red:#c94d4d;--gold:#b67d12;--shadow:0 10px 28px rgba(23,54,84,.08);--radius:14px}
+*{box-sizing:border-box}body{margin:0;font-family:Manrope,Inter,Segoe UI,system-ui,sans-serif;background:linear-gradient(180deg,#fff,#f8fbfd);color:var(--text);min-height:100vh}
+.header{height:62px;padding:0 22px;background:linear-gradient(90deg,var(--navy),#193d72 72%,#245a68);display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:20;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.logo{font-weight:900;font-size:1.24rem;color:#fff}.logo span{color:#78d774}.badge-top{font-size:.72rem;font-weight:900;background:#78d774;color:#173654;border-radius:999px;padding:5px 10px}.header-right{margin-left:auto;display:flex;gap:8px}.header-right a{color:#fff;text-decoration:none;font-size:.74rem;font-weight:800;border:1px solid rgba(255,255,255,.23);border-radius:999px;padding:7px 10px}
+.hero{max-width:1180px;margin:auto;padding:28px 20px 18px}.eyebrow{font-size:.72rem;font-weight:900;text-transform:uppercase;letter-spacing:.08em;color:var(--green)}h1{margin:5px 0 8px;font-size:1.65rem;color:var(--navy)}.hero p{margin:0;color:var(--muted);font-size:.88rem;line-height:1.55}
+.info-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}.info-card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:12px 14px}.info-card .k{font-size:.66rem;font-weight:900;text-transform:uppercase;letter-spacing:.06em;color:var(--green);margin-bottom:4px}.info-card .v{font-size:.78rem;line-height:1.5;color:var(--muted)}.info-card strong{color:var(--navy)}
+.shell{max-width:1180px;margin:0 auto 48px;padding:0 20px;display:grid;grid-template-columns:300px minmax(0,1fr);gap:20px;align-items:start}
+.sidebar{position:sticky;top:78px;background:#fff;border:1.5px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden;max-height:calc(100vh - 96px)}
+.side-head{padding:15px 16px;border-bottom:1px solid var(--border);font-size:.76rem;font-weight:900;color:var(--navy);text-transform:uppercase;letter-spacing:.05em}
+.chapter-list{padding:8px;overflow:auto;max-height:calc(100vh - 160px)}.chapter-row{display:flex;align-items:flex-start;gap:9px;padding:10px;border-radius:9px;cursor:pointer;font-size:.82rem;font-weight:750;line-height:1.35}.chapter-row:hover{background:#f4fbff}.chapter-row:has(input:checked){background:linear-gradient(90deg,#ecfbff,#f0fff4);box-shadow:inset 0 0 0 1px rgba(56,217,255,.2)}.chapter-row input{margin-top:2px;accent-color:var(--green)}.chapter-row strong{display:inline-block;min-width:38px;color:var(--navy)}
+.side-actions{display:flex;gap:7px;padding:0 10px 10px}.side-actions button{flex:1;border:1px solid var(--border);background:#fff;color:var(--navy);font-size:.7rem;font-weight:800;padding:7px;border-radius:8px;cursor:pointer}
+.card{background:#fff;border:1.5px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);padding:16px;margin-bottom:14px}.card-title{font-size:.82rem;font-weight:900;color:var(--navy);margin-bottom:10px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}.chip{border:1.5px solid var(--border);background:#fff;color:var(--navy);border-radius:999px;padding:8px 12px;font-size:.77rem;font-weight:850;cursor:pointer}.chip.active{background:var(--navy);color:#fff;border-color:var(--navy)}
+.mode-fixed{background:linear-gradient(135deg,#f4fbff,#f7fff7);border-color:rgba(56,217,255,.3)}.mode-fixed .mode-name{font-size:.96rem;font-weight:900;color:var(--navy)}.mode-fixed .mode-note{font-size:.76rem;color:var(--muted);margin-top:4px;line-height:1.5}
+.generate-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:14px}.note{font-size:.75rem;color:var(--muted);line-height:1.45}.generate{border:0;background:linear-gradient(135deg,var(--green),#4bb971);color:#fff;font-weight:900;padding:10px 18px;border-radius:10px;cursor:pointer;box-shadow:0 9px 20px rgba(62,123,58,.18)}
+.practice{display:none}.practice.active{display:block}.setup.hidden{display:none}
+.toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px}.toolbar .back{border:1.5px solid var(--navy);background:#fff;color:var(--navy);border-radius:9px;padding:8px 11px;font-weight:850;cursor:pointer}.paper-label{font-size:.78rem;font-weight:850;color:var(--muted)}.score{margin-left:auto;display:flex;gap:7px;flex-wrap:wrap}.pill{border:1px solid var(--border);background:#fff;border-radius:999px;padding:6px 10px;font-size:.72rem;color:var(--muted);font-weight:800}.pill b{color:var(--navy)}
+.progress{height:7px;background:#e6ebf1;border-radius:999px;overflow:hidden;margin:10px 0 16px}.progress>div{height:100%;background:linear-gradient(90deg,var(--green),var(--cyan));width:0}
+.practice-grid{display:grid;grid-template-columns:minmax(0,1fr) 220px;gap:14px;align-items:start}.qcard{background:#fff;border:1.5px solid var(--border);border-top:4px solid rgba(56,217,255,.72);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}.qhead{padding:13px 16px;background:#f7f9fc;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;gap:10px;align-items:center}.qmeta{display:flex;gap:6px;flex-wrap:wrap}.tag{font-size:.66rem;font-weight:900;padding:4px 8px;border-radius:999px;background:#edf3f8;color:#53667a}.qbody{padding:18px}.qtext{font-size:.98rem;line-height:1.65;margin-bottom:14px}.opts{display:flex;flex-direction:column;gap:8px}.opt{border:1.5px solid var(--border);border-radius:9px;padding:10px 12px;background:#fff;cursor:pointer;text-align:left;font-size:.88rem}.opt:hover{border-color:var(--navy)}.opt.correct{border-color:var(--green);background:#edf9ef}.opt.wrong{border-color:var(--red);background:#fff1f1}.answer-box{margin-top:12px;padding:12px 13px;border-radius:10px;background:#f8fbfe;border:1px solid var(--border);font-size:.82rem;line-height:1.55;white-space:pre-line}.show-answer{border:1.5px solid var(--navy);background:#fff;color:var(--navy);border-radius:9px;padding:8px 11px;font-weight:850;cursor:pointer}.nav{display:flex;justify-content:space-between;gap:8px;padding:12px 0}.nav button{border:1px solid var(--border);background:#fff;color:var(--navy);border-radius:9px;padding:8px 12px;font-weight:850;cursor:pointer}
+.palette{position:sticky;top:78px;background:#fff;border:1.5px solid var(--border);border-radius:12px;box-shadow:var(--shadow);padding:12px}.palette-title{font-size:.7rem;font-weight:900;color:var(--navy);text-transform:uppercase;letter-spacing:.05em;margin-bottom:9px}.palette-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}.dot{aspect-ratio:1;border-radius:50%;border:1.5px solid var(--border);background:#fff;color:var(--navy);font-size:.66rem;font-weight:900;cursor:pointer}.dot.current{border-color:var(--cyan);box-shadow:0 0 0 2px rgba(56,217,255,.2)}.dot.done{background:#eaf8ed;border-color:#a8d8af;color:#2f783a}
+.report{background:#fff;border:1.5px solid var(--border);border-radius:16px;box-shadow:var(--shadow);padding:22px}.report h2{margin:0 0 6px;color:var(--navy)}.report p{color:var(--muted);font-size:.85rem}.report-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}.report-actions button{border:1.5px solid var(--navy);background:#fff;color:var(--navy);border-radius:9px;padding:9px 12px;font-weight:850;cursor:pointer}.report-actions .primary{background:var(--navy);color:#fff}
+.footer{background:#122f59;color:#fff;padding:28px 20px;text-align:center;font-size:.76rem;margin-top:45px}
+@media(max-width:920px){.shell{grid-template-columns:1fr}.sidebar{position:static;max-height:none}.chapter-list{max-height:none;display:grid;grid-template-columns:1fr 1fr}.practice-grid{grid-template-columns:1fr}.palette{position:static;order:-1}.palette-grid{grid-template-columns:repeat(10,1fr)}}
+@media(max-width:620px){.hero,.shell{padding-left:12px;padding-right:12px}.info-grid{grid-template-columns:1fr}.chapter-list{grid-template-columns:1fr}.generate-row{align-items:stretch;flex-direction:column}.generate{width:100%}.palette-grid{grid-template-columns:repeat(8,1fr)}.score{margin-left:0;width:100%}}
+</style>
+</head>
+<body>
+<header class="header"><div class="logo">Prep<span>Enroll</span>™</div><div class="badge-top">CBSE · Class XI</div><div class="header-right"><a href="/prepenroll-practice/cbse-physics/">← CBSE Classes</a><a href="/prepenroll-practice/">Practice Hub</a></div></header>
+<section class="hero">
+  <div class="eyebrow">PrepEnroll™ Physics Practice</div>
+  <h1>CBSE Class XI Physics</h1>
+  <p>One consistent CBSE practice experience: select chapters, choose practice formats, work one question at a time and review your progress.</p>
+  <div class="info-grid">
+    <div class="info-card"><div class="k">Session mode</div><div class="v"><strong>Practice Mode only</strong><br>Immediate checking for MCQs and answer review for written questions.</div></div>
+    <div class="info-card"><div class="k">2026–27 curriculum</div><div class="v"><strong>14 prescribed chapters</strong><br>Question-bank audit will follow after the structure is standardised.</div></div>
+  </div>
+</section>
+<div class="shell">
+  <aside class="sidebar">
+    <div class="side-head">Chapters</div>
+    <div class="chapter-list" id="chapter-list"></div>
+    <div class="side-actions"><button id="all-ch">Select all</button><button id="clear-ch">Clear</button></div>
+  </aside>
+  <main>
+    <section class="setup" id="setup">
+      <div class="card mode-fixed"><div class="card-title">Session mode</div><div class="mode-name">Practice Mode</div><div class="mode-note">No Exam Mode for Grade 11 at this stage.</div></div>
+      <div class="card"><div class="card-title">Practice formats — choose one or more</div><div class="chips" id="type-chips"></div></div>
+      <div class="card"><div class="card-title">Set length</div><div class="chips" id="length-chips"><button class="chip active" data-n="10">10 Questions</button><button class="chip" data-n="20">20 Questions</button><button class="chip" data-n="30">30 Questions</button></div></div>
+      <div class="card"><div class="card-title">Build practice</div><div class="generate-row"><div class="note" id="builder-note">Select chapters on the left and choose the question formats you want to practise.</div><button class="generate" id="generate">Start Practice →</button></div></div>
+    </section>
+    <section class="practice" id="practice">
+      <div class="toolbar"><button class="back" id="new-practice">← New Practice</button><span class="paper-label" id="paper-label">Practice</span><div class="score"><span class="pill">Attempted <b id="attempted">0</b></span><span class="pill">Correct <b id="correct">0</b></span></div></div>
+      <div class="progress"><div id="progress-fill"></div></div>
+      <div class="practice-grid">
+        <div>
+          <div id="question-area"></div>
+          <div class="nav"><button id="prev">← Previous</button><button id="finish">Finish Practice</button><button id="next">Next →</button></div>
+        </div>
+        <aside class="palette"><div class="palette-title">Question palette</div><div class="palette-grid" id="palette-grid"></div></aside>
+      </div>
+    </section>
+  </main>
+</div>
+<footer class="footer">© 2026 PrepEnroll™ · CBSE Physics Practice</footer>
+<script src="questions.js"></script>
+<script>
+const CHAPTERS=[
+{id:'ch1',n:1,name:'Units and Measurements'},
+{id:'ch2',n:2,name:'Motion in a Straight Line'},
+{id:'ch3',n:3,name:'Motion in a Plane'},
+{id:'ch4',n:4,name:'Laws of Motion'},
+{id:'ch5',n:5,name:'Work, Energy and Power'},
+{id:'ch6',n:6,name:'System of Particles and Rotational Motion'},
+{id:'ch7',n:7,name:'Gravitation'},
+{id:'ch8',n:8,name:'Mechanical Properties of Solids'},
+{id:'ch9',n:9,name:'Mechanical Properties of Fluids'},
+{id:'ch10',n:10,name:'Thermal Properties of Matter'},
+{id:'ch11',n:11,name:'Thermodynamics'},
+{id:'ch12',n:12,name:'Kinetic Theory'},
+{id:'ch13',n:13,name:'Oscillations'},
+{id:'ch14',n:14,name:'Waves'}];
+const TYPE_INFO={mcq:'MCQ',vsa:'Very Short Answer',sa1:'Short Answer · 2M',sa2:'Short Answer · 3M',la:'Long Answer',num:'Numerical'};
+let state={chapters:new Set(CHAPTERS.map(x=>x.id)),types:new Set(Object.keys(TYPE_INFO)),length:10,qs:[],idx:0,answered:{},correct:0};
+function shuffle(a){a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+function renderChapters(){document.getElementById('chapter-list').innerHTML=CHAPTERS.map(c=>'<label class="chapter-row"><input type="checkbox" data-ch="'+c.id+'" checked><span><strong>Ch '+c.n+'</strong> · '+c.name+'</span></label>').join('');document.querySelectorAll('[data-ch]').forEach(cb=>cb.onchange=()=>{cb.checked?state.chapters.add(cb.dataset.ch):state.chapters.delete(cb.dataset.ch)})}
+function renderTypes(){document.getElementById('type-chips').innerHTML=Object.entries(TYPE_INFO).map(([k,v])=>'<button class="chip active" data-type="'+k+'">'+v+'</button>').join('');document.querySelectorAll('[data-type]').forEach(b=>b.onclick=()=>{const t=b.dataset.type;if(state.types.has(t)){if(state.types.size===1)return;state.types.delete(t);b.classList.remove('active')}else{state.types.add(t);b.classList.add('active')}})}
+function flatten(){const pool=[];for(const ch of state.chapters){const data=QB[ch]||{};for(const t of state.types){for(const q of (data[t]||[]))pool.push({...q,_ch:ch,_type:t,_id:ch+'-'+t+'-'+pool.length})}}return pool}
+function generate(){if(!state.chapters.size){alert('Select at least one chapter.');return}const pool=flatten();if(!pool.length){alert('No questions available for this selection.');return}state.qs=shuffle(pool).slice(0,Math.min(state.length,pool.length));state.idx=0;state.answered={};state.correct=0;document.getElementById('setup').classList.add('hidden');document.getElementById('practice').classList.add('active');document.getElementById('paper-label').textContent='Practice · '+state.qs.length+' questions';render()}
+function markMCQ(i,choice){const q=state.qs[i];if(state.answered[q._id]!==undefined)return;state.answered[q._id]=choice;if(choice===q.ans)state.correct++;render()}
+function revealWritten(i){const q=state.qs[i];state.answered[q._id]='reviewed';render()}
+function answerText(q){if(q._type==='la'&&Array.isArray(q.parts))return q.parts.map((p,i)=>'Part '+(i+1)+' ('+p.marks+'M):\n'+p.ans).join('\n\n');return q.ans||q.exp||'Model answer not available yet.'}
+function qLabel(q){return TYPE_INFO[q._type]||q._type}
+function render(){
+ const q=state.qs[state.idx],ch=CHAPTERS.find(c=>c.id===q._ch),done=state.answered[q._id]!==undefined;
+ let body='<div class="qcard"><div class="qhead"><div class="qmeta"><span class="tag">'+qLabel(q)+'</span><span class="tag">Ch '+ch.n+'</span></div><div class="tag">Question '+(state.idx+1)+'</div></div><div class="qbody"><div class="qtext">'+q.q+'</div>';
+ if(q._type==='mcq'){body+='<div class="opts">'+q.opts.map((o,i)=>{let cls='opt';if(done&&i===q.ans)cls+=' correct';else if(done&&i===state.answered[q._id]&&i!==q.ans)cls+=' wrong';return '<button class="'+cls+'" onclick="markMCQ('+state.idx+','+i+')">'+String.fromCharCode(65+i)+'. '+o+'</button>'}).join('')+'</div>';if(done&&q.exp)body+='<div class="answer-box"><strong>Explanation</strong><br>'+q.exp+'</div>'}
+ else{body+='<button class="show-answer" onclick="revealWritten('+state.idx+')">'+(done?'Model answer shown':'Show model answer')+'</button>';if(done)body+='<div class="answer-box"><strong>Model answer</strong><br>'+answerText(q)+'</div>'}
+ body+='</div></div>';document.getElementById('question-area').innerHTML=body;
+ document.getElementById('attempted').textContent=Object.keys(state.answered).length;document.getElementById('correct').textContent=state.correct;
+ document.getElementById('progress-fill').style.width=((state.idx+1)/state.qs.length*100)+'%';
+ document.getElementById('prev').disabled=state.idx===0;document.getElementById('next').disabled=state.idx===state.qs.length-1;
+ const pg=document.getElementById('palette-grid');pg.innerHTML=state.qs.map((x,i)=>'<button class="dot '+(i===state.idx?'current ':'')+(state.answered[x._id]!==undefined?'done':'')+'" data-i="'+i+'">'+(i+1)+'</button>').join('');pg.querySelectorAll('button').forEach(b=>b.onclick=()=>{state.idx=Number(b.dataset.i);render()});
+}
+function finish(){const attempted=Object.keys(state.answered).length;document.getElementById('question-area').innerHTML='<div class="report"><h2>Practice complete</h2><p>You reviewed '+attempted+' of '+state.qs.length+' questions. MCQ correct: <strong>'+state.correct+'</strong>.</p><div class="report-actions"><button onclick="retryUnattempted()">Review Unattempted</button><button class="primary" onclick="newPractice()">New Practice</button></div></div>';document.querySelector('.nav').style.display='none';document.querySelector('.palette').style.display='none'}
+function retryUnattempted(){const left=state.qs.filter(q=>state.answered[q._id]===undefined);if(!left.length){newPractice();return}state.qs=left;state.idx=0;state.answered={};state.correct=0;document.querySelector('.nav').style.display='flex';document.querySelector('.palette').style.display='block';render()}
+function newPractice(){document.getElementById('practice').classList.remove('active');document.getElementById('setup').classList.remove('hidden');document.querySelector('.nav').style.display='flex';document.querySelector('.palette').style.display='block';window.scrollTo({top:0,behavior:'smooth'})}
+document.getElementById('all-ch').onclick=()=>{state.chapters=new Set(CHAPTERS.map(x=>x.id));document.querySelectorAll('[data-ch]').forEach(x=>x.checked=true)};
+document.getElementById('clear-ch').onclick=()=>{state.chapters.clear();document.querySelectorAll('[data-ch]').forEach(x=>x.checked=false)};
+document.querySelectorAll('[data-n]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-n]').forEach(x=>x.classList.remove('active'));b.classList.add('active');state.length=Number(b.dataset.n)});
+document.getElementById('generate').onclick=generate;document.getElementById('new-practice').onclick=newPractice;document.getElementById('prev').onclick=()=>{if(state.idx>0){state.idx--;render()}};document.getElementById('next').onclick=()=>{if(state.idx<state.qs.length-1){state.idx++;render()}};document.getElementById('finish').onclick=finish;
+renderChapters();renderTypes();
+</script>
+</body>
+</html>
