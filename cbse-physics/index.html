@@ -388,7 +388,7 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); co
     <div class="class-card" onclick="selectClass(11)">
       <div class="class-number">11</div>
       <div class="class-label">Class XI</div>
-      <div class="class-badge">14 Chapters</div>
+      <div class="class-badge">Practice Mode · 14 Chapters</div>
     </div>
     <div class="class-card coming-soon">
       <div class="class-number">12</div>
@@ -421,9 +421,17 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); co
 <div id="screen-config" class="screen">
   <div class="section-header">
     <button class="back-btn" onclick="showScreen('screen-chapters')">← Chapters</button>
-    <div class="section-title" id="config-title">Configure Test</div>
+    <div class="section-title" id="config-title">Build Practice</div>
   </div>
   <div id="chapter-info-strip" class="chapter-info-strip"></div>
+
+  <div style="background:linear-gradient(135deg,#f4fbff,#f7fff7);border-radius:var(--radius);padding:14px 18px;border:1.5px solid rgba(56,217,255,.28);margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;">
+    <div>
+      <div style="font-size:.72rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase;color:var(--green);margin-bottom:3px">Session mode</div>
+      <div style="font-size:.95rem;font-weight:900;color:var(--navy)">Practice Mode</div>
+    </div>
+    <div style="font-size:.78rem;line-height:1.5;color:var(--muted);max-width:650px">Grade 11 is currently practice-only. Work chapter-wise, check answers and explanations, and review your score when you finish.</div>
+  </div>
 
   <div style="background:var(--card);border-radius:var(--radius);padding:20px;border:1.5px solid var(--border);margin-bottom:16px;">
     <div style="font-weight:700;color:var(--navy);margin-bottom:14px;font-size:0.95rem;">Select Practice Formats</div>
@@ -468,7 +476,7 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); co
   </div>
 
   <div style="display:flex;gap:12px;flex-wrap:wrap;">
-    <button class="btn btn-primary btn-lg" onclick="generateTest()">▶ Generate Test</button>
+    <button class="btn btn-primary btn-lg" onclick="generateTest()">▶ Start Practice</button>
     <button class="btn btn-outline" onclick="selectAllTypes()">Select All Types</button>
     <button class="btn btn-outline" onclick="selectDefault()">Default Mix</button>
   </div>
@@ -476,10 +484,10 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); co
 
 <!-- ══════════════════ SCREEN 4: Test ══════════════════ -->
 <div id="screen-test" class="screen">
-  <div id="test-header-bar" class="test-header">
+  <div id="practice-header-bar" class="test-header">
     <div class="test-info">
-      <div class="test-title" id="test-title-text"></div>
-      <div class="test-meta" id="test-meta-text"></div>
+      <div class="test-title" id="practice-title-text"></div>
+      <div class="test-meta" id="practice-meta-text"></div>
       <div class="progress-bar-wrap"><div class="progress-bar" id="progress-bar" style="width:0%"></div></div>
     </div>
     <div class="test-stats">
@@ -495,9 +503,9 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); co
     <div class="score-grade" id="score-grade"></div>
   </div>
 
-  <div style="display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap;" id="test-controls">
-    <button class="back-btn" onclick="showScreen('screen-config')">← New Test</button>
-    <button class="btn btn-success" onclick="submitTest()">✓ Submit & See Score</button>
+  <div style="display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap;" id="practice-controls">
+    <button class="back-btn" onclick="showScreen('screen-config')">← New Practice</button>
+    <button class="btn btn-success" onclick="submitTest()">✓ Finish Practice & View Score</button>
     <button class="btn btn-outline btn-sm" onclick="showAllAnswers()">Show Answer</button>
   </div>
 
@@ -548,10 +556,10 @@ const TYPE_INFO = {
 
 let currentChapter = null;
 let selectedTypes = new Set(['mcq','vsa','sa1','sa2','la','num']);
-let testQuestions = [];
+let practiceQuestions = [];
 let userAnswers = {};
 let userMarks = {};
-let testSubmitted = false;
+let practiceSubmitted = false;
 let totalMarks = 0;
 let currentQuestionIndex = 0;
 
@@ -654,10 +662,10 @@ function shuffle(arr) {
 
 function generateTest() {
   const data = QB[currentChapter.id] || {};
-  testQuestions = [];
+  practiceQuestions = [];
   userAnswers = {};
   userMarks = {};
-  testSubmitted = false;
+  practiceSubmitted = false;
   totalMarks = 0;
 
   for (const t of selectedTypes) {
@@ -666,20 +674,20 @@ function generateTest() {
     const pool = shuffle(data[t]).slice(0, Math.min(count, data[t].length));
     pool.forEach((q,i) => {
       const qid = `${t}_${i}`;
-      testQuestions.push({...q, _type: t, _id: qid});
+      practiceQuestions.push({...q, _type: t, _id: qid});
       const marks = t === 'num' ? (q.marks || 3) : (t === 'la' ? 5 : TYPE_INFO[t].marks);
       totalMarks += marks;
     });
   }
 
-  if (!testQuestions.length) { showToast("No questions match the selected test setup"); return; }
+  if (!practiceQuestions.length) { showToast("No questions match the selected practice setup"); return; }
 
   // Sort by type order
   const order = ['mcq','vsa','sa1','sa2','la','num'];
-  testQuestions.sort((a,b) => order.indexOf(a._type) - order.indexOf(b._type));
+  practiceQuestions.sort((a,b) => order.indexOf(a._type) - order.indexOf(b._type));
 
-  document.getElementById('test-title-text').textContent = `Chapter ${currentChapter.num}: ${currentChapter.name}`;
-  document.getElementById('test-meta-text').textContent = `CBSE Class XI Physics`;
+  document.getElementById('practice-title-text').textContent = `Chapter ${currentChapter.num}: ${currentChapter.name}`;
+  document.getElementById('practice-meta-text').textContent = `CBSE Class XI Physics Practice`;
   document.getElementById('stat-marks').textContent = totalMarks;
   document.getElementById('stat-attempted').textContent = '0';
   document.getElementById('score-panel').style.display = 'none';
@@ -693,25 +701,25 @@ function generateTest() {
 
 function renderCurrentQuestion() {
   const container = document.getElementById('questions-container');
-  if (!testQuestions.length) { container.innerHTML = ''; return; }
-  const q = testQuestions[currentQuestionIndex];
+  if (!practiceQuestions.length) { container.innerHTML = ''; return; }
+  const q = practiceQuestions[currentQuestionIndex];
   container.replaceChildren();
   container.insertAdjacentHTML('beforeend', renderQuestion(q, currentQuestionIndex + 1));
   const pos = document.getElementById('cbse-qpos');
-  if (pos) pos.textContent = `Question ${currentQuestionIndex + 1} of ${testQuestions.length}`;
+  if (pos) pos.textContent = `Question ${currentQuestionIndex + 1} of ${practiceQuestions.length}`;
   const prev = document.getElementById('cbse-prev');
   const next = document.getElementById('cbse-next');
   if (prev) prev.disabled = currentQuestionIndex === 0;
   if (next) {
-    next.disabled = currentQuestionIndex === testQuestions.length - 1;
-    next.textContent = currentQuestionIndex === testQuestions.length - 1 ? 'Last Question' : 'Next →';
+    next.disabled = currentQuestionIndex === practiceQuestions.length - 1;
+    next.textContent = currentQuestionIndex === practiceQuestions.length - 1 ? 'Last Question' : 'Next →';
   }
 }
 function cbsePrevQuestion() {
   if (currentQuestionIndex > 0) { currentQuestionIndex--; renderCurrentQuestion(); window.scrollTo({top:0,behavior:'smooth'}); }
 }
 function cbseNextQuestion() {
-  if (currentQuestionIndex < testQuestions.length - 1) { currentQuestionIndex++; renderCurrentQuestion(); window.scrollTo({top:0,behavior:'smooth'}); }
+  if (currentQuestionIndex < practiceQuestions.length - 1) { currentQuestionIndex++; renderCurrentQuestion(); window.scrollTo({top:0,behavior:'smooth'}); }
 }
 
 
@@ -826,17 +834,17 @@ function setMark(id, m, max, btn) {
 
 function updateProgress() {
   const attempted = Object.keys(userAnswers).length + Object.keys(userMarks).length;
-  const total = testQuestions.length;
+  const total = practiceQuestions.length;
   document.getElementById('stat-attempted').textContent = Math.min(attempted, total);
   document.getElementById('progress-bar').style.width = `${Math.min(100, (attempted/total)*100)}%`;
 }
 
 function submitTest() {
-  testSubmitted = true;
+  practiceSubmitted = true;
   let scored = 0;
 
   // MCQ auto-score
-  testQuestions.filter(q => q._type === 'mcq').forEach(q => {
+  practiceQuestions.filter(q => q._type === 'mcq').forEach(q => {
     if (userAnswers[q._id] === q.ans) scored += 1;
   });
 
