@@ -25,7 +25,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 298,
@@ -53,7 +55,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 299,
@@ -81,7 +85,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 300,
@@ -109,7 +115,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 301,
@@ -137,7 +145,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 302,
@@ -165,7 +175,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 303,
@@ -193,7 +205,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 304,
@@ -221,7 +235,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 305,
@@ -249,7 +265,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 306,
@@ -277,7 +295,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 307,
@@ -305,7 +325,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 308,
@@ -333,7 +355,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 310,
@@ -361,7 +385,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 311,
@@ -389,7 +415,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 313,
@@ -417,7 +445,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 314,
@@ -445,7 +475,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 315,
@@ -473,7 +505,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 316,
@@ -501,7 +535,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 317,
@@ -529,7 +565,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 318,
@@ -557,7 +595,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 319,
@@ -585,7 +625,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 320,
@@ -613,7 +655,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 322,
@@ -641,7 +685,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 323,
@@ -669,7 +715,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 324,
@@ -697,7 +745,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 325,
@@ -725,7 +775,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 326,
@@ -753,7 +805,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 327,
@@ -781,7 +835,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 328,
@@ -809,7 +865,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 329,
@@ -837,7 +895,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 330,
@@ -865,7 +925,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 331,
@@ -893,7 +955,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 332,
@@ -921,7 +985,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 333,
@@ -949,7 +1015,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 334,
@@ -977,7 +1045,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 335,
@@ -1005,7 +1075,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 336,
@@ -1033,7 +1105,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 337,
@@ -1061,7 +1135,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 338,
@@ -1089,7 +1165,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 339,
@@ -1117,7 +1195,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 340,
@@ -1145,7 +1225,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 341,
@@ -1173,7 +1255,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 342,
@@ -1201,7 +1285,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 343,
@@ -1229,7 +1315,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 344,
@@ -1257,7 +1345,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 345,
@@ -1285,7 +1375,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 346,
@@ -1313,7 +1405,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 347,
@@ -1336,7 +1430,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 348,
@@ -1359,7 +1455,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 349,
@@ -1382,7 +1480,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 350,
@@ -1405,7 +1505,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 351,
@@ -1428,7 +1530,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 352,
@@ -1451,7 +1555,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 353,
@@ -1474,7 +1580,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 354,
@@ -1497,7 +1605,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 355,
@@ -1520,7 +1630,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 356,
@@ -1543,7 +1655,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 357,
@@ -1566,7 +1680,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 358,
@@ -1589,7 +1705,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 359,
@@ -1612,7 +1730,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 361,
@@ -1635,7 +1755,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 362,
@@ -1658,7 +1780,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 363,
@@ -1681,7 +1805,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 364,
@@ -1704,7 +1830,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 365,
@@ -1727,7 +1855,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 366,
@@ -1750,7 +1880,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 367,
@@ -1773,7 +1905,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 369,
@@ -1796,7 +1930,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 370,
@@ -1819,7 +1955,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 371,
@@ -1842,7 +1980,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 372,
@@ -1865,7 +2005,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 373,
@@ -1888,7 +2030,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 374,
@@ -1911,7 +2055,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 375,
@@ -1934,7 +2080,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 376,
@@ -1957,7 +2105,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 377,
@@ -1980,7 +2130,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 378,
@@ -2003,7 +2155,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 380,
@@ -2026,7 +2180,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 381,
@@ -2049,7 +2205,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 382,
@@ -2072,7 +2230,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 383,
@@ -2095,7 +2255,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 384,
@@ -2118,7 +2280,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 386,
@@ -2141,7 +2305,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 387,
@@ -2164,7 +2330,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 388,
@@ -2187,7 +2355,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 389,
@@ -2210,7 +2380,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 390,
@@ -2233,7 +2405,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 391,
@@ -2256,7 +2430,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 392,
@@ -2279,7 +2455,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 394,
@@ -2302,7 +2480,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 395,
@@ -2325,7 +2505,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 396,
@@ -2348,7 +2530,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 397,
@@ -2371,7 +2555,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 398,
@@ -2393,7 +2579,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 399,
@@ -2415,7 +2603,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 400,
@@ -2437,7 +2627,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 401,
@@ -2459,7 +2651,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 402,
@@ -2481,7 +2675,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 403,
@@ -2503,7 +2699,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 404,
@@ -2525,7 +2723,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 405,
@@ -2547,7 +2747,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 406,
@@ -2569,7 +2771,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 408,
@@ -2591,7 +2795,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 409,
@@ -2613,7 +2819,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 410,
@@ -2635,7 +2843,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 411,
@@ -2657,7 +2867,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 412,
@@ -2679,7 +2891,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 413,
@@ -2701,7 +2915,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 414,
@@ -2723,7 +2939,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 415,
@@ -2745,7 +2963,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 416,
@@ -2767,7 +2987,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 417,
@@ -2789,7 +3011,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 418,
@@ -2811,7 +3035,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 419,
@@ -2833,7 +3059,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 420,
@@ -2855,7 +3083,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 421,
@@ -2877,7 +3107,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 422,
@@ -2899,7 +3131,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 423,
@@ -2921,7 +3155,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 424,
@@ -2943,7 +3179,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 425,
@@ -2965,7 +3203,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 426,
@@ -2987,7 +3227,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 427,
@@ -3009,7 +3251,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 428,
@@ -3031,7 +3275,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 429,
@@ -3053,7 +3299,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 430,
@@ -3075,7 +3323,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 432,
@@ -3097,7 +3347,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 433,
@@ -3119,7 +3371,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 434,
@@ -3141,7 +3395,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 435,
@@ -3163,7 +3419,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 436,
@@ -3185,7 +3443,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 437,
@@ -3207,7 +3467,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 438,
@@ -3229,7 +3491,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 439,
@@ -3251,7 +3515,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 441,
@@ -3273,7 +3539,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 442,
@@ -3295,7 +3563,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 443,
@@ -3317,7 +3587,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 444,
@@ -3339,7 +3611,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 445,
@@ -3361,7 +3635,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 446,
@@ -3383,7 +3659,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 447,
@@ -3405,7 +3683,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 448,
@@ -3429,7 +3709,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 449,
@@ -3454,7 +3736,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 450,
@@ -3478,7 +3762,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 451,
@@ -3503,7 +3789,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 452,
@@ -3527,7 +3815,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 453,
@@ -3551,7 +3841,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 454,
@@ -3575,7 +3867,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 455,
@@ -3599,7 +3893,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 456,
@@ -3624,7 +3920,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 457,
@@ -3648,7 +3946,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 459,
@@ -3672,7 +3972,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 460,
@@ -3696,7 +3998,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 461,
@@ -3720,7 +4024,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 462,
@@ -3744,7 +4050,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 463,
@@ -3769,7 +4077,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 464,
@@ -3793,7 +4103,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 465,
@@ -3817,7 +4129,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 466,
@@ -3841,7 +4155,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 467,
@@ -3866,7 +4182,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 468,
@@ -3890,7 +4208,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 469,
@@ -3914,7 +4234,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 470,
@@ -3939,7 +4261,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 471,
@@ -3964,7 +4288,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 472,
@@ -3988,7 +4314,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 473,
@@ -4013,7 +4341,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 474,
@@ -4038,7 +4368,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 475,
@@ -4062,7 +4394,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 477,
@@ -4086,7 +4420,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 478,
@@ -4111,7 +4447,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 479,
@@ -4136,7 +4474,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 480,
@@ -4160,7 +4500,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 481,
@@ -4184,7 +4526,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 482,
@@ -4208,7 +4552,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 483,
@@ -4232,7 +4578,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 484,
@@ -4256,7 +4604,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 485,
@@ -4280,7 +4630,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 486,
@@ -4305,7 +4657,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 487,
@@ -4329,7 +4683,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 488,
@@ -4354,7 +4710,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 490,
@@ -4378,7 +4736,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 491,
@@ -4403,7 +4763,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 492,
@@ -4428,7 +4790,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 493,
@@ -4453,7 +4817,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 494,
@@ -4478,7 +4844,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "select_response"
+    "examCategory": "select_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 495,
@@ -4502,7 +4870,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 496,
@@ -4526,7 +4896,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "competency_focused"
+    "examCategory": "competency_focused",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 497,
@@ -4549,7 +4921,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 498,
@@ -4572,7 +4946,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 499,
@@ -4595,7 +4971,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 500,
@@ -4618,7 +4996,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 501,
@@ -4641,7 +5021,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 502,
@@ -4664,7 +5046,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 503,
@@ -4687,7 +5071,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 504,
@@ -4710,7 +5096,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 505,
@@ -4733,7 +5121,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 506,
@@ -4756,7 +5146,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 507,
@@ -4779,7 +5171,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 508,
@@ -4802,7 +5196,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 509,
@@ -4825,7 +5221,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 510,
@@ -4848,7 +5246,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 511,
@@ -4871,7 +5271,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 512,
@@ -4894,7 +5296,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 513,
@@ -4917,7 +5321,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 514,
@@ -4940,7 +5346,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 515,
@@ -4963,7 +5371,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 516,
@@ -4986,7 +5396,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 517,
@@ -5009,7 +5421,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 518,
@@ -5032,7 +5446,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 519,
@@ -5055,7 +5471,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 520,
@@ -5078,7 +5496,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 521,
@@ -5101,7 +5521,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 522,
@@ -5124,7 +5546,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 523,
@@ -5147,7 +5571,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 524,
@@ -5170,7 +5596,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 525,
@@ -5193,7 +5621,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 527,
@@ -5216,7 +5646,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 528,
@@ -5239,7 +5671,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 529,
@@ -5262,7 +5696,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 530,
@@ -5285,7 +5721,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 531,
@@ -5308,7 +5746,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 532,
@@ -5331,7 +5771,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 533,
@@ -5354,7 +5796,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 534,
@@ -5377,7 +5821,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 535,
@@ -5400,7 +5846,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 536,
@@ -5423,7 +5871,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 537,
@@ -5446,7 +5896,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 538,
@@ -5469,7 +5921,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 539,
@@ -5492,7 +5946,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 540,
@@ -5515,7 +5971,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 541,
@@ -5538,7 +5996,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 542,
@@ -5561,7 +6021,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 543,
@@ -5584,7 +6046,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 544,
@@ -5607,7 +6071,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 545,
@@ -5629,7 +6095,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 546,
@@ -5651,7 +6119,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 547,
@@ -5673,7 +6143,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 548,
@@ -5695,7 +6167,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 549,
@@ -5717,7 +6191,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 550,
@@ -5739,7 +6215,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 551,
@@ -5761,7 +6239,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 552,
@@ -5783,7 +6263,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 553,
@@ -5805,7 +6287,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 554,
@@ -5827,7 +6311,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 555,
@@ -5849,7 +6335,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 556,
@@ -5871,7 +6359,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 557,
@@ -5893,7 +6383,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 558,
@@ -5915,7 +6407,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 560,
@@ -5937,7 +6431,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 562,
@@ -5959,7 +6455,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 563,
@@ -5981,7 +6479,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 564,
@@ -6003,7 +6503,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 565,
@@ -6025,7 +6527,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 566,
@@ -6047,7 +6551,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 567,
@@ -6069,7 +6575,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 568,
@@ -6091,7 +6599,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 569,
@@ -6113,7 +6623,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 570,
@@ -6135,7 +6647,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 571,
@@ -6157,7 +6671,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "higher_order",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 572,
@@ -6179,7 +6695,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "knowledge_understanding",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 573,
@@ -6201,7 +6719,9 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   },
   {
     "id": 574,
@@ -6223,6 +6743,8 @@
     "alignmentVersion": "CBSE 2026-27",
     "verified": false,
     "lastReviewed": "2026-10-05",
-    "examCategory": "constructed_response"
+    "examCategory": "constructed_response",
+    "examCompetency": "application",
+    "paperDesignVersion": "CBSE Science 2026-27"
   }
 ]
