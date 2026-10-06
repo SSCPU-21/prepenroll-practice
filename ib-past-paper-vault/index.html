@@ -37,7 +37,7 @@ main{padding:26px 30px 40px;min-width:0}.hero{display:flex;justify-content:space
 <div class="app">
 <header>
 <div class="wordmark"><div class="mark">P</div><div><div class="brandname">Prep<span>enroll</span>™</div><div class="subbrand">1:1 TUTORING · IB PHYSICS</div></div></div>
-<div class="headright"><button id="addBtn" class="primary">+ Add past-paper reference</button><div class="settings"><button id="settingsBtn" class="ghost">Settings ···</button><div id="settingsMenu" class="menu"><button id="exportBtn">Backup data</button><label>Restore backup<input id="importFile" type="file" accept=".json" hidden></label><button id="clearBtn">Clear local references</button></div></div></div>
+<div class="headright"><button id="downloadTopicBtn" class="ghost">Download Topic Index PDF</button><button id="addBtn" class="primary">+ Add past-paper reference</button><div class="settings"><button id="settingsBtn" class="ghost">Settings ···</button><div id="settingsMenu" class="menu"><button id="exportBtn">Backup data</button><label>Restore backup<input id="importFile" type="file" accept=".json" hidden></label><button id="clearBtn">Clear local references</button></div></div></div>
 </header>
 <div class="shell">
 <aside>
@@ -98,7 +98,8 @@ $('detail').innerHTML=
 '<div class="info"><span>Time zone</span><b>'+(r.timezone||'—')+'</b></div>'+
 '<div class="info"><span>Current topic</span><b>'+(r.topic||'—')+'</b></div>'+
 '<div class="info"><span>Paper</span><b>'+(r.paper||'—')+'</b></div>'+
-'<div class="info"><span>Locator</span><b>'+(r.question||'—')+'</b></div></div>'+
+'<div class="info"><span>Locator</span><b>'+(r.question||'—')+'</b></div><div class="info"><span>PDF page</span><b>'+(r.page||'—')+'</b></div></div>'+
+(r.sourceFile?'<div class="noteBox"><h3>Source file</h3><p>'+r.sourceFile+(r.page?' · PDF page '+r.page:'')+'</p></div>':'')+
 (r.notes?'<div class="noteBox"><h3>Reference note</h3><p>'+r.notes+'</p></div>':'')+
 '<div class="links">'+
 (paperUrl?'<a target="_blank" class="linkbtn primarylink" href="'+paperUrl+'">Open DynamicRepo source</a>':'')+
@@ -123,6 +124,15 @@ window.delRef=id=>{local=local.filter(x=>x.id!==id);selectedId=null;save()};
 $('exportBtn').onclick=()=>{const b=new Blob([JSON.stringify(local,null,2)],{type:'application/json'}),u=URL.createObjectURL(b),a=document.createElement('a');a.href=u;a.download='ib-physics-vault-backup.json';a.click();URL.revokeObjectURL(u)};
 $('importFile').onchange=e=>{const f=e.target.files[0];if(!f)return;const rd=new FileReader();rd.onload=()=>{try{const x=JSON.parse(rd.result);if(!Array.isArray(x))throw 0;local=x.map(r=>({...r,_local:true,id:r.id||'L'+Math.random().toString(36).slice(2)}));selectedId=null;save()}catch(_){alert('Invalid backup file')}};rd.readAsText(f)};
 $('clearBtn').onclick=()=>{if(confirm('Clear only locally stored references from this browser?')){local=[];selectedId=null;save()}};
+$('downloadTopicBtn').onclick=()=>{
+  const rows=all.filter(filt);
+  if(!rows.length){alert('No mapped references in the current selection.');return}
+  const title=activeTopic?(activeTopic+' '+(TOPICS[activeTopic]||'')):'Current selection';
+  const win=window.open('','_blank');
+  const body=rows.map(r=>'<tr><td>'+r.year+'</td><td>'+r.session+'</td><td>'+r.level+'</td><td>'+r.paper+'</td><td>'+(r.timezone||'')+'</td><td>'+r.question+'</td><td>'+(r.page||'')+'</td><td>'+r.topic+' '+(TOPICS[r.topic]||'')+'</td><td>'+(r.notes||'')+'</td></tr>').join('');
+  win.document.write('<!doctype html><html><head><title>'+title+' - Prepenroll</title><style>body{font-family:Arial,sans-serif;color:#102a43;padding:28px}h1{margin:0 0 6px;font-size:24px}p{color:#60758a}table{width:100%;border-collapse:collapse;margin-top:18px;font-size:11px}th,td{border:1px solid #d9e2ec;padding:7px;text-align:left;vertical-align:top}th{background:#eef4f8}@page{size:A4 landscape;margin:12mm}</style></head><body><h1>Prepenroll™ · IB Physics Topic Index</h1><p>'+title+' · '+rows.length+' mapped references</p><table><thead><tr><th>Year</th><th>Session</th><th>Level</th><th>Paper</th><th>TZ</th><th>Question</th><th>PDF page</th><th>Topic</th><th>Locator note</th></tr></thead><tbody>'+body+'</tbody></table><script>window.onload=()=>window.print()<\/script></body></html>');
+  win.document.close();
+};
 render();
 </script>
 </body></html>
