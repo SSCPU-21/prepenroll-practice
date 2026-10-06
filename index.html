@@ -95,7 +95,7 @@ h1 .grad{
 .section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:24px}
 .section-head h2{margin:8px 0 0;font-size:38px;letter-spacing:-.045em;color:var(--navy)}
 .section-head p{max-width:520px;margin:0;color:var(--muted);font-size:14px;line-height:1.65}
-.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
 .card{
   position:relative;min-height:244px;border-radius:24px;padding:24px;display:flex;flex-direction:column;justify-content:space-between;
   border:1px solid rgba(24,35,63,.08);overflow:hidden;transition:.24s ease;
@@ -189,13 +189,13 @@ footer strong,footer a{color:var(--navy)}
     <div class="ticker-item"><b>LIVE</b> IB Physics SL & HL</div>
     <div class="ticker-item"><b>LIVE</b> AP Physics 1</div>
     <div class="ticker-item"><b>NEXT</b> GCSE Physics</div>
-    <div class="ticker-item"><b>NEXT</b> A / AS Level Physics</div>
+    <div class="ticker-item"><b>LIVE</b> A / AS Level Physics</div>
     <div class="ticker-item"><b>LIVE</b> CBSE Physics</div>
     <div class="ticker-item"><b>LIVE</b> IGCSE Physics 0625</div>
     <div class="ticker-item"><b>LIVE</b> IB Physics SL & HL</div>
     <div class="ticker-item"><b>LIVE</b> AP Physics 1</div>
     <div class="ticker-item"><b>NEXT</b> GCSE Physics</div>
-    <div class="ticker-item"><b>NEXT</b> A / AS Level Physics</div>
+    <div class="ticker-item"><b>LIVE</b> A / AS Level Physics</div>
     <div class="ticker-item"><b>LIVE</b> CBSE Physics</div>
   </div>
 </div>
@@ -242,6 +242,24 @@ footer strong,footer a{color:var(--navy)}
       </div>
       <div class="card-link"><span>Open Studio</span><span>→</span></div>
     </a>
+
+    <a class="card c1" href="/prepenroll-practice/a-level-physics/">
+      <div>
+        <div class="topline"><span class="tag">A Level</span><span class="pill live">Live</span></div>
+        <h3>A Level Physics</h3>
+        <p>Board-specific Physics structure for Cambridge International, Pearson Edexcel and OCR.</p>
+      </div>
+      <div class="card-link"><span>Open Studio</span><span>→</span></div>
+    </a>
+
+    <a class="card c2" href="/prepenroll-practice/as-level-physics/">
+      <div>
+        <div class="topline"><span class="tag">AS Level</span><span class="pill live">Live</span></div>
+        <h3>AS Level Physics</h3>
+        <p>AS Physics practice structure for Cambridge International, Pearson Edexcel and OCR.</p>
+      </div>
+      <div class="card-link"><span>Open Studio</span><span>→</span></div>
+    </a>
   </div>
 
   <div class="rail-wrap">
@@ -265,7 +283,6 @@ footer strong,footer a{color:var(--navy)}
   </div>
   <div class="coming-grid">
     <div class="coming"><div class="topline"><span class="tag">GCSE</span><span class="pill soon">Coming Soon</span></div><h3>Physics</h3><p>Curriculum-based GCSE Physics practice.</p></div>
-    <div class="coming"><div class="topline"><span class="tag">A / AS Level</span><span class="pill soon">Coming Soon</span></div><h3>Physics</h3><p>Topic and paper-based A Level / AS Level practice.</p></div>
 
   </div>
 </section>
