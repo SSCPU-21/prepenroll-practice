@@ -97,7 +97,7 @@ T(3,"An open-open pipe of length L supports sound standing waves.",[
 {q:"Explain why the same frequency pattern as a fixed-fixed string can occur despite different end conditions.",m:1,ms:["both ends have identical boundary type, allowing integer half-wavelengths"]}]);
 T(4,"A closed-open pipe has length L.",[
 {q:"State the displacement conditions at the closed end and at the open end.",m:1,ms:["node at closed end, antinode at open end"]},
-{q:"Write the fundamental wavelength for the closed-open air column.",m:1,ms:["4L"]},
+{q:"For the quarter-wave fundamental of the closed-open pipe, express λ₁ in terms of L.",m:1,ms:["4L"]},
 {q:"State the allowed frequency sequence.",m:1,ms:["odd multiples of f1"]},
 {q:"Explain why even harmonics are excluded.",m:1,ms:["they cannot satisfy node-antinode boundary conditions simultaneously"]}]);
 T(5,"A driven oscillator exhibits resonance.",[
