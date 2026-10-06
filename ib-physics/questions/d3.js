@@ -35,7 +35,7 @@ P(1,"A beam of singly charged ions travels perpendicular to a uniform magnetic f
 {q:"Explain why magnetic force does not change the speed.",m:1,ms:["force is perpendicular to velocity"]}]);
 P(2,"Identical ions enter fields of different magnetic flux density with the same perpendicular speed.",["B / T","r / cm"],[[0.20,8.0],[0.40,4.0],[0.80,2.0],[1.00,1.6]],[
 {q:"State the r-B relationship.",m:1,ms:["r is proportional to 1/B"]},
-{q:"Suggest a linearizing graph.",m:1,ms:["r against 1/B"]},
+{q:"Identify transformed axes that would directly test the inverse B dependence.",m:1,ms:["r against 1/B"]},
 {q:"Predict r at 0.50 T.",m:1,ms:["about 3.2 cm"]},
 {q:"State one condition needed for this model.",m:1,ms:["velocity must be perpendicular to B / non-relativistic motion"]}]);
 P(3,"A charged particle is accelerated from rest through different potential differences before entering fixed B.",["V / V","r² / cm²"],[[100,4.0],[200,8.0],[300,12.0],[500,20.0]],[
@@ -70,7 +70,7 @@ P(8,"A particle enters B with a fixed total speed but varying angle θ to the fi
 {q:"State the path at θ=0°.",m:1,ms:["straight line along B"]}]);
 P(9,"A positive ion is accelerated from rest through a potential difference before entering uniform B.",["V / kV","v / 10⁵ m s⁻¹"],[[1,1.0],[4,2.0],[9,3.0],[16,4.0]],[
 {q:"Describe the relationship between v and V.",m:1,ms:["v is proportional to √V"]},
-{q:"Suggest a linearizing graph.",m:1,ms:["v² against V"]},
+{q:"Choose a graph that would test the predicted square-root speed relation.",m:1,ms:["v² against V"]},
 {q:"State the physical basis for the relation.",m:1,ms:["qV=½mv²"]},
 {q:"Predict v at 25 kV.",m:1,ms:["5.0×10⁵ m s⁻¹"]}]);
 P(10,"A mass spectrometer records analyzer radius for ions selected to the same speed.",["m/q / arbitrary units","r / cm"],[[1,2.0],[2,4.0],[3,6.0],[4,8.0]],[
