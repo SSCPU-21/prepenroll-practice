@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 2 Ω has 12 V across it. Current?",
+    "options": [
+      "6 A",
+      "24 A",
+      "0.17 A",
+      "14 A"
+    ],
+    "answer_index": 0,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4 Ω are in series. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "12 Ω",
+      "1 Ω",
+      "7 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "20 Ω",
+      "0.45 Ω",
+      "2.22 Ω",
+      "9 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16 V and 5 A. Power?",
+    "options": [
+      "21 W",
+      "80 W",
+      "3.2 W",
+      "0.31 W"
+    ],
+    "answer_index": 1,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "electric charge",
+      "energy only",
+      "momentum",
+      "mass density"
+    ],
+    "answer_index": 0,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 7 Ω has 22 V across it. Current?",
+    "options": [
+      "154 A",
+      "0.32 A",
+      "29 A",
+      "3.14 A"
+    ],
+    "answer_index": 3,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 5 Ω are in series. Equivalent resistance?",
+    "options": [
+      "15 Ω",
+      "2 Ω",
+      "8 Ω",
+      "1.88 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.42 Ω",
+      "2.4 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14 V and 2 A. Power?",
+    "options": [
+      "28 W",
+      "7 W",
+      "0.14 W",
+      "16 W"
+    ],
+    "answer_index": 0,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "energy only",
+      "momentum",
+      "mass density",
+      "electric charge"
+    ],
+    "answer_index": 3,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 6 Ω has 18 V across it. Current?",
+    "options": [
+      "0.33 A",
+      "24 A",
+      "3 A",
+      "108 A"
+    ],
+    "answer_index": 2,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 6 Ω are in series. Equivalent resistance?",
+    "options": [
+      "3 Ω",
+      "9 Ω",
+      "2 Ω",
+      "18 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "7 Ω",
+      "12 Ω",
+      "0.58 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12 V and 3 A. Power?",
+    "options": [
+      "4 W",
+      "0.25 W",
+      "15 W",
+      "36 W"
+    ],
+    "answer_index": 3,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "momentum",
+      "mass density",
+      "electric charge",
+      "energy only"
+    ],
+    "answer_index": 2,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 5 Ω has 14 V across it. Current?",
+    "options": [
+      "19 A",
+      "2.8 A",
+      "70 A",
+      "0.36 A"
+    ],
+    "answer_index": 1,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 3 Ω are in series. Equivalent resistance?",
+    "options": [
+      "6 Ω",
+      "1.5 Ω",
+      "9 Ω",
+      "0 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "8 Ω",
+      "16 Ω",
+      "0.5 Ω",
+      "2 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 10 V and 4 A. Power?",
+    "options": [
+      "0.4 W",
+      "14 W",
+      "40 W",
+      "2.5 W"
+    ],
+    "answer_index": 2,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "mass density",
+      "electric charge",
+      "energy only",
+      "momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 4 Ω has 24 V across it. Current?",
+    "options": [
+      "6 A",
+      "96 A",
+      "0.17 A",
+      "28 A"
+    ],
+    "answer_index": 0,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4 Ω are in series. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "12 Ω",
+      "1 Ω",
+      "7 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "20 Ω",
+      "0.45 Ω",
+      "2.22 Ω",
+      "9 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20 V and 5 A. Power?",
+    "options": [
+      "25 W",
+      "100 W",
+      "4 W",
+      "0.25 W"
+    ],
+    "answer_index": 1,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "electric charge",
+      "energy only",
+      "momentum",
+      "mass density"
+    ],
+    "answer_index": 0,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 3 Ω has 20 V across it. Current?",
+    "options": [
+      "60 A",
+      "0.15 A",
+      "23 A",
+      "6.67 A"
+    ],
+    "answer_index": 3,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 5 Ω are in series. Equivalent resistance?",
+    "options": [
+      "15 Ω",
+      "2 Ω",
+      "8 Ω",
+      "1.88 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.42 Ω",
+      "2.4 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18 V and 2 A. Power?",
+    "options": [
+      "36 W",
+      "9 W",
+      "0.11 W",
+      "20 W"
+    ],
+    "answer_index": 0,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "energy only",
+      "momentum",
+      "mass density",
+      "electric charge"
+    ],
+    "answer_index": 3,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 2 Ω has 16 V across it. Current?",
+    "options": [
+      "0.13 A",
+      "18 A",
+      "8 A",
+      "32 A"
+    ],
+    "answer_index": 2,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 6 Ω are in series. Equivalent resistance?",
+    "options": [
+      "3 Ω",
+      "9 Ω",
+      "2 Ω",
+      "18 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "7 Ω",
+      "12 Ω",
+      "0.58 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16 V and 3 A. Power?",
+    "options": [
+      "5.33 W",
+      "0.19 W",
+      "19 W",
+      "48 W"
+    ],
+    "answer_index": 3,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "momentum",
+      "mass density",
+      "electric charge",
+      "energy only"
+    ],
+    "answer_index": 2,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 7 Ω has 12 V across it. Current?",
+    "options": [
+      "19 A",
+      "1.71 A",
+      "84 A",
+      "0.58 A"
+    ],
+    "answer_index": 1,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 3 Ω are in series. Equivalent resistance?",
+    "options": [
+      "6 Ω",
+      "1.5 Ω",
+      "9 Ω",
+      "0 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "8 Ω",
+      "16 Ω",
+      "0.5 Ω",
+      "2 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14 V and 4 A. Power?",
+    "options": [
+      "0.29 W",
+      "18 W",
+      "56 W",
+      "3.5 W"
+    ],
+    "answer_index": 2,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "mass density",
+      "electric charge",
+      "energy only",
+      "momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 6 Ω has 22 V across it. Current?",
+    "options": [
+      "3.67 A",
+      "132 A",
+      "0.27 A",
+      "28 A"
+    ],
+    "answer_index": 0,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4 Ω are in series. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "12 Ω",
+      "1 Ω",
+      "7 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "20 Ω",
+      "0.45 Ω",
+      "2.22 Ω",
+      "9 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12 V and 5 A. Power?",
+    "options": [
+      "17 W",
+      "60 W",
+      "2.4 W",
+      "0.42 W"
+    ],
+    "answer_index": 1,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "electric charge",
+      "energy only",
+      "momentum",
+      "mass density"
+    ],
+    "answer_index": 0,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 5 Ω has 18 V across it. Current?",
+    "options": [
+      "90 A",
+      "0.28 A",
+      "23 A",
+      "3.6 A"
+    ],
+    "answer_index": 3,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 5 Ω are in series. Equivalent resistance?",
+    "options": [
+      "15 Ω",
+      "2 Ω",
+      "8 Ω",
+      "1.88 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.42 Ω",
+      "2.4 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 10 V and 2 A. Power?",
+    "options": [
+      "20 W",
+      "5 W",
+      "0.2 W",
+      "12 W"
+    ],
+    "answer_index": 0,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "energy only",
+      "momentum",
+      "mass density",
+      "electric charge"
+    ],
+    "answer_index": 3,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 4 Ω has 14 V across it. Current?",
+    "options": [
+      "0.29 A",
+      "18 A",
+      "3.5 A",
+      "56 A"
+    ],
+    "answer_index": 2,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 6 Ω are in series. Equivalent resistance?",
+    "options": [
+      "3 Ω",
+      "9 Ω",
+      "2 Ω",
+      "18 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "7 Ω",
+      "12 Ω",
+      "0.58 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20 V and 3 A. Power?",
+    "options": [
+      "6.67 W",
+      "0.15 W",
+      "23 W",
+      "60 W"
+    ],
+    "answer_index": 3,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "momentum",
+      "mass density",
+      "electric charge",
+      "energy only"
+    ],
+    "answer_index": 2,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 3 Ω has 24 V across it. Current?",
+    "options": [
+      "27 A",
+      "8 A",
+      "72 A",
+      "0.13 A"
+    ],
+    "answer_index": 1,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 3 Ω are in series. Equivalent resistance?",
+    "options": [
+      "6 Ω",
+      "1.5 Ω",
+      "9 Ω",
+      "0 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "8 Ω",
+      "16 Ω",
+      "0.5 Ω",
+      "2 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18 V and 4 A. Power?",
+    "options": [
+      "0.22 W",
+      "22 W",
+      "72 W",
+      "4.5 W"
+    ],
+    "answer_index": 2,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "mass density",
+      "electric charge",
+      "energy only",
+      "momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 2 Ω has 20 V across it. Current?",
+    "options": [
+      "10 A",
+      "40 A",
+      "0.1 A",
+      "22 A"
+    ],
+    "answer_index": 0,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4 Ω are in series. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "12 Ω",
+      "1 Ω",
+      "7 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "20 Ω",
+      "0.45 Ω",
+      "2.22 Ω",
+      "9 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16 V and 5 A. Power?",
+    "options": [
+      "21 W",
+      "80 W",
+      "3.2 W",
+      "0.31 W"
+    ],
+    "answer_index": 1,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "electric charge",
+      "energy only",
+      "momentum",
+      "mass density"
+    ],
+    "answer_index": 0,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 7 Ω has 16 V across it. Current?",
+    "options": [
+      "112 A",
+      "0.44 A",
+      "23 A",
+      "2.29 A"
+    ],
+    "answer_index": 3,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 5 Ω are in series. Equivalent resistance?",
+    "options": [
+      "15 Ω",
+      "2 Ω",
+      "8 Ω",
+      "1.88 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.42 Ω",
+      "2.4 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14 V and 2 A. Power?",
+    "options": [
+      "28 W",
+      "7 W",
+      "0.14 W",
+      "16 W"
+    ],
+    "answer_index": 0,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "energy only",
+      "momentum",
+      "mass density",
+      "electric charge"
+    ],
+    "answer_index": 3,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 6 Ω has 12 V across it. Current?",
+    "options": [
+      "0.5 A",
+      "18 A",
+      "2 A",
+      "72 A"
+    ],
+    "answer_index": 2,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 6 Ω are in series. Equivalent resistance?",
+    "options": [
+      "3 Ω",
+      "9 Ω",
+      "2 Ω",
+      "18 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "7 Ω",
+      "12 Ω",
+      "0.58 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12 V and 3 A. Power?",
+    "options": [
+      "4 W",
+      "0.25 W",
+      "15 W",
+      "36 W"
+    ],
+    "answer_index": 3,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "momentum",
+      "mass density",
+      "electric charge",
+      "energy only"
+    ],
+    "answer_index": 2,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 5 Ω has 22 V across it. Current?",
+    "options": [
+      "27 A",
+      "4.4 A",
+      "110 A",
+      "0.23 A"
+    ],
+    "answer_index": 1,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 3 Ω are in series. Equivalent resistance?",
+    "options": [
+      "6 Ω",
+      "1.5 Ω",
+      "9 Ω",
+      "0 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "8 Ω",
+      "16 Ω",
+      "0.5 Ω",
+      "2 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 10 V and 4 A. Power?",
+    "options": [
+      "0.4 W",
+      "14 W",
+      "40 W",
+      "2.5 W"
+    ],
+    "answer_index": 2,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "mass density",
+      "electric charge",
+      "energy only",
+      "momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 4 Ω has 18 V across it. Current?",
+    "options": [
+      "4.5 A",
+      "72 A",
+      "0.22 A",
+      "22 A"
+    ],
+    "answer_index": 0,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4 Ω are in series. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "12 Ω",
+      "1 Ω",
+      "7 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "20 Ω",
+      "0.45 Ω",
+      "2.22 Ω",
+      "9 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20 V and 5 A. Power?",
+    "options": [
+      "25 W",
+      "100 W",
+      "4 W",
+      "0.25 W"
+    ],
+    "answer_index": 1,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "electric charge",
+      "energy only",
+      "momentum",
+      "mass density"
+    ],
+    "answer_index": 0,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 3 Ω has 14 V across it. Current?",
+    "options": [
+      "42 A",
+      "0.21 A",
+      "17 A",
+      "4.67 A"
+    ],
+    "answer_index": 3,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 5 Ω are in series. Equivalent resistance?",
+    "options": [
+      "15 Ω",
+      "2 Ω",
+      "8 Ω",
+      "1.88 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.42 Ω",
+      "2.4 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18 V and 2 A. Power?",
+    "options": [
+      "36 W",
+      "9 W",
+      "0.11 W",
+      "20 W"
+    ],
+    "answer_index": 0,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "energy only",
+      "momentum",
+      "mass density",
+      "electric charge"
+    ],
+    "answer_index": 3,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 2 Ω has 24 V across it. Current?",
+    "options": [
+      "0.08 A",
+      "26 A",
+      "12 A",
+      "48 A"
+    ],
+    "answer_index": 2,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 6 Ω are in series. Equivalent resistance?",
+    "options": [
+      "3 Ω",
+      "9 Ω",
+      "2 Ω",
+      "18 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "7 Ω",
+      "12 Ω",
+      "0.58 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16 V and 3 A. Power?",
+    "options": [
+      "5.33 W",
+      "0.19 W",
+      "19 W",
+      "48 W"
+    ],
+    "answer_index": 3,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "momentum",
+      "mass density",
+      "electric charge",
+      "energy only"
+    ],
+    "answer_index": 2,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 7 Ω has 20 V across it. Current?",
+    "options": [
+      "27 A",
+      "2.86 A",
+      "140 A",
+      "0.35 A"
+    ],
+    "answer_index": 1,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 3 Ω are in series. Equivalent resistance?",
+    "options": [
+      "6 Ω",
+      "1.5 Ω",
+      "9 Ω",
+      "0 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "8 Ω",
+      "16 Ω",
+      "0.5 Ω",
+      "2 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14 V and 4 A. Power?",
+    "options": [
+      "0.29 W",
+      "18 W",
+      "56 W",
+      "3.5 W"
+    ],
+    "answer_index": 2,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "mass density",
+      "electric charge",
+      "energy only",
+      "momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 6 Ω has 16 V across it. Current?",
+    "options": [
+      "2.67 A",
+      "96 A",
+      "0.38 A",
+      "22 A"
+    ],
+    "answer_index": 0,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4 Ω are in series. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "12 Ω",
+      "1 Ω",
+      "7 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "20 Ω",
+      "0.45 Ω",
+      "2.22 Ω",
+      "9 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12 V and 5 A. Power?",
+    "options": [
+      "17 W",
+      "60 W",
+      "2.4 W",
+      "0.42 W"
+    ],
+    "answer_index": 1,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "electric charge",
+      "energy only",
+      "momentum",
+      "mass density"
+    ],
+    "answer_index": 0,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 5 Ω has 12 V across it. Current?",
+    "options": [
+      "60 A",
+      "0.42 A",
+      "17 A",
+      "2.4 A"
+    ],
+    "answer_index": 3,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 5 Ω are in series. Equivalent resistance?",
+    "options": [
+      "15 Ω",
+      "2 Ω",
+      "8 Ω",
+      "1.88 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.42 Ω",
+      "2.4 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 10 V and 2 A. Power?",
+    "options": [
+      "20 W",
+      "5 W",
+      "0.2 W",
+      "12 W"
+    ],
+    "answer_index": 0,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "energy only",
+      "momentum",
+      "mass density",
+      "electric charge"
+    ],
+    "answer_index": 3,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 4 Ω has 22 V across it. Current?",
+    "options": [
+      "0.18 A",
+      "26 A",
+      "5.5 A",
+      "88 A"
+    ],
+    "answer_index": 2,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 6 Ω are in series. Equivalent resistance?",
+    "options": [
+      "3 Ω",
+      "9 Ω",
+      "2 Ω",
+      "18 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "7 Ω",
+      "12 Ω",
+      "0.58 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20 V and 3 A. Power?",
+    "options": [
+      "6.67 W",
+      "0.15 W",
+      "23 W",
+      "60 W"
+    ],
+    "answer_index": 3,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "momentum",
+      "mass density",
+      "electric charge",
+      "energy only"
+    ],
+    "answer_index": 2,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 3 Ω has 18 V across it. Current?",
+    "options": [
+      "21 A",
+      "6 A",
+      "54 A",
+      "0.17 A"
+    ],
+    "answer_index": 1,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 3 Ω are in series. Equivalent resistance?",
+    "options": [
+      "6 Ω",
+      "1.5 Ω",
+      "9 Ω",
+      "0 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "8 Ω",
+      "16 Ω",
+      "0.5 Ω",
+      "2 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18 V and 4 A. Power?",
+    "options": [
+      "0.22 W",
+      "22 W",
+      "72 W",
+      "4.5 W"
+    ],
+    "answer_index": 2,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "mass density",
+      "electric charge",
+      "energy only",
+      "momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 2 Ω has 14 V across it. Current?",
+    "options": [
+      "7 A",
+      "28 A",
+      "0.14 A",
+      "16 A"
+    ],
+    "answer_index": 0,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4 Ω are in series. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "12 Ω",
+      "1 Ω",
+      "7 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "20 Ω",
+      "0.45 Ω",
+      "2.22 Ω",
+      "9 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16 V and 5 A. Power?",
+    "options": [
+      "21 W",
+      "80 W",
+      "3.2 W",
+      "0.31 W"
+    ],
+    "answer_index": 1,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "electric charge",
+      "energy only",
+      "momentum",
+      "mass density"
+    ],
+    "answer_index": 0,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 7 Ω has 24 V across it. Current?",
+    "options": [
+      "168 A",
+      "0.29 A",
+      "31 A",
+      "3.43 A"
+    ],
+    "answer_index": 3,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 5 Ω are in series. Equivalent resistance?",
+    "options": [
+      "15 Ω",
+      "2 Ω",
+      "8 Ω",
+      "1.88 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.42 Ω",
+      "2.4 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14 V and 2 A. Power?",
+    "options": [
+      "28 W",
+      "7 W",
+      "0.14 W",
+      "16 W"
+    ],
+    "answer_index": 0,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "energy only",
+      "momentum",
+      "mass density",
+      "electric charge"
+    ],
+    "answer_index": 3,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 6 Ω has 20 V across it. Current?",
+    "options": [
+      "0.3 A",
+      "26 A",
+      "3.33 A",
+      "120 A"
+    ],
+    "answer_index": 2,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 6 Ω are in series. Equivalent resistance?",
+    "options": [
+      "3 Ω",
+      "9 Ω",
+      "2 Ω",
+      "18 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "7 Ω",
+      "12 Ω",
+      "0.58 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12 V and 3 A. Power?",
+    "options": [
+      "4 W",
+      "0.25 W",
+      "15 W",
+      "36 W"
+    ],
+    "answer_index": 3,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "momentum",
+      "mass density",
+      "electric charge",
+      "energy only"
+    ],
+    "answer_index": 2,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 5 Ω has 16 V across it. Current?",
+    "options": [
+      "21 A",
+      "3.2 A",
+      "80 A",
+      "0.31 A"
+    ],
+    "answer_index": 1,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 3 Ω are in series. Equivalent resistance?",
+    "options": [
+      "6 Ω",
+      "1.5 Ω",
+      "9 Ω",
+      "0 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "8 Ω",
+      "16 Ω",
+      "0.5 Ω",
+      "2 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 10 V and 4 A. Power?",
+    "options": [
+      "0.4 W",
+      "14 W",
+      "40 W",
+      "2.5 W"
+    ],
+    "answer_index": 2,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "mass density",
+      "electric charge",
+      "energy only",
+      "momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 4 Ω has 12 V across it. Current?",
+    "options": [
+      "3 A",
+      "48 A",
+      "0.33 A",
+      "16 A"
+    ],
+    "answer_index": 0,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4 Ω are in series. Equivalent resistance?",
+    "options": [
+      "1.71 Ω",
+      "12 Ω",
+      "1 Ω",
+      "7 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "20 Ω",
+      "0.45 Ω",
+      "2.22 Ω",
+      "9 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20 V and 5 A. Power?",
+    "options": [
+      "25 W",
+      "100 W",
+      "4 W",
+      "0.25 W"
+    ],
+    "answer_index": 1,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "electric charge",
+      "energy only",
+      "momentum",
+      "mass density"
+    ],
+    "answer_index": 0,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A resistor 3 Ω has 22 V across it. Current?",
+    "options": [
+      "66 A",
+      "0.14 A",
+      "25 A",
+      "7.33 A"
+    ],
+    "answer_index": 3,
+    "explanation": "Ohm's law: I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 5 Ω are in series. Equivalent resistance?",
+    "options": [
+      "15 Ω",
+      "2 Ω",
+      "8 Ω",
+      "1.88 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Series resistances add."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.42 Ω",
+      "2.4 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "For two parallel resistors, Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18 V and 2 A. Power?",
+    "options": [
+      "36 W",
+      "9 W",
+      "0.11 W",
+      "20 W"
+    ],
+    "answer_index": 0,
+    "explanation": "Electrical power P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kirchhoff's junction rule follows from conservation of:",
+    "options": [
+      "energy only",
+      "momentum",
+      "mass density",
+      "electric charge"
+    ],
+    "answer_index": 3,
+    "explanation": "Current entering and leaving a junction balances because charge is conserved."
+  }
+]
