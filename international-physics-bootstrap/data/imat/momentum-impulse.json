@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 2 kg body moving at 3 m/s?",
+    "options": [
+      "6 kg·m/s",
+      "5 kg·m/s",
+      "1.5 kg·m/s",
+      "18 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 15 N acts for 2 s. Impulse?",
+    "options": [
+      "17 N·s",
+      "7.5 N·s",
+      "60 N·s",
+      "30 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 6 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "12 kg·m/s",
+      "3 kg·m/s",
+      "-12 kg·m/s",
+      "36 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Δp = m(v-u) = -12 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "mechanical power",
+      "total momentum",
+      "kinetic energy",
+      "speed of each body"
+    ],
+    "answer_index": 1,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body at 7 m/s sticks to a stationary 1 kg body. Final common speed?",
+    "options": [
+      "4.67 m/s",
+      "10.5 m/s",
+      "3.5 m/s",
+      "21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 7 kg body moving at 8 m/s?",
+    "options": [
+      "15 kg·m/s",
+      "1.14 kg·m/s",
+      "448 kg·m/s",
+      "56 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 40 N acts for 2 s. Impulse?",
+    "options": [
+      "20 N·s",
+      "160 N·s",
+      "80 N·s",
+      "42 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 4 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "2 kg·m/s",
+      "-8 kg·m/s",
+      "24 kg·m/s",
+      "8 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Δp = m(v-u) = -8 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "total momentum",
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power"
+    ],
+    "answer_index": 0,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 7 m/s sticks to a stationary 2 kg body. Final common speed?",
+    "options": [
+      "11.67 m/s",
+      "3.5 m/s",
+      "35 m/s",
+      "4.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 5 kg body moving at 5 m/s?",
+    "options": [
+      "1 kg·m/s",
+      "125 kg·m/s",
+      "25 kg·m/s",
+      "10 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 25 N acts for 2 s. Impulse?",
+    "options": [
+      "100 N·s",
+      "50 N·s",
+      "27 N·s",
+      "12.5 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 9 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "-32 kg·m/s",
+      "40 kg·m/s",
+      "32 kg·m/s",
+      "8 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Δp = m(v-u) = -32 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power",
+      "total momentum"
+    ],
+    "answer_index": 3,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body at 7 m/s sticks to a stationary 3 kg body. Final common speed?",
+    "options": [
+      "3.5 m/s",
+      "49 m/s",
+      "4 m/s",
+      "12.25 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 3 kg body moving at 10 m/s?",
+    "options": [
+      "300 kg·m/s",
+      "30 kg·m/s",
+      "13 kg·m/s",
+      "3.33 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts for 2 s. Impulse?",
+    "options": [
+      "20 N·s",
+      "12 N·s",
+      "5 N·s",
+      "40 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 7 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "40 kg·m/s",
+      "16 kg·m/s",
+      "4 kg·m/s",
+      "-16 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Δp = m(v-u) = -16 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "speed of each body",
+      "mechanical power",
+      "total momentum",
+      "kinetic energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body at 7 m/s sticks to a stationary 4 kg body. Final common speed?",
+    "options": [
+      "63 m/s",
+      "3.89 m/s",
+      "12.6 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 8 kg body moving at 7 m/s?",
+    "options": [
+      "56 kg·m/s",
+      "15 kg·m/s",
+      "0.88 kg·m/s",
+      "392 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts for 2 s. Impulse?",
+    "options": [
+      "37 N·s",
+      "17.5 N·s",
+      "140 N·s",
+      "70 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 5 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "12 kg·m/s",
+      "3 kg·m/s",
+      "-12 kg·m/s",
+      "28 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Δp = m(v-u) = -12 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "mechanical power",
+      "total momentum",
+      "kinetic energy",
+      "speed of each body"
+    ],
+    "answer_index": 1,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body at 7 m/s sticks to a stationary 1 kg body. Final common speed?",
+    "options": [
+      "4.67 m/s",
+      "10.5 m/s",
+      "3.5 m/s",
+      "21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 6 kg body moving at 4 m/s?",
+    "options": [
+      "10 kg·m/s",
+      "0.67 kg·m/s",
+      "96 kg·m/s",
+      "24 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 20 N acts for 2 s. Impulse?",
+    "options": [
+      "10 N·s",
+      "80 N·s",
+      "40 N·s",
+      "22 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 10 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "9 kg·m/s",
+      "-36 kg·m/s",
+      "44 kg·m/s",
+      "36 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Δp = m(v-u) = -36 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "total momentum",
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power"
+    ],
+    "answer_index": 0,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 7 m/s sticks to a stationary 2 kg body. Final common speed?",
+    "options": [
+      "11.67 m/s",
+      "3.5 m/s",
+      "35 m/s",
+      "4.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 4 kg body moving at 9 m/s?",
+    "options": [
+      "2.25 kg·m/s",
+      "324 kg·m/s",
+      "36 kg·m/s",
+      "13 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 45 N acts for 2 s. Impulse?",
+    "options": [
+      "180 N·s",
+      "90 N·s",
+      "47 N·s",
+      "22.5 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 8 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "-20 kg·m/s",
+      "44 kg·m/s",
+      "20 kg·m/s",
+      "5 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Δp = m(v-u) = -20 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power",
+      "total momentum"
+    ],
+    "answer_index": 3,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body at 7 m/s sticks to a stationary 3 kg body. Final common speed?",
+    "options": [
+      "3.5 m/s",
+      "49 m/s",
+      "4 m/s",
+      "12.25 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 2 kg body moving at 6 m/s?",
+    "options": [
+      "72 kg·m/s",
+      "12 kg·m/s",
+      "8 kg·m/s",
+      "3 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 30 N acts for 2 s. Impulse?",
+    "options": [
+      "60 N·s",
+      "32 N·s",
+      "15 N·s",
+      "120 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 6 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "32 kg·m/s",
+      "16 kg·m/s",
+      "4 kg·m/s",
+      "-16 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Δp = m(v-u) = -16 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "speed of each body",
+      "mechanical power",
+      "total momentum",
+      "kinetic energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body at 7 m/s sticks to a stationary 4 kg body. Final common speed?",
+    "options": [
+      "63 m/s",
+      "3.89 m/s",
+      "12.6 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 7 kg body moving at 3 m/s?",
+    "options": [
+      "21 kg·m/s",
+      "10 kg·m/s",
+      "0.43 kg·m/s",
+      "63 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 15 N acts for 2 s. Impulse?",
+    "options": [
+      "17 N·s",
+      "7.5 N·s",
+      "60 N·s",
+      "30 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 4 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "12 kg·m/s",
+      "3 kg·m/s",
+      "-12 kg·m/s",
+      "20 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Δp = m(v-u) = -12 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "mechanical power",
+      "total momentum",
+      "kinetic energy",
+      "speed of each body"
+    ],
+    "answer_index": 1,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body at 7 m/s sticks to a stationary 1 kg body. Final common speed?",
+    "options": [
+      "4.67 m/s",
+      "10.5 m/s",
+      "3.5 m/s",
+      "21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 5 kg body moving at 8 m/s?",
+    "options": [
+      "13 kg·m/s",
+      "1.6 kg·m/s",
+      "320 kg·m/s",
+      "40 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 40 N acts for 2 s. Impulse?",
+    "options": [
+      "20 N·s",
+      "160 N·s",
+      "80 N·s",
+      "42 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 9 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "6 kg·m/s",
+      "-24 kg·m/s",
+      "48 kg·m/s",
+      "24 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Δp = m(v-u) = -24 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "total momentum",
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power"
+    ],
+    "answer_index": 0,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 7 m/s sticks to a stationary 2 kg body. Final common speed?",
+    "options": [
+      "11.67 m/s",
+      "3.5 m/s",
+      "35 m/s",
+      "4.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 3 kg body moving at 5 m/s?",
+    "options": [
+      "1.67 kg·m/s",
+      "75 kg·m/s",
+      "15 kg·m/s",
+      "8 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 25 N acts for 2 s. Impulse?",
+    "options": [
+      "100 N·s",
+      "50 N·s",
+      "27 N·s",
+      "12.5 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 7 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "-20 kg·m/s",
+      "36 kg·m/s",
+      "20 kg·m/s",
+      "5 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Δp = m(v-u) = -20 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power",
+      "total momentum"
+    ],
+    "answer_index": 3,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body at 7 m/s sticks to a stationary 3 kg body. Final common speed?",
+    "options": [
+      "3.5 m/s",
+      "49 m/s",
+      "4 m/s",
+      "12.25 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 8 kg body moving at 10 m/s?",
+    "options": [
+      "800 kg·m/s",
+      "80 kg·m/s",
+      "18 kg·m/s",
+      "1.25 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts for 2 s. Impulse?",
+    "options": [
+      "20 N·s",
+      "12 N·s",
+      "5 N·s",
+      "40 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 5 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "24 kg·m/s",
+      "16 kg·m/s",
+      "4 kg·m/s",
+      "-16 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Δp = m(v-u) = -16 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "speed of each body",
+      "mechanical power",
+      "total momentum",
+      "kinetic energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body at 7 m/s sticks to a stationary 4 kg body. Final common speed?",
+    "options": [
+      "63 m/s",
+      "3.89 m/s",
+      "12.6 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 6 kg body moving at 7 m/s?",
+    "options": [
+      "42 kg·m/s",
+      "13 kg·m/s",
+      "1.17 kg·m/s",
+      "294 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts for 2 s. Impulse?",
+    "options": [
+      "37 N·s",
+      "17.5 N·s",
+      "140 N·s",
+      "70 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 10 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "28 kg·m/s",
+      "7 kg·m/s",
+      "-28 kg·m/s",
+      "52 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Δp = m(v-u) = -28 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "mechanical power",
+      "total momentum",
+      "kinetic energy",
+      "speed of each body"
+    ],
+    "answer_index": 1,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body at 7 m/s sticks to a stationary 1 kg body. Final common speed?",
+    "options": [
+      "4.67 m/s",
+      "10.5 m/s",
+      "3.5 m/s",
+      "21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 4 kg body moving at 4 m/s?",
+    "options": [
+      "8 kg·m/s",
+      "1 kg·m/s",
+      "64 kg·m/s",
+      "16 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 20 N acts for 2 s. Impulse?",
+    "options": [
+      "10 N·s",
+      "80 N·s",
+      "40 N·s",
+      "22 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 8 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "6 kg·m/s",
+      "-24 kg·m/s",
+      "40 kg·m/s",
+      "24 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Δp = m(v-u) = -24 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "total momentum",
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power"
+    ],
+    "answer_index": 0,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 7 m/s sticks to a stationary 2 kg body. Final common speed?",
+    "options": [
+      "11.67 m/s",
+      "3.5 m/s",
+      "35 m/s",
+      "4.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 2 kg body moving at 9 m/s?",
+    "options": [
+      "4.5 kg·m/s",
+      "162 kg·m/s",
+      "18 kg·m/s",
+      "11 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 45 N acts for 2 s. Impulse?",
+    "options": [
+      "180 N·s",
+      "90 N·s",
+      "47 N·s",
+      "22.5 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 6 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "-20 kg·m/s",
+      "28 kg·m/s",
+      "20 kg·m/s",
+      "5 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Δp = m(v-u) = -20 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power",
+      "total momentum"
+    ],
+    "answer_index": 3,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body at 7 m/s sticks to a stationary 3 kg body. Final common speed?",
+    "options": [
+      "3.5 m/s",
+      "49 m/s",
+      "4 m/s",
+      "12.25 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 7 kg body moving at 6 m/s?",
+    "options": [
+      "252 kg·m/s",
+      "42 kg·m/s",
+      "13 kg·m/s",
+      "0.86 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 30 N acts for 2 s. Impulse?",
+    "options": [
+      "60 N·s",
+      "32 N·s",
+      "15 N·s",
+      "120 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 4 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "28 kg·m/s",
+      "4 kg·m/s",
+      "1 kg·m/s",
+      "-4 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Δp = m(v-u) = -4 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "speed of each body",
+      "mechanical power",
+      "total momentum",
+      "kinetic energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body at 7 m/s sticks to a stationary 4 kg body. Final common speed?",
+    "options": [
+      "63 m/s",
+      "3.89 m/s",
+      "12.6 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 5 kg body moving at 3 m/s?",
+    "options": [
+      "15 kg·m/s",
+      "8 kg·m/s",
+      "0.6 kg·m/s",
+      "45 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 15 N acts for 2 s. Impulse?",
+    "options": [
+      "17 N·s",
+      "7.5 N·s",
+      "60 N·s",
+      "30 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 9 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "28 kg·m/s",
+      "7 kg·m/s",
+      "-28 kg·m/s",
+      "44 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Δp = m(v-u) = -28 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "mechanical power",
+      "total momentum",
+      "kinetic energy",
+      "speed of each body"
+    ],
+    "answer_index": 1,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body at 7 m/s sticks to a stationary 1 kg body. Final common speed?",
+    "options": [
+      "4.67 m/s",
+      "10.5 m/s",
+      "3.5 m/s",
+      "21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 3 kg body moving at 8 m/s?",
+    "options": [
+      "11 kg·m/s",
+      "2.67 kg·m/s",
+      "192 kg·m/s",
+      "24 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 40 N acts for 2 s. Impulse?",
+    "options": [
+      "20 N·s",
+      "160 N·s",
+      "80 N·s",
+      "42 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 7 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "6 kg·m/s",
+      "-24 kg·m/s",
+      "32 kg·m/s",
+      "24 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Δp = m(v-u) = -24 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "total momentum",
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power"
+    ],
+    "answer_index": 0,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 7 m/s sticks to a stationary 2 kg body. Final common speed?",
+    "options": [
+      "11.67 m/s",
+      "3.5 m/s",
+      "35 m/s",
+      "4.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 8 kg body moving at 5 m/s?",
+    "options": [
+      "0.63 kg·m/s",
+      "200 kg·m/s",
+      "40 kg·m/s",
+      "13 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 25 N acts for 2 s. Impulse?",
+    "options": [
+      "100 N·s",
+      "50 N·s",
+      "27 N·s",
+      "12.5 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 5 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "-8 kg·m/s",
+      "32 kg·m/s",
+      "8 kg·m/s",
+      "2 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Δp = m(v-u) = -8 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power",
+      "total momentum"
+    ],
+    "answer_index": 3,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body at 7 m/s sticks to a stationary 3 kg body. Final common speed?",
+    "options": [
+      "3.5 m/s",
+      "49 m/s",
+      "4 m/s",
+      "12.25 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 6 kg body moving at 10 m/s?",
+    "options": [
+      "600 kg·m/s",
+      "60 kg·m/s",
+      "16 kg·m/s",
+      "1.67 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts for 2 s. Impulse?",
+    "options": [
+      "20 N·s",
+      "12 N·s",
+      "5 N·s",
+      "40 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 10 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "48 kg·m/s",
+      "32 kg·m/s",
+      "8 kg·m/s",
+      "-32 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Δp = m(v-u) = -32 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "speed of each body",
+      "mechanical power",
+      "total momentum",
+      "kinetic energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body at 7 m/s sticks to a stationary 4 kg body. Final common speed?",
+    "options": [
+      "63 m/s",
+      "3.89 m/s",
+      "12.6 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 4 kg body moving at 7 m/s?",
+    "options": [
+      "28 kg·m/s",
+      "11 kg·m/s",
+      "1.75 kg·m/s",
+      "196 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts for 2 s. Impulse?",
+    "options": [
+      "37 N·s",
+      "17.5 N·s",
+      "140 N·s",
+      "70 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 8 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "28 kg·m/s",
+      "7 kg·m/s",
+      "-28 kg·m/s",
+      "36 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Δp = m(v-u) = -28 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "mechanical power",
+      "total momentum",
+      "kinetic energy",
+      "speed of each body"
+    ],
+    "answer_index": 1,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body at 7 m/s sticks to a stationary 1 kg body. Final common speed?",
+    "options": [
+      "4.67 m/s",
+      "10.5 m/s",
+      "3.5 m/s",
+      "21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 2 kg body moving at 4 m/s?",
+    "options": [
+      "6 kg·m/s",
+      "2 kg·m/s",
+      "32 kg·m/s",
+      "8 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 20 N acts for 2 s. Impulse?",
+    "options": [
+      "10 N·s",
+      "80 N·s",
+      "40 N·s",
+      "22 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 6 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "3 kg·m/s",
+      "-12 kg·m/s",
+      "36 kg·m/s",
+      "12 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Δp = m(v-u) = -12 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "total momentum",
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power"
+    ],
+    "answer_index": 0,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 7 m/s sticks to a stationary 2 kg body. Final common speed?",
+    "options": [
+      "11.67 m/s",
+      "3.5 m/s",
+      "35 m/s",
+      "4.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 7 kg body moving at 9 m/s?",
+    "options": [
+      "1.29 kg·m/s",
+      "567 kg·m/s",
+      "63 kg·m/s",
+      "16 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 45 N acts for 2 s. Impulse?",
+    "options": [
+      "180 N·s",
+      "90 N·s",
+      "47 N·s",
+      "22.5 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 4 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "-8 kg·m/s",
+      "24 kg·m/s",
+      "8 kg·m/s",
+      "2 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Δp = m(v-u) = -8 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power",
+      "total momentum"
+    ],
+    "answer_index": 3,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body at 7 m/s sticks to a stationary 3 kg body. Final common speed?",
+    "options": [
+      "3.5 m/s",
+      "49 m/s",
+      "4 m/s",
+      "12.25 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 5 kg body moving at 6 m/s?",
+    "options": [
+      "180 kg·m/s",
+      "30 kg·m/s",
+      "11 kg·m/s",
+      "1.2 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 30 N acts for 2 s. Impulse?",
+    "options": [
+      "60 N·s",
+      "32 N·s",
+      "15 N·s",
+      "120 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 9 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "40 kg·m/s",
+      "32 kg·m/s",
+      "8 kg·m/s",
+      "-32 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Δp = m(v-u) = -32 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "speed of each body",
+      "mechanical power",
+      "total momentum",
+      "kinetic energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body at 7 m/s sticks to a stationary 4 kg body. Final common speed?",
+    "options": [
+      "63 m/s",
+      "3.89 m/s",
+      "12.6 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 3 kg body moving at 3 m/s?",
+    "options": [
+      "9 kg·m/s",
+      "6 kg·m/s",
+      "1 kg·m/s",
+      "27 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 15 N acts for 2 s. Impulse?",
+    "options": [
+      "17 N·s",
+      "7.5 N·s",
+      "60 N·s",
+      "30 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 7 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "16 kg·m/s",
+      "4 kg·m/s",
+      "-16 kg·m/s",
+      "40 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Δp = m(v-u) = -16 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "mechanical power",
+      "total momentum",
+      "kinetic energy",
+      "speed of each body"
+    ],
+    "answer_index": 1,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body at 7 m/s sticks to a stationary 1 kg body. Final common speed?",
+    "options": [
+      "4.67 m/s",
+      "10.5 m/s",
+      "3.5 m/s",
+      "21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 8 kg body moving at 8 m/s?",
+    "options": [
+      "16 kg·m/s",
+      "1 kg·m/s",
+      "512 kg·m/s",
+      "64 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 40 N acts for 2 s. Impulse?",
+    "options": [
+      "20 N·s",
+      "160 N·s",
+      "80 N·s",
+      "42 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 5 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "3 kg·m/s",
+      "-12 kg·m/s",
+      "28 kg·m/s",
+      "12 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Δp = m(v-u) = -12 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "total momentum",
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power"
+    ],
+    "answer_index": 0,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 7 m/s sticks to a stationary 2 kg body. Final common speed?",
+    "options": [
+      "11.67 m/s",
+      "3.5 m/s",
+      "35 m/s",
+      "4.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 6 kg body moving at 5 m/s?",
+    "options": [
+      "0.83 kg·m/s",
+      "150 kg·m/s",
+      "30 kg·m/s",
+      "11 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 25 N acts for 2 s. Impulse?",
+    "options": [
+      "100 N·s",
+      "50 N·s",
+      "27 N·s",
+      "12.5 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 10 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "-36 kg·m/s",
+      "44 kg·m/s",
+      "36 kg·m/s",
+      "9 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Δp = m(v-u) = -36 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power",
+      "total momentum"
+    ],
+    "answer_index": 3,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body at 7 m/s sticks to a stationary 3 kg body. Final common speed?",
+    "options": [
+      "3.5 m/s",
+      "49 m/s",
+      "4 m/s",
+      "12.25 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 4 kg body moving at 10 m/s?",
+    "options": [
+      "400 kg·m/s",
+      "40 kg·m/s",
+      "14 kg·m/s",
+      "2.5 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts for 2 s. Impulse?",
+    "options": [
+      "20 N·s",
+      "12 N·s",
+      "5 N·s",
+      "40 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 8 m/s to 3 m/s along the same line. Change in momentum?",
+    "options": [
+      "44 kg·m/s",
+      "20 kg·m/s",
+      "5 kg·m/s",
+      "-20 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Δp = m(v-u) = -20 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "speed of each body",
+      "mechanical power",
+      "total momentum",
+      "kinetic energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body at 7 m/s sticks to a stationary 4 kg body. Final common speed?",
+    "options": [
+      "63 m/s",
+      "3.89 m/s",
+      "12.6 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 2 kg body moving at 7 m/s?",
+    "options": [
+      "14 kg·m/s",
+      "9 kg·m/s",
+      "3.5 kg·m/s",
+      "98 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts for 2 s. Impulse?",
+    "options": [
+      "37 N·s",
+      "17.5 N·s",
+      "140 N·s",
+      "70 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 6 m/s to 2 m/s along the same line. Change in momentum?",
+    "options": [
+      "16 kg·m/s",
+      "4 kg·m/s",
+      "-16 kg·m/s",
+      "32 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Δp = m(v-u) = -16 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "mechanical power",
+      "total momentum",
+      "kinetic energy",
+      "speed of each body"
+    ],
+    "answer_index": 1,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body at 7 m/s sticks to a stationary 1 kg body. Final common speed?",
+    "options": [
+      "4.67 m/s",
+      "10.5 m/s",
+      "3.5 m/s",
+      "21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Momentum of a 7 kg body moving at 4 m/s?",
+    "options": [
+      "11 kg·m/s",
+      "0.57 kg·m/s",
+      "112 kg·m/s",
+      "28 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 20 N acts for 2 s. Impulse?",
+    "options": [
+      "10 N·s",
+      "80 N·s",
+      "40 N·s",
+      "22 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "Impulse J = FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body changes velocity from 4 m/s to 1 m/s along the same line. Change in momentum?",
+    "options": [
+      "3 kg·m/s",
+      "-12 kg·m/s",
+      "20 kg·m/s",
+      "12 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Δp = m(v-u) = -12 kg·m/s."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In an isolated collision, which quantity is always conserved?",
+    "options": [
+      "total momentum",
+      "kinetic energy",
+      "speed of each body",
+      "mechanical power"
+    ],
+    "answer_index": 0,
+    "explanation": "Total momentum is conserved in isolated collisions; kinetic energy only in elastic ones."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 7 m/s sticks to a stationary 2 kg body. Final common speed?",
+    "options": [
+      "11.67 m/s",
+      "3.5 m/s",
+      "35 m/s",
+      "4.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)vf."
+  }
+]
