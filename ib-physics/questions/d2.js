@@ -30,7 +30,7 @@ M(20,1,"At a point where electric potential is zero, electric field strength",["
 /* 10 Paper 1B */
 P(1,0,"The force between two small charged spheres is measured as their separation changes.",["r / cm","F / mN"],[[2,9.0],[3,4.0],[4,2.25],[6,1.0]],[
 {q:"Identify the relationship between F and r.",m:1,ms:["F is proportional to 1/r²"]},
-{q:"Suggest a linearizing graph.",m:1,ms:["F against 1/r²"]},
+{q:"Choose transformed axes that would test the inverse-square force law.",m:1,ms:["F against 1/r²"]},
 {q:"Predict F at r=12 cm.",m:1,ms:["about 0.25 mN"]},
 {q:"State one assumption in applying Coulomb's law.",m:1,ms:["spheres behave as point charges / separation is large compared with size"]}]);
 P(2,0,"A positive test charge is moved along a line between two fixed positive charges of unequal magnitude.",["position","net E direction"],[["near left charge","right"],["between, left side","right"],["balance point","zero"],["between, right side","left"],["near right charge","left"]],[
@@ -50,7 +50,7 @@ P(4,0,"A moving positive ion enters uniform magnetic fields with the same speed 
 {q:"State how the direction of force changes for a negative ion.",m:1,ms:["it reverses"]}]);
 P(5,0,"A Hall probe measures magnetic flux density at distances from a long straight wire carrying steady current.",["r / cm","B / μT"],[[1,40],[2,20],[4,10],[5,8]],[
 {q:"State the relationship between B and r.",m:1,ms:["B is proportional to 1/r"]},
-{q:"Suggest a linearizing graph.",m:1,ms:["B against 1/r"]},
+{q:"Choose axes that would convert the measured B-r trend into a straight line.",m:1,ms:["B against 1/r"]},
 {q:"Predict B at 10 cm.",m:1,ms:["about 4 μT"]},
 {q:"State how B changes if current doubles.",m:1,ms:["B doubles"]}]);
 P(6,1,"Electric potential is measured along a straight line through a region.",["x / m","V / V"],[[0,12],[1,9],[2,6],[3,3],[4,0]],[
