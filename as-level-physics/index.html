@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PrepEnroll™ AS Level Physics Practice Studio</title>
+<meta name="description" content="AS Level Physics practice by PrepEnroll™ for Cambridge International, Pearson Edexcel and OCR.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#173654;--navy2:#244e70;--green:#4f8d5f;--cyan:#4cc7df;--violet:#6f78c8;--ink:#17232e;--muted:#667586;--line:#e1e9ee;--bg:#f8fbfd;--white:#fff;--softblue:#eef7fb;--softgreen:#eef8f0;--softviolet:#f2f2fb;--shadow:0 12px 36px rgba(23,54,84,.08)}
+*{box-sizing:border-box}body{margin:0;font-family:Manrope,system-ui,sans-serif;color:var(--ink);background:radial-gradient(circle at 90% 8%,rgba(76,199,223,.10),transparent 24%),radial-gradient(circle at 8% 90%,rgba(79,141,95,.08),transparent 25%),var(--bg);min-height:100vh}
+a{text-decoration:none;color:inherit}.top{height:66px;position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;padding:0 24px;background:rgba(255,255,255,.94);backdrop-filter:blur(16px);border-bottom:1px solid var(--line)}
+.brand{font-size:21px;font-weight:800;letter-spacing:-.04em;color:var(--navy)}.brand span{color:var(--green)}.top-right{display:flex;align-items:center;gap:10px}.hub{font-size:12px;font-weight:800;color:var(--navy);border:1px solid var(--line);background:#fff;border-radius:999px;padding:9px 13px}.level-chip{font-size:11px;font-weight:800;color:#52607a;background:var(--softviolet);border-radius:999px;padding:8px 11px}
+.wrap{max-width:1160px;margin:auto;padding:42px 22px 72px}.hero{background:rgba(255,255,255,.9);border:1px solid var(--line);border-radius:26px;padding:38px;box-shadow:var(--shadow);position:relative;overflow:hidden}
+.hero:after{content:"";position:absolute;width:300px;height:300px;border-radius:50%;right:-120px;top:-130px;background:radial-gradient(circle,rgba(76,199,223,.17),rgba(111,120,200,.05) 55%,transparent 72%)}
+.eyebrow{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:var(--green);background:var(--softgreen);padding:7px 10px;border-radius:999px;position:relative;z-index:2}
+h1{font-size:clamp(38px,6vw,64px);line-height:1;letter-spacing:-.055em;color:var(--navy);margin:16px 0 14px;position:relative;z-index:2}.hero p{max-width:760px;color:var(--muted);line-height:1.7;font-size:15px;position:relative;z-index:2}
+.board-title{margin:38px 0 14px;font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:#7b8795}
+.boards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.board{border:1px solid var(--line);background:#fff;border-radius:18px;padding:20px;cursor:pointer;transition:.2s;box-shadow:0 8px 22px rgba(23,54,84,.05)}
+.board:hover,.board.active{transform:translateY(-2px);border-color:#91aebf;box-shadow:0 14px 32px rgba(23,54,84,.10)}.board.active{background:linear-gradient(180deg,#fff,var(--softblue))}
+.board .tag{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--green)}.board h3{margin:8px 0 5px;color:var(--navy);font-size:20px}.board p{margin:0;color:var(--muted);font-size:12px;line-height:1.55}
+.panel{margin-top:18px;background:#fff;border:1px solid var(--line);border-radius:22px;padding:24px;box-shadow:var(--shadow)}.panel-head{display:flex;align-items:flex-start;justify-content:space-between;gap:18px;margin-bottom:18px}.panel-head h2{margin:0;color:var(--navy);font-size:25px;letter-spacing:-.03em}.panel-head p{margin:5px 0 0;color:var(--muted);font-size:12px}
+.status{font-size:10px;font-weight:800;color:#4f8d5f;background:var(--softgreen);border-radius:999px;padding:7px 10px;white-space:nowrap}.topic-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.topic{border:1px solid var(--line);border-radius:13px;padding:13px 14px;background:#fbfcfd}.topic-top{display:flex;gap:10px;align-items:flex-start}.num{width:29px;height:29px;border-radius:9px;background:var(--navy);color:#fff;display:grid;place-items:center;font-size:11px;font-weight:800;flex:none}.topic b{font-size:13px;color:#26394b}.subs{margin:9px 0 0 39px;display:flex;flex-wrap:wrap;gap:6px}.sub{font-size:10.5px;color:#5f6d7b;background:var(--softblue);padding:5px 7px;border-radius:999px}
+.ready{margin-top:18px;padding:14px 16px;border-radius:14px;background:linear-gradient(90deg,var(--softgreen),var(--softblue));color:#536272;font-size:12px;line-height:1.6}.ready strong{color:var(--navy)}
+.footer{margin-top:50px;text-align:center;color:#7a8795;font-size:11px;line-height:1.7}.footer strong{color:var(--navy)}
+@media(max-width:800px){.boards{grid-template-columns:1fr}.topic-grid{grid-template-columns:1fr}.panel-head{flex-direction:column}.hero{padding:28px 22px}.top{padding:0 14px}.level-chip{display:none}}
+</style></head>
+<body>
+<header class="top"><a class="brand" href="/prepenroll-practice/">Prep<span>Enroll</span>™ Practice</a><div class="top-right"><span class="level-chip">AS Level Physics</span><a class="hub" href="/prepenroll-practice/">← Practice Hub</a></div></header>
+<main class="wrap">
+<section class="hero"><span class="eyebrow">AS Level Physics</span><h1>Choose your exam board.</h1><p>The studio follows each board’s own syllabus structure. Select Cambridge International, Pearson Edexcel or OCR, then choose the topic area you want to practise. Question sets will plug directly into this structure as they are uploaded.</p></section>
+<div class="board-title">Exam board</div><section class="boards" id="boards"></section><section class="panel" id="panel"></section>
+<footer class="footer"><strong>© 2026 PrepEnroll™. All Rights Reserved.</strong><br>Curriculum-aligned practice structure. PrepEnroll™ is not affiliated with or endorsed by the awarding organisations shown.</footer>
+</main>
+<script>
+const DATA={"cie":{"label":"Cambridge International","code":"9702","note":"AS syllabus topics + practical skills","items":[["1","Physical quantities and units"],["2","Kinematics"],["3","Dynamics"],["4","Forces, density and pressure"],["5","Work, energy and power"],["6","Deformation of solids"],["7","Waves"],["8","Superposition"],["9","Electricity"],["10","D.C. circuits"],["11","Particle physics"],["P","Practical skills"]]},"edexcel":{"label":"Pearson Edexcel","code":"IAL Physics","note":"IAS pathway: Units 1–3","items":[["1","Mechanics and Materials"],["2","Waves and Electricity"],["3","Practical Skills in Physics I"]]},"ocr":{"label":"OCR Physics A","code":"H156","note":"AS content: Modules 1–4","items":[["1","Development of practical skills in physics",["Practical skills assessed in a written examination"]],["2","Foundations in physics",["Physical quantities and units","Making measurements and analysing data","Nature of quantities"]],["3","Forces and motion",["Motion","Forces in action","Work, energy and power","Materials","Newton’s laws of motion and momentum"]],["4","Electrons, waves and photons",["Charge and current","Energy, power and resistance","Electrical circuits","Waves","Quantum physics"]]]}};
+let current="cie";
+function renderBoards(){const el=document.getElementById("boards");el.innerHTML=Object.entries(DATA).map(([k,b])=>`<div class="board ${k===current?'active':''}" onclick="selectBoard('${k}')"><div class="tag">${b.code}</div><h3>${b.label}</h3><p>${b.note}</p></div>`).join("")}
+function renderPanel(){const b=DATA[current];const topics=b.items.map(item=>{const n=item[0],name=item[1],subs=item[2]||[];return `<div class="topic"><div class="topic-top"><span class="num">${n}</span><b>${name}</b></div>${subs.length?`<div class="subs">${subs.map(s=>`<span class="sub">${s}</span>`).join("")}</div>`:""}</div>`}).join("");document.getElementById("panel").innerHTML=`<div class="panel-head"><div><h2>${b.label} · ${b.code}</h2><p>${b.note}</p></div><span class="status">Structure live</span></div><div class="topic-grid">${topics}</div><div class="ready"><strong>Ready for question import.</strong> Uploaded PDFs can now be mapped by level → board → unit/topic → subtopic → question type → difficulty → marks, without duplicating shared AS/A Level content.</div>`}
+function selectBoard(k){current=k;renderBoards();renderPanel()}
+renderBoards();renderPanel();
+</script></body></html>
