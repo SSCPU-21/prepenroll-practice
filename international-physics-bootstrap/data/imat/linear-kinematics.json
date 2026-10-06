@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 4 m/s for 2 s. Distance travelled?",
+    "options": [
+      "8 m",
+      "6 m",
+      "2 m",
+      "16 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 2 m/s² for 4 s. Final speed?",
+    "options": [
+      "5 m/s",
+      "8 m/s",
+      "5.5 m/s",
+      "11 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v = u + at = 3 + 2×4 = 11 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=3 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "28 m",
+      "32 m",
+      "44 m",
+      "76 m"
+    ],
+    "answer_index": 2,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 160 m in 13 s. Average speed?",
+    "options": [
+      "6.15 m/s",
+      "12.31 m/s",
+      "0.08 m/s",
+      "173 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Speed",
+      "Jerk"
+    ],
+    "answer_index": 0,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 9 m/s for 7 s. Distance travelled?",
+    "options": [
+      "16 m",
+      "1.29 m",
+      "126 m",
+      "63 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 3 m/s² for 4 s. Final speed?",
+    "options": [
+      "12 m/s",
+      "7.5 m/s",
+      "15 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v = u + at = 3 + 3×4 = 15 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=2 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "24 m",
+      "32 m",
+      "56 m",
+      "20 m"
+    ],
+    "answer_index": 1,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 100 m in 13 s. Average speed?",
+    "options": [
+      "7.69 m/s",
+      "0.13 m/s",
+      "113 m/s",
+      "3.85 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Jerk",
+      "Displacement"
+    ],
+    "answer_index": 3,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 5 m/s for 4 s. Distance travelled?",
+    "options": [
+      "1.25 m",
+      "40 m",
+      "20 m",
+      "9 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 4 m/s² for 4 s. Final speed?",
+    "options": [
+      "9.5 m/s",
+      "19 m/s",
+      "7 m/s",
+      "16 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v = u + at = 3 + 4×4 = 19 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=1 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "20 m",
+      "36 m",
+      "12 m",
+      "16 m"
+    ],
+    "answer_index": 0,
+    "explanation": "s = ut + ½at² = 20 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 200 m in 13 s. Average speed?",
+    "options": [
+      "0.07 m/s",
+      "213 m/s",
+      "7.69 m/s",
+      "15.38 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Speed",
+      "Jerk",
+      "Displacement",
+      "Acceleration"
+    ],
+    "answer_index": 2,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 10 m/s for 9 s. Distance travelled?",
+    "options": [
+      "180 m",
+      "90 m",
+      "19 m",
+      "1.11 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 1 m/s² for 4 s. Final speed?",
+    "options": [
+      "7 m/s",
+      "4 m/s",
+      "4 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v = u + at = 3 + 1×4 = 7 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=6 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "88 m",
+      "40 m",
+      "32 m",
+      "56 m"
+    ],
+    "answer_index": 3,
+    "explanation": "s = ut + ½at² = 56 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 140 m in 13 s. Average speed?",
+    "options": [
+      "153 m/s",
+      "5.38 m/s",
+      "10.77 m/s",
+      "0.09 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Jerk",
+      "Displacement",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer_index": 1,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 6 m/s for 6 s. Distance travelled?",
+    "options": [
+      "36 m",
+      "12 m",
+      "1 m",
+      "72 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 2 m/s² for 4 s. Final speed?",
+    "options": [
+      "5 m/s",
+      "8 m/s",
+      "5.5 m/s",
+      "11 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v = u + at = 3 + 2×4 = 11 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=5 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "32 m",
+      "24 m",
+      "44 m",
+      "68 m"
+    ],
+    "answer_index": 2,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 240 m in 13 s. Average speed?",
+    "options": [
+      "9.23 m/s",
+      "18.46 m/s",
+      "0.05 m/s",
+      "253 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Speed",
+      "Jerk"
+    ],
+    "answer_index": 0,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 11 m/s for 3 s. Distance travelled?",
+    "options": [
+      "14 m",
+      "3.67 m",
+      "66 m",
+      "33 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 3 m/s² for 4 s. Final speed?",
+    "options": [
+      "12 m/s",
+      "7.5 m/s",
+      "15 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v = u + at = 3 + 3×4 = 15 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=4 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "16 m",
+      "32 m",
+      "48 m",
+      "24 m"
+    ],
+    "answer_index": 1,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 180 m in 13 s. Average speed?",
+    "options": [
+      "13.85 m/s",
+      "0.07 m/s",
+      "193 m/s",
+      "6.92 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Jerk",
+      "Displacement"
+    ],
+    "answer_index": 3,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 7 m/s for 8 s. Distance travelled?",
+    "options": [
+      "0.88 m",
+      "112 m",
+      "56 m",
+      "15 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 4 m/s² for 4 s. Final speed?",
+    "options": [
+      "9.5 m/s",
+      "19 m/s",
+      "7 m/s",
+      "16 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v = u + at = 3 + 4×4 = 19 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=3 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "44 m",
+      "76 m",
+      "28 m",
+      "32 m"
+    ],
+    "answer_index": 0,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 120 m in 13 s. Average speed?",
+    "options": [
+      "0.11 m/s",
+      "133 m/s",
+      "4.62 m/s",
+      "9.23 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Speed",
+      "Jerk",
+      "Displacement",
+      "Acceleration"
+    ],
+    "answer_index": 2,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 12 m/s for 5 s. Distance travelled?",
+    "options": [
+      "120 m",
+      "60 m",
+      "17 m",
+      "2.4 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 1 m/s² for 4 s. Final speed?",
+    "options": [
+      "7 m/s",
+      "4 m/s",
+      "4 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v = u + at = 3 + 1×4 = 7 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=2 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "56 m",
+      "20 m",
+      "24 m",
+      "32 m"
+    ],
+    "answer_index": 3,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 220 m in 13 s. Average speed?",
+    "options": [
+      "233 m/s",
+      "8.46 m/s",
+      "16.92 m/s",
+      "0.06 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Jerk",
+      "Displacement",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer_index": 1,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 8 m/s for 2 s. Distance travelled?",
+    "options": [
+      "16 m",
+      "10 m",
+      "4 m",
+      "32 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 2 m/s² for 4 s. Final speed?",
+    "options": [
+      "5 m/s",
+      "8 m/s",
+      "5.5 m/s",
+      "11 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v = u + at = 3 + 2×4 = 11 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=1 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "12 m",
+      "16 m",
+      "20 m",
+      "36 m"
+    ],
+    "answer_index": 2,
+    "explanation": "s = ut + ½at² = 20 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 160 m in 13 s. Average speed?",
+    "options": [
+      "6.15 m/s",
+      "12.31 m/s",
+      "0.08 m/s",
+      "173 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Speed",
+      "Jerk"
+    ],
+    "answer_index": 0,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 4 m/s for 7 s. Distance travelled?",
+    "options": [
+      "11 m",
+      "0.57 m",
+      "56 m",
+      "28 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 3 m/s² for 4 s. Final speed?",
+    "options": [
+      "12 m/s",
+      "7.5 m/s",
+      "15 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v = u + at = 3 + 3×4 = 15 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=6 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "32 m",
+      "56 m",
+      "88 m",
+      "40 m"
+    ],
+    "answer_index": 1,
+    "explanation": "s = ut + ½at² = 56 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 100 m in 13 s. Average speed?",
+    "options": [
+      "7.69 m/s",
+      "0.13 m/s",
+      "113 m/s",
+      "3.85 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Jerk",
+      "Displacement"
+    ],
+    "answer_index": 3,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 9 m/s for 4 s. Distance travelled?",
+    "options": [
+      "2.25 m",
+      "72 m",
+      "36 m",
+      "13 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 4 m/s² for 4 s. Final speed?",
+    "options": [
+      "9.5 m/s",
+      "19 m/s",
+      "7 m/s",
+      "16 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v = u + at = 3 + 4×4 = 19 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=5 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "44 m",
+      "68 m",
+      "32 m",
+      "24 m"
+    ],
+    "answer_index": 0,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 200 m in 13 s. Average speed?",
+    "options": [
+      "0.07 m/s",
+      "213 m/s",
+      "7.69 m/s",
+      "15.38 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Speed",
+      "Jerk",
+      "Displacement",
+      "Acceleration"
+    ],
+    "answer_index": 2,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 5 m/s for 9 s. Distance travelled?",
+    "options": [
+      "90 m",
+      "45 m",
+      "14 m",
+      "0.56 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 1 m/s² for 4 s. Final speed?",
+    "options": [
+      "7 m/s",
+      "4 m/s",
+      "4 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v = u + at = 3 + 1×4 = 7 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=4 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "48 m",
+      "24 m",
+      "16 m",
+      "32 m"
+    ],
+    "answer_index": 3,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 140 m in 13 s. Average speed?",
+    "options": [
+      "153 m/s",
+      "5.38 m/s",
+      "10.77 m/s",
+      "0.09 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Jerk",
+      "Displacement",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer_index": 1,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 10 m/s for 6 s. Distance travelled?",
+    "options": [
+      "60 m",
+      "16 m",
+      "1.67 m",
+      "120 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 2 m/s² for 4 s. Final speed?",
+    "options": [
+      "5 m/s",
+      "8 m/s",
+      "5.5 m/s",
+      "11 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v = u + at = 3 + 2×4 = 11 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=3 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "28 m",
+      "32 m",
+      "44 m",
+      "76 m"
+    ],
+    "answer_index": 2,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 240 m in 13 s. Average speed?",
+    "options": [
+      "9.23 m/s",
+      "18.46 m/s",
+      "0.05 m/s",
+      "253 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Speed",
+      "Jerk"
+    ],
+    "answer_index": 0,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 6 m/s for 3 s. Distance travelled?",
+    "options": [
+      "9 m",
+      "2 m",
+      "36 m",
+      "18 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 3 m/s² for 4 s. Final speed?",
+    "options": [
+      "12 m/s",
+      "7.5 m/s",
+      "15 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v = u + at = 3 + 3×4 = 15 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=2 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "24 m",
+      "32 m",
+      "56 m",
+      "20 m"
+    ],
+    "answer_index": 1,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 180 m in 13 s. Average speed?",
+    "options": [
+      "13.85 m/s",
+      "0.07 m/s",
+      "193 m/s",
+      "6.92 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Jerk",
+      "Displacement"
+    ],
+    "answer_index": 3,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 11 m/s for 8 s. Distance travelled?",
+    "options": [
+      "1.38 m",
+      "176 m",
+      "88 m",
+      "19 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 4 m/s² for 4 s. Final speed?",
+    "options": [
+      "9.5 m/s",
+      "19 m/s",
+      "7 m/s",
+      "16 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v = u + at = 3 + 4×4 = 19 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=1 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "20 m",
+      "36 m",
+      "12 m",
+      "16 m"
+    ],
+    "answer_index": 0,
+    "explanation": "s = ut + ½at² = 20 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 120 m in 13 s. Average speed?",
+    "options": [
+      "0.11 m/s",
+      "133 m/s",
+      "4.62 m/s",
+      "9.23 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Speed",
+      "Jerk",
+      "Displacement",
+      "Acceleration"
+    ],
+    "answer_index": 2,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 7 m/s for 5 s. Distance travelled?",
+    "options": [
+      "70 m",
+      "35 m",
+      "12 m",
+      "1.4 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 1 m/s² for 4 s. Final speed?",
+    "options": [
+      "7 m/s",
+      "4 m/s",
+      "4 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v = u + at = 3 + 1×4 = 7 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=6 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "88 m",
+      "40 m",
+      "32 m",
+      "56 m"
+    ],
+    "answer_index": 3,
+    "explanation": "s = ut + ½at² = 56 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 220 m in 13 s. Average speed?",
+    "options": [
+      "233 m/s",
+      "8.46 m/s",
+      "16.92 m/s",
+      "0.06 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Jerk",
+      "Displacement",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer_index": 1,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 12 m/s for 2 s. Distance travelled?",
+    "options": [
+      "24 m",
+      "14 m",
+      "6 m",
+      "48 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 2 m/s² for 4 s. Final speed?",
+    "options": [
+      "5 m/s",
+      "8 m/s",
+      "5.5 m/s",
+      "11 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v = u + at = 3 + 2×4 = 11 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=5 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "32 m",
+      "24 m",
+      "44 m",
+      "68 m"
+    ],
+    "answer_index": 2,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 160 m in 13 s. Average speed?",
+    "options": [
+      "6.15 m/s",
+      "12.31 m/s",
+      "0.08 m/s",
+      "173 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Speed",
+      "Jerk"
+    ],
+    "answer_index": 0,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 8 m/s for 7 s. Distance travelled?",
+    "options": [
+      "15 m",
+      "1.14 m",
+      "112 m",
+      "56 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 3 m/s² for 4 s. Final speed?",
+    "options": [
+      "12 m/s",
+      "7.5 m/s",
+      "15 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v = u + at = 3 + 3×4 = 15 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=4 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "16 m",
+      "32 m",
+      "48 m",
+      "24 m"
+    ],
+    "answer_index": 1,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 100 m in 13 s. Average speed?",
+    "options": [
+      "7.69 m/s",
+      "0.13 m/s",
+      "113 m/s",
+      "3.85 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Jerk",
+      "Displacement"
+    ],
+    "answer_index": 3,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 4 m/s for 4 s. Distance travelled?",
+    "options": [
+      "1 m",
+      "32 m",
+      "16 m",
+      "8 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 4 m/s² for 4 s. Final speed?",
+    "options": [
+      "9.5 m/s",
+      "19 m/s",
+      "7 m/s",
+      "16 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v = u + at = 3 + 4×4 = 19 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=3 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "44 m",
+      "76 m",
+      "28 m",
+      "32 m"
+    ],
+    "answer_index": 0,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 200 m in 13 s. Average speed?",
+    "options": [
+      "0.07 m/s",
+      "213 m/s",
+      "7.69 m/s",
+      "15.38 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Speed",
+      "Jerk",
+      "Displacement",
+      "Acceleration"
+    ],
+    "answer_index": 2,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 9 m/s for 9 s. Distance travelled?",
+    "options": [
+      "162 m",
+      "81 m",
+      "18 m",
+      "1 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 1 m/s² for 4 s. Final speed?",
+    "options": [
+      "7 m/s",
+      "4 m/s",
+      "4 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v = u + at = 3 + 1×4 = 7 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=2 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "56 m",
+      "20 m",
+      "24 m",
+      "32 m"
+    ],
+    "answer_index": 3,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 140 m in 13 s. Average speed?",
+    "options": [
+      "153 m/s",
+      "5.38 m/s",
+      "10.77 m/s",
+      "0.09 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Jerk",
+      "Displacement",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer_index": 1,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 5 m/s for 6 s. Distance travelled?",
+    "options": [
+      "30 m",
+      "11 m",
+      "0.83 m",
+      "60 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 2 m/s² for 4 s. Final speed?",
+    "options": [
+      "5 m/s",
+      "8 m/s",
+      "5.5 m/s",
+      "11 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v = u + at = 3 + 2×4 = 11 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=1 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "12 m",
+      "16 m",
+      "20 m",
+      "36 m"
+    ],
+    "answer_index": 2,
+    "explanation": "s = ut + ½at² = 20 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 240 m in 13 s. Average speed?",
+    "options": [
+      "9.23 m/s",
+      "18.46 m/s",
+      "0.05 m/s",
+      "253 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Speed",
+      "Jerk"
+    ],
+    "answer_index": 0,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 10 m/s for 3 s. Distance travelled?",
+    "options": [
+      "13 m",
+      "3.33 m",
+      "60 m",
+      "30 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 3 m/s² for 4 s. Final speed?",
+    "options": [
+      "12 m/s",
+      "7.5 m/s",
+      "15 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v = u + at = 3 + 3×4 = 15 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=6 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "32 m",
+      "56 m",
+      "88 m",
+      "40 m"
+    ],
+    "answer_index": 1,
+    "explanation": "s = ut + ½at² = 56 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 180 m in 13 s. Average speed?",
+    "options": [
+      "13.85 m/s",
+      "0.07 m/s",
+      "193 m/s",
+      "6.92 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Jerk",
+      "Displacement"
+    ],
+    "answer_index": 3,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 6 m/s for 8 s. Distance travelled?",
+    "options": [
+      "0.75 m",
+      "96 m",
+      "48 m",
+      "14 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 4 m/s² for 4 s. Final speed?",
+    "options": [
+      "9.5 m/s",
+      "19 m/s",
+      "7 m/s",
+      "16 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v = u + at = 3 + 4×4 = 19 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=5 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "44 m",
+      "68 m",
+      "32 m",
+      "24 m"
+    ],
+    "answer_index": 0,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 120 m in 13 s. Average speed?",
+    "options": [
+      "0.11 m/s",
+      "133 m/s",
+      "4.62 m/s",
+      "9.23 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Speed",
+      "Jerk",
+      "Displacement",
+      "Acceleration"
+    ],
+    "answer_index": 2,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 11 m/s for 5 s. Distance travelled?",
+    "options": [
+      "110 m",
+      "55 m",
+      "16 m",
+      "2.2 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 1 m/s² for 4 s. Final speed?",
+    "options": [
+      "7 m/s",
+      "4 m/s",
+      "4 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v = u + at = 3 + 1×4 = 7 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=4 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "48 m",
+      "24 m",
+      "16 m",
+      "32 m"
+    ],
+    "answer_index": 3,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 220 m in 13 s. Average speed?",
+    "options": [
+      "233 m/s",
+      "8.46 m/s",
+      "16.92 m/s",
+      "0.06 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Jerk",
+      "Displacement",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer_index": 1,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 7 m/s for 2 s. Distance travelled?",
+    "options": [
+      "14 m",
+      "9 m",
+      "3.5 m",
+      "28 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 2 m/s² for 4 s. Final speed?",
+    "options": [
+      "5 m/s",
+      "8 m/s",
+      "5.5 m/s",
+      "11 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v = u + at = 3 + 2×4 = 11 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=3 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "28 m",
+      "32 m",
+      "44 m",
+      "76 m"
+    ],
+    "answer_index": 2,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 160 m in 13 s. Average speed?",
+    "options": [
+      "6.15 m/s",
+      "12.31 m/s",
+      "0.08 m/s",
+      "173 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Speed",
+      "Jerk"
+    ],
+    "answer_index": 0,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 12 m/s for 7 s. Distance travelled?",
+    "options": [
+      "19 m",
+      "1.71 m",
+      "168 m",
+      "84 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 3 m/s² for 4 s. Final speed?",
+    "options": [
+      "12 m/s",
+      "7.5 m/s",
+      "15 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v = u + at = 3 + 3×4 = 15 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=2 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "24 m",
+      "32 m",
+      "56 m",
+      "20 m"
+    ],
+    "answer_index": 1,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 100 m in 13 s. Average speed?",
+    "options": [
+      "7.69 m/s",
+      "0.13 m/s",
+      "113 m/s",
+      "3.85 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Jerk",
+      "Displacement"
+    ],
+    "answer_index": 3,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 8 m/s for 4 s. Distance travelled?",
+    "options": [
+      "2 m",
+      "64 m",
+      "32 m",
+      "12 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 4 m/s² for 4 s. Final speed?",
+    "options": [
+      "9.5 m/s",
+      "19 m/s",
+      "7 m/s",
+      "16 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v = u + at = 3 + 4×4 = 19 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=1 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "20 m",
+      "36 m",
+      "12 m",
+      "16 m"
+    ],
+    "answer_index": 0,
+    "explanation": "s = ut + ½at² = 20 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 200 m in 13 s. Average speed?",
+    "options": [
+      "0.07 m/s",
+      "213 m/s",
+      "7.69 m/s",
+      "15.38 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Speed",
+      "Jerk",
+      "Displacement",
+      "Acceleration"
+    ],
+    "answer_index": 2,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 4 m/s for 9 s. Distance travelled?",
+    "options": [
+      "72 m",
+      "36 m",
+      "13 m",
+      "0.44 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 1 m/s² for 4 s. Final speed?",
+    "options": [
+      "7 m/s",
+      "4 m/s",
+      "4 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v = u + at = 3 + 1×4 = 7 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=6 m/s, a=4 m/s² for 4 s. Displacement?",
+    "options": [
+      "88 m",
+      "40 m",
+      "32 m",
+      "56 m"
+    ],
+    "answer_index": 3,
+    "explanation": "s = ut + ½at² = 56 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 140 m in 13 s. Average speed?",
+    "options": [
+      "153 m/s",
+      "5.38 m/s",
+      "10.77 m/s",
+      "0.09 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Jerk",
+      "Displacement",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer_index": 1,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 9 m/s for 6 s. Distance travelled?",
+    "options": [
+      "54 m",
+      "15 m",
+      "1.5 m",
+      "108 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 2 m/s² for 4 s. Final speed?",
+    "options": [
+      "5 m/s",
+      "8 m/s",
+      "5.5 m/s",
+      "11 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v = u + at = 3 + 2×4 = 11 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=5 m/s, a=3 m/s² for 4 s. Displacement?",
+    "options": [
+      "32 m",
+      "24 m",
+      "44 m",
+      "68 m"
+    ],
+    "answer_index": 2,
+    "explanation": "s = ut + ½at² = 44 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 240 m in 13 s. Average speed?",
+    "options": [
+      "9.23 m/s",
+      "18.46 m/s",
+      "0.05 m/s",
+      "253 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Speed",
+      "Jerk"
+    ],
+    "answer_index": 0,
+    "explanation": "Integrating velocity over time gives displacement."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves at constant 5 m/s for 3 s. Distance travelled?",
+    "options": [
+      "8 m",
+      "1.67 m",
+      "30 m",
+      "15 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s = vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates uniformly at 3 m/s² for 4 s. Final speed?",
+    "options": [
+      "12 m/s",
+      "7.5 m/s",
+      "15 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v = u + at = 3 + 3×4 = 15 m/s."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle has u=4 m/s, a=2 m/s² for 4 s. Displacement?",
+    "options": [
+      "16 m",
+      "32 m",
+      "48 m",
+      "24 m"
+    ],
+    "answer_index": 1,
+    "explanation": "s = ut + ½at² = 32 m."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A runner covers 180 m in 13 s. Average speed?",
+    "options": [
+      "13.85 m/s",
+      "0.07 m/s",
+      "193 m/s",
+      "6.92 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Average speed = total distance / total time."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "On a velocity–time graph, what does the area under the graph represent?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Jerk",
+      "Displacement"
+    ],
+    "answer_index": 3,
+    "explanation": "Integrating velocity over time gives displacement."
+  }
+]
