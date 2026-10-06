@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body accelerates at 1 m/s². Net force?",
+    "options": [
+      "2 N",
+      "3 N",
+      "2 N",
+      "4 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 4 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "4 N",
+      "0.41 N",
+      "80 N",
+      "39.2 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "0.01 N",
+      "640 N",
+      "16 N",
+      "100 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle"
+    ],
+    "answer_index": 1,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration"
+    ],
+    "answer_index": 0,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 7 kg body accelerates at 6 m/s². Net force?",
+    "options": [
+      "13 N",
+      "1.17 N",
+      "84 N",
+      "42 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 9 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "0.92 N",
+      "180 N",
+      "88.2 N",
+      "9 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "640 N",
+      "16 N",
+      "100 N",
+      "0.01 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth"
+    ],
+    "answer_index": 3,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body accelerates at 5 m/s². Net force?",
+    "options": [
+      "0.8 N",
+      "40 N",
+      "20 N",
+      "9 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 7 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "140 N",
+      "68.6 N",
+      "7 N",
+      "0.71 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "16 N",
+      "100 N",
+      "0.01 N",
+      "640 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia"
+    ],
+    "answer_index": 3,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person"
+    ],
+    "answer_index": 2,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 9 kg body accelerates at 4 m/s². Net force?",
+    "options": [
+      "72 N",
+      "36 N",
+      "13 N",
+      "2.25 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 5 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "49 N",
+      "5 N",
+      "0.51 N",
+      "100 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "100 N",
+      "0.01 N",
+      "640 N",
+      "16 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation"
+    ],
+    "answer_index": 2,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car"
+    ],
+    "answer_index": 1,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 6 kg body accelerates at 3 m/s². Net force?",
+    "options": [
+      "18 N",
+      "9 N",
+      "2 N",
+      "36 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 3 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "3 N",
+      "0.31 N",
+      "60 N",
+      "29.4 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "0.01 N",
+      "640 N",
+      "16 N",
+      "100 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle"
+    ],
+    "answer_index": 1,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration"
+    ],
+    "answer_index": 0,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body accelerates at 2 m/s². Net force?",
+    "options": [
+      "5 N",
+      "1.5 N",
+      "12 N",
+      "6 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 8 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "0.82 N",
+      "160 N",
+      "78.4 N",
+      "8 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "640 N",
+      "16 N",
+      "100 N",
+      "0.01 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth"
+    ],
+    "answer_index": 3,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 8 kg body accelerates at 1 m/s². Net force?",
+    "options": [
+      "8 N",
+      "16 N",
+      "8 N",
+      "9 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 6 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "120 N",
+      "58.8 N",
+      "6 N",
+      "0.61 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "16 N",
+      "100 N",
+      "0.01 N",
+      "640 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia"
+    ],
+    "answer_index": 3,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person"
+    ],
+    "answer_index": 2,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body accelerates at 6 m/s². Net force?",
+    "options": [
+      "60 N",
+      "30 N",
+      "11 N",
+      "0.83 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 4 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "39.2 N",
+      "4 N",
+      "0.41 N",
+      "80 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "100 N",
+      "0.01 N",
+      "640 N",
+      "16 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation"
+    ],
+    "answer_index": 2,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car"
+    ],
+    "answer_index": 1,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body accelerates at 5 m/s². Net force?",
+    "options": [
+      "10 N",
+      "7 N",
+      "0.4 N",
+      "20 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 9 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "9 N",
+      "0.92 N",
+      "180 N",
+      "88.2 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "0.01 N",
+      "640 N",
+      "16 N",
+      "100 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle"
+    ],
+    "answer_index": 1,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration"
+    ],
+    "answer_index": 0,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 7 kg body accelerates at 4 m/s². Net force?",
+    "options": [
+      "11 N",
+      "1.75 N",
+      "56 N",
+      "28 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 7 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "0.71 N",
+      "140 N",
+      "68.6 N",
+      "7 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "640 N",
+      "16 N",
+      "100 N",
+      "0.01 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth"
+    ],
+    "answer_index": 3,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body accelerates at 3 m/s². Net force?",
+    "options": [
+      "1.33 N",
+      "24 N",
+      "12 N",
+      "7 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 5 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "100 N",
+      "49 N",
+      "5 N",
+      "0.51 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "16 N",
+      "100 N",
+      "0.01 N",
+      "640 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia"
+    ],
+    "answer_index": 3,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person"
+    ],
+    "answer_index": 2,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 9 kg body accelerates at 2 m/s². Net force?",
+    "options": [
+      "36 N",
+      "18 N",
+      "11 N",
+      "4.5 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 3 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "29.4 N",
+      "3 N",
+      "0.31 N",
+      "60 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "100 N",
+      "0.01 N",
+      "640 N",
+      "16 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation"
+    ],
+    "answer_index": 2,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car"
+    ],
+    "answer_index": 1,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 6 kg body accelerates at 1 m/s². Net force?",
+    "options": [
+      "6 N",
+      "7 N",
+      "6 N",
+      "12 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 8 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "8 N",
+      "0.82 N",
+      "160 N",
+      "78.4 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "0.01 N",
+      "640 N",
+      "16 N",
+      "100 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle"
+    ],
+    "answer_index": 1,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration"
+    ],
+    "answer_index": 0,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body accelerates at 6 m/s². Net force?",
+    "options": [
+      "9 N",
+      "0.5 N",
+      "36 N",
+      "18 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 6 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "0.61 N",
+      "120 N",
+      "58.8 N",
+      "6 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "640 N",
+      "16 N",
+      "100 N",
+      "0.01 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth"
+    ],
+    "answer_index": 3,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 8 kg body accelerates at 5 m/s². Net force?",
+    "options": [
+      "1.6 N",
+      "80 N",
+      "40 N",
+      "13 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 4 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "80 N",
+      "39.2 N",
+      "4 N",
+      "0.41 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "16 N",
+      "100 N",
+      "0.01 N",
+      "640 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia"
+    ],
+    "answer_index": 3,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person"
+    ],
+    "answer_index": 2,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body accelerates at 4 m/s². Net force?",
+    "options": [
+      "40 N",
+      "20 N",
+      "9 N",
+      "1.25 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 9 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "88.2 N",
+      "9 N",
+      "0.92 N",
+      "180 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "100 N",
+      "0.01 N",
+      "640 N",
+      "16 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation"
+    ],
+    "answer_index": 2,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car"
+    ],
+    "answer_index": 1,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body accelerates at 3 m/s². Net force?",
+    "options": [
+      "6 N",
+      "5 N",
+      "0.67 N",
+      "12 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 7 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "7 N",
+      "0.71 N",
+      "140 N",
+      "68.6 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "0.01 N",
+      "640 N",
+      "16 N",
+      "100 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle"
+    ],
+    "answer_index": 1,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration"
+    ],
+    "answer_index": 0,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 7 kg body accelerates at 2 m/s². Net force?",
+    "options": [
+      "9 N",
+      "3.5 N",
+      "28 N",
+      "14 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 5 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "0.51 N",
+      "100 N",
+      "49 N",
+      "5 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "640 N",
+      "16 N",
+      "100 N",
+      "0.01 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth"
+    ],
+    "answer_index": 3,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body accelerates at 1 m/s². Net force?",
+    "options": [
+      "4 N",
+      "8 N",
+      "4 N",
+      "5 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 3 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "60 N",
+      "29.4 N",
+      "3 N",
+      "0.31 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "16 N",
+      "100 N",
+      "0.01 N",
+      "640 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia"
+    ],
+    "answer_index": 3,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person"
+    ],
+    "answer_index": 2,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 9 kg body accelerates at 6 m/s². Net force?",
+    "options": [
+      "108 N",
+      "54 N",
+      "15 N",
+      "1.5 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 8 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "78.4 N",
+      "8 N",
+      "0.82 N",
+      "160 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "100 N",
+      "0.01 N",
+      "640 N",
+      "16 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation"
+    ],
+    "answer_index": 2,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car"
+    ],
+    "answer_index": 1,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 6 kg body accelerates at 5 m/s². Net force?",
+    "options": [
+      "30 N",
+      "11 N",
+      "1.2 N",
+      "60 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 6 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "6 N",
+      "0.61 N",
+      "120 N",
+      "58.8 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "0.01 N",
+      "640 N",
+      "16 N",
+      "100 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle"
+    ],
+    "answer_index": 1,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration"
+    ],
+    "answer_index": 0,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body accelerates at 4 m/s². Net force?",
+    "options": [
+      "7 N",
+      "0.75 N",
+      "24 N",
+      "12 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 4 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "0.41 N",
+      "80 N",
+      "39.2 N",
+      "4 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "640 N",
+      "16 N",
+      "100 N",
+      "0.01 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth"
+    ],
+    "answer_index": 3,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 8 kg body accelerates at 3 m/s². Net force?",
+    "options": [
+      "2.67 N",
+      "48 N",
+      "24 N",
+      "11 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 9 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "180 N",
+      "88.2 N",
+      "9 N",
+      "0.92 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "16 N",
+      "100 N",
+      "0.01 N",
+      "640 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia"
+    ],
+    "answer_index": 3,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person"
+    ],
+    "answer_index": 2,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body accelerates at 2 m/s². Net force?",
+    "options": [
+      "20 N",
+      "10 N",
+      "7 N",
+      "2.5 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 7 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "68.6 N",
+      "7 N",
+      "0.71 N",
+      "140 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "100 N",
+      "0.01 N",
+      "640 N",
+      "16 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation"
+    ],
+    "answer_index": 2,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car"
+    ],
+    "answer_index": 1,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg body accelerates at 1 m/s². Net force?",
+    "options": [
+      "2 N",
+      "3 N",
+      "2 N",
+      "4 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 5 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "5 N",
+      "0.51 N",
+      "100 N",
+      "49 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "0.01 N",
+      "640 N",
+      "16 N",
+      "100 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle"
+    ],
+    "answer_index": 1,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration"
+    ],
+    "answer_index": 0,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 7 kg body accelerates at 6 m/s². Net force?",
+    "options": [
+      "13 N",
+      "1.17 N",
+      "84 N",
+      "42 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 3 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "0.31 N",
+      "60 N",
+      "29.4 N",
+      "3 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "640 N",
+      "16 N",
+      "100 N",
+      "0.01 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth"
+    ],
+    "answer_index": 3,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg body accelerates at 5 m/s². Net force?",
+    "options": [
+      "0.8 N",
+      "40 N",
+      "20 N",
+      "9 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 8 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "160 N",
+      "78.4 N",
+      "8 N",
+      "0.82 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "16 N",
+      "100 N",
+      "0.01 N",
+      "640 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia"
+    ],
+    "answer_index": 3,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person"
+    ],
+    "answer_index": 2,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 9 kg body accelerates at 4 m/s². Net force?",
+    "options": [
+      "72 N",
+      "36 N",
+      "13 N",
+      "2.25 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 6 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "58.8 N",
+      "6 N",
+      "0.61 N",
+      "120 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "100 N",
+      "0.01 N",
+      "640 N",
+      "16 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "Archimedes' principle",
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation"
+    ],
+    "answer_index": 2,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car"
+    ],
+    "answer_index": 1,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 6 kg body accelerates at 3 m/s². Net force?",
+    "options": [
+      "18 N",
+      "9 N",
+      "2 N",
+      "36 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 4 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "4 N",
+      "0.41 N",
+      "80 N",
+      "39.2 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "0.01 N",
+      "640 N",
+      "16 N",
+      "100 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "electromagnetic induction",
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle"
+    ],
+    "answer_index": 1,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "Earth pulls person; person pulls Earth",
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration"
+    ],
+    "answer_index": 0,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body accelerates at 2 m/s². Net force?",
+    "options": [
+      "5 N",
+      "1.5 N",
+      "12 N",
+      "6 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Newton's second law: F = ma."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Approximate weight of a 9 kg mass on Earth (g=9.8 m/s²)?",
+    "options": [
+      "0.92 N",
+      "180 N",
+      "88.2 N",
+      "9 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight W = mg."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a simple friction model with μ=0.4 and normal force 40 N, what is the friction magnitude?",
+    "options": [
+      "640 N",
+      "16 N",
+      "100 N",
+      "0.01 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Use f = μN."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A passenger lurches forward when a moving bus stops suddenly. This illustrates:",
+    "options": [
+      "inertia",
+      "action–reaction cancellation",
+      "Archimedes' principle",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "The body tends to maintain its state of motion."
+  },
+  {
+    "id": "IMAT-PHY-NEWTONS-LAWS-FORCES-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Newton's Laws & Forces",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which pair is a Newton's third-law action–reaction pair?",
+    "options": [
+      "weight and normal force on the same person",
+      "engine force and friction on the same car",
+      "mass and acceleration",
+      "Earth pulls person; person pulls Earth"
+    ],
+    "answer_index": 3,
+    "explanation": "Third-law forces act on different bodies and are equal and opposite."
+  }
+]
