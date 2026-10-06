@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "1 kg of a material with c=400 J/(kg·K) warms by 5 K. Heat absorbed?",
+    "options": [
+      "2000 J",
+      "400 J",
+      "2000 J",
+      "1000 J"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "9000 J/K",
+      "0 J/K",
+      "1500 J/K",
+      "250 J/K"
+    ],
+    "answer_index": 3,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg sample changes phase with latent heat 300 kJ/kg. Energy required?",
+    "options": [
+      "303 kJ",
+      "900000 kJ",
+      "900 kJ",
+      "100 kJ"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "evaporation only",
+      "conduction",
+      "convection",
+      "radiation"
+    ],
+    "answer_index": 1,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge",
+      "gravitational field"
+    ],
+    "answer_index": 0,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "2 kg of a material with c=400 J/(kg·K) warms by 10 K. Heat absorbed?",
+    "options": [
+      "800 J",
+      "4000 J",
+      "4000 J",
+      "8000 J"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 4000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "0 J/K",
+      "4000 J/K",
+      "666.67 J/K",
+      "24000 J/K"
+    ],
+    "answer_index": 2,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg sample changes phase with latent heat 250 kJ/kg. Energy required?",
+    "options": [
+      "1000000 kJ",
+      "1000 kJ",
+      "62.5 kJ",
+      "254 kJ"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation only"
+    ],
+    "answer_index": 0,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "mass",
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature"
+    ],
+    "answer_index": 3,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "3 kg of a material with c=400 J/(kg·K) warms by 9 K. Heat absorbed?",
+    "options": [
+      "3600 J",
+      "5400 J",
+      "10800 J",
+      "1200 J"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 3000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "3000 J/K",
+      "500 J/K",
+      "18000 J/K",
+      "0 J/K"
+    ],
+    "answer_index": 1,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1 kg sample changes phase with latent heat 200 kJ/kg. Energy required?",
+    "options": [
+      "200 kJ",
+      "200 kJ",
+      "201 kJ",
+      "200000 kJ"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "convection",
+      "radiation",
+      "evaporation only",
+      "conduction"
+    ],
+    "answer_index": 3,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "4 kg of a material with c=400 J/(kg·K) warms by 8 K. Heat absorbed?",
+    "options": [
+      "6400 J",
+      "12800 J",
+      "1600 J",
+      "3200 J"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 2000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "333.33 J/K",
+      "12000 J/K",
+      "0 J/K",
+      "2000 J/K"
+    ],
+    "answer_index": 0,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg sample changes phase with latent heat 450 kJ/kg. Energy required?",
+    "options": [
+      "225 kJ",
+      "452 kJ",
+      "900000 kJ",
+      "900 kJ"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "radiation",
+      "evaporation only",
+      "conduction",
+      "convection"
+    ],
+    "answer_index": 2,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge"
+    ],
+    "answer_index": 1,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "1 kg of a material with c=400 J/(kg·K) warms by 7 K. Heat absorbed?",
+    "options": [
+      "2800 J",
+      "400 J",
+      "2800 J",
+      "1400 J"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "6000 J/K",
+      "0.01 J/K",
+      "1000 J/K",
+      "166.67 J/K"
+    ],
+    "answer_index": 3,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg sample changes phase with latent heat 400 kJ/kg. Energy required?",
+    "options": [
+      "403 kJ",
+      "1200000 kJ",
+      "1200 kJ",
+      "133.33 kJ"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "evaporation only",
+      "conduction",
+      "convection",
+      "radiation"
+    ],
+    "answer_index": 1,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge",
+      "gravitational field"
+    ],
+    "answer_index": 0,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "2 kg of a material with c=400 J/(kg·K) warms by 6 K. Heat absorbed?",
+    "options": [
+      "800 J",
+      "2400 J",
+      "2400 J",
+      "4800 J"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 3500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "0 J/K",
+      "3500 J/K",
+      "583.33 J/K",
+      "21000 J/K"
+    ],
+    "answer_index": 2,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg sample changes phase with latent heat 350 kJ/kg. Energy required?",
+    "options": [
+      "1400000 kJ",
+      "1400 kJ",
+      "87.5 kJ",
+      "354 kJ"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation only"
+    ],
+    "answer_index": 0,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "mass",
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature"
+    ],
+    "answer_index": 3,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "3 kg of a material with c=400 J/(kg·K) warms by 5 K. Heat absorbed?",
+    "options": [
+      "2000 J",
+      "3000 J",
+      "6000 J",
+      "1200 J"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 2500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "2500 J/K",
+      "416.67 J/K",
+      "15000 J/K",
+      "0 J/K"
+    ],
+    "answer_index": 1,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1 kg sample changes phase with latent heat 300 kJ/kg. Energy required?",
+    "options": [
+      "300 kJ",
+      "300 kJ",
+      "301 kJ",
+      "300000 kJ"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "convection",
+      "radiation",
+      "evaporation only",
+      "conduction"
+    ],
+    "answer_index": 3,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "4 kg of a material with c=400 J/(kg·K) warms by 10 K. Heat absorbed?",
+    "options": [
+      "8000 J",
+      "16000 J",
+      "1600 J",
+      "4000 J"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "250 J/K",
+      "9000 J/K",
+      "0 J/K",
+      "1500 J/K"
+    ],
+    "answer_index": 0,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg sample changes phase with latent heat 250 kJ/kg. Energy required?",
+    "options": [
+      "125 kJ",
+      "252 kJ",
+      "500000 kJ",
+      "500 kJ"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "radiation",
+      "evaporation only",
+      "conduction",
+      "convection"
+    ],
+    "answer_index": 2,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge"
+    ],
+    "answer_index": 1,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "1 kg of a material with c=400 J/(kg·K) warms by 9 K. Heat absorbed?",
+    "options": [
+      "3600 J",
+      "400 J",
+      "3600 J",
+      "1800 J"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 4000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "24000 J/K",
+      "0 J/K",
+      "4000 J/K",
+      "666.67 J/K"
+    ],
+    "answer_index": 3,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg sample changes phase with latent heat 200 kJ/kg. Energy required?",
+    "options": [
+      "203 kJ",
+      "600000 kJ",
+      "600 kJ",
+      "66.67 kJ"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "evaporation only",
+      "conduction",
+      "convection",
+      "radiation"
+    ],
+    "answer_index": 1,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge",
+      "gravitational field"
+    ],
+    "answer_index": 0,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "2 kg of a material with c=400 J/(kg·K) warms by 8 K. Heat absorbed?",
+    "options": [
+      "800 J",
+      "3200 J",
+      "3200 J",
+      "6400 J"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 3000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "0 J/K",
+      "3000 J/K",
+      "500 J/K",
+      "18000 J/K"
+    ],
+    "answer_index": 2,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg sample changes phase with latent heat 450 kJ/kg. Energy required?",
+    "options": [
+      "1800000 kJ",
+      "1800 kJ",
+      "112.5 kJ",
+      "454 kJ"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation only"
+    ],
+    "answer_index": 0,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "mass",
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature"
+    ],
+    "answer_index": 3,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "3 kg of a material with c=400 J/(kg·K) warms by 7 K. Heat absorbed?",
+    "options": [
+      "2800 J",
+      "4200 J",
+      "8400 J",
+      "1200 J"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 2000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "2000 J/K",
+      "333.33 J/K",
+      "12000 J/K",
+      "0 J/K"
+    ],
+    "answer_index": 1,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1 kg sample changes phase with latent heat 400 kJ/kg. Energy required?",
+    "options": [
+      "400 kJ",
+      "400 kJ",
+      "401 kJ",
+      "400000 kJ"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "convection",
+      "radiation",
+      "evaporation only",
+      "conduction"
+    ],
+    "answer_index": 3,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "4 kg of a material with c=400 J/(kg·K) warms by 6 K. Heat absorbed?",
+    "options": [
+      "4800 J",
+      "9600 J",
+      "1600 J",
+      "2400 J"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "166.67 J/K",
+      "6000 J/K",
+      "0.01 J/K",
+      "1000 J/K"
+    ],
+    "answer_index": 0,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg sample changes phase with latent heat 350 kJ/kg. Energy required?",
+    "options": [
+      "175 kJ",
+      "352 kJ",
+      "700000 kJ",
+      "700 kJ"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "radiation",
+      "evaporation only",
+      "conduction",
+      "convection"
+    ],
+    "answer_index": 2,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge"
+    ],
+    "answer_index": 1,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "1 kg of a material with c=400 J/(kg·K) warms by 5 K. Heat absorbed?",
+    "options": [
+      "2000 J",
+      "400 J",
+      "2000 J",
+      "1000 J"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 3500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "21000 J/K",
+      "0 J/K",
+      "3500 J/K",
+      "583.33 J/K"
+    ],
+    "answer_index": 3,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg sample changes phase with latent heat 300 kJ/kg. Energy required?",
+    "options": [
+      "303 kJ",
+      "900000 kJ",
+      "900 kJ",
+      "100 kJ"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "evaporation only",
+      "conduction",
+      "convection",
+      "radiation"
+    ],
+    "answer_index": 1,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge",
+      "gravitational field"
+    ],
+    "answer_index": 0,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "2 kg of a material with c=400 J/(kg·K) warms by 10 K. Heat absorbed?",
+    "options": [
+      "800 J",
+      "4000 J",
+      "4000 J",
+      "8000 J"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 2500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "0 J/K",
+      "2500 J/K",
+      "416.67 J/K",
+      "15000 J/K"
+    ],
+    "answer_index": 2,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg sample changes phase with latent heat 250 kJ/kg. Energy required?",
+    "options": [
+      "1000000 kJ",
+      "1000 kJ",
+      "62.5 kJ",
+      "254 kJ"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation only"
+    ],
+    "answer_index": 0,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "mass",
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature"
+    ],
+    "answer_index": 3,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "3 kg of a material with c=400 J/(kg·K) warms by 9 K. Heat absorbed?",
+    "options": [
+      "3600 J",
+      "5400 J",
+      "10800 J",
+      "1200 J"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "1500 J/K",
+      "250 J/K",
+      "9000 J/K",
+      "0 J/K"
+    ],
+    "answer_index": 1,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1 kg sample changes phase with latent heat 200 kJ/kg. Energy required?",
+    "options": [
+      "200 kJ",
+      "200 kJ",
+      "201 kJ",
+      "200000 kJ"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "convection",
+      "radiation",
+      "evaporation only",
+      "conduction"
+    ],
+    "answer_index": 3,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "4 kg of a material with c=400 J/(kg·K) warms by 8 K. Heat absorbed?",
+    "options": [
+      "6400 J",
+      "12800 J",
+      "1600 J",
+      "3200 J"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 4000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "666.67 J/K",
+      "24000 J/K",
+      "0 J/K",
+      "4000 J/K"
+    ],
+    "answer_index": 0,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg sample changes phase with latent heat 450 kJ/kg. Energy required?",
+    "options": [
+      "225 kJ",
+      "452 kJ",
+      "900000 kJ",
+      "900 kJ"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "radiation",
+      "evaporation only",
+      "conduction",
+      "convection"
+    ],
+    "answer_index": 2,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge"
+    ],
+    "answer_index": 1,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "1 kg of a material with c=400 J/(kg·K) warms by 7 K. Heat absorbed?",
+    "options": [
+      "2800 J",
+      "400 J",
+      "2800 J",
+      "1400 J"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 3000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "18000 J/K",
+      "0 J/K",
+      "3000 J/K",
+      "500 J/K"
+    ],
+    "answer_index": 3,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg sample changes phase with latent heat 400 kJ/kg. Energy required?",
+    "options": [
+      "403 kJ",
+      "1200000 kJ",
+      "1200 kJ",
+      "133.33 kJ"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "evaporation only",
+      "conduction",
+      "convection",
+      "radiation"
+    ],
+    "answer_index": 1,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge",
+      "gravitational field"
+    ],
+    "answer_index": 0,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "2 kg of a material with c=400 J/(kg·K) warms by 6 K. Heat absorbed?",
+    "options": [
+      "800 J",
+      "2400 J",
+      "2400 J",
+      "4800 J"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 2000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "0 J/K",
+      "2000 J/K",
+      "333.33 J/K",
+      "12000 J/K"
+    ],
+    "answer_index": 2,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg sample changes phase with latent heat 350 kJ/kg. Energy required?",
+    "options": [
+      "1400000 kJ",
+      "1400 kJ",
+      "87.5 kJ",
+      "354 kJ"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation only"
+    ],
+    "answer_index": 0,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "mass",
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature"
+    ],
+    "answer_index": 3,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "3 kg of a material with c=400 J/(kg·K) warms by 5 K. Heat absorbed?",
+    "options": [
+      "2000 J",
+      "3000 J",
+      "6000 J",
+      "1200 J"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "1000 J/K",
+      "166.67 J/K",
+      "6000 J/K",
+      "0.01 J/K"
+    ],
+    "answer_index": 1,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1 kg sample changes phase with latent heat 300 kJ/kg. Energy required?",
+    "options": [
+      "300 kJ",
+      "300 kJ",
+      "301 kJ",
+      "300000 kJ"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "convection",
+      "radiation",
+      "evaporation only",
+      "conduction"
+    ],
+    "answer_index": 3,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "4 kg of a material with c=400 J/(kg·K) warms by 10 K. Heat absorbed?",
+    "options": [
+      "8000 J",
+      "16000 J",
+      "1600 J",
+      "4000 J"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 3500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "583.33 J/K",
+      "21000 J/K",
+      "0 J/K",
+      "3500 J/K"
+    ],
+    "answer_index": 0,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg sample changes phase with latent heat 250 kJ/kg. Energy required?",
+    "options": [
+      "125 kJ",
+      "252 kJ",
+      "500000 kJ",
+      "500 kJ"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "radiation",
+      "evaporation only",
+      "conduction",
+      "convection"
+    ],
+    "answer_index": 2,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge"
+    ],
+    "answer_index": 1,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "1 kg of a material with c=400 J/(kg·K) warms by 9 K. Heat absorbed?",
+    "options": [
+      "3600 J",
+      "400 J",
+      "3600 J",
+      "1800 J"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 2500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "15000 J/K",
+      "0 J/K",
+      "2500 J/K",
+      "416.67 J/K"
+    ],
+    "answer_index": 3,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg sample changes phase with latent heat 200 kJ/kg. Energy required?",
+    "options": [
+      "203 kJ",
+      "600000 kJ",
+      "600 kJ",
+      "66.67 kJ"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "evaporation only",
+      "conduction",
+      "convection",
+      "radiation"
+    ],
+    "answer_index": 1,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge",
+      "gravitational field"
+    ],
+    "answer_index": 0,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "2 kg of a material with c=400 J/(kg·K) warms by 8 K. Heat absorbed?",
+    "options": [
+      "800 J",
+      "3200 J",
+      "3200 J",
+      "6400 J"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "0 J/K",
+      "1500 J/K",
+      "250 J/K",
+      "9000 J/K"
+    ],
+    "answer_index": 2,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg sample changes phase with latent heat 450 kJ/kg. Energy required?",
+    "options": [
+      "1800000 kJ",
+      "1800 kJ",
+      "112.5 kJ",
+      "454 kJ"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation only"
+    ],
+    "answer_index": 0,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "mass",
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature"
+    ],
+    "answer_index": 3,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "3 kg of a material with c=400 J/(kg·K) warms by 7 K. Heat absorbed?",
+    "options": [
+      "2800 J",
+      "4200 J",
+      "8400 J",
+      "1200 J"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 4000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "4000 J/K",
+      "666.67 J/K",
+      "24000 J/K",
+      "0 J/K"
+    ],
+    "answer_index": 1,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1 kg sample changes phase with latent heat 400 kJ/kg. Energy required?",
+    "options": [
+      "400 kJ",
+      "400 kJ",
+      "401 kJ",
+      "400000 kJ"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "convection",
+      "radiation",
+      "evaporation only",
+      "conduction"
+    ],
+    "answer_index": 3,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "4 kg of a material with c=400 J/(kg·K) warms by 6 K. Heat absorbed?",
+    "options": [
+      "4800 J",
+      "9600 J",
+      "1600 J",
+      "2400 J"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 3000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "500 J/K",
+      "18000 J/K",
+      "0 J/K",
+      "3000 J/K"
+    ],
+    "answer_index": 0,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg sample changes phase with latent heat 350 kJ/kg. Energy required?",
+    "options": [
+      "175 kJ",
+      "352 kJ",
+      "700000 kJ",
+      "700 kJ"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "radiation",
+      "evaporation only",
+      "conduction",
+      "convection"
+    ],
+    "answer_index": 2,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge"
+    ],
+    "answer_index": 1,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "1 kg of a material with c=400 J/(kg·K) warms by 5 K. Heat absorbed?",
+    "options": [
+      "2000 J",
+      "400 J",
+      "2000 J",
+      "1000 J"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 2000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "12000 J/K",
+      "0 J/K",
+      "2000 J/K",
+      "333.33 J/K"
+    ],
+    "answer_index": 3,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg sample changes phase with latent heat 300 kJ/kg. Energy required?",
+    "options": [
+      "303 kJ",
+      "900000 kJ",
+      "900 kJ",
+      "100 kJ"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "evaporation only",
+      "conduction",
+      "convection",
+      "radiation"
+    ],
+    "answer_index": 1,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge",
+      "gravitational field"
+    ],
+    "answer_index": 0,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "2 kg of a material with c=400 J/(kg·K) warms by 10 K. Heat absorbed?",
+    "options": [
+      "800 J",
+      "4000 J",
+      "4000 J",
+      "8000 J"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "0.01 J/K",
+      "1000 J/K",
+      "166.67 J/K",
+      "6000 J/K"
+    ],
+    "answer_index": 2,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg sample changes phase with latent heat 250 kJ/kg. Energy required?",
+    "options": [
+      "1000000 kJ",
+      "1000 kJ",
+      "62.5 kJ",
+      "254 kJ"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation only"
+    ],
+    "answer_index": 0,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "mass",
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature"
+    ],
+    "answer_index": 3,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "3 kg of a material with c=400 J/(kg·K) warms by 9 K. Heat absorbed?",
+    "options": [
+      "3600 J",
+      "5400 J",
+      "10800 J",
+      "1200 J"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 3500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "3500 J/K",
+      "583.33 J/K",
+      "21000 J/K",
+      "0 J/K"
+    ],
+    "answer_index": 1,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1 kg sample changes phase with latent heat 200 kJ/kg. Energy required?",
+    "options": [
+      "200 kJ",
+      "200 kJ",
+      "201 kJ",
+      "200000 kJ"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "convection",
+      "radiation",
+      "evaporation only",
+      "conduction"
+    ],
+    "answer_index": 3,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "4 kg of a material with c=400 J/(kg·K) warms by 8 K. Heat absorbed?",
+    "options": [
+      "6400 J",
+      "12800 J",
+      "1600 J",
+      "3200 J"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 2500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "416.67 J/K",
+      "15000 J/K",
+      "0 J/K",
+      "2500 J/K"
+    ],
+    "answer_index": 0,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg sample changes phase with latent heat 450 kJ/kg. Energy required?",
+    "options": [
+      "225 kJ",
+      "452 kJ",
+      "900000 kJ",
+      "900 kJ"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "radiation",
+      "evaporation only",
+      "conduction",
+      "convection"
+    ],
+    "answer_index": 2,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "gravitational field",
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge"
+    ],
+    "answer_index": 1,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "1 kg of a material with c=400 J/(kg·K) warms by 7 K. Heat absorbed?",
+    "options": [
+      "2800 J",
+      "400 J",
+      "2800 J",
+      "1400 J"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 1500 J and rises 6 K. Heat capacity?",
+    "options": [
+      "9000 J/K",
+      "0 J/K",
+      "1500 J/K",
+      "250 J/K"
+    ],
+    "answer_index": 3,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg sample changes phase with latent heat 400 kJ/kg. Energy required?",
+    "options": [
+      "403 kJ",
+      "1200000 kJ",
+      "1200 kJ",
+      "133.33 kJ"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "evaporation only",
+      "conduction",
+      "convection",
+      "radiation"
+    ],
+    "answer_index": 1,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "internal energy without raising temperature",
+      "mass",
+      "electric charge",
+      "gravitational field"
+    ],
+    "answer_index": 0,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "2 kg of a material with c=400 J/(kg·K) warms by 6 K. Heat absorbed?",
+    "options": [
+      "800 J",
+      "2400 J",
+      "2400 J",
+      "4800 J"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = mcΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object absorbs 4000 J and rises 6 K. Heat capacity?",
+    "options": [
+      "0 J/K",
+      "4000 J/K",
+      "666.67 J/K",
+      "24000 J/K"
+    ],
+    "answer_index": 2,
+    "explanation": "Heat capacity C = Q/ΔT."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg sample changes phase with latent heat 350 kJ/kg. Energy required?",
+    "options": [
+      "1400000 kJ",
+      "1400 kJ",
+      "87.5 kJ",
+      "354 kJ"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = mL."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Heat transfer through direct molecular contact is:",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation only"
+    ],
+    "answer_index": 0,
+    "explanation": "Conduction transfers energy through microscopic interactions without bulk fluid motion."
+  },
+  {
+    "id": "IMAT-PHY-THERMAL-CALORIMETRY-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Thermal Physics & Calorimetry",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "During a pure substance's phase change at constant pressure, added heat primarily changes:",
+    "options": [
+      "mass",
+      "electric charge",
+      "gravitational field",
+      "internal energy without raising temperature"
+    ],
+    "answer_index": 3,
+    "explanation": "Latent heat changes phase while temperature stays constant during the transition."
+  }
+]
