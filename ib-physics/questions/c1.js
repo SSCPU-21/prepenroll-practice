@@ -31,7 +31,7 @@ M(20,1,"In ideal SHM, maximum speed is",["ωx₀","ω²x₀","x₀/ω","ω/x₀"
 P(1,0,"A motion sensor records displacement of a mass on a spring.",["t / s","x / cm"],[[0.00,4.0],[0.25,0.0],[0.50,-4.0],[0.75,0.0],[1.00,4.0]],[
 {q:"Determine the period from the table.",m:1,ms:["1.00 s"]},
 {q:"Determine the frequency.",m:1,ms:["1.0 Hz"]},
-{q:"Read the oscillation amplitude from the relevant data.",m:1,ms:["4.0 cm"]},
+{q:"Read the amplitude from the displacement–time sample.",m:1,ms:["4.0 cm"]},
 {q:"State the phase relation between displacement and acceleration.",m:1,ms:["180° out of phase / opposite signs"]}]);
 P(2,0,"The period of a spring–mass system is measured for different attached masses.",["m / kg","T / s"],[[0.10,0.63],[0.20,0.89],[0.30,1.09],[0.40,1.26],[0.50,1.41]],[
 {q:"State a linearizing graph for the ideal relation.",m:1,ms:["T² against m"]},
@@ -50,7 +50,7 @@ P(4,0,"The amplitude of a lightly damped oscillator is measured after each cycle
 {q:"Suggest one physical source of damping.",m:1,ms:["air resistance / friction"]}]);
 P(5,0,"A spring oscillator is measured at different positions during one cycle.",["x / cm","speed / cm s⁻¹"],[[-5,0],[-4,18],[-2,27],[0,30],[2,27],[4,18],[5,0]],[
 {q:"Identify where speed is maximum.",m:1,ms:["x=0"]},
-{q:"Read the oscillation amplitude from the relevant data.",m:1,ms:["5 cm"]},
+{q:"Use the speed–position data to identify the turning-point amplitude.",m:1,ms:["5 cm"]},
 {q:"Explain why equal positive and negative displacements have equal speed magnitudes.",m:1,ms:["energy depends on x² / motion is symmetric"]},
 {q:"State where acceleration magnitude is greatest.",m:1,ms:["at x=±5 cm"]}]);
 P(6,0,"A pendulum's measured period is recorded for different starting angles.",["angle / °","T / s"],[[3,1.42],[6,1.42],[9,1.43],[12,1.44],[18,1.47]],[
@@ -69,12 +69,12 @@ P(8,1,"An SHM particle's displacement is recorded and a sinusoidal fit gives x=0
 {q:"Determine the maximum acceleration.",m:1,ms:["amax=ω²x₀=3.84 m s⁻²"]},
 {q:"State the role of the phase angle φ.",m:1,ms:["sets the oscillator's position/phase at t=0"]}]);
 P(9,1,"For an SHM oscillator the measured kinetic energy varies with displacement.",["x / cm","Ek / mJ"],[[0,18.0],[1,16.0],[2,10.0],[3,0.0]],[
-{q:"Read the oscillation amplitude from the relevant data.",m:1,ms:["3 cm"]},
+{q:"Use the zero-kinetic-energy point to infer the amplitude.",m:1,ms:["3 cm"]},
 {q:"State the total mechanical energy.",m:1,ms:["18 mJ"]},
 {q:"Explain why kinetic energy decreases with x².",m:2,ms:["Ep∝x² and Etotal is constant, so Ek=E−Ep"]},
 {q:"State the kinetic energy at the opposite extreme.",m:1,ms:["0"]}]);
 P(10,1,"A numerical model gives velocity and displacement pairs for an SHM oscillator.",["x / m","v / m s⁻¹"],[[0.00,0.80],[0.03,0.69],[0.05,0.48],[0.06,0.00]],[
-{q:"Read the oscillation amplitude from the relevant data.",m:1,ms:["0.06 m"]},
+{q:"Use the zero-speed endpoint in the velocity–displacement data to obtain the amplitude.",m:1,ms:["0.06 m"]},
 {q:"Use the maximum speed to estimate angular frequency.",m:2,ms:["ω=vmax/x₀≈13.3 rad s⁻¹"]},
 {q:"State a plot that could test v²=ω²(x₀²−x²).",m:1,ms:["v² against x², giving a straight line with negative slope"]},
 {q:"State the physical meaning of the point where v=0.",m:1,ms:["turning point/extreme displacement"]}]);
