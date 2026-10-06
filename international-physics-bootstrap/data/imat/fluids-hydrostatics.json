@@ -7,15 +7,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "stem": "A fluid sample has mass 5.5 kg and volume 0.42 m³. Density?",
     "options": [
-      "5 kg/m³",
-      "20 kg/m³",
-      "0.2 kg/m³",
-      "12 kg/m³"
+      "13.1 kg/m³",
+      "6.55 kg/m³",
+      "26.2 kg/m³",
+      "16.38 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-002",
@@ -25,15 +25,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 2 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 0.54 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "2000 Pa",
-      "19.6 Pa",
-      "9800 Pa",
-      "19600 Pa"
+      "2646 Pa",
+      "10584 Pa",
+      "6615 Pa",
+      "5292 Pa"
     ],
     "answer_index": 3,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-003",
@@ -43,15 +43,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 123 N acts on area 0.0205 m². Pressure?",
     "options": [
-      "0 Pa",
-      "200 Pa",
-      "3333.33 Pa",
-      "12 Pa"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-004",
@@ -61,15 +61,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 6 kg and volume 0.44 m³. Density?",
     "options": [
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface"
+      "17.05 kg/m³",
+      "13.64 kg/m³",
+      "6.82 kg/m³",
+      "27.28 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-005",
@@ -79,15 +79,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 0.58 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction"
+      "5684 Pa",
+      "2842 Pa",
+      "11368 Pa",
+      "7105 Pa"
     ],
     "answer_index": 0,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-006",
@@ -97,15 +97,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "stem": "A normal force 126 N acts on area 0.021 m². Pressure?",
     "options": [
-      "140 kg/m³",
-      "0.35 kg/m³",
-      "27 kg/m³",
-      "2.86 kg/m³"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-007",
@@ -115,15 +115,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 7 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 6.5 kg and volume 0.46 m³. Density?",
     "options": [
-      "68.6 Pa",
-      "34300 Pa",
-      "68600 Pa",
-      "7000 Pa"
+      "28.26 kg/m³",
+      "17.66 kg/m³",
+      "14.13 kg/m³",
+      "7.07 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-008",
@@ -133,15 +133,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 0.62 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "150 Pa",
-      "2500 Pa",
-      "9 Pa",
-      "0 Pa"
+      "7595 Pa",
+      "6076 Pa",
+      "3038 Pa",
+      "12152 Pa"
     ],
     "answer_index": 1,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-009",
@@ -151,15 +151,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 129 N acts on area 0.0215 m². Pressure?",
     "options": [
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-010",
@@ -169,15 +169,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 7 kg and volume 0.48 m³. Density?",
     "options": [
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems"
+      "7.29 kg/m³",
+      "29.16 kg/m³",
+      "18.23 kg/m³",
+      "14.58 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-011",
@@ -187,15 +187,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "stem": "Find gauge pressure 0.66 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "0.6 kg/m³",
-      "16 kg/m³",
-      "1.67 kg/m³",
-      "60 kg/m³"
+      "12936 Pa",
+      "8085 Pa",
+      "6468 Pa",
+      "3234 Pa"
     ],
     "answer_index": 2,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-012",
@@ -205,15 +205,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 4 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 132 N acts on area 0.022 m². Pressure?",
     "options": [
-      "19600 Pa",
-      "39200 Pa",
-      "4000 Pa",
-      "39.2 Pa"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-013",
@@ -223,15 +223,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 7.5 kg and volume 0.5 m³. Density?",
     "options": [
-      "1666.67 Pa",
-      "6 Pa",
-      "0 Pa",
-      "100 Pa"
+      "15 kg/m³",
+      "7.5 kg/m³",
+      "30 kg/m³",
+      "18.75 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-014",
@@ -241,15 +241,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 0.7 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid"
+      "3430 Pa",
+      "13720 Pa",
+      "8575 Pa",
+      "6860 Pa"
     ],
     "answer_index": 3,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-015",
@@ -259,15 +259,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 135 N acts on area 0.0225 m². Pressure?",
     "options": [
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-016",
@@ -277,15 +277,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "stem": "A fluid sample has mass 8 kg and volume 0.52 m³. Density?",
     "options": [
-      "25 kg/m³",
-      "4 kg/m³",
-      "100 kg/m³",
-      "0.25 kg/m³"
+      "19.23 kg/m³",
+      "15.38 kg/m³",
+      "7.69 kg/m³",
+      "30.76 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-017",
@@ -295,15 +295,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 1 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 0.74 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "9800 Pa",
-      "1000 Pa",
-      "9.8 Pa",
-      "4900 Pa"
+      "7252 Pa",
+      "3626 Pa",
+      "14504 Pa",
+      "9065 Pa"
     ],
     "answer_index": 0,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-018",
@@ -313,15 +313,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 138 N acts on area 0.023 m². Pressure?",
     "options": [
-      "21 Pa",
-      "0 Pa",
-      "350 Pa",
-      "5833.33 Pa"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-019",
@@ -331,15 +331,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 8.5 kg and volume 0.54 m³. Density?",
     "options": [
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object"
+      "31.48 kg/m³",
+      "19.68 kg/m³",
+      "15.74 kg/m³",
+      "7.87 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-020",
@@ -349,15 +349,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 0.78 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay"
+      "9555 Pa",
+      "7644 Pa",
+      "3822 Pa",
+      "15288 Pa"
     ],
     "answer_index": 1,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-021",
@@ -367,15 +367,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "stem": "A normal force 141 N acts on area 0.0235 m². Pressure?",
     "options": [
-      "2.5 kg/m³",
-      "40 kg/m³",
-      "0.4 kg/m³",
-      "14 kg/m³"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-022",
@@ -385,15 +385,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 6 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 9 kg and volume 0.56 m³. Density?",
     "options": [
-      "6000 Pa",
-      "58.8 Pa",
-      "29400 Pa",
-      "58800 Pa"
+      "8.04 kg/m³",
+      "32.14 kg/m³",
+      "20.09 kg/m³",
+      "16.07 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-023",
@@ -403,15 +403,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 0.82 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "0 Pa",
-      "300 Pa",
-      "5000 Pa",
-      "18 Pa"
+      "16072 Pa",
+      "10045 Pa",
+      "8036 Pa",
+      "4018 Pa"
     ],
     "answer_index": 2,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-024",
@@ -421,15 +421,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 144 N acts on area 0.024 m². Pressure?",
     "options": [
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-025",
@@ -439,15 +439,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 9.5 kg and volume 0.58 m³. Density?",
     "options": [
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction"
+      "16.38 kg/m³",
+      "8.19 kg/m³",
+      "32.76 kg/m³",
+      "20.47 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-026",
@@ -457,15 +457,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "stem": "Find gauge pressure 0.86 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "60 kg/m³",
-      "0.15 kg/m³",
-      "23 kg/m³",
-      "6.67 kg/m³"
+      "4214 Pa",
+      "16856 Pa",
+      "10535 Pa",
+      "8428 Pa"
     ],
     "answer_index": 3,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-027",
@@ -475,15 +475,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 3 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 147 N acts on area 0.0245 m². Pressure?",
     "options": [
-      "29.4 Pa",
-      "14700 Pa",
-      "29400 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
       "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-028",
@@ -493,15 +493,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 10 kg and volume 0.6 m³. Density?",
     "options": [
-      "250 Pa",
-      "4166.67 Pa",
-      "15 Pa",
-      "0 Pa"
+      "20.84 kg/m³",
+      "16.67 kg/m³",
+      "8.34 kg/m³",
+      "33.34 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-029",
@@ -511,15 +511,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 0.9 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container"
+      "8820 Pa",
+      "4410 Pa",
+      "17640 Pa",
+      "11025 Pa"
     ],
     "answer_index": 0,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-030",
@@ -529,15 +529,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 150 N acts on area 0.025 m². Pressure?",
     "options": [
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-031",
@@ -547,15 +547,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "stem": "A fluid sample has mass 10.5 kg and volume 0.62 m³. Density?",
     "options": [
-      "0.2 kg/m³",
-      "12 kg/m³",
-      "5 kg/m³",
-      "20 kg/m³"
+      "33.88 kg/m³",
+      "21.18 kg/m³",
+      "16.94 kg/m³",
+      "8.47 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-032",
@@ -565,15 +565,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 8 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 0.94 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "39200 Pa",
-      "78400 Pa",
-      "8000 Pa",
-      "78.4 Pa"
+      "11515 Pa",
+      "9212 Pa",
+      "4606 Pa",
+      "18424 Pa"
     ],
     "answer_index": 1,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-033",
@@ -583,15 +583,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 153 N acts on area 0.0255 m². Pressure?",
     "options": [
-      "3333.33 Pa",
-      "12 Pa",
-      "0 Pa",
-      "200 Pa"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-034",
@@ -601,15 +601,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 11 kg and volume 0.64 m³. Density?",
     "options": [
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid"
+      "8.6 kg/m³",
+      "34.38 kg/m³",
+      "21.49 kg/m³",
+      "17.19 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-035",
@@ -619,15 +619,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 0.98 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums"
+      "19208 Pa",
+      "12005 Pa",
+      "9604 Pa",
+      "4802 Pa"
     ],
     "answer_index": 2,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-036",
@@ -637,15 +637,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "stem": "A normal force 156 N acts on area 0.026 m². Pressure?",
     "options": [
-      "27 kg/m³",
-      "2.86 kg/m³",
-      "140 kg/m³",
-      "0.35 kg/m³"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-037",
@@ -655,15 +655,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 5 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 11.5 kg and volume 0.66 m³. Density?",
     "options": [
-      "49000 Pa",
-      "5000 Pa",
-      "49 Pa",
-      "24500 Pa"
+      "17.42 kg/m³",
+      "8.71 kg/m³",
+      "34.84 kg/m³",
+      "21.78 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-038",
@@ -673,15 +673,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 1.02 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "9 Pa",
-      "0 Pa",
-      "150 Pa",
-      "2500 Pa"
+      "4998 Pa",
+      "19992 Pa",
+      "12495 Pa",
+      "9996 Pa"
     ],
     "answer_index": 3,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-039",
@@ -691,15 +691,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 159 N acts on area 0.0265 m². Pressure?",
     "options": [
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-040",
@@ -709,15 +709,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 12 kg and volume 0.68 m³. Density?",
     "options": [
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay"
+      "22.06 kg/m³",
+      "17.65 kg/m³",
+      "8.82 kg/m³",
+      "35.3 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-041",
@@ -727,15 +727,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "stem": "Find gauge pressure 1.06 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "1.67 kg/m³",
-      "60 kg/m³",
-      "0.6 kg/m³",
-      "16 kg/m³"
+      "10388 Pa",
+      "5194 Pa",
+      "20776 Pa",
+      "12985 Pa"
     ],
     "answer_index": 0,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-042",
@@ -745,15 +745,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 2 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 162 N acts on area 0.027 m². Pressure?",
     "options": [
-      "2000 Pa",
-      "19.6 Pa",
-      "9800 Pa",
-      "19600 Pa"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-043",
@@ -763,15 +763,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 12.5 kg and volume 0.7 m³. Density?",
     "options": [
-      "0 Pa",
-      "100 Pa",
-      "1666.67 Pa",
-      "6 Pa"
+      "35.72 kg/m³",
+      "22.32 kg/m³",
+      "17.86 kg/m³",
+      "8.93 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-044",
@@ -781,15 +781,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 1.1 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface"
+      "13475 Pa",
+      "10780 Pa",
+      "5390 Pa",
+      "21560 Pa"
     ],
     "answer_index": 1,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-045",
@@ -799,15 +799,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 165 N acts on area 0.0275 m². Pressure?",
     "options": [
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-046",
@@ -817,15 +817,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "stem": "A fluid sample has mass 13 kg and volume 0.72 m³. Density?",
     "options": [
-      "100 kg/m³",
-      "0.25 kg/m³",
-      "25 kg/m³",
-      "4 kg/m³"
+      "9.03 kg/m³",
+      "36.12 kg/m³",
+      "22.57 kg/m³",
+      "18.06 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-047",
@@ -835,15 +835,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 7 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 1.14 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "68.6 Pa",
-      "34300 Pa",
-      "68600 Pa",
-      "7000 Pa"
+      "22344 Pa",
+      "13965 Pa",
+      "11172 Pa",
+      "5586 Pa"
     ],
     "answer_index": 2,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-048",
@@ -853,15 +853,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 168 N acts on area 0.028 m². Pressure?",
     "options": [
-      "350 Pa",
-      "5833.33 Pa",
-      "21 Pa",
-      "0 Pa"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-049",
@@ -871,15 +871,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 13.5 kg and volume 0.74 m³. Density?",
     "options": [
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container"
+      "18.24 kg/m³",
+      "9.12 kg/m³",
+      "36.48 kg/m³",
+      "22.8 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-050",
@@ -889,15 +889,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 1.18 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems"
+      "5782 Pa",
+      "23128 Pa",
+      "14455 Pa",
+      "11564 Pa"
     ],
     "answer_index": 3,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-051",
@@ -907,15 +907,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "stem": "A normal force 171 N acts on area 0.0285 m². Pressure?",
     "options": [
-      "0.4 kg/m³",
-      "14 kg/m³",
-      "2.5 kg/m³",
-      "40 kg/m³"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-052",
@@ -925,15 +925,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 4 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 14 kg and volume 0.76 m³. Density?",
     "options": [
-      "19600 Pa",
-      "39200 Pa",
-      "4000 Pa",
-      "39.2 Pa"
+      "23.03 kg/m³",
+      "18.42 kg/m³",
+      "9.21 kg/m³",
+      "36.84 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-053",
@@ -943,15 +943,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 1.22 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "5000 Pa",
-      "18 Pa",
-      "0 Pa",
-      "300 Pa"
+      "11956 Pa",
+      "5978 Pa",
+      "23912 Pa",
+      "14945 Pa"
     ],
     "answer_index": 0,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-054",
@@ -961,15 +961,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 174 N acts on area 0.029 m². Pressure?",
     "options": [
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-055",
@@ -979,15 +979,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 14.5 kg and volume 0.78 m³. Density?",
     "options": [
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums"
+      "37.18 kg/m³",
+      "23.24 kg/m³",
+      "18.59 kg/m³",
+      "9.29 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-056",
@@ -997,15 +997,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "stem": "Find gauge pressure 1.26 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "23 kg/m³",
-      "6.67 kg/m³",
-      "60 kg/m³",
-      "0.15 kg/m³"
+      "15435 Pa",
+      "12348 Pa",
+      "6174 Pa",
+      "24696 Pa"
     ],
     "answer_index": 1,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-057",
@@ -1015,15 +1015,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 1 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 177 N acts on area 0.0295 m². Pressure?",
     "options": [
-      "9800 Pa",
-      "1000 Pa",
-      "9.8 Pa",
-      "4900 Pa"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-058",
@@ -1033,15 +1033,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 15 kg and volume 0.8 m³. Density?",
     "options": [
-      "15 Pa",
-      "0 Pa",
-      "250 Pa",
-      "4166.67 Pa"
+      "9.38 kg/m³",
+      "37.5 kg/m³",
+      "23.44 kg/m³",
+      "18.75 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-059",
@@ -1051,15 +1051,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 1.3 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object"
+      "25480 Pa",
+      "15925 Pa",
+      "12740 Pa",
+      "6370 Pa"
     ],
     "answer_index": 2,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-060",
@@ -1069,15 +1069,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 180 N acts on area 0.03 m². Pressure?",
     "options": [
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-061",
@@ -1087,15 +1087,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "stem": "A fluid sample has mass 15.5 kg and volume 0.82 m³. Density?",
     "options": [
-      "5 kg/m³",
-      "20 kg/m³",
-      "0.2 kg/m³",
-      "12 kg/m³"
+      "18.9 kg/m³",
+      "9.45 kg/m³",
+      "37.8 kg/m³",
+      "23.63 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-062",
@@ -1105,15 +1105,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 6 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 1.34 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "6000 Pa",
-      "58.8 Pa",
-      "29400 Pa",
-      "58800 Pa"
+      "6566 Pa",
+      "26264 Pa",
+      "16415 Pa",
+      "13132 Pa"
     ],
     "answer_index": 3,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-063",
@@ -1123,15 +1123,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 183 N acts on area 0.0305 m². Pressure?",
     "options": [
-      "0 Pa",
-      "200 Pa",
-      "3333.33 Pa",
-      "12 Pa"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-064",
@@ -1141,15 +1141,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 16 kg and volume 0.84 m³. Density?",
     "options": [
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface"
+      "23.81 kg/m³",
+      "19.05 kg/m³",
+      "9.53 kg/m³",
+      "38.1 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-065",
@@ -1159,15 +1159,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 1.38 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction"
+      "13524 Pa",
+      "6762 Pa",
+      "27048 Pa",
+      "16905 Pa"
     ],
     "answer_index": 0,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-066",
@@ -1177,15 +1177,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "stem": "A normal force 186 N acts on area 0.031 m². Pressure?",
     "options": [
-      "140 kg/m³",
-      "0.35 kg/m³",
-      "27 kg/m³",
-      "2.86 kg/m³"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-067",
@@ -1195,15 +1195,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 3 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 16.5 kg and volume 0.86 m³. Density?",
     "options": [
-      "29.4 Pa",
-      "14700 Pa",
-      "29400 Pa",
-      "3000 Pa"
+      "38.38 kg/m³",
+      "23.99 kg/m³",
+      "19.19 kg/m³",
+      "9.6 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-068",
@@ -1213,15 +1213,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 1.42 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "150 Pa",
-      "2500 Pa",
-      "9 Pa",
-      "0 Pa"
+      "17395 Pa",
+      "13916 Pa",
+      "6958 Pa",
+      "27832 Pa"
     ],
     "answer_index": 1,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-069",
@@ -1231,15 +1231,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 189 N acts on area 0.0315 m². Pressure?",
     "options": [
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-070",
@@ -1249,15 +1249,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 17 kg and volume 0.88 m³. Density?",
     "options": [
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems"
+      "9.66 kg/m³",
+      "38.64 kg/m³",
+      "24.15 kg/m³",
+      "19.32 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-071",
@@ -1267,15 +1267,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "stem": "Find gauge pressure 1.46 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "0.6 kg/m³",
-      "16 kg/m³",
-      "1.67 kg/m³",
-      "60 kg/m³"
+      "28616 Pa",
+      "17885 Pa",
+      "14308 Pa",
+      "7154 Pa"
     ],
     "answer_index": 2,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-072",
@@ -1285,15 +1285,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 8 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 192 N acts on area 0.032 m². Pressure?",
     "options": [
-      "39200 Pa",
-      "78400 Pa",
-      "8000 Pa",
-      "78.4 Pa"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-073",
@@ -1303,15 +1303,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 17.5 kg and volume 0.9 m³. Density?",
     "options": [
-      "1666.67 Pa",
-      "6 Pa",
-      "0 Pa",
-      "100 Pa"
+      "19.44 kg/m³",
+      "9.72 kg/m³",
+      "38.88 kg/m³",
+      "24.3 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-074",
@@ -1321,15 +1321,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 1.5 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid"
+      "7350 Pa",
+      "29400 Pa",
+      "18375 Pa",
+      "14700 Pa"
     ],
     "answer_index": 3,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-075",
@@ -1339,15 +1339,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 195 N acts on area 0.0325 m². Pressure?",
     "options": [
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-076",
@@ -1357,15 +1357,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "stem": "A fluid sample has mass 18 kg and volume 0.92 m³. Density?",
     "options": [
-      "25 kg/m³",
-      "4 kg/m³",
-      "100 kg/m³",
-      "0.25 kg/m³"
+      "24.46 kg/m³",
+      "19.57 kg/m³",
+      "9.79 kg/m³",
+      "39.14 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-077",
@@ -1375,15 +1375,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 5 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 1.54 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "49000 Pa",
-      "5000 Pa",
-      "49 Pa",
-      "24500 Pa"
+      "15092 Pa",
+      "7546 Pa",
+      "30184 Pa",
+      "18865 Pa"
     ],
     "answer_index": 0,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-078",
@@ -1393,15 +1393,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 198 N acts on area 0.033 m². Pressure?",
     "options": [
-      "21 Pa",
-      "0 Pa",
-      "350 Pa",
-      "5833.33 Pa"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-079",
@@ -1411,15 +1411,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 18.5 kg and volume 0.94 m³. Density?",
     "options": [
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object"
+      "39.36 kg/m³",
+      "24.6 kg/m³",
+      "19.68 kg/m³",
+      "9.84 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-080",
@@ -1429,15 +1429,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 1.58 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay"
+      "19355 Pa",
+      "15484 Pa",
+      "7742 Pa",
+      "30968 Pa"
     ],
     "answer_index": 1,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-081",
@@ -1447,15 +1447,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "stem": "A normal force 201 N acts on area 0.0335 m². Pressure?",
     "options": [
-      "2.5 kg/m³",
-      "40 kg/m³",
-      "0.4 kg/m³",
-      "14 kg/m³"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-082",
@@ -1465,15 +1465,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 2 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 19 kg and volume 0.96 m³. Density?",
     "options": [
-      "2000 Pa",
-      "19.6 Pa",
-      "9800 Pa",
-      "19600 Pa"
+      "9.89 kg/m³",
+      "39.58 kg/m³",
+      "24.74 kg/m³",
+      "19.79 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-083",
@@ -1483,15 +1483,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 1.62 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "0 Pa",
-      "300 Pa",
-      "5000 Pa",
-      "18 Pa"
+      "31752 Pa",
+      "19845 Pa",
+      "15876 Pa",
+      "7938 Pa"
     ],
     "answer_index": 2,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-084",
@@ -1501,15 +1501,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 204 N acts on area 0.034 m². Pressure?",
     "options": [
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-085",
@@ -1519,15 +1519,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 19.5 kg and volume 0.98 m³. Density?",
     "options": [
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction"
+      "19.9 kg/m³",
+      "9.95 kg/m³",
+      "39.8 kg/m³",
+      "24.88 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-086",
@@ -1537,15 +1537,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "stem": "Find gauge pressure 1.66 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "60 kg/m³",
-      "0.15 kg/m³",
-      "23 kg/m³",
-      "6.67 kg/m³"
+      "8134 Pa",
+      "32536 Pa",
+      "20335 Pa",
+      "16268 Pa"
     ],
     "answer_index": 3,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-087",
@@ -1555,15 +1555,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 7 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 207 N acts on area 0.0345 m². Pressure?",
     "options": [
-      "68.6 Pa",
-      "34300 Pa",
-      "68600 Pa",
-      "7000 Pa"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-088",
@@ -1573,15 +1573,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 20 kg and volume 1 m³. Density?",
     "options": [
-      "250 Pa",
-      "4166.67 Pa",
-      "15 Pa",
-      "0 Pa"
+      "25 kg/m³",
+      "20 kg/m³",
+      "10 kg/m³",
+      "40 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-089",
@@ -1591,15 +1591,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 1.7 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container"
+      "16660 Pa",
+      "8330 Pa",
+      "33320 Pa",
+      "20825 Pa"
     ],
     "answer_index": 0,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-090",
@@ -1609,15 +1609,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 210 N acts on area 0.035 m². Pressure?",
     "options": [
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-091",
@@ -1627,15 +1627,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "stem": "A fluid sample has mass 20.5 kg and volume 1.02 m³. Density?",
     "options": [
-      "0.2 kg/m³",
-      "12 kg/m³",
-      "5 kg/m³",
-      "20 kg/m³"
+      "40.2 kg/m³",
+      "25.13 kg/m³",
+      "20.1 kg/m³",
+      "10.05 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-092",
@@ -1645,15 +1645,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 4 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 1.74 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "19600 Pa",
-      "39200 Pa",
-      "4000 Pa",
-      "39.2 Pa"
+      "21315 Pa",
+      "17052 Pa",
+      "8526 Pa",
+      "34104 Pa"
     ],
     "answer_index": 1,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-093",
@@ -1663,15 +1663,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 213 N acts on area 0.0355 m². Pressure?",
     "options": [
-      "3333.33 Pa",
-      "12 Pa",
-      "0 Pa",
-      "200 Pa"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-094",
@@ -1681,15 +1681,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 21 kg and volume 1.04 m³. Density?",
     "options": [
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid"
+      "10.1 kg/m³",
+      "40.38 kg/m³",
+      "25.24 kg/m³",
+      "20.19 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-095",
@@ -1699,15 +1699,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 1.78 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums"
+      "34888 Pa",
+      "21805 Pa",
+      "17444 Pa",
+      "8722 Pa"
     ],
     "answer_index": 2,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-096",
@@ -1717,15 +1717,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "stem": "A normal force 216 N acts on area 0.036 m². Pressure?",
     "options": [
-      "27 kg/m³",
-      "2.86 kg/m³",
-      "140 kg/m³",
-      "0.35 kg/m³"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-097",
@@ -1735,15 +1735,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 1 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 21.5 kg and volume 1.06 m³. Density?",
     "options": [
-      "9800 Pa",
-      "1000 Pa",
-      "9.8 Pa",
-      "4900 Pa"
+      "20.28 kg/m³",
+      "10.14 kg/m³",
+      "40.56 kg/m³",
+      "25.35 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-098",
@@ -1753,15 +1753,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 1.82 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "9 Pa",
-      "0 Pa",
-      "150 Pa",
-      "2500 Pa"
+      "8918 Pa",
+      "35672 Pa",
+      "22295 Pa",
+      "17836 Pa"
     ],
     "answer_index": 3,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-099",
@@ -1771,15 +1771,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 219 N acts on area 0.0365 m². Pressure?",
     "options": [
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-100",
@@ -1789,15 +1789,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 22 kg and volume 1.08 m³. Density?",
     "options": [
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay"
+      "25.46 kg/m³",
+      "20.37 kg/m³",
+      "10.19 kg/m³",
+      "40.74 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-101",
@@ -1807,15 +1807,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "stem": "Find gauge pressure 1.86 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "1.67 kg/m³",
-      "60 kg/m³",
-      "0.6 kg/m³",
-      "16 kg/m³"
+      "18228 Pa",
+      "9114 Pa",
+      "36456 Pa",
+      "22785 Pa"
     ],
     "answer_index": 0,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-102",
@@ -1825,15 +1825,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 6 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 222 N acts on area 0.037 m². Pressure?",
     "options": [
-      "6000 Pa",
-      "58.8 Pa",
-      "29400 Pa",
-      "58800 Pa"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-103",
@@ -1843,15 +1843,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 22.5 kg and volume 1.1 m³. Density?",
     "options": [
-      "0 Pa",
-      "100 Pa",
-      "1666.67 Pa",
-      "6 Pa"
+      "40.9 kg/m³",
+      "25.56 kg/m³",
+      "20.45 kg/m³",
+      "10.22 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-104",
@@ -1861,15 +1861,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 1.9 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface"
+      "23275 Pa",
+      "18620 Pa",
+      "9310 Pa",
+      "37240 Pa"
     ],
     "answer_index": 1,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-105",
@@ -1879,15 +1879,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 225 N acts on area 0.0375 m². Pressure?",
     "options": [
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-106",
@@ -1897,15 +1897,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "stem": "A fluid sample has mass 23 kg and volume 1.12 m³. Density?",
     "options": [
-      "100 kg/m³",
-      "0.25 kg/m³",
-      "25 kg/m³",
-      "4 kg/m³"
+      "10.27 kg/m³",
+      "41.08 kg/m³",
+      "25.67 kg/m³",
+      "20.54 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-107",
@@ -1915,15 +1915,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 3 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 1.94 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "29.4 Pa",
-      "14700 Pa",
-      "29400 Pa",
-      "3000 Pa"
+      "38024 Pa",
+      "23765 Pa",
+      "19012 Pa",
+      "9506 Pa"
     ],
     "answer_index": 2,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-108",
@@ -1933,15 +1933,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 228 N acts on area 0.038 m². Pressure?",
     "options": [
-      "350 Pa",
-      "5833.33 Pa",
-      "21 Pa",
-      "0 Pa"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-109",
@@ -1951,15 +1951,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 23.5 kg and volume 1.14 m³. Density?",
     "options": [
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container"
+      "20.61 kg/m³",
+      "10.3 kg/m³",
+      "41.22 kg/m³",
+      "25.76 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-110",
@@ -1969,15 +1969,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 1.98 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems"
+      "9702 Pa",
+      "38808 Pa",
+      "24255 Pa",
+      "19404 Pa"
     ],
     "answer_index": 3,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-111",
@@ -1987,15 +1987,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "stem": "A normal force 231 N acts on area 0.0385 m². Pressure?",
     "options": [
-      "0.4 kg/m³",
-      "14 kg/m³",
-      "2.5 kg/m³",
-      "40 kg/m³"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-112",
@@ -2005,15 +2005,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 8 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 24 kg and volume 1.16 m³. Density?",
     "options": [
-      "39200 Pa",
-      "78400 Pa",
-      "8000 Pa",
-      "78.4 Pa"
+      "25.86 kg/m³",
+      "20.69 kg/m³",
+      "10.35 kg/m³",
+      "41.38 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-113",
@@ -2023,15 +2023,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 2.02 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "5000 Pa",
-      "18 Pa",
-      "0 Pa",
-      "300 Pa"
+      "19796 Pa",
+      "9898 Pa",
+      "39592 Pa",
+      "24745 Pa"
     ],
     "answer_index": 0,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-114",
@@ -2041,15 +2041,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 234 N acts on area 0.039 m². Pressure?",
     "options": [
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-115",
@@ -2059,15 +2059,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 24.5 kg and volume 1.18 m³. Density?",
     "options": [
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums"
+      "41.52 kg/m³",
+      "25.95 kg/m³",
+      "20.76 kg/m³",
+      "10.38 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-116",
@@ -2077,15 +2077,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "stem": "Find gauge pressure 2.06 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "23 kg/m³",
-      "6.67 kg/m³",
-      "60 kg/m³",
-      "0.15 kg/m³"
+      "25235 Pa",
+      "20188 Pa",
+      "10094 Pa",
+      "40376 Pa"
     ],
     "answer_index": 1,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-117",
@@ -2095,15 +2095,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 5 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 237 N acts on area 0.0395 m². Pressure?",
     "options": [
-      "49000 Pa",
-      "5000 Pa",
-      "49 Pa",
-      "24500 Pa"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-118",
@@ -2113,15 +2113,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 25 kg and volume 1.2 m³. Density?",
     "options": [
-      "15 Pa",
-      "0 Pa",
-      "250 Pa",
-      "4166.67 Pa"
+      "10.41 kg/m³",
+      "41.66 kg/m³",
+      "26.04 kg/m³",
+      "20.83 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-119",
@@ -2131,15 +2131,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 2.1 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object"
+      "41160 Pa",
+      "25725 Pa",
+      "20580 Pa",
+      "10290 Pa"
     ],
     "answer_index": 2,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-120",
@@ -2149,15 +2149,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 240 N acts on area 0.04 m². Pressure?",
     "options": [
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-121",
@@ -2167,15 +2167,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "stem": "A fluid sample has mass 25.5 kg and volume 1.22 m³. Density?",
     "options": [
-      "5 kg/m³",
-      "20 kg/m³",
-      "0.2 kg/m³",
-      "12 kg/m³"
+      "20.9 kg/m³",
+      "10.45 kg/m³",
+      "41.8 kg/m³",
+      "26.13 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-122",
@@ -2185,15 +2185,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 2 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 2.14 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "2000 Pa",
-      "19.6 Pa",
-      "9800 Pa",
-      "19600 Pa"
+      "10486 Pa",
+      "41944 Pa",
+      "26215 Pa",
+      "20972 Pa"
     ],
     "answer_index": 3,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-123",
@@ -2203,15 +2203,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 243 N acts on area 0.0405 m². Pressure?",
     "options": [
-      "0 Pa",
-      "200 Pa",
-      "3333.33 Pa",
-      "12 Pa"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-124",
@@ -2221,15 +2221,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 26 kg and volume 1.24 m³. Density?",
     "options": [
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface"
+      "26.21 kg/m³",
+      "20.97 kg/m³",
+      "10.48 kg/m³",
+      "41.94 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-125",
@@ -2239,15 +2239,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 2.18 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction"
+      "21364 Pa",
+      "10682 Pa",
+      "42728 Pa",
+      "26705 Pa"
     ],
     "answer_index": 0,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-126",
@@ -2257,15 +2257,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "stem": "A normal force 246 N acts on area 0.041 m². Pressure?",
     "options": [
-      "140 kg/m³",
-      "0.35 kg/m³",
-      "27 kg/m³",
-      "2.86 kg/m³"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-127",
@@ -2275,15 +2275,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 7 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 26.5 kg and volume 1.26 m³. Density?",
     "options": [
-      "68.6 Pa",
-      "34300 Pa",
-      "68600 Pa",
-      "7000 Pa"
+      "42.06 kg/m³",
+      "26.29 kg/m³",
+      "21.03 kg/m³",
+      "10.52 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-128",
@@ -2293,15 +2293,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 2.22 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "150 Pa",
-      "2500 Pa",
-      "9 Pa",
-      "0 Pa"
+      "27195 Pa",
+      "21756 Pa",
+      "10878 Pa",
+      "43512 Pa"
     ],
     "answer_index": 1,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-129",
@@ -2311,15 +2311,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 249 N acts on area 0.0415 m². Pressure?",
     "options": [
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-130",
@@ -2329,15 +2329,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 27 kg and volume 1.28 m³. Density?",
     "options": [
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems"
+      "10.54 kg/m³",
+      "42.18 kg/m³",
+      "26.36 kg/m³",
+      "21.09 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-131",
@@ -2347,15 +2347,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "stem": "Find gauge pressure 2.26 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "0.6 kg/m³",
-      "16 kg/m³",
-      "1.67 kg/m³",
-      "60 kg/m³"
+      "44296 Pa",
+      "27685 Pa",
+      "22148 Pa",
+      "11074 Pa"
     ],
     "answer_index": 2,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-132",
@@ -2365,15 +2365,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 4 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 252 N acts on area 0.042 m². Pressure?",
     "options": [
-      "19600 Pa",
-      "39200 Pa",
-      "4000 Pa",
-      "39.2 Pa"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-133",
@@ -2383,15 +2383,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 27.5 kg and volume 1.3 m³. Density?",
     "options": [
-      "1666.67 Pa",
-      "6 Pa",
-      "0 Pa",
-      "100 Pa"
+      "21.15 kg/m³",
+      "10.57 kg/m³",
+      "42.3 kg/m³",
+      "26.44 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-134",
@@ -2401,15 +2401,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 2.3 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid"
+      "11270 Pa",
+      "45080 Pa",
+      "28175 Pa",
+      "22540 Pa"
     ],
     "answer_index": 3,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-135",
@@ -2419,15 +2419,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 255 N acts on area 0.0425 m². Pressure?",
     "options": [
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums"
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-136",
@@ -2437,15 +2437,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "stem": "A fluid sample has mass 28 kg and volume 1.32 m³. Density?",
     "options": [
-      "25 kg/m³",
-      "4 kg/m³",
-      "100 kg/m³",
-      "0.25 kg/m³"
+      "26.51 kg/m³",
+      "21.21 kg/m³",
+      "10.61 kg/m³",
+      "42.42 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "ρ = m/V."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-137",
@@ -2455,15 +2455,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 1 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "Find gauge pressure 2.34 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "9800 Pa",
-      "1000 Pa",
-      "9.8 Pa",
-      "4900 Pa"
+      "22932 Pa",
+      "11466 Pa",
+      "45864 Pa",
+      "28665 Pa"
     ],
     "answer_index": 0,
-    "explanation": "p = ρgh."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-138",
@@ -2473,15 +2473,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A normal force 258 N acts on area 0.043 m². Pressure?",
     "options": [
-      "21 Pa",
-      "0 Pa",
-      "350 Pa",
-      "5833.33 Pa"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-139",
@@ -2491,15 +2491,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A fluid sample has mass 28.5 kg and volume 1.34 m³. Density?",
     "options": [
-      "pressure at the surface",
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object"
+      "42.54 kg/m³",
+      "26.59 kg/m³",
+      "21.27 kg/m³",
+      "10.63 kg/m³"
     ],
     "answer_index": 2,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-140",
@@ -2509,15 +2509,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "Find gauge pressure 2.38 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "electromagnetic induction",
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay"
+      "29155 Pa",
+      "23324 Pa",
+      "11662 Pa",
+      "46648 Pa"
     ],
     "answer_index": 1,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-141",
@@ -2527,15 +2527,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "stem": "A normal force 261 N acts on area 0.0435 m². Pressure?",
     "options": [
-      "2.5 kg/m³",
-      "40 kg/m³",
-      "0.4 kg/m³",
-      "14 kg/m³"
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa"
     ],
     "answer_index": 0,
-    "explanation": "ρ = m/V."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-142",
@@ -2545,15 +2545,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 6 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A fluid sample has mass 29 kg and volume 1.36 m³. Density?",
     "options": [
-      "6000 Pa",
-      "58.8 Pa",
-      "29400 Pa",
-      "58800 Pa"
+      "10.66 kg/m³",
+      "42.64 kg/m³",
+      "26.65 kg/m³",
+      "21.32 kg/m³"
     ],
     "answer_index": 3,
-    "explanation": "p = ρgh."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-143",
@@ -2563,15 +2563,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "stem": "Find gauge pressure 2.42 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "0 Pa",
-      "300 Pa",
-      "5000 Pa",
-      "18 Pa"
+      "47432 Pa",
+      "29645 Pa",
+      "23716 Pa",
+      "11858 Pa"
     ],
     "answer_index": 2,
-    "explanation": "Pressure p = F/A."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-144",
@@ -2581,15 +2581,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "A normal force 264 N acts on area 0.044 m². Pressure?",
     "options": [
-      "volume of the container",
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface"
+      "7500 Pa",
+      "6000 Pa",
+      "3000 Pa",
+      "12000 Pa"
     ],
     "answer_index": 1,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-145",
@@ -2599,15 +2599,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A fluid sample has mass 29.5 kg and volume 1.38 m³. Density?",
     "options": [
-      "hydraulic systems",
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction"
+      "21.38 kg/m³",
+      "10.69 kg/m³",
+      "42.76 kg/m³",
+      "26.72 kg/m³"
     ],
     "answer_index": 0,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-146",
@@ -2617,15 +2617,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "stem": "Find gauge pressure 2.46 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "60 kg/m³",
-      "0.15 kg/m³",
-      "23 kg/m³",
-      "6.67 kg/m³"
+      "12054 Pa",
+      "48216 Pa",
+      "30135 Pa",
+      "24108 Pa"
     ],
     "answer_index": 3,
-    "explanation": "ρ = m/V."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-147",
@@ -2635,15 +2635,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Gauge pressure 3 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "stem": "A normal force 267 N acts on area 0.0445 m². Pressure?",
     "options": [
-      "29.4 Pa",
-      "14700 Pa",
-      "29400 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa",
       "3000 Pa"
     ],
     "answer_index": 2,
-    "explanation": "p = ρgh."
+    "explanation": "p=F/A."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-148",
@@ -2653,15 +2653,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "stem": "A fluid sample has mass 30 kg and volume 1.4 m³. Density?",
     "options": [
-      "250 Pa",
-      "4166.67 Pa",
-      "15 Pa",
-      "0 Pa"
+      "26.79 kg/m³",
+      "21.43 kg/m³",
+      "10.71 kg/m³",
+      "42.86 kg/m³"
     ],
     "answer_index": 1,
-    "explanation": "Pressure p = F/A."
+    "explanation": "ρ=m/V."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-149",
@@ -2671,15 +2671,15 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Archimedes' principle states that buoyant force equals:",
+    "stem": "Find gauge pressure 2.5 m below water surface (ρ=1000 kg/m³, g=9.8).",
     "options": [
-      "weight of displaced fluid",
-      "mass of the object",
-      "pressure at the surface",
-      "volume of the container"
+      "24500 Pa",
+      "12250 Pa",
+      "49000 Pa",
+      "30625 Pa"
     ],
     "answer_index": 0,
-    "explanation": "The upthrust equals the weight of fluid displaced."
+    "explanation": "p=ρgh."
   },
   {
     "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-150",
@@ -2689,14 +2689,14 @@
     "subtopic": "Fluid Statics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Pascal's principle is the basis of:",
+    "stem": "A normal force 270 N acts on area 0.045 m². Pressure?",
     "options": [
-      "simple pendulums",
-      "radioactive decay",
-      "electromagnetic induction",
-      "hydraulic systems"
+      "3000 Pa",
+      "12000 Pa",
+      "7500 Pa",
+      "6000 Pa"
     ],
     "answer_index": 3,
-    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+    "explanation": "p=F/A."
   }
 ]
