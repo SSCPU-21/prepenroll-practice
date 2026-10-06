@@ -54,12 +54,12 @@ P(5,0,"A rotating star shows one edge blueshifted and the opposite edge redshift
 {q:"Explain why the centre can show little radial shift.",m:1,ms:["its rotational velocity is largely transverse to the line of sight at the centre"]},
 {q:"State what property of the star this pattern can reveal.",m:1,ms:["rotation / rotational speed"]}]);
 P(6,0,"An observer measures the same source while moving at different line-of-sight speeds. The shifts are small.",["uo / m s⁻¹","fobs / Hz"],[[-20,470],[-10,485],[0,500],[10,515],[20,530]],[
-{q:"Describe the trend.",m:1,ms:["observed frequency increases as observer moves more strongly toward source"]},
+{q:"Describe how the measured frequency changes as the observer speed changes.",m:1,ms:["observed frequency increases as observer moves more strongly toward source"]},
 {q:"Identify the emitted frequency.",m:1,ms:["about 500 Hz at uo=0"]},
 {q:"Explain why the relation is approximately linear at small observer speeds.",m:1,ms:["f'=f(1+uo/v) for fixed v"]},
 {q:"State one way to determine sound speed from the gradient if f is known.",m:1,ms:["gradient=f/v, so v=f/gradient"]}]);
 P(7,0,"A radar system measures reflected frequency shifts from vehicles moving directly toward it.",["vehicle speed / m s⁻¹","relative shift / arbitrary units"],[[5,1.0],[10,2.0],[15,3.0],[20,4.0],[25,5.0]],[
-{q:"Describe the relationship.",m:1,ms:["shift is proportional to speed in this small-speed range"]},
+{q:"Describe the dependence shown by these Doppler data.",m:1,ms:["shift is proportional to speed in this small-speed range"]},
 {q:"Explain why Doppler measurements can be calibrated to infer speed.",m:1,ms:["frequency shift depends predictably on radial velocity"]},
 {q:"State what velocity component is actually measured.",m:1,ms:["line-of-sight/radial component"]},
 {q:"Explain why a vehicle moving perpendicular to the beam can give a much smaller first-order shift.",m:1,ms:["radial component is small/zero"]}]);
@@ -118,12 +118,12 @@ T(7,0,"A rotating galaxy has one side approaching and one side receding relative
 T(8,1,"A source of frequency f moves toward a stationary observer at speed us in a medium with wave speed v.",[
 {q:"Determine the emitted wavelength behind a stationary source first.",m:1,ms:["λ=v/f"]},
 {q:"Explain why the wavelength ahead of the moving source is (v-us)/f.",m:2,ms:["during one period the previous front moves vT while source advances usT"]},
-{q:"Derive the observed frequency.",m:2,ms:["f'=v/λ'=fv/(v-us)"]},
+{q:"Derive the measured frequency for this particular moving-source or moving-observer case.",m:2,ms:["f'=v/λ'=fv/(v-us)"]},
 {q:"State the corresponding change for a receding source.",m:1,ms:["replace denominator with v+us"]}]);
 T(9,1,"A stationary source emits frequency f while an observer moves toward it at speed uo.",[
 {q:"State the wavelength in the medium.",m:1,ms:["λ=v/f"]},
 {q:"State the relative speed at which wavefronts meet the observer.",m:1,ms:["v+uo"]},
-{q:"Derive the observed frequency.",m:2,ms:["f'=(v+uo)/λ=f(v+uo)/v"]},
+{q:"Derive the measured frequency for this particular moving-source or moving-observer case.",m:2,ms:["f'=(v+uo)/λ=f(v+uo)/v"]},
 {q:"State the expression for an observer moving away.",m:1,ms:["f'=f(v-uo)/v"]}]);
 T(10,1,"A source of 1000 Hz approaches a stationary observer at 25 m s⁻¹ in air where sound speed is 350 m s⁻¹.",[
 {q:"Calculate the observed frequency.",m:2,ms:["f'=1000×350/(350-25)≈1077 Hz"]},
