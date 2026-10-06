@@ -55,7 +55,7 @@ P(5,"A resonance curve is measured with two damping settings.",["f / Hz","amplit
 {q:"Explain why damping reduces resonant amplitude.",m:1,ms:["more energy is dissipated each cycle"]}]);
 P(6,"Node positions are measured along a standing wave on a string.",["node number","position / m"],[[1,0.00],[2,0.30],[3,0.60],[4,0.90],[5,1.20]],[
 {q:"Determine node spacing.",m:1,ms:["0.30 m"]},
-{q:"Calculate the wavelength from the standing-wave spacing information.",m:1,ms:["0.60 m"]},
+{q:"Use the measured node-to-node spacing to obtain the wavelength.",m:1,ms:["0.60 m"]},
 {q:"If frequency is 40 Hz, determine wave speed.",m:1,ms:["24 m s⁻¹"]},
 {q:"State where antinodes lie relative to these node positions.",m:1,ms:["midway between adjacent nodes"]}]);
 P(7,"A string's fundamental frequency is measured for different lengths at fixed tension and linear density.",["L / m","f1 / Hz"],[[0.40,250],[0.50,200],[0.80,125],[1.00,100],[1.25,80]],[
@@ -86,18 +86,18 @@ T(1,"Two identical sinusoidal waves travel in opposite directions on a string.",
 {q:"Define an antinode.",m:1,ms:["point of maximum displacement amplitude"]},
 {q:"Explain why there is no net energy transport in the ideal standing wave.",m:2,ms:["equal counter-propagating waves carry equal energy in opposite directions"]}]);
 T(2,"A string of length L is fixed at both ends and supports standing waves at speed v.",[
-{q:"Write the fundamental-mode wavelength for this boundary condition.",m:1,ms:["λ1=2L"]},
+{q:"Write the fundamental wavelength for the fixed-fixed string.",m:1,ms:["λ1=2L"]},
 {q:"Write the fundamental frequency.",m:1,ms:["f1=v/(2L)"]},
 {q:"Write the nth harmonic frequency.",m:1,ms:["fn=nv/(2L)"]},
 {q:"Explain why only integer numbers of half-wavelengths fit.",m:1,ms:["both ends must be nodes"]}]);
 T(3,"An open-open pipe of length L supports sound standing waves.",[
-{q:"State the air-displacement boundary condition at each end for this pipe.",m:1,ms:["antinodes"]},
-{q:"Write the fundamental-mode wavelength for this boundary condition.",m:1,ms:["2L"]},
+{q:"State the displacement condition at both open ends of the pipe.",m:1,ms:["antinodes"]},
+{q:"Write the fundamental wavelength for the open-open air column.",m:1,ms:["2L"]},
 {q:"Write the harmonic frequencies.",m:1,ms:["fn=nv/(2L)"]},
 {q:"Explain why the same frequency pattern as a fixed-fixed string can occur despite different end conditions.",m:1,ms:["both ends have identical boundary type, allowing integer half-wavelengths"]}]);
 T(4,"A closed-open pipe has length L.",[
-{q:"State the air-displacement boundary condition at each end for this pipe.",m:1,ms:["node at closed end, antinode at open end"]},
-{q:"Write the fundamental-mode wavelength for this boundary condition.",m:1,ms:["4L"]},
+{q:"State the displacement conditions at the closed end and at the open end.",m:1,ms:["node at closed end, antinode at open end"]},
+{q:"Write the fundamental wavelength for the closed-open air column.",m:1,ms:["4L"]},
 {q:"State the allowed frequency sequence.",m:1,ms:["odd multiples of f1"]},
 {q:"Explain why even harmonics are excluded.",m:1,ms:["they cannot satisfy node-antinode boundary conditions simultaneously"]}]);
 T(5,"A driven oscillator exhibits resonance.",[
@@ -116,7 +116,7 @@ T(7,"A bridge experiences periodic forcing from wind.",[
 {q:"Explain the role of damping.",m:1,ms:["removes mechanical energy from oscillation"]},
 {q:"State why avoiding one natural frequency does not guarantee safety.",m:1,ms:["structures have multiple modes/natural frequencies"]}]);
 T(8,"A standing wave on a string has adjacent nodes separated by 0.25 m and frequency 60 Hz.",[
-{q:"Calculate the wavelength from the standing-wave spacing information.",m:1,ms:["0.50 m"]},
+{q:"Use the given adjacent-node separation to obtain the wavelength.",m:1,ms:["0.50 m"]},
 {q:"Determine wave speed.",m:1,ms:["30 m s⁻¹"]},
 {q:"Determine distance from a node to the nearest antinode.",m:1,ms:["0.125 m"]},
 {q:"State the phase relation of points in neighbouring loops.",m:1,ms:["π rad / antiphase"]}]);
