@@ -36,7 +36,7 @@ P(1,0,"The force between two small charged spheres is measured as their separati
 P(2,0,"A positive test charge is moved along a line between two fixed positive charges of unequal magnitude.",["position","net E direction"],[["near left charge","right"],["between, left side","right"],["balance point","zero"],["between, right side","left"],["near right charge","left"]],[
 {q:"Explain why a zero-field point can exist between like charges.",m:1,ms:["their field contributions oppose and can become equal"]},
 {q:"State whether the zero-field point is closer to the smaller or larger charge.",m:1,ms:["closer to the smaller charge"]},
-{q:"State the principle used to find the net field.",m:1,ms:["vector superposition"]},
+{q:"Name the vector rule used to combine the two charge-field contributions.",m:1,ms:["vector superposition"]},
 {q:"Explain why the potential at the balance point is positive.",m:1,ms:["both positive charges contribute positive scalar potential"]}]);
 P(3,0,"A current-carrying wire is placed at different angles to a uniform magnetic field.",["angle θ","F / mN"],[[0,0],[30,5.0],[60,8.7],[90,10.0]],[
 {q:"State the expected relationship between F and θ.",m:1,ms:["F is proportional to sinθ"]},
