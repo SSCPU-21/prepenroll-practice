@@ -8,7 +8,7 @@ function T(i,x,intro,parts){P2.push({t:"C",s:sub,x,uid:"PE-C3-T-"+String(i).padS
 /* 20 Paper 1A */
 M(1,0,"A wave reflects from a smooth boundary. The angle of reflection is",["equal to the angle of incidence","twice the angle of incidence","half the angle of incidence","always 90°"],0,"Law of reflection.");
 M(2,0,"When a wave enters a medium in which its speed decreases, it bends",["toward the normal","away from the normal","parallel to the boundary in every case","without changing direction in every case"],0,"Refraction follows the speed change.");
-M(3,0,"For refraction from medium 1 to medium 2, which relation is correct?",["n₁ sinθ₂ = n₂ sinθ₁","n₁ sinθ₁ = n₂ sinθ₂","n₁θ₁=n₂θ₂","n₁/n₂=θ₁/θ₂"],0,"This is the data-booklet form.");
+M(3,0,"For refraction from medium 1 to medium 2, which relation is correct?",["n₁ sinθ₁ = n₂ sinθ₂","n₁ sinθ₂ = n₂ sinθ₁","n₁θ₁=n₂θ₂","n₁/n₂=θ₁/θ₂"],0,"Snell’s law is n₁sinθ₁=n₂sinθ₂.");
 M(4,0,"Total internal reflection can occur when a wave travels",["from higher refractive index to lower refractive index at sufficiently large incidence angle","from lower index to higher index at any angle","only at normal incidence","only in vacuum"],0,"TIR requires incidence from optically denser to rarer medium and angle above critical.");
 M(5,0,"At the critical angle, the refracted ray travels",["along the boundary","along the normal","back along the incident ray","at 45° in every medium"],0,"Refraction angle is 90°.");
 M(6,0,"Constructive interference occurs when path difference is",["nλ","(n+1/2)λ","λ/4 only","always zero only"],0,"Constructive path difference is an integer multiple of λ.");
@@ -81,7 +81,7 @@ P(10,1,"A finite-width double-slit produces fringes under a diffraction envelope
 
 /* 10 Paper 2 */
 T(1,0,"A ray passes from medium 1 into medium 2.",[
-{q:"Write Snell's law in the IB form.",m:1,ms:["n1 sinθ2 = n2 sinθ1"]},
+{q:"Write Snell's law for incidence angle θ1 in medium 1 and refraction angle θ2 in medium 2.",m:1,ms:["n1 sinθ1 = n2 sinθ2"]},
 {q:"If n2>n1, state whether the ray bends toward or away from the normal.",m:1,ms:["toward the normal"]},
 {q:"Relate refractive index ratio to wave-speed ratio.",m:1,ms:["n1/n2=v2/v1 in the stated relation"]},
 {q:"State which wave property remains unchanged at the boundary.",m:1,ms:["frequency"]}]);
