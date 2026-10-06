@@ -35,7 +35,7 @@ P(1,"A planet is modelled with different assumed albedos while solar constant an
 {q:"Suggest one real planetary factor omitted from this one-layer-free model.",m:1,ms:["atmospheric greenhouse effect / clouds / heat transport"]}]);
 P(2,"A surface sample is heated to several temperatures and its thermal-emission flux is measured.",["T / K","flux / W m⁻²"],[[280,278],[300,367],[320,476],[340,607],[360,762]],[
 {q:"State a transformed horizontal variable that should give a straight line.",m:1,ms:["T⁴"]},
-{q:"State what the gradient represents.",m:1,ms:["εσ"]},
+{q:"For a graph of radiative flux against T⁴, identify what the gradient represents.",m:1,ms:["εσ"]},
 {q:"Explain how the gradient can be used to estimate emissivity.",m:2,ms:["ε=gradient/σ"]},
 {q:"State why absolute temperature must be used.",m:1,ms:["Stefan–Boltzmann relation requires kelvin"]}]);
 P(3,"Satellite measurements compare reflected and incident shortwave power over different regions.",["region","incident / W m⁻²","reflected / W m⁻²"],[["ocean",340,34],["forest",340,51],["desert",340,102],["cloud",340,170]],[
