@@ -16,7 +16,7 @@ aside{background:#fff;border-right:1px solid var(--line);padding:22px 18px;posit
 .sideTitle{font-size:12px;text-transform:uppercase;letter-spacing:.11em;color:var(--muted);font-weight:800;margin:4px 0 9px}
 .search{width:100%;border:1px solid var(--line);background:#fbfdff;border-radius:10px;padding:10px 11px;margin-bottom:16px}
 .filter{margin-bottom:12px}.filter label{font-size:12px;color:var(--muted);font-weight:750;display:block;margin-bottom:5px}.filter select{width:100%;border:1px solid var(--line);background:#fff;border-radius:10px;padding:9px}
-.topicList{display:flex;flex-direction:column;gap:5px}.topicBtn{border:0;background:transparent;text-align:left;border-radius:9px;padding:8px 9px;cursor:pointer;color:var(--navy);font-size:12px;display:flex;gap:8px;align-items:flex-start}.topicBtn:hover{background:var(--soft)}.topicBtn.active{background:#eaf4ed;color:#1e6b3b;font-weight:800}.topicCode{min-width:30px;font-weight:850}
+.topicList{display:flex;flex-direction:column;gap:5px}.topicBtn{border:0;background:transparent;text-align:left;border-radius:9px;padding:8px 9px;cursor:pointer;color:var(--navy);font-size:12px;display:flex;gap:8px;align-items:flex-start}.topicBtn:hover{background:var(--soft)}.topicBtn.active{background:#eaf4ed;color:#1e6b3b;font-weight:800}.topicCode{min-width:30px;font-weight:850}.topicCount{margin-left:auto;font-size:10px;color:var(--muted);font-weight:800}.topicBtn.active .topicCount{color:#1e6b3b}
 .clearFilters{width:100%;margin-top:14px;border:1px solid var(--line);background:#fff;border-radius:10px;padding:9px;cursor:pointer;color:var(--muted);font-weight:700}
 main{padding:26px 30px 40px;min-width:0}.hero{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;margin-bottom:18px}.hero h1{font-size:28px;line-height:1.1;margin:0 0 7px;letter-spacing:-.6px}.hero p{margin:0;color:var(--muted);font-size:13px}.kpis{display:flex;gap:8px;flex-wrap:wrap}.kpi{background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px 12px;min-width:92px}.kpi b{display:block;font-size:18px}.kpi span{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
 .content{display:grid;grid-template-columns:minmax(360px,44%) minmax(420px,1fr);gap:16px;align-items:start}.panel{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden}.panelHead{padding:14px 16px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between}.panelHead h2{font-size:14px;margin:0}.count{font-size:11px;color:var(--muted)}
@@ -49,7 +49,7 @@ main{padding:26px 30px 40px;min-width:0}.hero{display:flex;justify-content:space
 <div class="filter"><label>Time zone</label><select id="timezone"><option value="">All time zones</option><option>TZ1</option><option>TZ2</option><option>TZ3</option></select></div>
 
 
-<div class="sideTitle" style="margin-top:18px">Current syllabus topics</div><div id="topics" class="topicList"></div><button id="clearFilters" class="clearFilters">Clear filters</button>
+<div class="sideTitle" style="margin-top:18px">Current syllabus topics</div><div id="topics" class="topicList"><button id="allTopicsBtn" class="topicBtn active"><span class="topicCode">ALL</span><span>All topics</span><span id="allTopicsCount" class="topicCount">0</span></button></div><button id="clearFilters" class="clearFilters">Clear filters</button>
 </aside>
 <main>
 <div class="hero"><div><h1>IB Physics Past Paper Vault</h1><p>Topic-wise past-paper reference library · SL and HL separated · mapped to the current syllabus</p></div><div class="kpis"><div class="kpi"><b id="sTotal">0</b><span>references</span></div><div class="kpi"><b id="sSL">0</b><span>SL</span></div><div class="kpi"><b id="sHL">0</b><span>HL</span></div></div></div>
@@ -75,8 +75,9 @@ main{padding:26px 30px 40px;min-width:0}.hero{display:flex;justify-content:space
 <script>
 const TOPICS=window.IB_TOPICS||{};let base=window.IB_REFERENCES||[];let local=[];try{local=JSON.parse(localStorage.getItem('ibVaultRefs')||'[]')}catch(e){}let all=[...base,...local],activeTopic='',selectedId=null;
 const $=id=>document.getElementById(id);
-Object.entries(TOPICS).forEach(([k,v])=>{let b=document.createElement('button');b.className='topicBtn';b.dataset.topic=k;b.innerHTML='<span class="topicCode">'+k+'</span><span>'+v+'</span>';b.onclick=()=>{activeTopic=activeTopic===k?'':k;selectedId=null;render()};$('topics').appendChild(b);let o=document.createElement('option');o.value=k;o.textContent=k+' '+v;$('fTopic').appendChild(o)});
+Object.entries(TOPICS).forEach(([k,v])=>{let b=document.createElement('button');b.className='topicBtn';b.dataset.topic=k;b.innerHTML='<span class="topicCode">'+k+'</span><span>'+v+'</span><span class="topicCount" data-count="'+k+'">0</span>';b.onclick=()=>{activeTopic=k;selectedId=null;render()};$('topics').appendChild(b);let o=document.createElement('option');o.value=k;o.textContent=k+' '+v;$('fTopic').appendChild(o)});
 for(let y=2026;y>=2010;y--){let o=document.createElement('option');o.value=y;o.textContent=y;$('year').appendChild(o)}
+$('allTopicsBtn').onclick=()=>{activeTopic='';selectedId=null;render()};
 function save(){localStorage.setItem('ibVaultRefs',JSON.stringify(local));all=[...base,...local];render()}
 function filt(r){const q=$('search').value.toLowerCase();return(!activeTopic||r.topic===activeTopic)&&(!$('level').value||r.level===$('level').value)&&(!$('year').value||String(r.year)===$('year').value)&&(!$('session').value||r.session===$('session').value)&&(!$('paper').value||r.paper===$('paper').value)&&(!$('timezone').value||r.timezone===$('timezone').value)&&(!q||JSON.stringify(r).toLowerCase().includes(q))}
 function key(r,i){return r.id||('B'+i+'-'+r.year+'-'+r.question)}
@@ -102,7 +103,12 @@ $('detail').innerHTML=
 '</div>'+
 (paperUrl?'<div class="viewer"><div class="viewerHead"><b>Original paper preview</b><span>Locate '+(r.question||'this question')+' in the paper</span></div><iframe src="'+paperUrl+'" title="Original IB paper preview"></iframe><div class="viewerFallback">If the source blocks embedded preview, use “Open paper separately” above.</div></div>':'');
 }
-function render(){document.querySelectorAll('.topicBtn').forEach(b=>b.classList.toggle('active',b.dataset.topic===activeTopic));const rows=all.filter(filt);$('sTotal').textContent=all.length;$('sSL').textContent=all.filter(x=>x.level==='SL').length;$('sHL').textContent=all.filter(x=>x.level==='HL').length;$('visibleCount').textContent=rows.length+' found';if(!rows.length){$('list').innerHTML='<div class="empty"><strong>No references found</strong>Try another filter or add a past-paper reference.</div>';showDetail(null);return}
+function render(){
+document.querySelectorAll('.topicBtn[data-topic]').forEach(b=>b.classList.toggle('active',b.dataset.topic===activeTopic));
+$('allTopicsBtn').classList.toggle('active',!activeTopic);
+$('allTopicsCount').textContent=all.length;
+Object.keys(TOPICS).forEach(k=>{const el=document.querySelector('[data-count="'+k+'"]');if(el)el.textContent=all.filter(r=>r.topic===k).length});
+const rows=all.filter(filt);$('sTotal').textContent=all.length;$('sSL').textContent=all.filter(x=>x.level==='SL').length;$('sHL').textContent=all.filter(x=>x.level==='HL').length;$('visibleCount').textContent=rows.length+' found';if(!rows.length){$('list').innerHTML='<div class="empty"><strong>No references found</strong>Try another filter or add a past-paper reference.</div>';showDetail(null);return}
 $('list').innerHTML=rows.map((r,i)=>{const id=key(r,i);return '<div class="row '+(id===selectedId?'active':'')+'" data-id="'+id+'"><div class="rowTop"><div class="rowTitle">'+r.year+' '+r.session+' · '+r.question+'</div><span class="pill">'+r.level+'</span></div><div class="meta"><span>'+r.paper+'</span>'+(r.timezone?'<span>•</span><span>'+r.timezone+'</span>':'')+'<span>•</span><span>'+r.topic+' '+(TOPICS[r.topic]||'')+'</span>'+(r.marks!==''&&r.marks!=null?'<span>•</span><span>'+r.marks+' marks</span>':'')+(r.source?'<span>•</span><a class="src" target="_blank" href="'+r.source+'" onclick="event.stopPropagation()">Source paper ↗</a>':'')+'</div></div>'}).join('');
 [...$('list').querySelectorAll('.row')].forEach((el,i)=>el.onclick=()=>{selectedId=el.dataset.id;showDetail(rows[i],selectedId);render()});if(!selectedId){selectedId=key(rows[0],0);showDetail(rows[0],selectedId)}}
 ['search','level','year','session','paper','type',].forEach(id=>$(id).addEventListener('input',()=>{selectedId=null;render()}));
