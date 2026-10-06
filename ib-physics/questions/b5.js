@@ -65,7 +65,7 @@ P(7,"A battery powers different external load resistances. The battery has inter
 {q:"Suggest a graph transformation that can be used to obtain ε and r.",m:2,ms:["plot 1/I against R: 1/I=(R+r)/ε"]}]);
 P(8,"A resistor's power is measured as current changes.",["I / A","P / W"],[[0.5,1.0],[1.0,4.0],[1.5,9.0],[2.0,16.0],[2.5,25.0]],[
 {q:"State the relationship between P and I.",m:1,ms:["P proportional to I²"]},
-{q:"State a linearizing graph.",m:1,ms:["P against I²"]},
+{q:"Specify the axes for a straight-line test of the predicted power–current relation.",m:1,ms:["P against I²"]},
 {q:"Use the power–current data to infer the resistor's resistance.",m:1,ms:["R=P/I²=4 Ω"]},
 {q:"Explain why heating may eventually invalidate constant-R behaviour.",m:1,ms:["resistance can change as temperature rises"]}]);
 P(9,"A circuit uses two series resistors and the potential difference across each is measured.",["R / Ω","V / V"],[[2,2.0],[4,4.0],[6,6.0],[8,8.0]],[
