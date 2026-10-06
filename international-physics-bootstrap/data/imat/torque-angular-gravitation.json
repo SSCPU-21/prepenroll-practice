@@ -7,15 +7,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 8.6 N force acts perpendicular at 0.53 m from a pivot. Torque?",
     "options": [
-      "10 N·m",
-      "11 N·m",
-      "10 N·m",
-      "20 N·m"
+      "4.56 N·m",
+      "2.28 N·m",
+      "9.12 N·m",
+      "5.7 N·m"
     ],
     "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-002",
@@ -25,15 +25,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 1.1 kg point mass moves perpendicular to radius 0.82 m at 2.11 m/s. Angular momentum magnitude?",
     "options": [
-      "mass only",
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance"
+      "0.95 kg·m²/s",
+      "3.8 kg·m²/s",
+      "2.38 kg·m²/s",
+      "1.9 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-003",
@@ -43,15 +43,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 1.52 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "4 times the original",
-      "16 times the original",
-      "1/16 of the original",
-      "1/4 of the original"
+      "8.48 m/s²",
+      "5.3 m/s²",
+      "4.24 m/s²",
+      "2.12 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-004",
@@ -61,15 +61,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 6 m/s, angular momentum magnitude?",
+    "stem": "A 9.2 N force acts perpendicular at 0.56 m from a pivot. Torque?",
     "options": [
-      "6 kg·m²/s",
-      "150 kg·m²/s",
-      "30 kg·m²/s",
-      "25 kg·m²/s"
+      "6.44 N·m",
+      "5.15 N·m",
+      "2.58 N·m",
+      "10.3 N·m"
     ],
     "answer_index": 1,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-005",
@@ -79,15 +79,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 1.2 kg point mass moves perpendicular to radius 0.84 m at 2.22 m/s. Angular momentum magnitude?",
     "options": [
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass"
+      "2.24 kg·m²/s",
+      "1.12 kg·m²/s",
+      "4.48 kg·m²/s",
+      "2.8 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-006",
@@ -97,15 +97,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 1.54 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "36 N·m",
-      "35 N·m",
-      "70 N·m",
-      "35 N·m"
+      "2.07 m/s²",
+      "8.26 m/s²",
+      "5.16 m/s²",
+      "4.13 m/s²"
     ],
-    "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-007",
@@ -115,15 +115,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 9.8 N force acts perpendicular at 0.59 m from a pivot. Torque?",
     "options": [
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only"
+      "11.56 N·m",
+      "7.23 N·m",
+      "5.78 N·m",
+      "2.89 N·m"
     ],
     "answer_index": 2,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-008",
@@ -133,15 +133,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "stem": "A 1.3 kg point mass moves perpendicular to radius 0.86 m at 2.33 m/s. Angular momentum magnitude?",
     "options": [
-      "25 times the original",
-      "1/25 of the original",
-      "1/5 of the original",
-      "5 times the original"
+      "3.25 kg·m²/s",
+      "2.6 kg·m²/s",
+      "1.3 kg·m²/s",
+      "5.2 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-009",
@@ -151,15 +151,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 5 m/s, angular momentum magnitude?",
+    "stem": "At a distance 1.56 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "50 kg·m²/s",
-      "25 kg·m²/s",
-      "10 kg·m²/s",
-      "12.5 kg·m²/s"
+      "4.03 m/s²",
+      "2.01 m/s²",
+      "8.05 m/s²",
+      "5.03 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-010",
@@ -169,15 +169,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 10.4 N force acts perpendicular at 0.62 m from a pivot. Torque?",
     "options": [
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass",
-      "zero net torque"
+      "3.23 N·m",
+      "12.9 N·m",
+      "8.06 N·m",
+      "6.45 N·m"
     ],
     "answer_index": 3,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-011",
@@ -187,15 +187,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 25 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 1.4 kg point mass moves perpendicular to radius 0.88 m at 2.44 m/s. Angular momentum magnitude?",
     "options": [
-      "25 N·m",
-      "50 N·m",
-      "25 N·m",
-      "26 N·m"
+      "6.02 kg·m²/s",
+      "3.76 kg·m²/s",
+      "3.01 kg·m²/s",
+      "1.5 kg·m²/s"
     ],
-    "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-012",
@@ -205,15 +205,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 1.58 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only",
-      "speed only"
+      "4.91 m/s²",
+      "3.93 m/s²",
+      "1.96 m/s²",
+      "7.85 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-013",
@@ -223,15 +223,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "stem": "A 11 N force acts perpendicular at 0.65 m from a pivot. Torque?",
     "options": [
-      "1/4 of the original",
-      "1/2 of the original",
-      "2 times the original",
-      "4 times the original"
+      "7.15 N·m",
+      "3.58 N·m",
+      "14.3 N·m",
+      "8.94 N·m"
     ],
     "answer_index": 0,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-014",
@@ -241,15 +241,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 4 m/s, angular momentum magnitude?",
+    "stem": "A 1.5 kg point mass moves perpendicular to radius 0.9 m at 2.55 m/s. Angular momentum magnitude?",
     "options": [
-      "20 kg·m²/s",
-      "15 kg·m²/s",
-      "6.67 kg·m²/s",
-      "60 kg·m²/s"
+      "1.72 kg·m²/s",
+      "6.88 kg·m²/s",
+      "4.3 kg·m²/s",
+      "3.44 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-015",
@@ -259,15 +259,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 1.6 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "nonzero net force",
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed"
+      "7.66 m/s²",
+      "4.79 m/s²",
+      "3.83 m/s²",
+      "1.91 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-016",
@@ -277,15 +277,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 15 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 11.6 N force acts perpendicular at 0.68 m from a pivot. Torque?",
     "options": [
-      "30 N·m",
-      "15 N·m",
-      "16 N·m",
-      "15 N·m"
+      "9.86 N·m",
+      "7.89 N·m",
+      "3.94 N·m",
+      "15.78 N·m"
     ],
     "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-017",
@@ -295,15 +295,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 1.6 kg point mass moves perpendicular to radius 0.92 m at 2.66 m/s. Angular momentum magnitude?",
     "options": [
-      "force and perpendicular distance",
-      "mass only",
-      "speed only",
-      "temperature and pressure"
+      "3.92 kg·m²/s",
+      "1.96 kg·m²/s",
+      "7.84 kg·m²/s",
+      "4.9 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-018",
@@ -313,15 +313,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 1.62 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "1/3 of the original",
-      "3 times the original",
-      "9 times the original",
-      "1/9 of the original"
+      "1.87 m/s²",
+      "7.47 m/s²",
+      "4.67 m/s²",
+      "3.73 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-019",
@@ -331,15 +331,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 3 m/s, angular momentum magnitude?",
+    "stem": "A 12.2 N force acts perpendicular at 0.71 m from a pivot. Torque?",
     "options": [
-      "20 kg·m²/s",
-      "3.75 kg·m²/s",
-      "60 kg·m²/s",
-      "15 kg·m²/s"
+      "17.32 N·m",
+      "10.82 N·m",
+      "8.66 N·m",
+      "4.33 N·m"
     ],
     "answer_index": 2,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-020",
@@ -349,15 +349,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 1.7 kg point mass moves perpendicular to radius 0.94 m at 2.77 m/s. Angular momentum magnitude?",
     "options": [
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force"
+      "5.54 kg·m²/s",
+      "4.43 kg·m²/s",
+      "2.21 kg·m²/s",
+      "8.86 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-021",
@@ -367,15 +367,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 40 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 1.64 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "40 N·m",
-      "41 N·m",
-      "40 N·m",
-      "80 N·m"
+      "3.64 m/s²",
+      "1.82 m/s²",
+      "7.29 m/s²",
+      "4.55 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-022",
@@ -385,15 +385,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 12.8 N force acts perpendicular at 0.74 m from a pivot. Torque?",
     "options": [
-      "mass only",
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance"
+      "4.74 N·m",
+      "18.94 N·m",
+      "11.84 N·m",
+      "9.47 N·m"
     ],
     "answer_index": 3,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-023",
@@ -403,15 +403,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "stem": "A 1.8 kg point mass moves perpendicular to radius 0.96 m at 2.88 m/s. Angular momentum magnitude?",
     "options": [
-      "4 times the original",
-      "16 times the original",
-      "1/16 of the original",
-      "1/4 of the original"
+      "9.96 kg·m²/s",
+      "6.23 kg·m²/s",
+      "4.98 kg·m²/s",
+      "2.49 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-024",
@@ -421,15 +421,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 8 m/s, angular momentum magnitude?",
+    "stem": "At a distance 1.66 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "8 kg·m²/s",
-      "200 kg·m²/s",
-      "40 kg·m²/s",
-      "25 kg·m²/s"
+      "4.45 m/s²",
+      "3.56 m/s²",
+      "1.78 m/s²",
+      "7.11 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-025",
@@ -439,15 +439,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 13.4 N force acts perpendicular at 0.77 m from a pivot. Torque?",
     "options": [
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass"
+      "10.32 N·m",
+      "5.16 N·m",
+      "20.64 N·m",
+      "12.9 N·m"
     ],
     "answer_index": 0,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-026",
@@ -457,15 +457,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 30 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 1.9 kg point mass moves perpendicular to radius 0.98 m at 2.99 m/s. Angular momentum magnitude?",
     "options": [
-      "31 N·m",
-      "30 N·m",
-      "60 N·m",
-      "30 N·m"
+      "2.79 kg·m²/s",
+      "11.14 kg·m²/s",
+      "6.96 kg·m²/s",
+      "5.57 kg·m²/s"
     ],
-    "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-027",
@@ -475,15 +475,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 1.68 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only"
+      "6.94 m/s²",
+      "4.34 m/s²",
+      "3.47 m/s²",
+      "1.74 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-028",
@@ -493,15 +493,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "stem": "A 14 N force acts perpendicular at 0.8 m from a pivot. Torque?",
     "options": [
-      "25 times the original",
-      "1/25 of the original",
-      "1/5 of the original",
-      "5 times the original"
+      "14 N·m",
+      "11.2 N·m",
+      "5.6 N·m",
+      "22.4 N·m"
     ],
     "answer_index": 1,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-029",
@@ -511,15 +511,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 7 m/s, angular momentum magnitude?",
+    "stem": "A 2 kg point mass moves perpendicular to radius 1 m at 3.1 m/s. Angular momentum magnitude?",
     "options": [
-      "70 kg·m²/s",
-      "35 kg·m²/s",
-      "10 kg·m²/s",
-      "17.5 kg·m²/s"
+      "6.2 kg·m²/s",
+      "3.1 kg·m²/s",
+      "12.4 kg·m²/s",
+      "7.75 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-030",
@@ -529,15 +529,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 1.7 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass",
-      "zero net torque"
+      "1.7 m/s²",
+      "6.78 m/s²",
+      "4.24 m/s²",
+      "3.39 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-031",
@@ -547,15 +547,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 20 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 14.6 N force acts perpendicular at 0.83 m from a pivot. Torque?",
     "options": [
-      "20 N·m",
-      "40 N·m",
-      "20 N·m",
-      "21 N·m"
+      "24.24 N·m",
+      "15.15 N·m",
+      "12.12 N·m",
+      "6.06 N·m"
     ],
-    "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 2,
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-032",
@@ -565,15 +565,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 2.1 kg point mass moves perpendicular to radius 1.02 m at 3.21 m/s. Angular momentum magnitude?",
     "options": [
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only",
-      "speed only"
+      "8.6 kg·m²/s",
+      "6.88 kg·m²/s",
+      "3.44 kg·m²/s",
+      "13.76 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-033",
@@ -583,15 +583,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 1.72 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "1/4 of the original",
-      "1/2 of the original",
-      "2 times the original",
-      "4 times the original"
+      "3.31 m/s²",
+      "1.66 m/s²",
+      "6.63 m/s²",
+      "4.14 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-034",
@@ -601,15 +601,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 6 m/s, angular momentum magnitude?",
+    "stem": "A 15.2 N force acts perpendicular at 0.86 m from a pivot. Torque?",
     "options": [
-      "30 kg·m²/s",
-      "15 kg·m²/s",
-      "10 kg·m²/s",
-      "90 kg·m²/s"
+      "6.54 N·m",
+      "26.14 N·m",
+      "16.34 N·m",
+      "13.07 N·m"
     ],
     "answer_index": 3,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-035",
@@ -619,15 +619,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 2.2 kg point mass moves perpendicular to radius 1.04 m at 3.32 m/s. Angular momentum magnitude?",
     "options": [
-      "nonzero net force",
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed"
+      "15.2 kg·m²/s",
+      "9.5 kg·m²/s",
+      "7.6 kg·m²/s",
+      "3.8 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-036",
@@ -637,15 +637,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 1.74 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "20 N·m",
-      "10 N·m",
-      "11 N·m",
-      "10 N·m"
+      "4.05 m/s²",
+      "3.24 m/s²",
+      "1.62 m/s²",
+      "6.47 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-037",
@@ -655,15 +655,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 15.8 N force acts perpendicular at 0.89 m from a pivot. Torque?",
     "options": [
-      "force and perpendicular distance",
-      "mass only",
-      "speed only",
-      "temperature and pressure"
+      "14.06 N·m",
+      "7.03 N·m",
+      "28.12 N·m",
+      "17.57 N·m"
     ],
     "answer_index": 0,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-038",
@@ -673,15 +673,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "stem": "A 2.3 kg point mass moves perpendicular to radius 1.06 m at 3.43 m/s. Angular momentum magnitude?",
     "options": [
-      "1/3 of the original",
-      "3 times the original",
-      "9 times the original",
-      "1/9 of the original"
+      "4.18 kg·m²/s",
+      "16.72 kg·m²/s",
+      "10.45 kg·m²/s",
+      "8.36 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-039",
@@ -691,15 +691,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 5 m/s, angular momentum magnitude?",
+    "stem": "At a distance 1.76 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "20 kg·m²/s",
-      "6.25 kg·m²/s",
-      "100 kg·m²/s",
-      "25 kg·m²/s"
+      "6.33 m/s²",
+      "3.96 m/s²",
+      "3.16 m/s²",
+      "1.58 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-040",
@@ -709,15 +709,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 16.4 N force acts perpendicular at 0.92 m from a pivot. Torque?",
     "options": [
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force"
+      "18.86 N·m",
+      "15.09 N·m",
+      "7.54 N·m",
+      "30.18 N·m"
     ],
     "answer_index": 1,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-041",
@@ -727,15 +727,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 2.4 kg point mass moves perpendicular to radius 1.08 m at 3.54 m/s. Angular momentum magnitude?",
     "options": [
-      "35 N·m",
-      "36 N·m",
-      "35 N·m",
-      "70 N·m"
+      "9.18 kg·m²/s",
+      "4.59 kg·m²/s",
+      "18.36 kg·m²/s",
+      "11.47 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-042",
@@ -745,15 +745,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 1.78 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "mass only",
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance"
+      "1.55 m/s²",
+      "6.19 m/s²",
+      "3.87 m/s²",
+      "3.09 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-043",
@@ -763,15 +763,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "stem": "A 17 N force acts perpendicular at 0.95 m from a pivot. Torque?",
     "options": [
-      "4 times the original",
-      "16 times the original",
-      "1/16 of the original",
-      "1/4 of the original"
+      "32.3 N·m",
+      "20.19 N·m",
+      "16.15 N·m",
+      "8.07 N·m"
     ],
     "answer_index": 2,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-044",
@@ -781,15 +781,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 4 m/s, angular momentum magnitude?",
+    "stem": "A 2.5 kg point mass moves perpendicular to radius 1.1 m at 3.65 m/s. Angular momentum magnitude?",
     "options": [
-      "4 kg·m²/s",
-      "100 kg·m²/s",
-      "20 kg·m²/s",
-      "25 kg·m²/s"
+      "12.55 kg·m²/s",
+      "10.04 kg·m²/s",
+      "5.02 kg·m²/s",
+      "20.08 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-045",
@@ -799,15 +799,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 1.8 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass"
+      "3.02 m/s²",
+      "1.51 m/s²",
+      "6.05 m/s²",
+      "3.78 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-046",
@@ -817,15 +817,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 25 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 17.6 N force acts perpendicular at 0.98 m from a pivot. Torque?",
     "options": [
-      "26 N·m",
-      "25 N·m",
-      "50 N·m",
-      "25 N·m"
+      "8.63 N·m",
+      "34.5 N·m",
+      "21.56 N·m",
+      "17.25 N·m"
     ],
-    "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 3,
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-047",
@@ -835,15 +835,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 2.6 kg point mass moves perpendicular to radius 1.12 m at 3.76 m/s. Angular momentum magnitude?",
     "options": [
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only"
+      "21.9 kg·m²/s",
+      "13.69 kg·m²/s",
+      "10.95 kg·m²/s",
+      "5.47 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-048",
@@ -853,15 +853,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 1.82 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "25 times the original",
-      "1/25 of the original",
-      "1/5 of the original",
-      "5 times the original"
+      "3.7 m/s²",
+      "2.96 m/s²",
+      "1.48 m/s²",
+      "5.92 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-049",
@@ -871,15 +871,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 3 m/s, angular momentum magnitude?",
+    "stem": "A 18.2 N force acts perpendicular at 1.01 m from a pivot. Torque?",
     "options": [
-      "30 kg·m²/s",
-      "15 kg·m²/s",
-      "10 kg·m²/s",
-      "7.5 kg·m²/s"
+      "18.38 N·m",
+      "9.19 N·m",
+      "36.76 N·m",
+      "22.97 N·m"
     ],
     "answer_index": 0,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-050",
@@ -889,15 +889,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 2.7 kg point mass moves perpendicular to radius 1.14 m at 3.87 m/s. Angular momentum magnitude?",
     "options": [
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass",
-      "zero net torque"
+      "5.96 kg·m²/s",
+      "23.82 kg·m²/s",
+      "14.89 kg·m²/s",
+      "11.91 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-051",
@@ -907,15 +907,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 15 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 1.84 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "15 N·m",
-      "30 N·m",
-      "15 N·m",
-      "16 N·m"
+      "5.79 m/s²",
+      "3.62 m/s²",
+      "2.9 m/s²",
+      "1.45 m/s²"
     ],
-    "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-052",
@@ -925,15 +925,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 18.8 N force acts perpendicular at 1.04 m from a pivot. Torque?",
     "options": [
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only",
-      "speed only"
+      "24.44 N·m",
+      "19.55 N·m",
+      "9.78 N·m",
+      "39.1 N·m"
     ],
     "answer_index": 1,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-053",
@@ -943,15 +943,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "stem": "A 2.8 kg point mass moves perpendicular to radius 1.16 m at 3.98 m/s. Angular momentum magnitude?",
     "options": [
-      "1/4 of the original",
-      "1/2 of the original",
-      "2 times the original",
-      "4 times the original"
+      "12.93 kg·m²/s",
+      "6.46 kg·m²/s",
+      "25.86 kg·m²/s",
+      "16.16 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-054",
@@ -961,15 +961,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 8 m/s, angular momentum magnitude?",
+    "stem": "At a distance 1.86 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "40 kg·m²/s",
-      "15 kg·m²/s",
-      "13.33 kg·m²/s",
-      "120 kg·m²/s"
+      "1.42 m/s²",
+      "5.67 m/s²",
+      "3.54 m/s²",
+      "2.83 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-055",
@@ -979,15 +979,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 19.4 N force acts perpendicular at 1.07 m from a pivot. Torque?",
     "options": [
-      "nonzero net force",
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed"
+      "41.52 N·m",
+      "25.95 N·m",
+      "20.76 N·m",
+      "10.38 N·m"
     ],
     "answer_index": 2,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-056",
@@ -997,15 +997,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 40 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 2.9 kg point mass moves perpendicular to radius 1.18 m at 4.09 m/s. Angular momentum magnitude?",
     "options": [
-      "80 N·m",
-      "40 N·m",
-      "41 N·m",
-      "40 N·m"
+      "17.5 kg·m²/s",
+      "14 kg·m²/s",
+      "7 kg·m²/s",
+      "28 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-057",
@@ -1015,15 +1015,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 1.88 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "force and perpendicular distance",
-      "mass only",
-      "speed only",
-      "temperature and pressure"
+      "2.77 m/s²",
+      "1.39 m/s²",
+      "5.55 m/s²",
+      "3.47 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-058",
@@ -1033,15 +1033,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "stem": "A 20 N force acts perpendicular at 1.1 m from a pivot. Torque?",
     "options": [
-      "1/3 of the original",
-      "3 times the original",
-      "9 times the original",
-      "1/9 of the original"
+      "11 N·m",
+      "44 N·m",
+      "27.5 N·m",
+      "22 N·m"
     ],
     "answer_index": 3,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-059",
@@ -1051,15 +1051,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 7 m/s, angular momentum magnitude?",
+    "stem": "A 3 kg point mass moves perpendicular to radius 1.2 m at 4.2 m/s. Angular momentum magnitude?",
     "options": [
-      "20 kg·m²/s",
-      "8.75 kg·m²/s",
-      "140 kg·m²/s",
-      "35 kg·m²/s"
+      "30.24 kg·m²/s",
+      "18.9 kg·m²/s",
+      "15.12 kg·m²/s",
+      "7.56 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-060",
@@ -1069,15 +1069,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 1.9 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force"
+      "3.39 m/s²",
+      "2.71 m/s²",
+      "1.36 m/s²",
+      "5.43 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-061",
@@ -1087,15 +1087,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 30 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 20.6 N force acts perpendicular at 1.13 m from a pivot. Torque?",
     "options": [
-      "30 N·m",
-      "31 N·m",
-      "30 N·m",
-      "60 N·m"
+      "23.28 N·m",
+      "11.64 N·m",
+      "46.56 N·m",
+      "29.1 N·m"
     ],
     "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-062",
@@ -1105,15 +1105,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 3.1 kg point mass moves perpendicular to radius 1.22 m at 4.31 m/s. Angular momentum magnitude?",
     "options": [
-      "mass only",
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance"
+      "8.15 kg·m²/s",
+      "32.6 kg·m²/s",
+      "20.38 kg·m²/s",
+      "16.3 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-063",
@@ -1123,15 +1123,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 1.92 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "4 times the original",
-      "16 times the original",
-      "1/16 of the original",
-      "1/4 of the original"
+      "5.32 m/s²",
+      "3.32 m/s²",
+      "2.66 m/s²",
+      "1.33 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-064",
@@ -1141,15 +1141,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 6 m/s, angular momentum magnitude?",
+    "stem": "A 21.2 N force acts perpendicular at 1.16 m from a pivot. Torque?",
     "options": [
-      "6 kg·m²/s",
-      "150 kg·m²/s",
-      "30 kg·m²/s",
-      "25 kg·m²/s"
+      "30.74 N·m",
+      "24.59 N·m",
+      "12.29 N·m",
+      "49.18 N·m"
     ],
     "answer_index": 1,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-065",
@@ -1159,15 +1159,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 3.2 kg point mass moves perpendicular to radius 1.24 m at 4.42 m/s. Angular momentum magnitude?",
     "options": [
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass"
+      "17.54 kg·m²/s",
+      "8.77 kg·m²/s",
+      "35.08 kg·m²/s",
+      "21.92 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-066",
@@ -1177,15 +1177,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 20 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 1.94 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "21 N·m",
-      "20 N·m",
-      "40 N·m",
-      "20 N·m"
+      "1.3 m/s²",
+      "5.21 m/s²",
+      "3.25 m/s²",
+      "2.6 m/s²"
     ],
-    "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-067",
@@ -1195,15 +1195,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 21.8 N force acts perpendicular at 1.19 m from a pivot. Torque?",
     "options": [
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only"
+      "51.88 N·m",
+      "32.43 N·m",
+      "25.94 N·m",
+      "12.97 N·m"
     ],
     "answer_index": 2,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-068",
@@ -1213,15 +1213,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "stem": "A 3.3 kg point mass moves perpendicular to radius 1.26 m at 4.53 m/s. Angular momentum magnitude?",
     "options": [
-      "25 times the original",
-      "1/25 of the original",
-      "1/5 of the original",
-      "5 times the original"
+      "23.55 kg·m²/s",
+      "18.84 kg·m²/s",
+      "9.42 kg·m²/s",
+      "37.68 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-069",
@@ -1231,15 +1231,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 5 m/s, angular momentum magnitude?",
+    "stem": "At a distance 1.96 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "50 kg·m²/s",
-      "25 kg·m²/s",
-      "10 kg·m²/s",
-      "12.5 kg·m²/s"
+      "2.55 m/s²",
+      "1.28 m/s²",
+      "5.1 m/s²",
+      "3.19 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-070",
@@ -1249,15 +1249,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 22.4 N force acts perpendicular at 1.22 m from a pivot. Torque?",
     "options": [
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass",
-      "zero net torque"
+      "13.66 N·m",
+      "54.66 N·m",
+      "34.16 N·m",
+      "27.33 N·m"
     ],
     "answer_index": 3,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-071",
@@ -1267,15 +1267,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 3.4 kg point mass moves perpendicular to radius 1.28 m at 4.64 m/s. Angular momentum magnitude?",
     "options": [
-      "10 N·m",
-      "20 N·m",
-      "10 N·m",
-      "11 N·m"
+      "40.38 kg·m²/s",
+      "25.24 kg·m²/s",
+      "20.19 kg·m²/s",
+      "10.1 kg·m²/s"
     ],
-    "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-072",
@@ -1285,15 +1285,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 1.98 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only",
-      "speed only"
+      "3.13 m/s²",
+      "2.5 m/s²",
+      "1.25 m/s²",
+      "5 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-073",
@@ -1303,15 +1303,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "stem": "A 23 N force acts perpendicular at 1.25 m from a pivot. Torque?",
     "options": [
-      "1/4 of the original",
-      "1/2 of the original",
-      "2 times the original",
-      "4 times the original"
+      "28.75 N·m",
+      "14.38 N·m",
+      "57.5 N·m",
+      "35.94 N·m"
     ],
     "answer_index": 0,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-074",
@@ -1321,15 +1321,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 4 m/s, angular momentum magnitude?",
+    "stem": "A 3.5 kg point mass moves perpendicular to radius 1.3 m at 4.75 m/s. Angular momentum magnitude?",
     "options": [
-      "20 kg·m²/s",
-      "15 kg·m²/s",
-      "6.67 kg·m²/s",
-      "60 kg·m²/s"
+      "10.8 kg·m²/s",
+      "43.22 kg·m²/s",
+      "27.01 kg·m²/s",
+      "21.61 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-075",
@@ -1339,15 +1339,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 2 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "nonzero net force",
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed"
+      "4.9 m/s²",
+      "3.06 m/s²",
+      "2.45 m/s²",
+      "1.23 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-076",
@@ -1357,15 +1357,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 23.6 N force acts perpendicular at 1.28 m from a pivot. Torque?",
     "options": [
-      "70 N·m",
-      "35 N·m",
-      "36 N·m",
-      "35 N·m"
+      "37.76 N·m",
+      "30.21 N·m",
+      "15.11 N·m",
+      "60.42 N·m"
     ],
     "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-077",
@@ -1375,15 +1375,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 3.6 kg point mass moves perpendicular to radius 1.32 m at 4.86 m/s. Angular momentum magnitude?",
     "options": [
-      "force and perpendicular distance",
-      "mass only",
-      "speed only",
-      "temperature and pressure"
+      "23.09 kg·m²/s",
+      "11.54 kg·m²/s",
+      "46.18 kg·m²/s",
+      "28.86 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-078",
@@ -1393,15 +1393,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 2.02 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "1/3 of the original",
-      "3 times the original",
-      "9 times the original",
-      "1/9 of the original"
+      "1.2 m/s²",
+      "4.8 m/s²",
+      "3 m/s²",
+      "2.4 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-079",
@@ -1411,15 +1411,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 3 m/s, angular momentum magnitude?",
+    "stem": "A 24.2 N force acts perpendicular at 1.31 m from a pivot. Torque?",
     "options": [
-      "20 kg·m²/s",
-      "3.75 kg·m²/s",
-      "60 kg·m²/s",
-      "15 kg·m²/s"
+      "63.4 N·m",
+      "39.63 N·m",
+      "31.7 N·m",
+      "15.85 N·m"
     ],
     "answer_index": 2,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-080",
@@ -1429,15 +1429,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 3.7 kg point mass moves perpendicular to radius 1.34 m at 4.97 m/s. Angular momentum magnitude?",
     "options": [
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force"
+      "30.8 kg·m²/s",
+      "24.64 kg·m²/s",
+      "12.32 kg·m²/s",
+      "49.28 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-081",
@@ -1447,15 +1447,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 25 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 2.04 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "25 N·m",
-      "26 N·m",
-      "25 N·m",
-      "50 N·m"
+      "2.35 m/s²",
+      "1.18 m/s²",
+      "4.71 m/s²",
+      "2.94 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-082",
@@ -1465,15 +1465,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 24.8 N force acts perpendicular at 1.34 m from a pivot. Torque?",
     "options": [
-      "mass only",
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance"
+      "16.61 N·m",
+      "66.46 N·m",
+      "41.54 N·m",
+      "33.23 N·m"
     ],
     "answer_index": 3,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-083",
@@ -1483,15 +1483,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "stem": "A 3.8 kg point mass moves perpendicular to radius 1.36 m at 5.08 m/s. Angular momentum magnitude?",
     "options": [
-      "4 times the original",
-      "16 times the original",
-      "1/16 of the original",
-      "1/4 of the original"
+      "52.5 kg·m²/s",
+      "32.81 kg·m²/s",
+      "26.25 kg·m²/s",
+      "13.13 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-084",
@@ -1501,15 +1501,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 8 m/s, angular momentum magnitude?",
+    "stem": "At a distance 2.06 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "8 kg·m²/s",
-      "200 kg·m²/s",
-      "40 kg·m²/s",
-      "25 kg·m²/s"
+      "2.89 m/s²",
+      "2.31 m/s²",
+      "1.15 m/s²",
+      "4.62 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-085",
@@ -1519,15 +1519,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 25.4 N force acts perpendicular at 1.37 m from a pivot. Torque?",
     "options": [
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass"
+      "34.8 N·m",
+      "17.4 N·m",
+      "69.6 N·m",
+      "43.5 N·m"
     ],
     "answer_index": 0,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-086",
@@ -1537,15 +1537,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 15 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 3.9 kg point mass moves perpendicular to radius 1.38 m at 5.19 m/s. Angular momentum magnitude?",
     "options": [
-      "16 N·m",
-      "15 N·m",
-      "30 N·m",
-      "15 N·m"
+      "13.96 kg·m²/s",
+      "55.86 kg·m²/s",
+      "34.91 kg·m²/s",
+      "27.93 kg·m²/s"
     ],
-    "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-087",
@@ -1555,15 +1555,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 2.08 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only"
+      "4.53 m/s²",
+      "2.83 m/s²",
+      "2.27 m/s²",
+      "1.13 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-088",
@@ -1573,15 +1573,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "stem": "A 26 N force acts perpendicular at 1.4 m from a pivot. Torque?",
     "options": [
-      "25 times the original",
-      "1/25 of the original",
-      "1/5 of the original",
-      "5 times the original"
+      "45.5 N·m",
+      "36.4 N·m",
+      "18.2 N·m",
+      "72.8 N·m"
     ],
     "answer_index": 1,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-089",
@@ -1591,15 +1591,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 7 m/s, angular momentum magnitude?",
+    "stem": "A 4 kg point mass moves perpendicular to radius 1.4 m at 5.3 m/s. Angular momentum magnitude?",
     "options": [
-      "70 kg·m²/s",
-      "35 kg·m²/s",
-      "10 kg·m²/s",
-      "17.5 kg·m²/s"
+      "29.68 kg·m²/s",
+      "14.84 kg·m²/s",
+      "59.36 kg·m²/s",
+      "37.1 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-090",
@@ -1609,15 +1609,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 2.1 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass",
-      "zero net torque"
+      "1.11 m/s²",
+      "4.44 m/s²",
+      "2.78 m/s²",
+      "2.22 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-091",
@@ -1627,15 +1627,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 40 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 26.6 N force acts perpendicular at 1.43 m from a pivot. Torque?",
     "options": [
-      "40 N·m",
-      "80 N·m",
-      "40 N·m",
-      "41 N·m"
+      "76.08 N·m",
+      "47.55 N·m",
+      "38.04 N·m",
+      "19.02 N·m"
     ],
-    "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 2,
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-092",
@@ -1645,15 +1645,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 4.1 kg point mass moves perpendicular to radius 1.42 m at 5.41 m/s. Angular momentum magnitude?",
     "options": [
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only",
-      "speed only"
+      "39.38 kg·m²/s",
+      "31.5 kg·m²/s",
+      "15.75 kg·m²/s",
+      "63 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-093",
@@ -1663,15 +1663,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 2.12 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "1/4 of the original",
-      "1/2 of the original",
-      "2 times the original",
-      "4 times the original"
+      "2.18 m/s²",
+      "1.09 m/s²",
+      "4.36 m/s²",
+      "2.73 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-094",
@@ -1681,15 +1681,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 6 m/s, angular momentum magnitude?",
+    "stem": "A 27.2 N force acts perpendicular at 1.46 m from a pivot. Torque?",
     "options": [
-      "30 kg·m²/s",
-      "15 kg·m²/s",
-      "10 kg·m²/s",
-      "90 kg·m²/s"
+      "19.86 N·m",
+      "79.42 N·m",
+      "49.64 N·m",
+      "39.71 N·m"
     ],
     "answer_index": 3,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-095",
@@ -1699,15 +1699,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 4.2 kg point mass moves perpendicular to radius 1.44 m at 5.52 m/s. Angular momentum magnitude?",
     "options": [
-      "nonzero net force",
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed"
+      "66.76 kg·m²/s",
+      "41.73 kg·m²/s",
+      "33.38 kg·m²/s",
+      "16.69 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-096",
@@ -1717,15 +1717,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 30 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 2.14 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "60 N·m",
-      "30 N·m",
-      "31 N·m",
-      "30 N·m"
+      "2.68 m/s²",
+      "2.14 m/s²",
+      "1.07 m/s²",
+      "4.28 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-097",
@@ -1735,15 +1735,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 27.8 N force acts perpendicular at 1.49 m from a pivot. Torque?",
     "options": [
-      "force and perpendicular distance",
-      "mass only",
-      "speed only",
-      "temperature and pressure"
+      "41.42 N·m",
+      "20.71 N·m",
+      "82.84 N·m",
+      "51.78 N·m"
     ],
     "answer_index": 0,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-098",
@@ -1753,15 +1753,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "stem": "A 4.3 kg point mass moves perpendicular to radius 1.46 m at 5.63 m/s. Angular momentum magnitude?",
     "options": [
-      "1/3 of the original",
-      "3 times the original",
-      "9 times the original",
-      "1/9 of the original"
+      "17.68 kg·m²/s",
+      "70.7 kg·m²/s",
+      "44.19 kg·m²/s",
+      "35.35 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-099",
@@ -1771,15 +1771,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 5 m/s, angular momentum magnitude?",
+    "stem": "At a distance 2.16 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "20 kg·m²/s",
-      "6.25 kg·m²/s",
-      "100 kg·m²/s",
-      "25 kg·m²/s"
+      "4.2 m/s²",
+      "2.63 m/s²",
+      "2.1 m/s²",
+      "1.05 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-100",
@@ -1789,15 +1789,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 28.4 N force acts perpendicular at 1.52 m from a pivot. Torque?",
     "options": [
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force"
+      "53.96 N·m",
+      "43.17 N·m",
+      "21.59 N·m",
+      "86.34 N·m"
     ],
     "answer_index": 1,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-101",
@@ -1807,15 +1807,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 20 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 4.4 kg point mass moves perpendicular to radius 1.48 m at 5.74 m/s. Angular momentum magnitude?",
     "options": [
-      "20 N·m",
-      "21 N·m",
-      "20 N·m",
-      "40 N·m"
+      "37.38 kg·m²/s",
+      "18.69 kg·m²/s",
+      "74.76 kg·m²/s",
+      "46.73 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-102",
@@ -1825,15 +1825,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 2.18 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "mass only",
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance"
+      "1.03 m/s²",
+      "4.12 m/s²",
+      "2.58 m/s²",
+      "2.06 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-103",
@@ -1843,15 +1843,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "stem": "A 29 N force acts perpendicular at 1.55 m from a pivot. Torque?",
     "options": [
-      "4 times the original",
-      "16 times the original",
-      "1/16 of the original",
-      "1/4 of the original"
+      "89.9 N·m",
+      "56.19 N·m",
+      "44.95 N·m",
+      "22.48 N·m"
     ],
     "answer_index": 2,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-104",
@@ -1861,15 +1861,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 4 m/s, angular momentum magnitude?",
+    "stem": "A 4.5 kg point mass moves perpendicular to radius 1.5 m at 5.85 m/s. Angular momentum magnitude?",
     "options": [
-      "4 kg·m²/s",
-      "100 kg·m²/s",
-      "20 kg·m²/s",
-      "25 kg·m²/s"
+      "49.36 kg·m²/s",
+      "39.49 kg·m²/s",
+      "19.75 kg·m²/s",
+      "78.98 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-105",
@@ -1879,15 +1879,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 2.2 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass"
+      "2.02 m/s²",
+      "1.01 m/s²",
+      "4.05 m/s²",
+      "2.53 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-106",
@@ -1897,15 +1897,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 29.6 N force acts perpendicular at 1.58 m from a pivot. Torque?",
     "options": [
-      "11 N·m",
-      "10 N·m",
-      "20 N·m",
-      "10 N·m"
+      "23.39 N·m",
+      "93.54 N·m",
+      "58.46 N·m",
+      "46.77 N·m"
     ],
-    "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 3,
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-107",
@@ -1915,15 +1915,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 4.6 kg point mass moves perpendicular to radius 1.52 m at 5.96 m/s. Angular momentum magnitude?",
     "options": [
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only"
+      "83.34 kg·m²/s",
+      "52.09 kg·m²/s",
+      "41.67 kg·m²/s",
+      "20.84 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-108",
@@ -1933,15 +1933,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 2.22 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "25 times the original",
-      "1/25 of the original",
-      "1/5 of the original",
-      "5 times the original"
+      "2.48 m/s²",
+      "1.99 m/s²",
+      "0.994 m/s²",
+      "3.98 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-109",
@@ -1951,15 +1951,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 3 m/s, angular momentum magnitude?",
+    "stem": "A 30.2 N force acts perpendicular at 1.61 m from a pivot. Torque?",
     "options": [
-      "30 kg·m²/s",
-      "15 kg·m²/s",
-      "10 kg·m²/s",
-      "7.5 kg·m²/s"
+      "48.62 N·m",
+      "24.31 N·m",
+      "97.24 N·m",
+      "60.77 N·m"
     ],
     "answer_index": 0,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-110",
@@ -1969,15 +1969,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 4.7 kg point mass moves perpendicular to radius 1.54 m at 6.07 m/s. Angular momentum magnitude?",
     "options": [
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass",
-      "zero net torque"
+      "21.96 kg·m²/s",
+      "87.86 kg·m²/s",
+      "54.91 kg·m²/s",
+      "43.93 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-111",
@@ -1987,15 +1987,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 2.24 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "35 N·m",
-      "70 N·m",
-      "35 N·m",
-      "36 N·m"
+      "3.91 m/s²",
+      "2.44 m/s²",
+      "1.95 m/s²",
+      "0.9765 m/s²"
     ],
-    "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-112",
@@ -2005,15 +2005,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 30.8 N force acts perpendicular at 1.64 m from a pivot. Torque?",
     "options": [
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only",
-      "speed only"
+      "63.14 N·m",
+      "50.51 N·m",
+      "25.25 N·m",
+      "101.02 N·m"
     ],
     "answer_index": 1,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-113",
@@ -2023,15 +2023,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "stem": "A 4.8 kg point mass moves perpendicular to radius 1.56 m at 6.18 m/s. Angular momentum magnitude?",
     "options": [
-      "1/4 of the original",
-      "1/2 of the original",
-      "2 times the original",
-      "4 times the original"
+      "46.28 kg·m²/s",
+      "23.14 kg·m²/s",
+      "92.56 kg·m²/s",
+      "57.85 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-114",
@@ -2041,15 +2041,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 8 m/s, angular momentum magnitude?",
+    "stem": "At a distance 2.26 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "40 kg·m²/s",
-      "15 kg·m²/s",
-      "13.33 kg·m²/s",
-      "120 kg·m²/s"
+      "0.9595 m/s²",
+      "3.84 m/s²",
+      "2.4 m/s²",
+      "1.92 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-115",
@@ -2059,15 +2059,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 31.4 N force acts perpendicular at 1.67 m from a pivot. Torque?",
     "options": [
-      "nonzero net force",
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed"
+      "104.88 N·m",
+      "65.55 N·m",
+      "52.44 N·m",
+      "26.22 N·m"
     ],
     "answer_index": 2,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-116",
@@ -2077,15 +2077,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 25 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 4.9 kg point mass moves perpendicular to radius 1.58 m at 6.29 m/s. Angular momentum magnitude?",
     "options": [
-      "50 N·m",
-      "25 N·m",
-      "26 N·m",
-      "25 N·m"
+      "60.88 kg·m²/s",
+      "48.7 kg·m²/s",
+      "24.35 kg·m²/s",
+      "97.4 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-117",
@@ -2095,15 +2095,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 2.28 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "force and perpendicular distance",
-      "mass only",
-      "speed only",
-      "temperature and pressure"
+      "1.89 m/s²",
+      "0.9425 m/s²",
+      "3.77 m/s²",
+      "2.36 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-118",
@@ -2113,15 +2113,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "stem": "A 32 N force acts perpendicular at 1.7 m from a pivot. Torque?",
     "options": [
-      "1/3 of the original",
-      "3 times the original",
-      "9 times the original",
-      "1/9 of the original"
+      "27.2 N·m",
+      "108.8 N·m",
+      "68 N·m",
+      "54.4 N·m"
     ],
     "answer_index": 3,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-119",
@@ -2131,15 +2131,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 7 m/s, angular momentum magnitude?",
+    "stem": "A 5 kg point mass moves perpendicular to radius 1.6 m at 6.4 m/s. Angular momentum magnitude?",
     "options": [
-      "20 kg·m²/s",
-      "8.75 kg·m²/s",
-      "140 kg·m²/s",
-      "35 kg·m²/s"
+      "102.4 kg·m²/s",
+      "64 kg·m²/s",
+      "51.2 kg·m²/s",
+      "25.6 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-120",
@@ -2149,15 +2149,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 2.3 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force"
+      "2.32 m/s²",
+      "1.85 m/s²",
+      "0.9265 m/s²",
+      "3.71 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-121",
@@ -2167,15 +2167,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 15 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 32.6 N force acts perpendicular at 1.73 m from a pivot. Torque?",
     "options": [
-      "15 N·m",
-      "16 N·m",
-      "15 N·m",
-      "30 N·m"
+      "56.4 N·m",
+      "28.2 N·m",
+      "112.8 N·m",
+      "70.5 N·m"
     ],
     "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-122",
@@ -2185,15 +2185,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 5.1 kg point mass moves perpendicular to radius 1.62 m at 6.51 m/s. Angular momentum magnitude?",
     "options": [
-      "mass only",
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance"
+      "26.89 kg·m²/s",
+      "107.58 kg·m²/s",
+      "67.24 kg·m²/s",
+      "53.79 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-123",
@@ -2203,15 +2203,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 2.32 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "4 times the original",
-      "16 times the original",
-      "1/16 of the original",
-      "1/4 of the original"
+      "3.64 m/s²",
+      "2.28 m/s²",
+      "1.82 m/s²",
+      "0.9105 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-124",
@@ -2221,15 +2221,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 6 m/s, angular momentum magnitude?",
+    "stem": "A 33.2 N force acts perpendicular at 1.76 m from a pivot. Torque?",
     "options": [
-      "6 kg·m²/s",
-      "150 kg·m²/s",
-      "30 kg·m²/s",
-      "25 kg·m²/s"
+      "73.04 N·m",
+      "58.43 N·m",
+      "29.21 N·m",
+      "116.86 N·m"
     ],
     "answer_index": 1,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-125",
@@ -2239,15 +2239,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 5.2 kg point mass moves perpendicular to radius 1.64 m at 6.62 m/s. Angular momentum magnitude?",
     "options": [
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass"
+      "56.46 kg·m²/s",
+      "28.23 kg·m²/s",
+      "112.92 kg·m²/s",
+      "70.58 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-126",
@@ -2257,15 +2257,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 40 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 2.34 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "41 N·m",
-      "40 N·m",
-      "80 N·m",
-      "40 N·m"
+      "0.895 m/s²",
+      "3.58 m/s²",
+      "2.24 m/s²",
+      "1.79 m/s²"
     ],
-    "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-127",
@@ -2275,15 +2275,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 33.8 N force acts perpendicular at 1.79 m from a pivot. Torque?",
     "options": [
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only"
+      "121 N·m",
+      "75.63 N·m",
+      "60.5 N·m",
+      "30.25 N·m"
     ],
     "answer_index": 2,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-128",
@@ -2293,15 +2293,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "stem": "A 5.3 kg point mass moves perpendicular to radius 1.66 m at 6.73 m/s. Angular momentum magnitude?",
     "options": [
-      "25 times the original",
-      "1/25 of the original",
-      "1/5 of the original",
-      "5 times the original"
+      "74.01 kg·m²/s",
+      "59.21 kg·m²/s",
+      "29.61 kg·m²/s",
+      "118.42 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-129",
@@ -2311,15 +2311,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 5 m/s, angular momentum magnitude?",
+    "stem": "At a distance 2.36 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "50 kg·m²/s",
-      "25 kg·m²/s",
-      "10 kg·m²/s",
-      "12.5 kg·m²/s"
+      "1.76 m/s²",
+      "0.88 m/s²",
+      "3.52 m/s²",
+      "2.2 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-130",
@@ -2329,15 +2329,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 34.4 N force acts perpendicular at 1.82 m from a pivot. Torque?",
     "options": [
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass",
-      "zero net torque"
+      "31.3 N·m",
+      "125.22 N·m",
+      "78.26 N·m",
+      "62.61 N·m"
     ],
     "answer_index": 3,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-131",
@@ -2347,15 +2347,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 30 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 5.4 kg point mass moves perpendicular to radius 1.68 m at 6.84 m/s. Angular momentum magnitude?",
     "options": [
-      "30 N·m",
-      "60 N·m",
-      "30 N·m",
-      "31 N·m"
+      "124.1 kg·m²/s",
+      "77.56 kg·m²/s",
+      "62.05 kg·m²/s",
+      "31.02 kg·m²/s"
     ],
-    "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-132",
@@ -2365,15 +2365,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 2.38 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only",
-      "speed only"
+      "2.16 m/s²",
+      "1.73 m/s²",
+      "0.865 m/s²",
+      "3.46 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-133",
@@ -2383,15 +2383,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "stem": "A 35 N force acts perpendicular at 1.85 m from a pivot. Torque?",
     "options": [
-      "1/4 of the original",
-      "1/2 of the original",
-      "2 times the original",
-      "4 times the original"
+      "64.75 N·m",
+      "32.38 N·m",
+      "129.5 N·m",
+      "80.94 N·m"
     ],
     "answer_index": 0,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-134",
@@ -2401,15 +2401,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 4 m/s, angular momentum magnitude?",
+    "stem": "A 5.5 kg point mass moves perpendicular to radius 1.7 m at 6.95 m/s. Angular momentum magnitude?",
     "options": [
-      "20 kg·m²/s",
-      "15 kg·m²/s",
-      "6.67 kg·m²/s",
-      "60 kg·m²/s"
+      "32.49 kg·m²/s",
+      "129.96 kg·m²/s",
+      "81.23 kg·m²/s",
+      "64.98 kg·m²/s"
     ],
     "answer_index": 3,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-135",
@@ -2419,15 +2419,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 2.4 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "nonzero net force",
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed"
+      "3.4 m/s²",
+      "2.13 m/s²",
+      "1.7 m/s²",
+      "0.8505 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-136",
@@ -2437,15 +2437,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 20 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 35.6 N force acts perpendicular at 1.88 m from a pivot. Torque?",
     "options": [
-      "40 N·m",
-      "20 N·m",
-      "21 N·m",
-      "20 N·m"
+      "83.66 N·m",
+      "66.93 N·m",
+      "33.47 N·m",
+      "133.86 N·m"
     ],
     "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-137",
@@ -2455,15 +2455,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 5.6 kg point mass moves perpendicular to radius 1.72 m at 7.06 m/s. Angular momentum magnitude?",
     "options": [
-      "force and perpendicular distance",
-      "mass only",
-      "speed only",
-      "temperature and pressure"
+      "68 kg·m²/s",
+      "34 kg·m²/s",
+      "136 kg·m²/s",
+      "85 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-138",
@@ -2473,15 +2473,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "stem": "At a distance 2.42 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "1/3 of the original",
-      "3 times the original",
-      "9 times the original",
-      "1/9 of the original"
+      "0.8365 m/s²",
+      "3.35 m/s²",
+      "2.09 m/s²",
+      "1.67 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-139",
@@ -2491,15 +2491,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 3 m/s, angular momentum magnitude?",
+    "stem": "A 36.2 N force acts perpendicular at 1.91 m from a pivot. Torque?",
     "options": [
-      "20 kg·m²/s",
-      "3.75 kg·m²/s",
-      "60 kg·m²/s",
-      "15 kg·m²/s"
+      "138.28 N·m",
+      "86.42 N·m",
+      "69.14 N·m",
+      "34.57 N·m"
     ],
     "answer_index": 2,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-140",
@@ -2509,15 +2509,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 5.7 kg point mass moves perpendicular to radius 1.74 m at 7.17 m/s. Angular momentum magnitude?",
     "options": [
-      "zero mass",
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force"
+      "88.89 kg·m²/s",
+      "71.11 kg·m²/s",
+      "35.55 kg·m²/s",
+      "142.22 kg·m²/s"
     ],
     "answer_index": 1,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-141",
@@ -2527,15 +2527,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "At a distance 2.44 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "10 N·m",
-      "11 N·m",
-      "10 N·m",
-      "20 N·m"
+      "1.65 m/s²",
+      "0.823 m/s²",
+      "3.29 m/s²",
+      "2.06 m/s²"
     ],
     "answer_index": 0,
-    "explanation": "τ = Fd for a perpendicular force."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-142",
@@ -2545,15 +2545,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "A 36.8 N force acts perpendicular at 1.94 m from a pivot. Torque?",
     "options": [
-      "mass only",
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance"
+      "35.7 N·m",
+      "142.78 N·m",
+      "89.24 N·m",
+      "71.39 N·m"
     ],
     "answer_index": 3,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-143",
@@ -2563,15 +2563,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "stem": "A 5.8 kg point mass moves perpendicular to radius 1.76 m at 7.28 m/s. Angular momentum magnitude?",
     "options": [
-      "4 times the original",
-      "16 times the original",
-      "1/16 of the original",
-      "1/4 of the original"
+      "148.62 kg·m²/s",
+      "92.89 kg·m²/s",
+      "74.31 kg·m²/s",
+      "37.16 kg·m²/s"
     ],
     "answer_index": 2,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-144",
@@ -2581,15 +2581,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 8 m/s, angular momentum magnitude?",
+    "stem": "At a distance 2.46 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "8 kg·m²/s",
-      "200 kg·m²/s",
-      "40 kg·m²/s",
-      "25 kg·m²/s"
+      "2.02 m/s²",
+      "1.62 m/s²",
+      "0.8095 m/s²",
+      "3.24 m/s²"
     ],
     "answer_index": 1,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-145",
@@ -2599,15 +2599,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "A 37.4 N force acts perpendicular at 1.97 m from a pivot. Torque?",
     "options": [
-      "zero net torque",
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass"
+      "73.68 N·m",
+      "36.84 N·m",
+      "147.36 N·m",
+      "92.1 N·m"
     ],
     "answer_index": 0,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-146",
@@ -2617,15 +2617,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "stem": "A 5.9 kg point mass moves perpendicular to radius 1.78 m at 7.39 m/s. Angular momentum magnitude?",
     "options": [
-      "36 N·m",
-      "35 N·m",
-      "70 N·m",
-      "35 N·m"
+      "38.8 kg·m²/s",
+      "155.22 kg·m²/s",
+      "97.01 kg·m²/s",
+      "77.61 kg·m²/s"
     ],
-    "answer_index": 1,
-    "explanation": "τ = Fd for a perpendicular force."
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-147",
@@ -2635,15 +2635,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "The moment of a force about a point depends on:",
+    "stem": "At a distance 2.48 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "speed only",
-      "temperature and pressure",
-      "force and perpendicular distance",
-      "mass only"
+      "3.19 m/s²",
+      "1.99 m/s²",
+      "1.59 m/s²",
+      "0.7965 m/s²"
     ],
     "answer_index": 2,
-    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+    "explanation": "g scales as 1/r²."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-148",
@@ -2653,15 +2653,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "stem": "A 38 N force acts perpendicular at 2 m from a pivot. Torque?",
     "options": [
-      "25 times the original",
-      "1/25 of the original",
-      "1/5 of the original",
-      "5 times the original"
+      "95 N·m",
+      "76 N·m",
+      "38 N·m",
+      "152 N·m"
     ],
     "answer_index": 1,
-    "explanation": "Gravitational field varies as 1/r²."
+    "explanation": "τ=Fd."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-149",
@@ -2671,15 +2671,15 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 7 m/s, angular momentum magnitude?",
+    "stem": "A 6 kg point mass moves perpendicular to radius 1.8 m at 7.5 m/s. Angular momentum magnitude?",
     "options": [
-      "70 kg·m²/s",
-      "35 kg·m²/s",
-      "10 kg·m²/s",
-      "17.5 kg·m²/s"
+      "81 kg·m²/s",
+      "40.5 kg·m²/s",
+      "162 kg·m²/s",
+      "101.25 kg·m²/s"
     ],
     "answer_index": 0,
-    "explanation": "L = mvr for perpendicular motion."
+    "explanation": "L=mvr for perpendicular motion."
   },
   {
     "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-150",
@@ -2689,14 +2689,14 @@
     "subtopic": "Torque, Angular Ideas & Gravitation",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "An object in stable rotational equilibrium must have:",
+    "stem": "At a distance 2.5 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
     "options": [
-      "maximum angular speed",
-      "nonzero net force",
-      "zero mass",
-      "zero net torque"
+      "0.784 m/s²",
+      "3.14 m/s²",
+      "1.96 m/s²",
+      "1.57 m/s²"
     ],
     "answer_index": 3,
-    "explanation": "Rotational equilibrium requires Στ = 0."
+    "explanation": "g scales as 1/r²."
   }
 ]
