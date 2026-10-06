@@ -111,7 +111,7 @@ h1 .grad{
 .topline{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .tag{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--navy)}
 .pill{padding:6px 10px;border-radius:999px;font-size:10px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}
-.live{background:rgba(185,255,102,.28);color:#4e7e13}.soon{background:rgba(139,92,255,.10);color:#7455c6}
+.live{background:rgba(185,255,102,.28);color:#4e7e13}.soon{background:rgba(139,92,255,.10);color:#7455c6}.building{background:rgba(76,199,223,.14);color:#267d91}
 .card h3{font-size:25px;letter-spacing:-.035em;color:var(--navy);margin:16px 0 9px}
 .card p{margin:0;color:var(--muted);font-size:13px;line-height:1.7}
 .card-link{margin-top:24px;display:flex;align-items:center;justify-content:space-between;font-size:12px;font-weight:800;color:var(--navy)}
@@ -122,13 +122,14 @@ h1 .grad{
 @keyframes rail{from{transform:translateX(-50%)}to{transform:translateX(0)}}
 .coming-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .coming{
-  min-height:160px;border-radius:20px;padding:20px;background:rgba(255,255,255,.78);
-  border:1px solid rgba(24,35,63,.08);box-shadow:0 10px 30px rgba(61,64,91,.05)
+  min-height:180px;border-radius:20px;padding:20px;background:rgba(255,255,255,.78);
+  border:1px solid rgba(24,35,63,.08);box-shadow:0 10px 30px rgba(61,64,91,.05);transition:.22s ease
 }
+a.coming:hover{transform:translateY(-3px);box-shadow:0 16px 34px rgba(61,64,91,.10);border-color:rgba(76,199,223,.35)}
 .coming:nth-child(1){background:linear-gradient(180deg,rgba(255,255,255,.90),rgba(238,246,255,.72))}
 .coming:nth-child(2){background:linear-gradient(180deg,rgba(255,255,255,.90),rgba(243,241,255,.72))}
 .coming:nth-child(3){background:linear-gradient(180deg,rgba(255,255,255,.90),rgba(238,248,240,.72))}
-.coming h3{color:var(--navy);font-size:20px;margin:14px 0 7px}.coming p{margin:0;color:var(--muted);font-size:12px;line-height:1.6}
+.coming h3{color:var(--navy);font-size:20px;margin:14px 0 7px}.coming p{margin:0;color:var(--muted);font-size:12px;line-height:1.6}.preview-link{margin-top:15px;font-size:11px;font-weight:800;color:var(--navy);display:flex;justify-content:space-between;align-items:center}
 .how{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .step{
   border-radius:18px;padding:20px;border:1px solid rgba(24,35,63,.08);background:rgba(255,255,255,.78)
@@ -159,7 +160,7 @@ footer strong,footer a{color:var(--navy)}
     <a class="brand" href="/prepenroll-practice/">Prep<span>Enroll</span>™ Practice</a>
     <div class="navlinks">
       <a class="hide-sm" href="#live">Live Studios</a>
-      <a class="hide-sm" href="#coming">Coming Soon</a>
+      <a class="hide-sm" href="#coming">Next Up</a>
       <a class="site" href="https://www.prepenroll.com" target="_blank" rel="noopener">PrepEnroll.com ↗</a>
     </div>
   </div>
@@ -178,7 +179,7 @@ footer strong,footer a{color:var(--navy)}
     <p>Curriculum-aligned practice • instant feedback • focused test generation. Choose your curriculum, open the right studio and build practice that matches what you are learning.</p>
     <div class="hero-actions">
       <a class="btn primary" href="#live">Explore Live Studios</a>
-      <a class="btn secondary" href="#coming">View Coming Soon</a>
+      <a class="btn secondary" href="#coming">See What’s Building</a>
     </div>
   </div>
 </section>
@@ -189,13 +190,13 @@ footer strong,footer a{color:var(--navy)}
     <div class="ticker-item"><b>LIVE</b> IB Physics SL & HL</div>
     <div class="ticker-item"><b>LIVE</b> AP Physics 1</div>
     <div class="ticker-item"><b>NEXT</b> GCSE Physics</div>
-    <div class="ticker-item"><b>LIVE</b> A / AS Level Physics</div>
+    <div class="ticker-item"><b>BUILDING</b> A / AS Level Physics</div>
     <div class="ticker-item"><b>LIVE</b> CBSE Physics</div>
     <div class="ticker-item"><b>LIVE</b> IGCSE Physics 0625</div>
     <div class="ticker-item"><b>LIVE</b> IB Physics SL & HL</div>
     <div class="ticker-item"><b>LIVE</b> AP Physics 1</div>
     <div class="ticker-item"><b>NEXT</b> GCSE Physics</div>
-    <div class="ticker-item"><b>LIVE</b> A / AS Level Physics</div>
+    <div class="ticker-item"><b>BUILDING</b> A / AS Level Physics</div>
     <div class="ticker-item"><b>LIVE</b> CBSE Physics</div>
   </div>
 </div>
@@ -242,24 +243,6 @@ footer strong,footer a{color:var(--navy)}
       </div>
       <div class="card-link"><span>Open Studio</span><span>→</span></div>
     </a>
-
-    <a class="card c1" href="/prepenroll-practice/a-level-physics/">
-      <div>
-        <div class="topline"><span class="tag">A Level</span><span class="pill live">Live</span></div>
-        <h3>A Level Physics</h3>
-        <p>Board-specific Physics structure for Cambridge International, Pearson Edexcel and OCR.</p>
-      </div>
-      <div class="card-link"><span>Open Studio</span><span>→</span></div>
-    </a>
-
-    <a class="card c2" href="/prepenroll-practice/as-level-physics/">
-      <div>
-        <div class="topline"><span class="tag">AS Level</span><span class="pill live">Live</span></div>
-        <h3>AS Level Physics</h3>
-        <p>AS Physics practice structure for Cambridge International, Pearson Edexcel and OCR.</p>
-      </div>
-      <div class="card-link"><span>Open Studio</span><span>→</span></div>
-    </a>
   </div>
 
   <div class="rail-wrap">
@@ -278,12 +261,23 @@ footer strong,footer a{color:var(--navy)}
 
 <section class="section" id="coming">
   <div class="section-head">
-    <div><div class="eyebrow">In development</div><h2>Coming Soon</h2></div>
-    <p>More Physics studios will appear here as they are prepared and tested.</p>
+    <div><div class="eyebrow">Next coming up</div><h2>Currently Building</h2></div>
+    <p>A-Level and AS-Level are visible as structure previews while the question banks are being built. You can open them to review the board-wise syllabus structure.</p>
   </div>
   <div class="coming-grid">
+    <a class="coming" href="/prepenroll-practice/a-level-physics/">
+      <div class="topline"><span class="tag">A Level</span><span class="pill building">Currently Building</span></div>
+      <h3>A Level Physics</h3>
+      <p>Cambridge International, Pearson Edexcel and OCR structure is available to preview. Practice questions are being added next.</p>
+      <div class="preview-link"><span>View Structure</span><span>→</span></div>
+    </a>
+    <a class="coming" href="/prepenroll-practice/as-level-physics/">
+      <div class="topline"><span class="tag">AS Level</span><span class="pill building">Currently Building</span></div>
+      <h3>AS Level Physics</h3>
+      <p>Board-wise AS structure is available to preview while the question bank is under construction.</p>
+      <div class="preview-link"><span>View Structure</span><span>→</span></div>
+    </a>
     <div class="coming"><div class="topline"><span class="tag">GCSE</span><span class="pill soon">Coming Soon</span></div><h3>Physics</h3><p>Curriculum-based GCSE Physics practice.</p></div>
-
   </div>
 </section>
 
@@ -296,7 +290,6 @@ footer strong,footer a{color:var(--navy)}
   </div>
 </section>
 </main>
-
 
 <footer class="pe-global-footer">
   <div class="pe-footer-inner">
