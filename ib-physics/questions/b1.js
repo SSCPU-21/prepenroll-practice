@@ -35,7 +35,7 @@ P(1,"A heater supplies constant power to water in an insulated cup. Temperature 
 {q:"Suggest one experimental change that would reduce this deviation from linearity.",m:1,ms:["better insulation / lid / shorter run"]}]);
 P(2,"A student determines the specific heat capacity of a metal block using an electrical heater. The measured energy input and temperature rise are shown.",["trial","E / kJ","ΔT / K"],[[1,6.0,13.0],[2,8.0,17.1],[3,10.0,21.0],[4,12.0,24.7]],[
 {q:"State a graph that should be linear if heat losses are small.",m:1,ms:["E against ΔT"]},
-{q:"State what the gradient represents.",m:1,ms:["mc for the block"]},
+{q:"For a graph of energy input against temperature rise, identify the physical quantity represented by the gradient.",m:1,ms:["mc for the block"]},
 {q:"Explain why a positive energy-axis intercept could occur.",m:2,ms:["some energy warms the heater/sensor or is lost before a measurable block-temperature rise"]},
 {q:"State one reason to use several energy values rather than one measurement.",m:1,ms:["gradient uses multiple data points and reveals scatter/systematic offsets"]}]);
 P(3,"A cooling liquid is monitored as it freezes.",["t / min","T / °C"],[[0,12],[2,7],[4,3],[6,1],[8,1],[10,1],[12,-2],[14,-5]],[
@@ -60,7 +60,7 @@ P(6,"The peak wavelength of radiation from four heated sources is measured.",["s
 {q:"State one reason measured peak wavelength might be uncertain.",m:1,ms:["broad spectrum / detector resolution / calibration"]}]);
 P(7,"The apparent brightness of the same lamp is measured at different distances in a dark laboratory.",["d / m","b / arbitrary units"],[[1.0,100],[1.5,44],[2.0,25],[2.5,16],[3.0,11]],[
 {q:"State the expected dependence of brightness on distance.",m:1,ms:["b proportional to 1/d²"]},
-{q:"State a linearizing graph.",m:1,ms:["b against 1/d²"]},
+{q:"Specify transformed axes that should give a straight-line test of the inverse-square model.",m:1,ms:["b against 1/d²"]},
 {q:"Explain physically why an inverse-square dependence occurs.",m:2,ms:["the same power spreads over spherical area 4πd²"]},
 {q:"Suggest one reason the largest-distance measurement may depart most from the model.",m:1,ms:["background light becomes significant / detector sensitivity"]}]);
 P(8,"A sample is heated through a phase change with a constant-power heater.",["t / s","T / °C"],[[0,15],[100,35],[200,55],[300,65],[400,65],[500,65],[600,78]],[
