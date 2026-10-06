@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=1 L. P2?",
+    "options": [
+      "200 kPa",
+      "50 kPa",
+      "100 kPa",
+      "300 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "2 L",
+      "3 L",
+      "4.5 L",
+      "4.5 L"
+    ],
+    "answer_index": 2,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 700 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "-500 J",
+      "700 J",
+      "500 J",
+      "900 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat"
+    ],
+    "answer_index": 1,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass",
+      "charge"
+    ],
+    "answer_index": 0,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=2 L. P2?",
+    "options": [
+      "100 kPa",
+      "100 kPa",
+      "400 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "3 L",
+      "4.5 L",
+      "4.5 L",
+      "2 L"
+    ],
+    "answer_index": 1,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 600 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "600 J",
+      "400 J",
+      "800 J",
+      "-400 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat",
+      "operate between two temperatures"
+    ],
+    "answer_index": 0,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "electric potential energy",
+      "mass",
+      "charge",
+      "translational kinetic energy"
+    ],
+    "answer_index": 3,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=3 L. P2?",
+    "options": [
+      "100 kPa",
+      "500 kPa",
+      "66.67 kPa",
+      "150 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "4.5 L",
+      "2 L",
+      "3 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 500 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "300 J",
+      "700 J",
+      "-300 J",
+      "500 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "do any work",
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work"
+    ],
+    "answer_index": 3,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "mass",
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=4 L. P2?",
+    "options": [
+      "600 kPa",
+      "50 kPa",
+      "200 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "2 L",
+      "3 L",
+      "4.5 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 1000 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "1200 J",
+      "-800 J",
+      "1000 J",
+      "800 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work"
+    ],
+    "answer_index": 2,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass"
+    ],
+    "answer_index": 1,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=1 L. P2?",
+    "options": [
+      "200 kPa",
+      "50 kPa",
+      "100 kPa",
+      "300 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "2 L",
+      "3 L",
+      "4.5 L",
+      "4.5 L"
+    ],
+    "answer_index": 2,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 900 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "-700 J",
+      "900 J",
+      "700 J",
+      "1100 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat"
+    ],
+    "answer_index": 1,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass",
+      "charge"
+    ],
+    "answer_index": 0,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=2 L. P2?",
+    "options": [
+      "100 kPa",
+      "100 kPa",
+      "400 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "3 L",
+      "4.5 L",
+      "4.5 L",
+      "2 L"
+    ],
+    "answer_index": 1,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 800 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "800 J",
+      "600 J",
+      "1000 J",
+      "-600 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat",
+      "operate between two temperatures"
+    ],
+    "answer_index": 0,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "electric potential energy",
+      "mass",
+      "charge",
+      "translational kinetic energy"
+    ],
+    "answer_index": 3,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=3 L. P2?",
+    "options": [
+      "100 kPa",
+      "500 kPa",
+      "66.67 kPa",
+      "150 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "4.5 L",
+      "2 L",
+      "3 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 700 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "500 J",
+      "900 J",
+      "-500 J",
+      "700 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "do any work",
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work"
+    ],
+    "answer_index": 3,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "mass",
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=4 L. P2?",
+    "options": [
+      "600 kPa",
+      "50 kPa",
+      "200 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "2 L",
+      "3 L",
+      "4.5 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 600 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "800 J",
+      "-400 J",
+      "600 J",
+      "400 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work"
+    ],
+    "answer_index": 2,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass"
+    ],
+    "answer_index": 1,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=1 L. P2?",
+    "options": [
+      "200 kPa",
+      "50 kPa",
+      "100 kPa",
+      "300 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "2 L",
+      "3 L",
+      "4.5 L",
+      "4.5 L"
+    ],
+    "answer_index": 2,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 500 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "-300 J",
+      "500 J",
+      "300 J",
+      "700 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat"
+    ],
+    "answer_index": 1,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass",
+      "charge"
+    ],
+    "answer_index": 0,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=2 L. P2?",
+    "options": [
+      "100 kPa",
+      "100 kPa",
+      "400 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "3 L",
+      "4.5 L",
+      "4.5 L",
+      "2 L"
+    ],
+    "answer_index": 1,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 1000 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "1000 J",
+      "800 J",
+      "1200 J",
+      "-800 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat",
+      "operate between two temperatures"
+    ],
+    "answer_index": 0,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "electric potential energy",
+      "mass",
+      "charge",
+      "translational kinetic energy"
+    ],
+    "answer_index": 3,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=3 L. P2?",
+    "options": [
+      "100 kPa",
+      "500 kPa",
+      "66.67 kPa",
+      "150 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "4.5 L",
+      "2 L",
+      "3 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 900 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "700 J",
+      "1100 J",
+      "-700 J",
+      "900 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "do any work",
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work"
+    ],
+    "answer_index": 3,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "mass",
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=4 L. P2?",
+    "options": [
+      "600 kPa",
+      "50 kPa",
+      "200 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "2 L",
+      "3 L",
+      "4.5 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 800 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "1000 J",
+      "-600 J",
+      "800 J",
+      "600 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work"
+    ],
+    "answer_index": 2,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass"
+    ],
+    "answer_index": 1,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=1 L. P2?",
+    "options": [
+      "200 kPa",
+      "50 kPa",
+      "100 kPa",
+      "300 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "2 L",
+      "3 L",
+      "4.5 L",
+      "4.5 L"
+    ],
+    "answer_index": 2,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 700 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "-500 J",
+      "700 J",
+      "500 J",
+      "900 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat"
+    ],
+    "answer_index": 1,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass",
+      "charge"
+    ],
+    "answer_index": 0,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=2 L. P2?",
+    "options": [
+      "100 kPa",
+      "100 kPa",
+      "400 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "3 L",
+      "4.5 L",
+      "4.5 L",
+      "2 L"
+    ],
+    "answer_index": 1,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 600 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "600 J",
+      "400 J",
+      "800 J",
+      "-400 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat",
+      "operate between two temperatures"
+    ],
+    "answer_index": 0,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "electric potential energy",
+      "mass",
+      "charge",
+      "translational kinetic energy"
+    ],
+    "answer_index": 3,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=3 L. P2?",
+    "options": [
+      "100 kPa",
+      "500 kPa",
+      "66.67 kPa",
+      "150 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "4.5 L",
+      "2 L",
+      "3 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 500 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "300 J",
+      "700 J",
+      "-300 J",
+      "500 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "do any work",
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work"
+    ],
+    "answer_index": 3,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "mass",
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=4 L. P2?",
+    "options": [
+      "600 kPa",
+      "50 kPa",
+      "200 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "2 L",
+      "3 L",
+      "4.5 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 1000 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "1200 J",
+      "-800 J",
+      "1000 J",
+      "800 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work"
+    ],
+    "answer_index": 2,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass"
+    ],
+    "answer_index": 1,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=1 L. P2?",
+    "options": [
+      "200 kPa",
+      "50 kPa",
+      "100 kPa",
+      "300 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "2 L",
+      "3 L",
+      "4.5 L",
+      "4.5 L"
+    ],
+    "answer_index": 2,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 900 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "-700 J",
+      "900 J",
+      "700 J",
+      "1100 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat"
+    ],
+    "answer_index": 1,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass",
+      "charge"
+    ],
+    "answer_index": 0,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=2 L. P2?",
+    "options": [
+      "100 kPa",
+      "100 kPa",
+      "400 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "3 L",
+      "4.5 L",
+      "4.5 L",
+      "2 L"
+    ],
+    "answer_index": 1,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 800 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "800 J",
+      "600 J",
+      "1000 J",
+      "-600 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat",
+      "operate between two temperatures"
+    ],
+    "answer_index": 0,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "electric potential energy",
+      "mass",
+      "charge",
+      "translational kinetic energy"
+    ],
+    "answer_index": 3,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=3 L. P2?",
+    "options": [
+      "100 kPa",
+      "500 kPa",
+      "66.67 kPa",
+      "150 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "4.5 L",
+      "2 L",
+      "3 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 700 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "500 J",
+      "900 J",
+      "-500 J",
+      "700 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "do any work",
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work"
+    ],
+    "answer_index": 3,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "mass",
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=4 L. P2?",
+    "options": [
+      "600 kPa",
+      "50 kPa",
+      "200 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "2 L",
+      "3 L",
+      "4.5 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 600 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "800 J",
+      "-400 J",
+      "600 J",
+      "400 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work"
+    ],
+    "answer_index": 2,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass"
+    ],
+    "answer_index": 1,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=1 L. P2?",
+    "options": [
+      "200 kPa",
+      "50 kPa",
+      "100 kPa",
+      "300 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "2 L",
+      "3 L",
+      "4.5 L",
+      "4.5 L"
+    ],
+    "answer_index": 2,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 500 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "-300 J",
+      "500 J",
+      "300 J",
+      "700 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat"
+    ],
+    "answer_index": 1,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass",
+      "charge"
+    ],
+    "answer_index": 0,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=2 L. P2?",
+    "options": [
+      "100 kPa",
+      "100 kPa",
+      "400 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "3 L",
+      "4.5 L",
+      "4.5 L",
+      "2 L"
+    ],
+    "answer_index": 1,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 1000 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "1000 J",
+      "800 J",
+      "1200 J",
+      "-800 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat",
+      "operate between two temperatures"
+    ],
+    "answer_index": 0,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "electric potential energy",
+      "mass",
+      "charge",
+      "translational kinetic energy"
+    ],
+    "answer_index": 3,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=3 L. P2?",
+    "options": [
+      "100 kPa",
+      "500 kPa",
+      "66.67 kPa",
+      "150 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "4.5 L",
+      "2 L",
+      "3 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 900 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "700 J",
+      "1100 J",
+      "-700 J",
+      "900 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "do any work",
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work"
+    ],
+    "answer_index": 3,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "mass",
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=4 L. P2?",
+    "options": [
+      "600 kPa",
+      "50 kPa",
+      "200 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "2 L",
+      "3 L",
+      "4.5 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 800 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "1000 J",
+      "-600 J",
+      "800 J",
+      "600 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work"
+    ],
+    "answer_index": 2,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass"
+    ],
+    "answer_index": 1,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=1 L. P2?",
+    "options": [
+      "200 kPa",
+      "50 kPa",
+      "100 kPa",
+      "300 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "2 L",
+      "3 L",
+      "4.5 L",
+      "4.5 L"
+    ],
+    "answer_index": 2,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 700 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "-500 J",
+      "700 J",
+      "500 J",
+      "900 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat"
+    ],
+    "answer_index": 1,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass",
+      "charge"
+    ],
+    "answer_index": 0,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=2 L. P2?",
+    "options": [
+      "100 kPa",
+      "100 kPa",
+      "400 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "3 L",
+      "4.5 L",
+      "4.5 L",
+      "2 L"
+    ],
+    "answer_index": 1,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 600 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "600 J",
+      "400 J",
+      "800 J",
+      "-400 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat",
+      "operate between two temperatures"
+    ],
+    "answer_index": 0,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "electric potential energy",
+      "mass",
+      "charge",
+      "translational kinetic energy"
+    ],
+    "answer_index": 3,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=3 L. P2?",
+    "options": [
+      "100 kPa",
+      "500 kPa",
+      "66.67 kPa",
+      "150 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "4.5 L",
+      "2 L",
+      "3 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 500 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "300 J",
+      "700 J",
+      "-300 J",
+      "500 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "do any work",
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work"
+    ],
+    "answer_index": 3,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "mass",
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy"
+    ],
+    "answer_index": 2,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=4 L. P2?",
+    "options": [
+      "600 kPa",
+      "50 kPa",
+      "200 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "4.5 L",
+      "2 L",
+      "3 L",
+      "4.5 L"
+    ],
+    "answer_index": 0,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 1000 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "1200 J",
+      "-800 J",
+      "1000 J",
+      "800 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "reject heat",
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work"
+    ],
+    "answer_index": 2,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "charge",
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass"
+    ],
+    "answer_index": 1,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=1 L. P2?",
+    "options": [
+      "200 kPa",
+      "50 kPa",
+      "100 kPa",
+      "300 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "2 L",
+      "3 L",
+      "4.5 L",
+      "4.5 L"
+    ],
+    "answer_index": 2,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 900 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "-700 J",
+      "900 J",
+      "700 J",
+      "1100 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "operate between two temperatures",
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat"
+    ],
+    "answer_index": 1,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "translational kinetic energy",
+      "electric potential energy",
+      "mass",
+      "charge"
+    ],
+    "answer_index": 0,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An ideal gas at constant temperature has P1=100 kPa, V1=2 L and V2=2 L. P2?",
+    "options": [
+      "100 kPa",
+      "100 kPa",
+      "400 kPa",
+      "100 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, a gas has V1=3 L at 300 K. Volume at 450 K?",
+    "options": [
+      "3 L",
+      "4.5 L",
+      "4.5 L",
+      "2 L"
+    ],
+    "answer_index": 1,
+    "explanation": "At constant pressure, V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 800 J and does 200 J of work. Change in internal energy?",
+    "options": [
+      "800 J",
+      "600 J",
+      "1000 J",
+      "-600 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law with work done by the gas: ΔU = Q - W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The second law of thermodynamics implies that a cyclic heat engine cannot:",
+    "options": [
+      "convert all absorbed heat into work",
+      "do any work",
+      "reject heat",
+      "operate between two temperatures"
+    ],
+    "answer_index": 0,
+    "explanation": "A heat engine must reject some heat; 100% thermal efficiency is impossible."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For an ideal gas, absolute temperature is most directly related to the particles' average:",
+    "options": [
+      "electric potential energy",
+      "mass",
+      "charge",
+      "translational kinetic energy"
+    ],
+    "answer_index": 3,
+    "explanation": "Ideal-gas temperature measures average translational kinetic energy."
+  }
+]
