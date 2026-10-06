@@ -14,7 +14,7 @@ window.IB_REFERENCES=[
     "topic": "A.3",
     "marks": 1,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "work / kinetic-energy interpretation"
   },
@@ -27,7 +27,7 @@ window.IB_REFERENCES=[
     "topic": "A.3",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "work-energy / graph area"
   },
@@ -40,7 +40,7 @@ window.IB_REFERENCES=[
     "topic": "A.3",
     "marks": 3,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "power and motion relationship"
   },
@@ -53,7 +53,7 @@ window.IB_REFERENCES=[
     "topic": "D.1",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "Kepler third-law orbit comparison"
   },
@@ -66,7 +66,7 @@ window.IB_REFERENCES=[
     "topic": "D.1",
     "marks": 2,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "gravitational force and orbital motion"
   },
@@ -79,7 +79,7 @@ window.IB_REFERENCES=[
     "topic": "D.1",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "gravitational potential"
   },
@@ -92,7 +92,7 @@ window.IB_REFERENCES=[
     "topic": "E.1",
     "marks": 1,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "strong nuclear interaction"
   },
@@ -105,7 +105,7 @@ window.IB_REFERENCES=[
     "topic": "E.1",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "closest approach / nuclear radius"
   },
@@ -118,7 +118,7 @@ window.IB_REFERENCES=[
     "topic": "E.3",
     "marks": 1,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "decay constant"
   },
@@ -131,7 +131,7 @@ window.IB_REFERENCES=[
     "topic": "E.3",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "radioactive decay mass"
   },
@@ -144,7 +144,7 @@ window.IB_REFERENCES=[
     "topic": "E.1",
     "marks": 2,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "discrete nuclear energy levels / gamma emission"
   },
@@ -157,7 +157,7 @@ window.IB_REFERENCES=[
     "topic": "B.4",
     "marks": 2,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "microstates and entropy"
   },
@@ -170,7 +170,7 @@ window.IB_REFERENCES=[
     "topic": "B.4",
     "marks": 3,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "second law and entropy change"
   },
@@ -183,7 +183,7 @@ window.IB_REFERENCES=[
     "topic": "C.5",
     "marks": 1,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "Doppler-effect direction"
   },
@@ -196,7 +196,7 @@ window.IB_REFERENCES=[
     "topic": "C.5",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "Doppler speed"
   },
@@ -209,7 +209,7 @@ window.IB_REFERENCES=[
     "topic": "C.2",
     "marks": 1,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "wave speed, frequency and wavelength"
   },
@@ -222,7 +222,7 @@ window.IB_REFERENCES=[
     "topic": "C.3",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "path difference and interference"
   },
@@ -235,7 +235,7 @@ window.IB_REFERENCES=[
     "topic": "C.3",
     "marks": 3,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "refraction / critical-angle reasoning"
   },
@@ -248,7 +248,7 @@ window.IB_REFERENCES=[
     "topic": "D.3",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "charged-particle acceleration through potential"
   },
@@ -261,7 +261,7 @@ window.IB_REFERENCES=[
     "topic": "D.3",
     "marks": 1,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "electric-force direction"
   },
@@ -274,7 +274,7 @@ window.IB_REFERENCES=[
     "topic": "D.3",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "electric force and acceleration"
   },
@@ -287,7 +287,7 @@ window.IB_REFERENCES=[
     "topic": "D.3",
     "marks": 3,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "motion in uniform electric field"
   },
@@ -300,7 +300,7 @@ window.IB_REFERENCES=[
     "topic": "D.3",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "velocity selector / magnetic field"
   },
@@ -313,7 +313,7 @@ window.IB_REFERENCES=[
     "topic": "A.5",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "spacetime interval"
   },
@@ -326,7 +326,7 @@ window.IB_REFERENCES=[
     "topic": "A.5",
     "marks": 1,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "invariance across inertial frames"
   },
@@ -339,7 +339,7 @@ window.IB_REFERENCES=[
     "topic": "A.5",
     "marks": 2,
     "type": "Graph",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "Lorentz-transformed axes"
   },
@@ -352,7 +352,7 @@ window.IB_REFERENCES=[
     "topic": "A.5",
     "marks": 1,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "relative speed from spacetime diagram"
   },
@@ -365,7 +365,7 @@ window.IB_REFERENCES=[
     "topic": "B.2",
     "marks": 1,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "solar radiation intensity"
   },
@@ -378,7 +378,7 @@ window.IB_REFERENCES=[
     "topic": "B.2",
     "marks": 2,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "greenhouse-gas absorption and re-emission"
   },
@@ -391,7 +391,7 @@ window.IB_REFERENCES=[
     "topic": "B.2",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "planetary energy balance"
   },
@@ -404,7 +404,7 @@ window.IB_REFERENCES=[
     "topic": "B.2",
     "marks": 3,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "Stefan-Boltzmann / re-radiated intensity"
   },
@@ -417,7 +417,7 @@ window.IB_REFERENCES=[
     "topic": "E.5",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "stellar luminosity from solar intensity"
   },
@@ -430,7 +430,7 @@ window.IB_REFERENCES=[
     "topic": "E.5",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "fusion mass defect and energy"
   },
@@ -443,7 +443,7 @@ window.IB_REFERENCES=[
     "topic": "E.5",
     "marks": 2,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "stellar hydrostatic equilibrium"
   },
@@ -456,7 +456,7 @@ window.IB_REFERENCES=[
     "topic": "E.5",
     "marks": 2,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "stellar spectra and helium evidence"
   },
@@ -469,7 +469,7 @@ window.IB_REFERENCES=[
     "topic": "E.5",
     "marks": 1,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "stellar classification"
   },
@@ -482,7 +482,7 @@ window.IB_REFERENCES=[
     "topic": "E.5",
     "marks": 3,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "stellar fusion and evolution"
   },
@@ -495,7 +495,7 @@ window.IB_REFERENCES=[
     "topic": "C.1",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "spring equilibrium and elastic energy"
   },
@@ -508,7 +508,7 @@ window.IB_REFERENCES=[
     "topic": "C.1",
     "marks": 2,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "spring motion and elastic potential energy"
   },
@@ -521,7 +521,7 @@ window.IB_REFERENCES=[
     "topic": "C.1",
     "marks": 2,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "energy transfers in oscillation"
   },
@@ -534,7 +534,7 @@ window.IB_REFERENCES=[
     "topic": "C.1",
     "marks": 3,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "SHM amplitude from energy"
   },
@@ -547,7 +547,7 @@ window.IB_REFERENCES=[
     "topic": "C.1",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "maximum SHM speed"
   },
@@ -560,7 +560,7 @@ window.IB_REFERENCES=[
     "topic": "C.1",
     "marks": 2,
     "type": "Calculation",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "SHM energy at a later time"
   },
@@ -573,7 +573,7 @@ window.IB_REFERENCES=[
     "topic": "D.4",
     "marks": 4,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "Faraday law factors affecting induced emf"
   },
@@ -586,7 +586,7 @@ window.IB_REFERENCES=[
     "topic": "D.4",
     "marks": 3,
     "type": "Explain",
-    "source":"https://repo.pirateib.sh/?dl=Physics_paper_2_TZ1_HL.pdf&p=IB+PAST+PAPERS+-+YEAR%2F2025+Examination+Session%2FMay+2025+Examination+Session%2Ffiles+and+resources%2FExperimental+sciences",
+    "source":"https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL.pdf",
     "markscheme": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Experimental%20sciences/Physics_paper_2_TZ1_HL_markscheme.pdf",
     "notes": "Lenz law and energy dissipation"
   }
