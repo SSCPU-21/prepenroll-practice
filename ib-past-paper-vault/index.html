@@ -41,7 +41,10 @@ main{padding:26px 30px 40px;min-width:0}.hero{display:flex;justify-content:space
 </header>
 <div class="shell">
 <aside>
-<div class="sideTitle">Find questions</div><a class="linkbtn" style="width:100%;justify-content:center;margin-bottom:14px" target="_blank" href="https://ibdocs.re/past-papers-by-subject/physics">IBDocs Physics archive ↗</a><input id="search" class="search" placeholder="Search year, question, topic…">
+<div class="sideTitle">Find questions</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:14px">
+<a class="linkbtn" style="justify-content:center;padding:8px" target="_blank" href="https://dynamicrepo.sbs/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Physics_HL/">HL Repo ↗</a>
+<a class="linkbtn" style="justify-content:center;padding:8px" target="_blank" href="https://dynamicrepo.sbs/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Physics_SL/">SL Repo ↗</a>
+</div><input id="search" class="search" placeholder="Search year, question, topic…">
 <div class="filter"><label>Level</label><select id="level"><option value="">SL + HL</option><option>SL</option><option>HL</option></select></div>
 <div class="filter"><label>Year</label><select id="year"><option value="">All years</option></select></div>
 <div class="filter"><label>Session</label><select id="session"><option value="">All sessions</option><option>May</option><option>November</option></select></div>
@@ -98,10 +101,10 @@ $('detail').innerHTML=
 '<div class="info"><span>Locator</span><b>'+(r.question||'—')+'</b></div></div>'+
 (r.notes?'<div class="noteBox"><h3>Reference note</h3><p>'+r.notes+'</p></div>':'')+
 '<div class="links">'+
-(paperUrl?'<a target="_blank" class="linkbtn primarylink" href="'+paperUrl+'">Open paper separately</a>':'')+
+(paperUrl?'<a target="_blank" class="linkbtn primarylink" href="'+paperUrl+'">Open DynamicRepo source</a>':'')+
 (msUrl?'<a target="_blank" class="linkbtn" href="'+msUrl+'">Open markscheme</a>':'')+
 '</div>'+
-(paperUrl?'<div class="viewer"><div class="viewerHead"><b>Original paper preview</b><span>Locate '+(r.question||'this question')+' in the paper</span></div><iframe src="'+paperUrl+'" title="Original IB paper preview"></iframe><div class="viewerFallback">If the source blocks embedded preview, use “Open paper separately” above.</div></div>':'');
+(paperUrl?'<div class="viewer"><div class="viewerHead"><b>Original paper preview</b><span>Locate '+(r.question||'this question')+' in the paper</span></div><iframe src="'+paperUrl+'" title="Original IB paper preview"></iframe><div class="viewerFallback">If the source blocks embedded preview, use “Open DynamicRepo source” above.</div></div>':'');
 }
 function render(){
 document.querySelectorAll('.topicBtn[data-topic]').forEach(b=>b.classList.toggle('active',b.dataset.topic===activeTopic));
