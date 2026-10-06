@@ -39,7 +39,7 @@ P(2,"A sealed rigid flask is heated and its pressure is recorded.",["T / K","P /
 {q:"Explain why a rigid flask is required.",m:1,ms:["keeps volume constant"]},
 {q:"Suggest one reason the highest-temperature point may deviate from ideal proportionality.",m:1,ms:["temperature gradients / sensor lag / real-gas effects"]}]);
 P(3,"A gas is heated at constant pressure while volume is measured.",["T / K","V / cm³"],[[250,100],[275,110],[300,120],[325,130],[350,140]],[
-{q:"Describe the relationship.",m:1,ms:["V proportional to T"]},
+{q:"Describe how gas volume depends on absolute temperature in these data.",m:1,ms:["V proportional to T"]},
 {q:"State the value of V/T from the data.",m:1,ms:["0.40 cm³ K⁻¹"]},
 {q:"Explain microscopically why volume must increase to keep pressure constant as T rises.",m:2,ms:["molecules move faster; larger volume reduces collision frequency per area enough to maintain pressure"]},
 {q:"State one experimental condition needed to maintain constant pressure.",m:1,ms:["movable piston with fixed load / pressure regulator"]}]);
@@ -49,7 +49,7 @@ P(4,"Pressure and volume are measured for a fixed amount of gas during a process
 {q:"Identify the B→C process type.",m:1,ms:["constant pressure"]},
 {q:"Explain why the table alone cannot show the exact path between states C and D.",m:1,ms:["end states do not specify the intermediate thermodynamic path"]}]);
 P(5,"A student measures pressure at different gas densities while temperature is fixed.",["ρ / kg m⁻³","P / kPa"],[[0.6,52],[0.9,78],[1.2,104],[1.5,130],[1.8,156]],[
-{q:"Describe the relationship.",m:1,ms:["P proportional to density"]},
+{q:"Describe how pressure varies with gas density at fixed temperature.",m:1,ms:["P proportional to density"]},
 {q:"Use kinetic theory to identify what the gradient is related to.",m:2,ms:["P=(1/3)ρv_rms², so gradient=(1/3)v_rms²"]},
 {q:"Explain why v_rms remains approximately constant.",m:1,ms:["temperature is fixed"]},
 {q:"State one condition under which this proportionality may fail.",m:1,ms:["high density / low temperature where real-gas interactions matter"]}]);
@@ -69,7 +69,7 @@ P(8,"Different numbers of moles of gas occupy the same volume at the same temper
 {q:"State what the gradient of P against n represents.",m:1,ms:["RT/V"]},
 {q:"Explain why doubling particle number doubles wall-collision rate approximately.",m:1,ms:["twice as many molecules collide while average molecular motion is unchanged"]}]);
 P(9,"A monatomic ideal gas is heated at fixed amount. Its internal energy is inferred from measurements.",["T / K","U / kJ"],[[200,2.49],[250,3.12],[300,3.74],[350,4.36],[400,4.99]],[
-{q:"Describe the relationship.",m:1,ms:["U proportional to T"]},
+{q:"Describe how internal energy varies with absolute temperature for this sample.",m:1,ms:["U proportional to T"]},
 {q:"State the expression for U of a monatomic ideal gas.",m:1,ms:["U=(3/2)nRT"]},
 {q:"State what the gradient of U against T represents.",m:1,ms:["3nR/2"]},
 {q:"Explain why volume does not appear explicitly in this expression.",m:1,ms:["ideal-gas internal energy depends only on temperature for fixed amount"]}]);
