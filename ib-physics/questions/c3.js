@@ -42,7 +42,7 @@ P(3,0,"A double-slit experiment uses different screen distances while λ and d a
 {q:"Describe the relationship between fringe spacing and screen distance.",m:1,ms:["directly proportional"]},
 {q:"State what the gradient of s against D represents.",m:1,ms:["λ/d"]},
 {q:"Predict s at D=2.0 m.",m:1,ms:["4.8 mm"]},
-{q:"State one control variable.",m:1,ms:["wavelength / slit separation"]}]);
+{q:"Name one experimental quantity that should be controlled in this investigation.",m:1,ms:["wavelength / slit separation"]}]);
 P(4,0,"The wavelength is changed in a double-slit experiment while geometry stays fixed.",["λ / nm","s / mm"],[[450,1.80],[500,2.00],[550,2.20],[600,2.40],[650,2.60]],[
 {q:"State the relationship between s and λ.",m:1,ms:["directly proportional"]},
 {q:"Explain the trend using s=λD/d.",m:1,ms:["D/d is constant"]},
@@ -54,18 +54,18 @@ P(5,0,"Two coherent loudspeakers emit the same tone. Sound intensity is sampled 
 {q:"Explain why minima may not reach zero.",m:1,ms:["unequal amplitudes / reflections / incoherent background"]},
 {q:"State the condition required of the two sources for a stable pattern.",m:1,ms:["same frequency with constant phase difference"]}]);
 P(6,0,"Water waves pass through openings of different widths at fixed wavelength.",["opening / λ","qualitative spreading"],[[0.5,"very strong"],[1.0,"strong"],[2.0,"moderate"],[5.0,"small"],[10.0,"very small"]],[
-{q:"Describe the trend.",m:1,ms:["diffraction decreases as opening becomes large compared with wavelength"]},
+{q:"Describe how the observed effect changes across the listed opening sizes.",m:1,ms:["diffraction decreases as opening becomes large compared with wavelength"]},
 {q:"State when diffraction is most significant.",m:1,ms:["opening comparable with or smaller than wavelength"]},
 {q:"Explain why geometric-ray behaviour is a better approximation for very large openings.",m:1,ms:["diffraction angles become small"]},
 {q:"State one way to increase diffraction without changing the opening.",m:1,ms:["increase wavelength"]}]);
 P(7,0,"A double-slit experiment varies slit separation.",["d / mm","s / mm"],[[0.20,5.0],[0.25,4.0],[0.40,2.5],[0.50,2.0],[1.00,1.0]],[
-{q:"State a linearizing graph.",m:1,ms:["s against 1/d"]},
+{q:"Specify transformed axes that should give a straight-line test for this dataset.",m:1,ms:["s against 1/d"]},
 {q:"Explain why closer slits give wider fringes.",m:1,ms:["s=λD/d"]},
 {q:"State what the gradient can be used to determine if D is known.",m:1,ms:["wavelength λ"]},
 {q:"Suggest one reason very small slit separation can be difficult experimentally.",m:1,ms:["slits hard to fabricate/resolve; finite slit width effects"]}]);
 P(8,1,"A single slit is illuminated with monochromatic light. The first-minimum angle is measured for several slit widths.",["b / μm","θ / mrad"],[[100,6.0],[150,4.0],[200,3.0],[250,2.4],[300,2.0]],[
 {q:"State the predicted relationship.",m:1,ms:["θ proportional to 1/b"]},
-{q:"State a linearizing graph.",m:1,ms:["θ against 1/b"]},
+{q:"Specify transformed axes that should give a straight-line test for this dataset.",m:1,ms:["θ against 1/b"]},
 {q:"Use one row to estimate wavelength.",m:2,ms:["λ≈bθ≈6.0×10⁻7 m"]},
 {q:"Explain why small-angle units must be converted consistently.",m:1,ms:["θ in the formula is in radians"]}]);
 P(9,1,"A diffraction grating is used with a 600 nm laser.",["order n","angle / °"],[[1,21.1],[2,45.9],[3,"not observed"]],[
