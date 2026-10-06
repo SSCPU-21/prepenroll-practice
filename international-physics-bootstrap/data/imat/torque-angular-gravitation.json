@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "10 N·m",
+      "11 N·m",
+      "10 N·m",
+      "20 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "mass only",
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance"
+    ],
+    "answer_index": 3,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "options": [
+      "4 times the original",
+      "16 times the original",
+      "1/16 of the original",
+      "1/4 of the original"
+    ],
+    "answer_index": 2,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 6 m/s, angular momentum magnitude?",
+    "options": [
+      "6 kg·m²/s",
+      "150 kg·m²/s",
+      "30 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "36 N·m",
+      "35 N·m",
+      "70 N·m",
+      "35 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "options": [
+      "25 times the original",
+      "1/25 of the original",
+      "1/5 of the original",
+      "5 times the original"
+    ],
+    "answer_index": 1,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 5 m/s, angular momentum magnitude?",
+    "options": [
+      "50 kg·m²/s",
+      "25 kg·m²/s",
+      "10 kg·m²/s",
+      "12.5 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass",
+      "zero net torque"
+    ],
+    "answer_index": 3,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 25 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "25 N·m",
+      "50 N·m",
+      "25 N·m",
+      "26 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only",
+      "speed only"
+    ],
+    "answer_index": 1,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/4 of the original",
+      "1/2 of the original",
+      "2 times the original",
+      "4 times the original"
+    ],
+    "answer_index": 0,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 4 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "15 kg·m²/s",
+      "6.67 kg·m²/s",
+      "60 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "nonzero net force",
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed"
+    ],
+    "answer_index": 2,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 15 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "30 N·m",
+      "15 N·m",
+      "16 N·m",
+      "15 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "force and perpendicular distance",
+      "mass only",
+      "speed only",
+      "temperature and pressure"
+    ],
+    "answer_index": 0,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/3 of the original",
+      "3 times the original",
+      "9 times the original",
+      "1/9 of the original"
+    ],
+    "answer_index": 3,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 3 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "3.75 kg·m²/s",
+      "60 kg·m²/s",
+      "15 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force"
+    ],
+    "answer_index": 1,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 40 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "40 N·m",
+      "41 N·m",
+      "40 N·m",
+      "80 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "mass only",
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance"
+    ],
+    "answer_index": 3,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "options": [
+      "4 times the original",
+      "16 times the original",
+      "1/16 of the original",
+      "1/4 of the original"
+    ],
+    "answer_index": 2,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 8 m/s, angular momentum magnitude?",
+    "options": [
+      "8 kg·m²/s",
+      "200 kg·m²/s",
+      "40 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "31 N·m",
+      "30 N·m",
+      "60 N·m",
+      "30 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "options": [
+      "25 times the original",
+      "1/25 of the original",
+      "1/5 of the original",
+      "5 times the original"
+    ],
+    "answer_index": 1,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 7 m/s, angular momentum magnitude?",
+    "options": [
+      "70 kg·m²/s",
+      "35 kg·m²/s",
+      "10 kg·m²/s",
+      "17.5 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass",
+      "zero net torque"
+    ],
+    "answer_index": 3,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 20 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "20 N·m",
+      "40 N·m",
+      "20 N·m",
+      "21 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only",
+      "speed only"
+    ],
+    "answer_index": 1,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/4 of the original",
+      "1/2 of the original",
+      "2 times the original",
+      "4 times the original"
+    ],
+    "answer_index": 0,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 6 m/s, angular momentum magnitude?",
+    "options": [
+      "30 kg·m²/s",
+      "15 kg·m²/s",
+      "10 kg·m²/s",
+      "90 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "nonzero net force",
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed"
+    ],
+    "answer_index": 2,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "20 N·m",
+      "10 N·m",
+      "11 N·m",
+      "10 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "force and perpendicular distance",
+      "mass only",
+      "speed only",
+      "temperature and pressure"
+    ],
+    "answer_index": 0,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/3 of the original",
+      "3 times the original",
+      "9 times the original",
+      "1/9 of the original"
+    ],
+    "answer_index": 3,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 5 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "6.25 kg·m²/s",
+      "100 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force"
+    ],
+    "answer_index": 1,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "35 N·m",
+      "36 N·m",
+      "35 N·m",
+      "70 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "mass only",
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance"
+    ],
+    "answer_index": 3,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "options": [
+      "4 times the original",
+      "16 times the original",
+      "1/16 of the original",
+      "1/4 of the original"
+    ],
+    "answer_index": 2,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 4 m/s, angular momentum magnitude?",
+    "options": [
+      "4 kg·m²/s",
+      "100 kg·m²/s",
+      "20 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 25 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "26 N·m",
+      "25 N·m",
+      "50 N·m",
+      "25 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "options": [
+      "25 times the original",
+      "1/25 of the original",
+      "1/5 of the original",
+      "5 times the original"
+    ],
+    "answer_index": 1,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 3 m/s, angular momentum magnitude?",
+    "options": [
+      "30 kg·m²/s",
+      "15 kg·m²/s",
+      "10 kg·m²/s",
+      "7.5 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass",
+      "zero net torque"
+    ],
+    "answer_index": 3,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 15 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "15 N·m",
+      "30 N·m",
+      "15 N·m",
+      "16 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only",
+      "speed only"
+    ],
+    "answer_index": 1,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/4 of the original",
+      "1/2 of the original",
+      "2 times the original",
+      "4 times the original"
+    ],
+    "answer_index": 0,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 8 m/s, angular momentum magnitude?",
+    "options": [
+      "40 kg·m²/s",
+      "15 kg·m²/s",
+      "13.33 kg·m²/s",
+      "120 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "nonzero net force",
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed"
+    ],
+    "answer_index": 2,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 40 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "80 N·m",
+      "40 N·m",
+      "41 N·m",
+      "40 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "force and perpendicular distance",
+      "mass only",
+      "speed only",
+      "temperature and pressure"
+    ],
+    "answer_index": 0,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/3 of the original",
+      "3 times the original",
+      "9 times the original",
+      "1/9 of the original"
+    ],
+    "answer_index": 3,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 7 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "8.75 kg·m²/s",
+      "140 kg·m²/s",
+      "35 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force"
+    ],
+    "answer_index": 1,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "30 N·m",
+      "31 N·m",
+      "30 N·m",
+      "60 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "mass only",
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance"
+    ],
+    "answer_index": 3,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "options": [
+      "4 times the original",
+      "16 times the original",
+      "1/16 of the original",
+      "1/4 of the original"
+    ],
+    "answer_index": 2,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 6 m/s, angular momentum magnitude?",
+    "options": [
+      "6 kg·m²/s",
+      "150 kg·m²/s",
+      "30 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 20 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "21 N·m",
+      "20 N·m",
+      "40 N·m",
+      "20 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "options": [
+      "25 times the original",
+      "1/25 of the original",
+      "1/5 of the original",
+      "5 times the original"
+    ],
+    "answer_index": 1,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 5 m/s, angular momentum magnitude?",
+    "options": [
+      "50 kg·m²/s",
+      "25 kg·m²/s",
+      "10 kg·m²/s",
+      "12.5 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass",
+      "zero net torque"
+    ],
+    "answer_index": 3,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "10 N·m",
+      "20 N·m",
+      "10 N·m",
+      "11 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only",
+      "speed only"
+    ],
+    "answer_index": 1,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/4 of the original",
+      "1/2 of the original",
+      "2 times the original",
+      "4 times the original"
+    ],
+    "answer_index": 0,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 4 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "15 kg·m²/s",
+      "6.67 kg·m²/s",
+      "60 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "nonzero net force",
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed"
+    ],
+    "answer_index": 2,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "70 N·m",
+      "35 N·m",
+      "36 N·m",
+      "35 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "force and perpendicular distance",
+      "mass only",
+      "speed only",
+      "temperature and pressure"
+    ],
+    "answer_index": 0,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/3 of the original",
+      "3 times the original",
+      "9 times the original",
+      "1/9 of the original"
+    ],
+    "answer_index": 3,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 3 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "3.75 kg·m²/s",
+      "60 kg·m²/s",
+      "15 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force"
+    ],
+    "answer_index": 1,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 25 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "25 N·m",
+      "26 N·m",
+      "25 N·m",
+      "50 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "mass only",
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance"
+    ],
+    "answer_index": 3,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "options": [
+      "4 times the original",
+      "16 times the original",
+      "1/16 of the original",
+      "1/4 of the original"
+    ],
+    "answer_index": 2,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 8 m/s, angular momentum magnitude?",
+    "options": [
+      "8 kg·m²/s",
+      "200 kg·m²/s",
+      "40 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 15 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "16 N·m",
+      "15 N·m",
+      "30 N·m",
+      "15 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "options": [
+      "25 times the original",
+      "1/25 of the original",
+      "1/5 of the original",
+      "5 times the original"
+    ],
+    "answer_index": 1,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 7 m/s, angular momentum magnitude?",
+    "options": [
+      "70 kg·m²/s",
+      "35 kg·m²/s",
+      "10 kg·m²/s",
+      "17.5 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass",
+      "zero net torque"
+    ],
+    "answer_index": 3,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 40 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "40 N·m",
+      "80 N·m",
+      "40 N·m",
+      "41 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only",
+      "speed only"
+    ],
+    "answer_index": 1,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/4 of the original",
+      "1/2 of the original",
+      "2 times the original",
+      "4 times the original"
+    ],
+    "answer_index": 0,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 6 m/s, angular momentum magnitude?",
+    "options": [
+      "30 kg·m²/s",
+      "15 kg·m²/s",
+      "10 kg·m²/s",
+      "90 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "nonzero net force",
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed"
+    ],
+    "answer_index": 2,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "60 N·m",
+      "30 N·m",
+      "31 N·m",
+      "30 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "force and perpendicular distance",
+      "mass only",
+      "speed only",
+      "temperature and pressure"
+    ],
+    "answer_index": 0,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/3 of the original",
+      "3 times the original",
+      "9 times the original",
+      "1/9 of the original"
+    ],
+    "answer_index": 3,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 5 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "6.25 kg·m²/s",
+      "100 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force"
+    ],
+    "answer_index": 1,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 20 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "20 N·m",
+      "21 N·m",
+      "20 N·m",
+      "40 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "mass only",
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance"
+    ],
+    "answer_index": 3,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "options": [
+      "4 times the original",
+      "16 times the original",
+      "1/16 of the original",
+      "1/4 of the original"
+    ],
+    "answer_index": 2,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 4 m/s, angular momentum magnitude?",
+    "options": [
+      "4 kg·m²/s",
+      "100 kg·m²/s",
+      "20 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "11 N·m",
+      "10 N·m",
+      "20 N·m",
+      "10 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "options": [
+      "25 times the original",
+      "1/25 of the original",
+      "1/5 of the original",
+      "5 times the original"
+    ],
+    "answer_index": 1,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 3 m/s, angular momentum magnitude?",
+    "options": [
+      "30 kg·m²/s",
+      "15 kg·m²/s",
+      "10 kg·m²/s",
+      "7.5 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass",
+      "zero net torque"
+    ],
+    "answer_index": 3,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "35 N·m",
+      "70 N·m",
+      "35 N·m",
+      "36 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only",
+      "speed only"
+    ],
+    "answer_index": 1,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/4 of the original",
+      "1/2 of the original",
+      "2 times the original",
+      "4 times the original"
+    ],
+    "answer_index": 0,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 8 m/s, angular momentum magnitude?",
+    "options": [
+      "40 kg·m²/s",
+      "15 kg·m²/s",
+      "13.33 kg·m²/s",
+      "120 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "nonzero net force",
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed"
+    ],
+    "answer_index": 2,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 25 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "50 N·m",
+      "25 N·m",
+      "26 N·m",
+      "25 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "force and perpendicular distance",
+      "mass only",
+      "speed only",
+      "temperature and pressure"
+    ],
+    "answer_index": 0,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/3 of the original",
+      "3 times the original",
+      "9 times the original",
+      "1/9 of the original"
+    ],
+    "answer_index": 3,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 7 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "8.75 kg·m²/s",
+      "140 kg·m²/s",
+      "35 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force"
+    ],
+    "answer_index": 1,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 15 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "15 N·m",
+      "16 N·m",
+      "15 N·m",
+      "30 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "mass only",
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance"
+    ],
+    "answer_index": 3,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "options": [
+      "4 times the original",
+      "16 times the original",
+      "1/16 of the original",
+      "1/4 of the original"
+    ],
+    "answer_index": 2,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 6 m/s, angular momentum magnitude?",
+    "options": [
+      "6 kg·m²/s",
+      "150 kg·m²/s",
+      "30 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 40 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "41 N·m",
+      "40 N·m",
+      "80 N·m",
+      "40 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "options": [
+      "25 times the original",
+      "1/25 of the original",
+      "1/5 of the original",
+      "5 times the original"
+    ],
+    "answer_index": 1,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 5 m/s, angular momentum magnitude?",
+    "options": [
+      "50 kg·m²/s",
+      "25 kg·m²/s",
+      "10 kg·m²/s",
+      "12.5 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass",
+      "zero net torque"
+    ],
+    "answer_index": 3,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "30 N·m",
+      "60 N·m",
+      "30 N·m",
+      "31 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only",
+      "speed only"
+    ],
+    "answer_index": 1,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 2 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/4 of the original",
+      "1/2 of the original",
+      "2 times the original",
+      "4 times the original"
+    ],
+    "answer_index": 0,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 3 m at 4 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "15 kg·m²/s",
+      "6.67 kg·m²/s",
+      "60 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "nonzero net force",
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed"
+    ],
+    "answer_index": 2,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 20 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "40 N·m",
+      "20 N·m",
+      "21 N·m",
+      "20 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "force and perpendicular distance",
+      "mass only",
+      "speed only",
+      "temperature and pressure"
+    ],
+    "answer_index": 0,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 3 times larger, gravitational field strength becomes:",
+    "options": [
+      "1/3 of the original",
+      "3 times the original",
+      "9 times the original",
+      "1/9 of the original"
+    ],
+    "answer_index": 3,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 4 m at 3 m/s, angular momentum magnitude?",
+    "options": [
+      "20 kg·m²/s",
+      "3.75 kg·m²/s",
+      "60 kg·m²/s",
+      "15 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero mass",
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force"
+    ],
+    "answer_index": 1,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 10 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "10 N·m",
+      "11 N·m",
+      "10 N·m",
+      "20 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "mass only",
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance"
+    ],
+    "answer_index": 3,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 4 times larger, gravitational field strength becomes:",
+    "options": [
+      "4 times the original",
+      "16 times the original",
+      "1/16 of the original",
+      "1/4 of the original"
+    ],
+    "answer_index": 2,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 5 m at 8 m/s, angular momentum magnitude?",
+    "options": [
+      "8 kg·m²/s",
+      "200 kg·m²/s",
+      "40 kg·m²/s",
+      "25 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "zero net torque",
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35 N force acts perpendicular to a lever arm of 1 m. Torque?",
+    "options": [
+      "36 N·m",
+      "35 N·m",
+      "70 N·m",
+      "35 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ = Fd for a perpendicular force."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "The moment of a force about a point depends on:",
+    "options": [
+      "speed only",
+      "temperature and pressure",
+      "force and perpendicular distance",
+      "mass only"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque magnitude is F times the perpendicular lever arm."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "If distance from Earth's centre becomes 5 times larger, gravitational field strength becomes:",
+    "options": [
+      "25 times the original",
+      "1/25 of the original",
+      "1/5 of the original",
+      "5 times the original"
+    ],
+    "answer_index": 1,
+    "explanation": "Gravitational field varies as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For a point mass 5 kg moving perpendicular to radius 2 m at 7 m/s, angular momentum magnitude?",
+    "options": [
+      "70 kg·m²/s",
+      "35 kg·m²/s",
+      "10 kg·m²/s",
+      "17.5 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L = mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An object in stable rotational equilibrium must have:",
+    "options": [
+      "maximum angular speed",
+      "nonzero net force",
+      "zero mass",
+      "zero net torque"
+    ],
+    "answer_index": 3,
+    "explanation": "Rotational equilibrium requires Στ = 0."
+  }
+]
