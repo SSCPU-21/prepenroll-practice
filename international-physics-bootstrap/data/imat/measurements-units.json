@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1 km to metres.",
+    "options": [
+      "1000 m",
+      "100 m",
+      "0.001 m",
+      "10000 m"
+    ],
+    "answer_index": 0,
+    "explanation": "1 km = 1000 m, so 1 km = 1000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 3 m/s. What is this in km/h?",
+    "options": [
+      "0.83 km/h",
+      "108 km/h",
+      "3 km/h",
+      "10.8 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Time",
+      "Electric current",
+      "Force",
+      "Mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 4000000 in scientific notation.",
+    "options": [
+      "40 × 10^6",
+      "4 × 10^6",
+      "4 × 10^5",
+      "4 × 10^7"
+    ],
+    "answer_index": 1,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1"
+    ],
+    "answer_index": 0,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6 km to metres.",
+    "options": [
+      "600 m",
+      "0.006 m",
+      "60000 m",
+      "6000 m"
+    ],
+    "answer_index": 3,
+    "explanation": "1 km = 1000 m, so 6 km = 6000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 8 m/s. What is this in km/h?",
+    "options": [
+      "288 km/h",
+      "8 km/h",
+      "28.8 km/h",
+      "2.22 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Electric current",
+      "Force",
+      "Mass",
+      "Time"
+    ],
+    "answer_index": 1,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 2000000 in scientific notation.",
+    "options": [
+      "2 × 10^6",
+      "2 × 10^5",
+      "2 × 10^7",
+      "20 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1"
+    ],
+    "answer_index": 3,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11 km to metres.",
+    "options": [
+      "0.011 m",
+      "110000 m",
+      "11000 m",
+      "1100 m"
+    ],
+    "answer_index": 2,
+    "explanation": "1 km = 1000 m, so 11 km = 11000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 4 m/s. What is this in km/h?",
+    "options": [
+      "4 km/h",
+      "14.4 km/h",
+      "1.11 km/h",
+      "144 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Force",
+      "Mass",
+      "Time",
+      "Electric current"
+    ],
+    "answer_index": 0,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 7000000 in scientific notation.",
+    "options": [
+      "7 × 10^5",
+      "7 × 10^7",
+      "70 × 10^6",
+      "7 × 10^6"
+    ],
+    "answer_index": 3,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2"
+    ],
+    "answer_index": 2,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16 km to metres.",
+    "options": [
+      "160000 m",
+      "16000 m",
+      "1600 m",
+      "0.016 m"
+    ],
+    "answer_index": 1,
+    "explanation": "1 km = 1000 m, so 16 km = 16000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 9 m/s. What is this in km/h?",
+    "options": [
+      "32.4 km/h",
+      "2.5 km/h",
+      "324 km/h",
+      "9 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Mass",
+      "Time",
+      "Electric current",
+      "Force"
+    ],
+    "answer_index": 3,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 5000000 in scientific notation.",
+    "options": [
+      "5 × 10^7",
+      "50 × 10^6",
+      "5 × 10^6",
+      "5 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2"
+    ],
+    "answer_index": 1,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1 km to metres.",
+    "options": [
+      "1000 m",
+      "100 m",
+      "0.001 m",
+      "10000 m"
+    ],
+    "answer_index": 0,
+    "explanation": "1 km = 1000 m, so 1 km = 1000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 5 m/s. What is this in km/h?",
+    "options": [
+      "1.39 km/h",
+      "180 km/h",
+      "5 km/h",
+      "18 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Time",
+      "Electric current",
+      "Force",
+      "Mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 3000000 in scientific notation.",
+    "options": [
+      "30 × 10^6",
+      "3 × 10^6",
+      "3 × 10^5",
+      "3 × 10^7"
+    ],
+    "answer_index": 1,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1"
+    ],
+    "answer_index": 0,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6 km to metres.",
+    "options": [
+      "600 m",
+      "0.006 m",
+      "60000 m",
+      "6000 m"
+    ],
+    "answer_index": 3,
+    "explanation": "1 km = 1000 m, so 6 km = 6000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 10 m/s. What is this in km/h?",
+    "options": [
+      "360 km/h",
+      "10 km/h",
+      "36 km/h",
+      "2.78 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Electric current",
+      "Force",
+      "Mass",
+      "Time"
+    ],
+    "answer_index": 1,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 1000000 in scientific notation.",
+    "options": [
+      "1 × 10^6",
+      "1 × 10^5",
+      "1 × 10^7",
+      "10 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1"
+    ],
+    "answer_index": 3,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11 km to metres.",
+    "options": [
+      "0.011 m",
+      "110000 m",
+      "11000 m",
+      "1100 m"
+    ],
+    "answer_index": 2,
+    "explanation": "1 km = 1000 m, so 11 km = 11000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 6 m/s. What is this in km/h?",
+    "options": [
+      "6 km/h",
+      "21.6 km/h",
+      "1.67 km/h",
+      "216 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Force",
+      "Mass",
+      "Time",
+      "Electric current"
+    ],
+    "answer_index": 0,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 6000000 in scientific notation.",
+    "options": [
+      "6 × 10^5",
+      "6 × 10^7",
+      "60 × 10^6",
+      "6 × 10^6"
+    ],
+    "answer_index": 3,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2"
+    ],
+    "answer_index": 2,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16 km to metres.",
+    "options": [
+      "160000 m",
+      "16000 m",
+      "1600 m",
+      "0.016 m"
+    ],
+    "answer_index": 1,
+    "explanation": "1 km = 1000 m, so 16 km = 16000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 2 m/s. What is this in km/h?",
+    "options": [
+      "7.2 km/h",
+      "0.56 km/h",
+      "72 km/h",
+      "2 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Mass",
+      "Time",
+      "Electric current",
+      "Force"
+    ],
+    "answer_index": 3,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 4000000 in scientific notation.",
+    "options": [
+      "4 × 10^7",
+      "40 × 10^6",
+      "4 × 10^6",
+      "4 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2"
+    ],
+    "answer_index": 1,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1 km to metres.",
+    "options": [
+      "1000 m",
+      "100 m",
+      "0.001 m",
+      "10000 m"
+    ],
+    "answer_index": 0,
+    "explanation": "1 km = 1000 m, so 1 km = 1000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 7 m/s. What is this in km/h?",
+    "options": [
+      "1.94 km/h",
+      "252 km/h",
+      "7 km/h",
+      "25.2 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Time",
+      "Electric current",
+      "Force",
+      "Mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 2000000 in scientific notation.",
+    "options": [
+      "20 × 10^6",
+      "2 × 10^6",
+      "2 × 10^5",
+      "2 × 10^7"
+    ],
+    "answer_index": 1,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1"
+    ],
+    "answer_index": 0,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6 km to metres.",
+    "options": [
+      "600 m",
+      "0.006 m",
+      "60000 m",
+      "6000 m"
+    ],
+    "answer_index": 3,
+    "explanation": "1 km = 1000 m, so 6 km = 6000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 3 m/s. What is this in km/h?",
+    "options": [
+      "108 km/h",
+      "3 km/h",
+      "10.8 km/h",
+      "0.83 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Electric current",
+      "Force",
+      "Mass",
+      "Time"
+    ],
+    "answer_index": 1,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 7000000 in scientific notation.",
+    "options": [
+      "7 × 10^6",
+      "7 × 10^5",
+      "7 × 10^7",
+      "70 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1"
+    ],
+    "answer_index": 3,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11 km to metres.",
+    "options": [
+      "0.011 m",
+      "110000 m",
+      "11000 m",
+      "1100 m"
+    ],
+    "answer_index": 2,
+    "explanation": "1 km = 1000 m, so 11 km = 11000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 8 m/s. What is this in km/h?",
+    "options": [
+      "8 km/h",
+      "28.8 km/h",
+      "2.22 km/h",
+      "288 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Force",
+      "Mass",
+      "Time",
+      "Electric current"
+    ],
+    "answer_index": 0,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 5000000 in scientific notation.",
+    "options": [
+      "5 × 10^5",
+      "5 × 10^7",
+      "50 × 10^6",
+      "5 × 10^6"
+    ],
+    "answer_index": 3,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2"
+    ],
+    "answer_index": 2,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16 km to metres.",
+    "options": [
+      "160000 m",
+      "16000 m",
+      "1600 m",
+      "0.016 m"
+    ],
+    "answer_index": 1,
+    "explanation": "1 km = 1000 m, so 16 km = 16000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 4 m/s. What is this in km/h?",
+    "options": [
+      "14.4 km/h",
+      "1.11 km/h",
+      "144 km/h",
+      "4 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Mass",
+      "Time",
+      "Electric current",
+      "Force"
+    ],
+    "answer_index": 3,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 3000000 in scientific notation.",
+    "options": [
+      "3 × 10^7",
+      "30 × 10^6",
+      "3 × 10^6",
+      "3 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2"
+    ],
+    "answer_index": 1,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1 km to metres.",
+    "options": [
+      "1000 m",
+      "100 m",
+      "0.001 m",
+      "10000 m"
+    ],
+    "answer_index": 0,
+    "explanation": "1 km = 1000 m, so 1 km = 1000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 9 m/s. What is this in km/h?",
+    "options": [
+      "2.5 km/h",
+      "324 km/h",
+      "9 km/h",
+      "32.4 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Time",
+      "Electric current",
+      "Force",
+      "Mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 1000000 in scientific notation.",
+    "options": [
+      "10 × 10^6",
+      "1 × 10^6",
+      "1 × 10^5",
+      "1 × 10^7"
+    ],
+    "answer_index": 1,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1"
+    ],
+    "answer_index": 0,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6 km to metres.",
+    "options": [
+      "600 m",
+      "0.006 m",
+      "60000 m",
+      "6000 m"
+    ],
+    "answer_index": 3,
+    "explanation": "1 km = 1000 m, so 6 km = 6000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 5 m/s. What is this in km/h?",
+    "options": [
+      "180 km/h",
+      "5 km/h",
+      "18 km/h",
+      "1.39 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Electric current",
+      "Force",
+      "Mass",
+      "Time"
+    ],
+    "answer_index": 1,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 6000000 in scientific notation.",
+    "options": [
+      "6 × 10^6",
+      "6 × 10^5",
+      "6 × 10^7",
+      "60 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1"
+    ],
+    "answer_index": 3,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11 km to metres.",
+    "options": [
+      "0.011 m",
+      "110000 m",
+      "11000 m",
+      "1100 m"
+    ],
+    "answer_index": 2,
+    "explanation": "1 km = 1000 m, so 11 km = 11000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 10 m/s. What is this in km/h?",
+    "options": [
+      "10 km/h",
+      "36 km/h",
+      "2.78 km/h",
+      "360 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Force",
+      "Mass",
+      "Time",
+      "Electric current"
+    ],
+    "answer_index": 0,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 4000000 in scientific notation.",
+    "options": [
+      "4 × 10^5",
+      "4 × 10^7",
+      "40 × 10^6",
+      "4 × 10^6"
+    ],
+    "answer_index": 3,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2"
+    ],
+    "answer_index": 2,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16 km to metres.",
+    "options": [
+      "160000 m",
+      "16000 m",
+      "1600 m",
+      "0.016 m"
+    ],
+    "answer_index": 1,
+    "explanation": "1 km = 1000 m, so 16 km = 16000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 6 m/s. What is this in km/h?",
+    "options": [
+      "21.6 km/h",
+      "1.67 km/h",
+      "216 km/h",
+      "6 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Mass",
+      "Time",
+      "Electric current",
+      "Force"
+    ],
+    "answer_index": 3,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 2000000 in scientific notation.",
+    "options": [
+      "2 × 10^7",
+      "20 × 10^6",
+      "2 × 10^6",
+      "2 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2"
+    ],
+    "answer_index": 1,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1 km to metres.",
+    "options": [
+      "1000 m",
+      "100 m",
+      "0.001 m",
+      "10000 m"
+    ],
+    "answer_index": 0,
+    "explanation": "1 km = 1000 m, so 1 km = 1000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 2 m/s. What is this in km/h?",
+    "options": [
+      "0.56 km/h",
+      "72 km/h",
+      "2 km/h",
+      "7.2 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Time",
+      "Electric current",
+      "Force",
+      "Mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 7000000 in scientific notation.",
+    "options": [
+      "70 × 10^6",
+      "7 × 10^6",
+      "7 × 10^5",
+      "7 × 10^7"
+    ],
+    "answer_index": 1,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1"
+    ],
+    "answer_index": 0,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6 km to metres.",
+    "options": [
+      "600 m",
+      "0.006 m",
+      "60000 m",
+      "6000 m"
+    ],
+    "answer_index": 3,
+    "explanation": "1 km = 1000 m, so 6 km = 6000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 7 m/s. What is this in km/h?",
+    "options": [
+      "252 km/h",
+      "7 km/h",
+      "25.2 km/h",
+      "1.94 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Electric current",
+      "Force",
+      "Mass",
+      "Time"
+    ],
+    "answer_index": 1,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 5000000 in scientific notation.",
+    "options": [
+      "5 × 10^6",
+      "5 × 10^5",
+      "5 × 10^7",
+      "50 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1"
+    ],
+    "answer_index": 3,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11 km to metres.",
+    "options": [
+      "0.011 m",
+      "110000 m",
+      "11000 m",
+      "1100 m"
+    ],
+    "answer_index": 2,
+    "explanation": "1 km = 1000 m, so 11 km = 11000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 3 m/s. What is this in km/h?",
+    "options": [
+      "3 km/h",
+      "10.8 km/h",
+      "0.83 km/h",
+      "108 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Force",
+      "Mass",
+      "Time",
+      "Electric current"
+    ],
+    "answer_index": 0,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 3000000 in scientific notation.",
+    "options": [
+      "3 × 10^5",
+      "3 × 10^7",
+      "30 × 10^6",
+      "3 × 10^6"
+    ],
+    "answer_index": 3,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2"
+    ],
+    "answer_index": 2,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16 km to metres.",
+    "options": [
+      "160000 m",
+      "16000 m",
+      "1600 m",
+      "0.016 m"
+    ],
+    "answer_index": 1,
+    "explanation": "1 km = 1000 m, so 16 km = 16000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 8 m/s. What is this in km/h?",
+    "options": [
+      "28.8 km/h",
+      "2.22 km/h",
+      "288 km/h",
+      "8 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Mass",
+      "Time",
+      "Electric current",
+      "Force"
+    ],
+    "answer_index": 3,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 1000000 in scientific notation.",
+    "options": [
+      "1 × 10^7",
+      "10 × 10^6",
+      "1 × 10^6",
+      "1 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2"
+    ],
+    "answer_index": 1,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1 km to metres.",
+    "options": [
+      "1000 m",
+      "100 m",
+      "0.001 m",
+      "10000 m"
+    ],
+    "answer_index": 0,
+    "explanation": "1 km = 1000 m, so 1 km = 1000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 4 m/s. What is this in km/h?",
+    "options": [
+      "1.11 km/h",
+      "144 km/h",
+      "4 km/h",
+      "14.4 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Time",
+      "Electric current",
+      "Force",
+      "Mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 6000000 in scientific notation.",
+    "options": [
+      "60 × 10^6",
+      "6 × 10^6",
+      "6 × 10^5",
+      "6 × 10^7"
+    ],
+    "answer_index": 1,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1"
+    ],
+    "answer_index": 0,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6 km to metres.",
+    "options": [
+      "600 m",
+      "0.006 m",
+      "60000 m",
+      "6000 m"
+    ],
+    "answer_index": 3,
+    "explanation": "1 km = 1000 m, so 6 km = 6000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 9 m/s. What is this in km/h?",
+    "options": [
+      "324 km/h",
+      "9 km/h",
+      "32.4 km/h",
+      "2.5 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Electric current",
+      "Force",
+      "Mass",
+      "Time"
+    ],
+    "answer_index": 1,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 4000000 in scientific notation.",
+    "options": [
+      "4 × 10^6",
+      "4 × 10^5",
+      "4 × 10^7",
+      "40 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1"
+    ],
+    "answer_index": 3,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11 km to metres.",
+    "options": [
+      "0.011 m",
+      "110000 m",
+      "11000 m",
+      "1100 m"
+    ],
+    "answer_index": 2,
+    "explanation": "1 km = 1000 m, so 11 km = 11000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 5 m/s. What is this in km/h?",
+    "options": [
+      "5 km/h",
+      "18 km/h",
+      "1.39 km/h",
+      "180 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Force",
+      "Mass",
+      "Time",
+      "Electric current"
+    ],
+    "answer_index": 0,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 2000000 in scientific notation.",
+    "options": [
+      "2 × 10^5",
+      "2 × 10^7",
+      "20 × 10^6",
+      "2 × 10^6"
+    ],
+    "answer_index": 3,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2"
+    ],
+    "answer_index": 2,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16 km to metres.",
+    "options": [
+      "160000 m",
+      "16000 m",
+      "1600 m",
+      "0.016 m"
+    ],
+    "answer_index": 1,
+    "explanation": "1 km = 1000 m, so 16 km = 16000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 10 m/s. What is this in km/h?",
+    "options": [
+      "36 km/h",
+      "2.78 km/h",
+      "360 km/h",
+      "10 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Mass",
+      "Time",
+      "Electric current",
+      "Force"
+    ],
+    "answer_index": 3,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 7000000 in scientific notation.",
+    "options": [
+      "7 × 10^7",
+      "70 × 10^6",
+      "7 × 10^6",
+      "7 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2"
+    ],
+    "answer_index": 1,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1 km to metres.",
+    "options": [
+      "1000 m",
+      "100 m",
+      "0.001 m",
+      "10000 m"
+    ],
+    "answer_index": 0,
+    "explanation": "1 km = 1000 m, so 1 km = 1000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 6 m/s. What is this in km/h?",
+    "options": [
+      "1.67 km/h",
+      "216 km/h",
+      "6 km/h",
+      "21.6 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Time",
+      "Electric current",
+      "Force",
+      "Mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 5000000 in scientific notation.",
+    "options": [
+      "50 × 10^6",
+      "5 × 10^6",
+      "5 × 10^5",
+      "5 × 10^7"
+    ],
+    "answer_index": 1,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1"
+    ],
+    "answer_index": 0,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6 km to metres.",
+    "options": [
+      "600 m",
+      "0.006 m",
+      "60000 m",
+      "6000 m"
+    ],
+    "answer_index": 3,
+    "explanation": "1 km = 1000 m, so 6 km = 6000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 2 m/s. What is this in km/h?",
+    "options": [
+      "72 km/h",
+      "2 km/h",
+      "7.2 km/h",
+      "0.56 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Electric current",
+      "Force",
+      "Mass",
+      "Time"
+    ],
+    "answer_index": 1,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 3000000 in scientific notation.",
+    "options": [
+      "3 × 10^6",
+      "3 × 10^5",
+      "3 × 10^7",
+      "30 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1"
+    ],
+    "answer_index": 3,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11 km to metres.",
+    "options": [
+      "0.011 m",
+      "110000 m",
+      "11000 m",
+      "1100 m"
+    ],
+    "answer_index": 2,
+    "explanation": "1 km = 1000 m, so 11 km = 11000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 7 m/s. What is this in km/h?",
+    "options": [
+      "7 km/h",
+      "25.2 km/h",
+      "1.94 km/h",
+      "252 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Force",
+      "Mass",
+      "Time",
+      "Electric current"
+    ],
+    "answer_index": 0,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 1000000 in scientific notation.",
+    "options": [
+      "1 × 10^5",
+      "1 × 10^7",
+      "10 × 10^6",
+      "1 × 10^6"
+    ],
+    "answer_index": 3,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2"
+    ],
+    "answer_index": 2,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16 km to metres.",
+    "options": [
+      "160000 m",
+      "16000 m",
+      "1600 m",
+      "0.016 m"
+    ],
+    "answer_index": 1,
+    "explanation": "1 km = 1000 m, so 16 km = 16000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 3 m/s. What is this in km/h?",
+    "options": [
+      "10.8 km/h",
+      "0.83 km/h",
+      "108 km/h",
+      "3 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Mass",
+      "Time",
+      "Electric current",
+      "Force"
+    ],
+    "answer_index": 3,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 6000000 in scientific notation.",
+    "options": [
+      "6 × 10^7",
+      "60 × 10^6",
+      "6 × 10^6",
+      "6 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L^2 T^-1",
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2"
+    ],
+    "answer_index": 1,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1 km to metres.",
+    "options": [
+      "1000 m",
+      "100 m",
+      "0.001 m",
+      "10000 m"
+    ],
+    "answer_index": 0,
+    "explanation": "1 km = 1000 m, so 1 km = 1000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 8 m/s. What is this in km/h?",
+    "options": [
+      "2.22 km/h",
+      "288 km/h",
+      "8 km/h",
+      "28.8 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Time",
+      "Electric current",
+      "Force",
+      "Mass"
+    ],
+    "answer_index": 2,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 4000000 in scientific notation.",
+    "options": [
+      "40 × 10^6",
+      "4 × 10^6",
+      "4 × 10^5",
+      "4 × 10^7"
+    ],
+    "answer_index": 1,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-1",
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1"
+    ],
+    "answer_index": 0,
+    "explanation": "Velocity is displacement divided by time."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6 km to metres.",
+    "options": [
+      "600 m",
+      "0.006 m",
+      "60000 m",
+      "6000 m"
+    ],
+    "answer_index": 3,
+    "explanation": "1 km = 1000 m, so 6 km = 6000 m."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A speed is 4 m/s. What is this in km/h?",
+    "options": [
+      "144 km/h",
+      "4 km/h",
+      "14.4 km/h",
+      "1.11 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Which quantity is derived rather than fundamental in SI?",
+    "options": [
+      "Electric current",
+      "Force",
+      "Mass",
+      "Time"
+    ],
+    "answer_index": 1,
+    "explanation": "Force is derived from mass and acceleration: N = kg·m/s²."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Write 2000000 in scientific notation.",
+    "options": [
+      "2 × 10^6",
+      "2 × 10^5",
+      "2 × 10^7",
+      "20 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Moving the decimal point six places gives ×10^6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "What are the dimensions of velocity?",
+    "options": [
+      "L T^-2",
+      "M L T^-2",
+      "L^2 T^-1",
+      "L T^-1"
+    ],
+    "answer_index": 3,
+    "explanation": "Velocity is displacement divided by time."
+  }
+]
