@@ -7,15 +7,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 2 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.02 μC and 2.03 μC are 0.81 m apart. Coulomb force magnitude?",
     "options": [
-      "0.02 N",
-      "0.02 N",
-      "0.01 N",
-      "0.08 N"
+      "0.0284 N",
+      "0.0142 N",
+      "0.0568 N",
+      "0.0355 N"
     ],
     "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.02 N."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-002",
@@ -25,15 +25,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 3 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 0.61 m from a 1.02 μC point charge.",
     "options": [
-      "45 N/C",
-      "0.2 N/C",
-      "15 N/C",
-      "5 N/C"
+      "12335.39 N/C",
+      "49341.57 N/C",
+      "30838.48 N/C",
+      "24670.79 N/C"
     ],
     "answer_index": 3,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-003",
@@ -43,15 +43,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 4 C at electric potential 40 V has potential energy?",
+    "stem": "Find electric potential 0.71 m from a 1.52 μC point charge.",
     "options": [
-      "44 J",
-      "40 J",
-      "160 J",
-      "10 J"
+      "38535.21 V",
+      "24084.51 V",
+      "19267.61 V",
+      "9633.8 V"
     ],
     "answer_index": 2,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-004",
@@ -61,15 +61,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.04 μC and 2.06 μC are 0.82 m apart. Coulomb force magnitude?",
     "options": [
-      "random angles",
-      "right angles",
-      "45° always",
-      "zero angle"
+      "0.0358 N",
+      "0.0287 N",
+      "0.0143 N",
+      "0.0574 N"
     ],
     "answer_index": 1,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-005",
@@ -79,15 +79,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 0.62 m from a 1.04 μC point charge.",
     "options": [
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero"
+      "24349.64 N/C",
+      "12174.82 N/C",
+      "48699.27 N/C",
+      "30437.04 N/C"
     ],
     "answer_index": 0,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-006",
@@ -97,15 +97,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 3 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 0.72 m from a 1.54 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "9625 V",
+      "38500 V",
+      "24062.5 V",
+      "19250 V"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "answer_index": 3,
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-007",
@@ -115,15 +115,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 4 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.06 μC and 2.09 μC are 0.83 m apart. Coulomb force magnitude?",
     "options": [
-      "0.27 N/C",
-      "15 N/C",
-      "3.75 N/C",
-      "60 N/C"
+      "0.0579 N",
+      "0.0362 N",
+      "0.0289 N",
+      "0.0145 N"
     ],
     "answer_index": 2,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-008",
@@ -133,15 +133,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 5 C at electric potential 90 V has potential energy?",
+    "stem": "Find electric field 0.63 m from a 1.06 μC point charge.",
     "options": [
-      "90 J",
-      "450 J",
-      "18 J",
-      "95 J"
+      "30045.35 N/C",
+      "24036.28 N/C",
+      "12018.14 N/C",
+      "48072.56 N/C"
     ],
     "answer_index": 1,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-009",
@@ -151,15 +151,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 0.73 m from a 1.56 μC point charge.",
     "options": [
-      "right angles",
-      "45° always",
-      "zero angle",
-      "random angles"
+      "19232.88 V",
+      "9616.44 V",
+      "38465.75 V",
+      "24041.1 V"
     ],
     "answer_index": 0,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-010",
@@ -169,15 +169,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.08 μC and 2.12 μC are 0.84 m apart. Coulomb force magnitude?",
     "options": [
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude"
+      "0.0146 N",
+      "0.0584 N",
+      "0.0365 N",
+      "0.0292 N"
     ],
     "answer_index": 3,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-011",
@@ -187,15 +187,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 4 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 0.64 m from a 1.08 μC point charge.",
     "options": [
-      "0.01 N",
-      "0.04 N",
-      "0.01 N",
-      "0.02 N"
+      "47460.94 N/C",
+      "29663.09 N/C",
+      "23730.47 N/C",
+      "11865.23 N/C"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "answer_index": 2,
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-012",
@@ -205,15 +205,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 5 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 0.74 m from a 1.58 μC point charge.",
     "options": [
-      "15 N/C",
-      "3 N/C",
-      "75 N/C",
-      "0.33 N/C"
+      "24020.27 V",
+      "19216.22 V",
+      "9608.11 V",
+      "38432.43 V"
     ],
     "answer_index": 1,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-013",
@@ -223,15 +223,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 2 C at electric potential 60 V has potential energy?",
+    "stem": "Charges 1.1 μC and 2.15 μC are 0.85 m apart. Coulomb force magnitude?",
     "options": [
-      "120 J",
-      "30 J",
-      "62 J",
-      "60 J"
+      "0.0295 N",
+      "0.0147 N",
+      "0.0589 N",
+      "0.0368 N"
     ],
     "answer_index": 0,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-014",
@@ -241,15 +241,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 0.65 m from a 1.1 μC point charge.",
     "options": [
-      "45° always",
-      "zero angle",
-      "random angles",
-      "right angles"
+      "11715.98 N/C",
+      "46863.91 N/C",
+      "29289.94 N/C",
+      "23431.95 N/C"
     ],
     "answer_index": 3,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-015",
@@ -259,15 +259,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 0.75 m from a 1.6 μC point charge.",
     "options": [
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal"
+      "38400 V",
+      "24000 V",
+      "19200 V",
+      "9600 V"
     ],
     "answer_index": 2,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-016",
@@ -277,15 +277,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 5 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.12 μC and 2.18 μC are 0.86 m apart. Coulomb force magnitude?",
     "options": [
-      "0.2 N",
-      "0.05 N",
-      "0.05 N",
-      "0.03 N"
+      "0.0371 N",
+      "0.0297 N",
+      "0.0149 N",
+      "0.0594 N"
     ],
     "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.05 N."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-017",
@@ -295,15 +295,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 2 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 0.66 m from a 1.12 μC point charge.",
     "options": [
-      "7.5 N/C",
-      "30 N/C",
-      "0.13 N/C",
-      "15 N/C"
+      "23140.5 N/C",
+      "11570.25 N/C",
+      "46280.99 N/C",
+      "28925.62 N/C"
     ],
     "answer_index": 0,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-018",
@@ -313,15 +313,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 3 C at electric potential 30 V has potential energy?",
+    "stem": "Find electric potential 0.76 m from a 1.62 μC point charge.",
     "options": [
-      "10 J",
-      "33 J",
-      "30 J",
-      "90 J"
+      "9592.11 V",
+      "38368.42 V",
+      "23980.26 V",
+      "19184.21 V"
     ],
     "answer_index": 3,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-019",
@@ -331,15 +331,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.14 μC and 2.21 μC are 0.87 m apart. Coulomb force magnitude?",
     "options": [
-      "zero angle",
-      "random angles",
-      "right angles",
-      "45° always"
+      "0.0599 N",
+      "0.0374 N",
+      "0.03 N",
+      "0.015 N"
     ],
     "answer_index": 2,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-020",
@@ -349,15 +349,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 0.67 m from a 1.14 μC point charge.",
     "options": [
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal"
+      "28569.84 N/C",
+      "22855.87 N/C",
+      "11427.93 N/C",
+      "45711.74 N/C"
     ],
     "answer_index": 1,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-021",
@@ -367,15 +367,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 2 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 0.77 m from a 1.64 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "19168.83 V",
+      "9584.42 V",
+      "38337.66 V",
+      "23961.04 V"
     ],
     "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-022",
@@ -385,15 +385,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 3 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.16 μC and 2.24 μC are 0.88 m apart. Coulomb force magnitude?",
     "options": [
-      "45 N/C",
-      "0.2 N/C",
-      "15 N/C",
-      "5 N/C"
+      "0.0151 N",
+      "0.0604 N",
+      "0.0377 N",
+      "0.0302 N"
     ],
     "answer_index": 3,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-023",
@@ -403,15 +403,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 4 C at electric potential 80 V has potential energy?",
+    "stem": "Find electric field 0.68 m from a 1.16 μC point charge.",
     "options": [
-      "84 J",
-      "80 J",
-      "320 J",
-      "20 J"
+      "45155.71 N/C",
+      "28222.32 N/C",
+      "22577.85 N/C",
+      "11288.93 N/C"
     ],
     "answer_index": 2,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-024",
@@ -421,15 +421,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 0.78 m from a 1.66 μC point charge.",
     "options": [
-      "random angles",
-      "right angles",
-      "45° always",
-      "zero angle"
+      "23942.31 V",
+      "19153.85 V",
+      "9576.92 V",
+      "38307.69 V"
     ],
     "answer_index": 1,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-025",
@@ -439,15 +439,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.18 μC and 2.27 μC are 0.89 m apart. Coulomb force magnitude?",
     "options": [
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero"
+      "0.0304 N",
+      "0.0152 N",
+      "0.0609 N",
+      "0.038 N"
     ],
     "answer_index": 0,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-026",
@@ -457,15 +457,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 3 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 0.69 m from a 1.18 μC point charge.",
     "options": [
-      "0.02 N",
-      "0.01 N",
-      "0.04 N",
-      "0.01 N"
+      "11153.12 N/C",
+      "44612.48 N/C",
+      "27882.8 N/C",
+      "22306.24 N/C"
     ],
-    "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "answer_index": 3,
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-027",
@@ -475,15 +475,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 4 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 0.79 m from a 1.68 μC point charge.",
     "options": [
-      "0.27 N/C",
-      "15 N/C",
-      "3.75 N/C",
-      "60 N/C"
+      "38278.48 V",
+      "23924.05 V",
+      "19139.24 V",
+      "9569.62 V"
     ],
     "answer_index": 2,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-028",
@@ -493,15 +493,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 5 C at electric potential 50 V has potential energy?",
+    "stem": "Charges 1.2 μC and 2.3 μC are 0.9 m apart. Coulomb force magnitude?",
     "options": [
-      "50 J",
-      "250 J",
-      "10 J",
-      "55 J"
+      "0.0383 N",
+      "0.0307 N",
+      "0.0153 N",
+      "0.0613 N"
     ],
     "answer_index": 1,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-029",
@@ -511,15 +511,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 0.7 m from a 1.2 μC point charge.",
     "options": [
-      "right angles",
-      "45° always",
-      "zero angle",
-      "random angles"
+      "22040.82 N/C",
+      "11020.41 N/C",
+      "44081.63 N/C",
+      "27551.02 N/C"
     ],
     "answer_index": 0,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-030",
@@ -529,15 +529,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 0.8 m from a 1.7 μC point charge.",
     "options": [
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude"
+      "9562.5 V",
+      "38250 V",
+      "23906.25 V",
+      "19125 V"
     ],
     "answer_index": 3,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-031",
@@ -547,15 +547,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 4 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.22 μC and 2.33 μC are 0.91 m apart. Coulomb force magnitude?",
     "options": [
-      "0.02 N",
-      "0.16 N",
-      "0.04 N",
-      "0.04 N"
+      "0.0618 N",
+      "0.0386 N",
+      "0.0309 N",
+      "0.0154 N"
     ],
     "answer_index": 2,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.04 N."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-032",
@@ -565,15 +565,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 5 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 0.71 m from a 1.22 μC point charge.",
     "options": [
-      "15 N/C",
-      "3 N/C",
-      "75 N/C",
-      "0.33 N/C"
+      "27226.74 N/C",
+      "21781.39 N/C",
+      "10890.7 N/C",
+      "43562.79 N/C"
     ],
     "answer_index": 1,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-033",
@@ -583,15 +583,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 2 C at electric potential 20 V has potential energy?",
+    "stem": "Find electric potential 0.81 m from a 1.72 μC point charge.",
     "options": [
-      "40 J",
-      "10 J",
-      "22 J",
-      "20 J"
+      "19111.11 V",
+      "9555.56 V",
+      "38222.22 V",
+      "23888.89 V"
     ],
     "answer_index": 0,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-034",
@@ -601,15 +601,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.24 μC and 2.36 μC are 0.92 m apart. Coulomb force magnitude?",
     "options": [
-      "45° always",
-      "zero angle",
-      "random angles",
-      "right angles"
+      "0.0156 N",
+      "0.0622 N",
+      "0.0389 N",
+      "0.0311 N"
     ],
     "answer_index": 3,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-035",
@@ -619,15 +619,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 0.72 m from a 1.24 μC point charge.",
     "options": [
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal"
+      "43055.56 N/C",
+      "26909.72 N/C",
+      "21527.78 N/C",
+      "10763.89 N/C"
     ],
     "answer_index": 2,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-036",
@@ -637,15 +637,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 5 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 0.82 m from a 1.74 μC point charge.",
     "options": [
-      "0.04 N",
-      "0.01 N",
-      "0.03 N",
-      "0.01 N"
+      "23871.95 V",
+      "19097.56 V",
+      "9548.78 V",
+      "38195.12 V"
     ],
     "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-037",
@@ -655,15 +655,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 2 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.26 μC and 2.39 μC are 0.93 m apart. Coulomb force magnitude?",
     "options": [
-      "7.5 N/C",
-      "30 N/C",
-      "0.13 N/C",
-      "15 N/C"
+      "0.0313 N",
+      "0.0157 N",
+      "0.0627 N",
+      "0.0392 N"
     ],
     "answer_index": 0,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-038",
@@ -673,15 +673,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 3 C at electric potential 70 V has potential energy?",
+    "stem": "Find electric field 0.73 m from a 1.26 μC point charge.",
     "options": [
-      "23.33 J",
-      "73 J",
-      "70 J",
-      "210 J"
+      "10639.89 N/C",
+      "42559.58 N/C",
+      "26599.74 N/C",
+      "21279.79 N/C"
     ],
     "answer_index": 3,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-039",
@@ -691,15 +691,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 0.83 m from a 1.76 μC point charge.",
     "options": [
-      "zero angle",
-      "random angles",
-      "right angles",
-      "45° always"
+      "38168.67 V",
+      "23855.42 V",
+      "19084.34 V",
+      "9542.17 V"
     ],
     "answer_index": 2,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-040",
@@ -709,15 +709,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.28 μC and 2.42 μC are 0.94 m apart. Coulomb force magnitude?",
     "options": [
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal"
+      "0.0394 N",
+      "0.0316 N",
+      "0.0158 N",
+      "0.0631 N"
     ],
     "answer_index": 1,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-041",
@@ -727,15 +727,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 2 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 0.74 m from a 1.28 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "21037.25 N/C",
+      "10518.63 N/C",
+      "42074.51 N/C",
+      "26296.57 N/C"
     ],
     "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-042",
@@ -745,15 +745,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 3 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 0.84 m from a 1.78 μC point charge.",
     "options": [
-      "45 N/C",
-      "0.2 N/C",
-      "15 N/C",
-      "5 N/C"
+      "9535.71 V",
+      "38142.86 V",
+      "23839.29 V",
+      "19071.43 V"
     ],
     "answer_index": 3,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-043",
@@ -763,15 +763,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 4 C at electric potential 40 V has potential energy?",
+    "stem": "Charges 1.3 μC and 2.45 μC are 0.95 m apart. Coulomb force magnitude?",
     "options": [
-      "44 J",
-      "40 J",
-      "160 J",
-      "10 J"
+      "0.0635 N",
+      "0.0397 N",
+      "0.0318 N",
+      "0.0159 N"
     ],
     "answer_index": 2,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-044",
@@ -781,15 +781,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 0.75 m from a 1.3 μC point charge.",
     "options": [
-      "random angles",
-      "right angles",
-      "45° always",
-      "zero angle"
+      "26000 N/C",
+      "20800 N/C",
+      "10400 N/C",
+      "41600 N/C"
     ],
     "answer_index": 1,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-045",
@@ -799,15 +799,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 0.85 m from a 1.8 μC point charge.",
     "options": [
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero"
+      "19058.82 V",
+      "9529.41 V",
+      "38117.65 V",
+      "23823.53 V"
     ],
     "answer_index": 0,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-046",
@@ -817,15 +817,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 3 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.32 μC and 2.48 μC are 0.96 m apart. Coulomb force magnitude?",
     "options": [
-      "0.03 N",
-      "0.02 N",
-      "0.12 N",
-      "0.03 N"
+      "0.016 N",
+      "0.0639 N",
+      "0.04 N",
+      "0.032 N"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.03 N."
+    "answer_index": 3,
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-047",
@@ -835,15 +835,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 4 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 0.76 m from a 1.32 μC point charge.",
     "options": [
-      "0.27 N/C",
-      "15 N/C",
-      "3.75 N/C",
-      "60 N/C"
+      "41135.73 N/C",
+      "25709.83 N/C",
+      "20567.87 N/C",
+      "10283.93 N/C"
     ],
     "answer_index": 2,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-048",
@@ -853,15 +853,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 5 C at electric potential 90 V has potential energy?",
+    "stem": "Find electric potential 0.86 m from a 1.82 μC point charge.",
     "options": [
-      "90 J",
-      "450 J",
-      "18 J",
-      "95 J"
+      "23808.14 V",
+      "19046.51 V",
+      "9523.26 V",
+      "38093.02 V"
     ],
     "answer_index": 1,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-049",
@@ -871,15 +871,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.34 μC and 2.51 μC are 0.97 m apart. Coulomb force magnitude?",
     "options": [
-      "right angles",
-      "45° always",
-      "zero angle",
-      "random angles"
+      "0.0322 N",
+      "0.0161 N",
+      "0.0643 N",
+      "0.0402 N"
     ],
     "answer_index": 0,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-050",
@@ -889,15 +889,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 0.77 m from a 1.34 μC point charge.",
     "options": [
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude"
+      "10170.35 N/C",
+      "40681.4 N/C",
+      "25425.87 N/C",
+      "20340.7 N/C"
     ],
     "answer_index": 3,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-051",
@@ -907,15 +907,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 4 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 0.87 m from a 1.84 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "38068.97 V",
+      "23793.1 V",
+      "19034.48 V",
+      "9517.24 V"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "answer_index": 2,
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-052",
@@ -925,15 +925,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 5 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.36 μC and 2.54 μC are 0.98 m apart. Coulomb force magnitude?",
     "options": [
-      "15 N/C",
-      "3 N/C",
-      "75 N/C",
-      "0.33 N/C"
+      "0.0405 N",
+      "0.0324 N",
+      "0.0162 N",
+      "0.0647 N"
     ],
     "answer_index": 1,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-053",
@@ -943,15 +943,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 2 C at electric potential 60 V has potential energy?",
+    "stem": "Find electric field 0.78 m from a 1.36 μC point charge.",
     "options": [
-      "120 J",
-      "30 J",
-      "62 J",
-      "60 J"
+      "20118.34 N/C",
+      "10059.17 N/C",
+      "40236.69 N/C",
+      "25147.93 N/C"
     ],
     "answer_index": 0,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-054",
@@ -961,15 +961,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 0.88 m from a 1.86 μC point charge.",
     "options": [
-      "45° always",
-      "zero angle",
-      "random angles",
-      "right angles"
+      "9511.36 V",
+      "38045.45 V",
+      "23778.41 V",
+      "19022.73 V"
     ],
     "answer_index": 3,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-055",
@@ -979,15 +979,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.38 μC and 2.57 μC are 0.99 m apart. Coulomb force magnitude?",
     "options": [
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal"
+      "0.0651 N",
+      "0.0407 N",
+      "0.0326 N",
+      "0.0163 N"
     ],
     "answer_index": 2,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-056",
@@ -997,15 +997,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 5 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 0.79 m from a 1.38 μC point charge.",
     "options": [
-      "0.04 N",
-      "0.01 N",
-      "0.02 N",
-      "0.01 N"
+      "24875.82 N/C",
+      "19900.66 N/C",
+      "9950.33 N/C",
+      "39801.31 N/C"
     ],
     "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-057",
@@ -1015,15 +1015,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 2 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 0.89 m from a 1.88 μC point charge.",
     "options": [
-      "7.5 N/C",
-      "30 N/C",
-      "0.13 N/C",
-      "15 N/C"
+      "19011.24 V",
+      "9505.62 V",
+      "38022.47 V",
+      "23764.04 V"
     ],
     "answer_index": 0,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-058",
@@ -1033,15 +1033,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 3 C at electric potential 30 V has potential energy?",
+    "stem": "Charges 1.4 μC and 2.6 μC are 1 m apart. Coulomb force magnitude?",
     "options": [
-      "10 J",
-      "33 J",
-      "30 J",
-      "90 J"
+      "0.0164 N",
+      "0.0655 N",
+      "0.041 N",
+      "0.0328 N"
     ],
     "answer_index": 3,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-059",
@@ -1051,15 +1051,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 0.8 m from a 1.4 μC point charge.",
     "options": [
-      "zero angle",
-      "random angles",
-      "right angles",
-      "45° always"
+      "39375 N/C",
+      "24609.37 N/C",
+      "19687.5 N/C",
+      "9843.75 N/C"
     ],
     "answer_index": 2,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-060",
@@ -1069,15 +1069,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 0.9 m from a 1.9 μC point charge.",
     "options": [
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal"
+      "23750 V",
+      "19000 V",
+      "9500 V",
+      "38000 V"
     ],
     "answer_index": 1,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-061",
@@ -1087,15 +1087,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 2 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.42 μC and 2.63 μC are 1.01 m apart. Coulomb force magnitude?",
     "options": [
-      "0.02 N",
-      "0.02 N",
-      "0.01 N",
-      "0.08 N"
+      "0.0329 N",
+      "0.0165 N",
+      "0.0659 N",
+      "0.0412 N"
     ],
     "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.02 N."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-062",
@@ -1105,15 +1105,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 3 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 0.81 m from a 1.42 μC point charge.",
     "options": [
-      "45 N/C",
-      "0.2 N/C",
-      "15 N/C",
-      "5 N/C"
+      "9739.37 N/C",
+      "38957.48 N/C",
+      "24348.42 N/C",
+      "19478.74 N/C"
     ],
     "answer_index": 3,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-063",
@@ -1123,15 +1123,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 4 C at electric potential 80 V has potential energy?",
+    "stem": "Find electric potential 0.91 m from a 1.92 μC point charge.",
     "options": [
-      "84 J",
-      "80 J",
-      "320 J",
-      "20 J"
+      "37978.02 V",
+      "23736.26 V",
+      "18989.01 V",
+      "9494.51 V"
     ],
     "answer_index": 2,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-064",
@@ -1141,15 +1141,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.44 μC and 2.66 μC are 1.02 m apart. Coulomb force magnitude?",
     "options": [
-      "random angles",
-      "right angles",
-      "45° always",
-      "zero angle"
+      "0.0414 N",
+      "0.0331 N",
+      "0.0166 N",
+      "0.0663 N"
     ],
     "answer_index": 1,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-065",
@@ -1159,15 +1159,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 0.82 m from a 1.44 μC point charge.",
     "options": [
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero"
+      "19274.24 N/C",
+      "9637.12 N/C",
+      "38548.48 N/C",
+      "24092.8 N/C"
     ],
     "answer_index": 0,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-066",
@@ -1177,15 +1177,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 3 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 0.92 m from a 1.94 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "9489.13 V",
+      "37956.52 V",
+      "23722.83 V",
+      "18978.26 V"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "answer_index": 3,
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-067",
@@ -1195,15 +1195,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 4 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.46 μC and 2.69 μC are 1.03 m apart. Coulomb force magnitude?",
     "options": [
-      "0.27 N/C",
-      "15 N/C",
-      "3.75 N/C",
-      "60 N/C"
+      "0.0666 N",
+      "0.0416 N",
+      "0.0333 N",
+      "0.0167 N"
     ],
     "answer_index": 2,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-068",
@@ -1213,15 +1213,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 5 C at electric potential 50 V has potential energy?",
+    "stem": "Find electric field 0.83 m from a 1.46 μC point charge.",
     "options": [
-      "50 J",
-      "250 J",
-      "10 J",
-      "55 J"
+      "23842.36 N/C",
+      "19073.89 N/C",
+      "9536.94 N/C",
+      "38147.77 N/C"
     ],
     "answer_index": 1,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-069",
@@ -1231,15 +1231,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 0.93 m from a 1.96 μC point charge.",
     "options": [
-      "right angles",
-      "45° always",
-      "zero angle",
-      "random angles"
+      "18967.74 V",
+      "9483.87 V",
+      "37935.48 V",
+      "23709.68 V"
     ],
     "answer_index": 0,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-070",
@@ -1249,15 +1249,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.48 μC and 2.72 μC are 1.04 m apart. Coulomb force magnitude?",
     "options": [
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude"
+      "0.0167 N",
+      "0.067 N",
+      "0.0419 N",
+      "0.0335 N"
     ],
     "answer_index": 3,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-071",
@@ -1267,15 +1267,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 4 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 0.84 m from a 1.48 μC point charge.",
     "options": [
-      "0.01 N",
-      "0.04 N",
-      "0.01 N",
-      "0.02 N"
+      "37755.1 N/C",
+      "23596.94 N/C",
+      "18877.55 N/C",
+      "9438.78 N/C"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "answer_index": 2,
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-072",
@@ -1285,15 +1285,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 5 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 0.94 m from a 1.98 μC point charge.",
     "options": [
-      "15 N/C",
-      "3 N/C",
-      "75 N/C",
-      "0.33 N/C"
+      "23696.81 V",
+      "18957.45 V",
+      "9478.72 V",
+      "37914.89 V"
     ],
     "answer_index": 1,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-073",
@@ -1303,15 +1303,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 2 C at electric potential 20 V has potential energy?",
+    "stem": "Charges 1.5 μC and 2.75 μC are 1.05 m apart. Coulomb force magnitude?",
     "options": [
-      "40 J",
-      "10 J",
-      "22 J",
-      "20 J"
+      "0.0337 N",
+      "0.0168 N",
+      "0.0673 N",
+      "0.0421 N"
     ],
     "answer_index": 0,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-074",
@@ -1321,15 +1321,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 0.85 m from a 1.5 μC point charge.",
     "options": [
-      "45° always",
-      "zero angle",
-      "random angles",
-      "right angles"
+      "9342.56 N/C",
+      "37370.24 N/C",
+      "23356.4 N/C",
+      "18685.12 N/C"
     ],
     "answer_index": 3,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-075",
@@ -1339,15 +1339,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 0.95 m from a 2 μC point charge.",
     "options": [
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal"
+      "37894.74 V",
+      "23684.21 V",
+      "18947.37 V",
+      "9473.68 V"
     ],
     "answer_index": 2,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-076",
@@ -1357,15 +1357,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 5 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.52 μC and 2.78 μC are 1.06 m apart. Coulomb force magnitude?",
     "options": [
-      "0.2 N",
-      "0.05 N",
-      "0.05 N",
-      "0.03 N"
+      "0.0423 N",
+      "0.0338 N",
+      "0.0169 N",
+      "0.0677 N"
     ],
     "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.05 N."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-077",
@@ -1375,15 +1375,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 2 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 0.86 m from a 1.52 μC point charge.",
     "options": [
-      "7.5 N/C",
-      "30 N/C",
-      "0.13 N/C",
-      "15 N/C"
+      "18496.48 N/C",
+      "9248.24 N/C",
+      "36992.97 N/C",
+      "23120.61 N/C"
     ],
     "answer_index": 0,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-078",
@@ -1393,15 +1393,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 3 C at electric potential 70 V has potential energy?",
+    "stem": "Find electric potential 0.96 m from a 2.02 μC point charge.",
     "options": [
-      "23.33 J",
-      "73 J",
-      "70 J",
-      "210 J"
+      "9468.75 V",
+      "37875 V",
+      "23671.87 V",
+      "18937.5 V"
     ],
     "answer_index": 3,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-079",
@@ -1411,15 +1411,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.54 μC and 2.81 μC are 1.07 m apart. Coulomb force magnitude?",
     "options": [
-      "zero angle",
-      "random angles",
-      "right angles",
-      "45° always"
+      "0.068 N",
+      "0.0425 N",
+      "0.034 N",
+      "0.017 N"
     ],
     "answer_index": 2,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-080",
@@ -1429,15 +1429,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 0.87 m from a 1.54 μC point charge.",
     "options": [
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal"
+      "22889.42 N/C",
+      "18311.53 N/C",
+      "9155.77 N/C",
+      "36623.07 N/C"
     ],
     "answer_index": 1,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-081",
@@ -1447,15 +1447,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 2 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 0.97 m from a 2.04 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "18927.84 V",
+      "9463.92 V",
+      "37855.67 V",
+      "23659.79 V"
     ],
     "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-082",
@@ -1465,15 +1465,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 3 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.56 μC and 2.84 μC are 1.08 m apart. Coulomb force magnitude?",
     "options": [
-      "45 N/C",
-      "0.2 N/C",
-      "15 N/C",
-      "5 N/C"
+      "0.0171 N",
+      "0.0684 N",
+      "0.0427 N",
+      "0.0342 N"
     ],
     "answer_index": 3,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-083",
@@ -1483,15 +1483,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 4 C at electric potential 40 V has potential energy?",
+    "stem": "Find electric field 0.88 m from a 1.56 μC point charge.",
     "options": [
-      "44 J",
-      "40 J",
-      "160 J",
-      "10 J"
+      "36260.33 N/C",
+      "22662.71 N/C",
+      "18130.17 N/C",
+      "9065.08 N/C"
     ],
     "answer_index": 2,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-084",
@@ -1501,15 +1501,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 0.98 m from a 2.06 μC point charge.",
     "options": [
-      "random angles",
-      "right angles",
-      "45° always",
-      "zero angle"
+      "23647.96 V",
+      "18918.37 V",
+      "9459.18 V",
+      "37836.73 V"
     ],
     "answer_index": 1,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-085",
@@ -1519,15 +1519,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.58 μC and 2.87 μC are 1.09 m apart. Coulomb force magnitude?",
     "options": [
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero"
+      "0.0344 N",
+      "0.0172 N",
+      "0.0687 N",
+      "0.0429 N"
     ],
     "answer_index": 0,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-086",
@@ -1537,15 +1537,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 3 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 0.89 m from a 1.58 μC point charge.",
     "options": [
-      "0.02 N",
-      "0.01 N",
-      "0.04 N",
-      "0.01 N"
+      "8976.14 N/C",
+      "35904.56 N/C",
+      "22440.35 N/C",
+      "17952.28 N/C"
     ],
-    "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "answer_index": 3,
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-087",
@@ -1555,15 +1555,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 4 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 0.99 m from a 2.08 μC point charge.",
     "options": [
-      "0.27 N/C",
-      "15 N/C",
-      "3.75 N/C",
-      "60 N/C"
+      "37818.18 V",
+      "23636.36 V",
+      "18909.09 V",
+      "9454.55 V"
     ],
     "answer_index": 2,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-088",
@@ -1573,15 +1573,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 5 C at electric potential 90 V has potential energy?",
+    "stem": "Charges 1.6 μC and 2.9 μC are 1.1 m apart. Coulomb force magnitude?",
     "options": [
-      "90 J",
-      "450 J",
-      "18 J",
-      "95 J"
+      "0.0431 N",
+      "0.0345 N",
+      "0.0173 N",
+      "0.069 N"
     ],
     "answer_index": 1,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-089",
@@ -1591,15 +1591,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 0.9 m from a 1.6 μC point charge.",
     "options": [
-      "right angles",
-      "45° always",
-      "zero angle",
-      "random angles"
+      "17777.78 N/C",
+      "8888.89 N/C",
+      "35555.56 N/C",
+      "22222.22 N/C"
     ],
     "answer_index": 0,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-090",
@@ -1609,15 +1609,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 1 m from a 2.1 μC point charge.",
     "options": [
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude"
+      "9450 V",
+      "37800 V",
+      "23625 V",
+      "18900 V"
     ],
     "answer_index": 3,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-091",
@@ -1627,15 +1627,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 4 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.62 μC and 2.93 μC are 1.11 m apart. Coulomb force magnitude?",
     "options": [
-      "0.02 N",
-      "0.16 N",
-      "0.04 N",
-      "0.04 N"
+      "0.0693 N",
+      "0.0433 N",
+      "0.0347 N",
+      "0.0173 N"
     ],
     "answer_index": 2,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.04 N."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-092",
@@ -1645,15 +1645,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 5 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 0.91 m from a 1.62 μC point charge.",
     "options": [
-      "15 N/C",
-      "3 N/C",
-      "75 N/C",
-      "0.33 N/C"
+      "22008.21 N/C",
+      "17606.57 N/C",
+      "8803.28 N/C",
+      "35213.14 N/C"
     ],
     "answer_index": 1,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-093",
@@ -1663,15 +1663,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 2 C at electric potential 60 V has potential energy?",
+    "stem": "Find electric potential 1.01 m from a 2.12 μC point charge.",
     "options": [
-      "120 J",
-      "30 J",
-      "62 J",
-      "60 J"
+      "18891.09 V",
+      "9445.54 V",
+      "37782.18 V",
+      "23613.86 V"
     ],
     "answer_index": 0,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-094",
@@ -1681,15 +1681,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.64 μC and 2.96 μC are 1.12 m apart. Coulomb force magnitude?",
     "options": [
-      "45° always",
-      "zero angle",
-      "random angles",
-      "right angles"
+      "0.0174 N",
+      "0.0697 N",
+      "0.0435 N",
+      "0.0348 N"
     ],
     "answer_index": 3,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-095",
@@ -1699,15 +1699,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 0.92 m from a 1.64 μC point charge.",
     "options": [
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal"
+      "34877.13 N/C",
+      "21798.2 N/C",
+      "17438.56 N/C",
+      "8719.28 N/C"
     ],
     "answer_index": 2,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-096",
@@ -1717,15 +1717,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 5 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 1.02 m from a 2.14 μC point charge.",
     "options": [
-      "0.04 N",
-      "0.01 N",
-      "0.03 N",
-      "0.01 N"
+      "23602.94 V",
+      "18882.35 V",
+      "9441.18 V",
+      "37764.71 V"
     ],
     "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-097",
@@ -1735,15 +1735,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 2 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.66 μC and 2.99 μC are 1.13 m apart. Coulomb force magnitude?",
     "options": [
-      "7.5 N/C",
-      "30 N/C",
-      "0.13 N/C",
-      "15 N/C"
+      "0.035 N",
+      "0.0175 N",
+      "0.07 N",
+      "0.0437 N"
     ],
     "answer_index": 0,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-098",
@@ -1753,15 +1753,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 3 C at electric potential 30 V has potential energy?",
+    "stem": "Find electric field 0.93 m from a 1.66 μC point charge.",
     "options": [
-      "10 J",
-      "33 J",
-      "30 J",
-      "90 J"
+      "8636.84 N/C",
+      "34547.35 N/C",
+      "21592.09 N/C",
+      "17273.67 N/C"
     ],
     "answer_index": 3,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-099",
@@ -1771,15 +1771,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 1.03 m from a 2.16 μC point charge.",
     "options": [
-      "zero angle",
-      "random angles",
-      "right angles",
-      "45° always"
+      "37747.57 V",
+      "23592.23 V",
+      "18873.79 V",
+      "9436.89 V"
     ],
     "answer_index": 2,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-100",
@@ -1789,15 +1789,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.68 μC and 3.02 μC are 1.14 m apart. Coulomb force magnitude?",
     "options": [
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal"
+      "0.0439 N",
+      "0.0351 N",
+      "0.0176 N",
+      "0.0703 N"
     ],
     "answer_index": 1,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-101",
@@ -1807,15 +1807,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 2 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 0.94 m from a 1.68 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "17111.82 N/C",
+      "8555.91 N/C",
+      "34223.63 N/C",
+      "21389.77 N/C"
     ],
     "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-102",
@@ -1825,15 +1825,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 3 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 1.04 m from a 2.18 μC point charge.",
     "options": [
-      "45 N/C",
-      "0.2 N/C",
-      "15 N/C",
-      "5 N/C"
+      "9432.69 V",
+      "37730.77 V",
+      "23581.73 V",
+      "18865.38 V"
     ],
     "answer_index": 3,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-103",
@@ -1843,15 +1843,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 4 C at electric potential 80 V has potential energy?",
+    "stem": "Charges 1.7 μC and 3.05 μC are 1.15 m apart. Coulomb force magnitude?",
     "options": [
-      "84 J",
-      "80 J",
-      "320 J",
-      "20 J"
+      "0.0706 N",
+      "0.0441 N",
+      "0.0353 N",
+      "0.0176 N"
     ],
     "answer_index": 2,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-104",
@@ -1861,15 +1861,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 0.95 m from a 1.7 μC point charge.",
     "options": [
-      "random angles",
-      "right angles",
-      "45° always",
-      "zero angle"
+      "21191.14 N/C",
+      "16952.91 N/C",
+      "8476.45 N/C",
+      "33905.82 N/C"
     ],
     "answer_index": 1,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-105",
@@ -1879,15 +1879,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 1.05 m from a 2.2 μC point charge.",
     "options": [
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero"
+      "18857.14 V",
+      "9428.57 V",
+      "37714.29 V",
+      "23571.43 V"
     ],
     "answer_index": 0,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-106",
@@ -1897,15 +1897,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 3 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.72 μC and 3.08 μC are 1.16 m apart. Coulomb force magnitude?",
     "options": [
-      "0.03 N",
-      "0.02 N",
-      "0.12 N",
-      "0.03 N"
+      "0.0177 N",
+      "0.0709 N",
+      "0.0443 N",
+      "0.0354 N"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.03 N."
+    "answer_index": 3,
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-107",
@@ -1915,15 +1915,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 4 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 0.96 m from a 1.72 μC point charge.",
     "options": [
-      "0.27 N/C",
-      "15 N/C",
-      "3.75 N/C",
-      "60 N/C"
+      "33593.75 N/C",
+      "20996.09 N/C",
+      "16796.88 N/C",
+      "8398.44 N/C"
     ],
     "answer_index": 2,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-108",
@@ -1933,15 +1933,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 5 C at electric potential 50 V has potential energy?",
+    "stem": "Find electric potential 1.06 m from a 2.22 μC point charge.",
     "options": [
-      "50 J",
-      "250 J",
-      "10 J",
-      "55 J"
+      "23561.32 V",
+      "18849.06 V",
+      "9424.53 V",
+      "37698.11 V"
     ],
     "answer_index": 1,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-109",
@@ -1951,15 +1951,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.74 μC and 3.11 μC are 1.17 m apart. Coulomb force magnitude?",
     "options": [
-      "right angles",
-      "45° always",
-      "zero angle",
-      "random angles"
+      "0.0356 N",
+      "0.0178 N",
+      "0.0712 N",
+      "0.0445 N"
     ],
     "answer_index": 0,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-110",
@@ -1969,15 +1969,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 0.97 m from a 1.74 μC point charge.",
     "options": [
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude"
+      "8321.82 N/C",
+      "33287.28 N/C",
+      "20804.55 N/C",
+      "16643.64 N/C"
     ],
     "answer_index": 3,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-111",
@@ -1987,15 +1987,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 4 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 1.07 m from a 2.24 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "37682.24 V",
+      "23551.4 V",
+      "18841.12 V",
+      "9420.56 V"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "answer_index": 2,
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-112",
@@ -2005,15 +2005,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 5 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.76 μC and 3.14 μC are 1.18 m apart. Coulomb force magnitude?",
     "options": [
-      "15 N/C",
-      "3 N/C",
-      "75 N/C",
-      "0.33 N/C"
+      "0.0447 N",
+      "0.0357 N",
+      "0.0179 N",
+      "0.0714 N"
     ],
     "answer_index": 1,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-113",
@@ -2023,15 +2023,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 2 C at electric potential 20 V has potential energy?",
+    "stem": "Find electric field 0.98 m from a 1.76 μC point charge.",
     "options": [
-      "40 J",
-      "10 J",
-      "22 J",
-      "20 J"
+      "16493.13 N/C",
+      "8246.56 N/C",
+      "32986.26 N/C",
+      "20616.41 N/C"
     ],
     "answer_index": 0,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-114",
@@ -2041,15 +2041,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 1.08 m from a 2.26 μC point charge.",
     "options": [
-      "45° always",
-      "zero angle",
-      "random angles",
-      "right angles"
+      "9416.67 V",
+      "37666.67 V",
+      "23541.67 V",
+      "18833.33 V"
     ],
     "answer_index": 3,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-115",
@@ -2059,15 +2059,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.78 μC and 3.17 μC are 1.19 m apart. Coulomb force magnitude?",
     "options": [
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal"
+      "0.0717 N",
+      "0.0448 N",
+      "0.0359 N",
+      "0.0179 N"
     ],
     "answer_index": 2,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-116",
@@ -2077,15 +2077,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 5 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 0.99 m from a 1.78 μC point charge.",
     "options": [
-      "0.04 N",
-      "0.01 N",
-      "0.02 N",
-      "0.01 N"
+      "20431.59 N/C",
+      "16345.27 N/C",
+      "8172.64 N/C",
+      "32690.54 N/C"
     ],
     "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-117",
@@ -2095,15 +2095,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 2 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 1.09 m from a 2.28 μC point charge.",
     "options": [
-      "7.5 N/C",
-      "30 N/C",
-      "0.13 N/C",
-      "15 N/C"
+      "18825.69 V",
+      "9412.84 V",
+      "37651.38 V",
+      "23532.11 V"
     ],
     "answer_index": 0,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-118",
@@ -2113,15 +2113,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 3 C at electric potential 70 V has potential energy?",
+    "stem": "Charges 1.8 μC and 3.2 μC are 1.2 m apart. Coulomb force magnitude?",
     "options": [
-      "23.33 J",
-      "73 J",
-      "70 J",
-      "210 J"
+      "0.018 N",
+      "0.072 N",
+      "0.045 N",
+      "0.036 N"
     ],
     "answer_index": 3,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-119",
@@ -2131,15 +2131,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 1 m from a 1.8 μC point charge.",
     "options": [
-      "zero angle",
-      "random angles",
-      "right angles",
-      "45° always"
+      "32400 N/C",
+      "20250 N/C",
+      "16200 N/C",
+      "8100 N/C"
     ],
     "answer_index": 2,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-120",
@@ -2149,15 +2149,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 1.1 m from a 2.3 μC point charge.",
     "options": [
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal"
+      "23522.73 V",
+      "18818.18 V",
+      "9409.09 V",
+      "37636.36 V"
     ],
     "answer_index": 1,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-121",
@@ -2167,15 +2167,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 2 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.82 μC and 3.23 μC are 1.21 m apart. Coulomb force magnitude?",
     "options": [
-      "0.02 N",
-      "0.02 N",
-      "0.01 N",
-      "0.08 N"
+      "0.0361 N",
+      "0.0181 N",
+      "0.0723 N",
+      "0.0452 N"
     ],
     "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.02 N."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-122",
@@ -2185,15 +2185,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 3 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 1.01 m from a 1.82 μC point charge.",
     "options": [
-      "45 N/C",
-      "0.2 N/C",
-      "15 N/C",
-      "5 N/C"
+      "8028.62 N/C",
+      "32114.5 N/C",
+      "20071.56 N/C",
+      "16057.25 N/C"
     ],
     "answer_index": 3,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-123",
@@ -2203,15 +2203,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 4 C at electric potential 40 V has potential energy?",
+    "stem": "Find electric potential 1.11 m from a 2.32 μC point charge.",
     "options": [
-      "44 J",
-      "40 J",
-      "160 J",
-      "10 J"
+      "37621.62 V",
+      "23513.51 V",
+      "18810.81 V",
+      "9405.41 V"
     ],
     "answer_index": 2,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-124",
@@ -2221,15 +2221,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.84 μC and 3.26 μC are 1.22 m apart. Coulomb force magnitude?",
     "options": [
-      "random angles",
-      "right angles",
-      "45° always",
-      "zero angle"
+      "0.0453 N",
+      "0.0363 N",
+      "0.0181 N",
+      "0.0725 N"
     ],
     "answer_index": 1,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-125",
@@ -2239,15 +2239,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 1.02 m from a 1.84 μC point charge.",
     "options": [
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero"
+      "15916.96 N/C",
+      "7958.48 N/C",
+      "31833.91 N/C",
+      "19896.19 N/C"
     ],
     "answer_index": 0,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-126",
@@ -2257,15 +2257,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 3 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 1.12 m from a 2.34 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "9401.79 V",
+      "37607.14 V",
+      "23504.46 V",
+      "18803.57 V"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "answer_index": 3,
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-127",
@@ -2275,15 +2275,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 4 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.86 μC and 3.29 μC are 1.23 m apart. Coulomb force magnitude?",
     "options": [
-      "0.27 N/C",
-      "15 N/C",
-      "3.75 N/C",
-      "60 N/C"
+      "0.0728 N",
+      "0.0455 N",
+      "0.0364 N",
+      "0.0182 N"
     ],
     "answer_index": 2,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-128",
@@ -2293,15 +2293,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 5 C at electric potential 90 V has potential energy?",
+    "stem": "Find electric field 1.03 m from a 1.86 μC point charge.",
     "options": [
-      "90 J",
-      "450 J",
-      "18 J",
-      "95 J"
+      "19723.82 N/C",
+      "15779.06 N/C",
+      "7889.53 N/C",
+      "31558.11 N/C"
     ],
     "answer_index": 1,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-129",
@@ -2311,15 +2311,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 1.13 m from a 2.36 μC point charge.",
     "options": [
-      "right angles",
-      "45° always",
-      "zero angle",
-      "random angles"
+      "18796.46 V",
+      "9398.23 V",
+      "37592.92 V",
+      "23495.58 V"
     ],
     "answer_index": 0,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-130",
@@ -2329,15 +2329,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.88 μC and 3.32 μC are 1.24 m apart. Coulomb force magnitude?",
     "options": [
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude"
+      "0.0183 N",
+      "0.0731 N",
+      "0.0457 N",
+      "0.0365 N"
     ],
     "answer_index": 3,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-131",
@@ -2347,15 +2347,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 4 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 1.04 m from a 1.88 μC point charge.",
     "options": [
-      "0.01 N",
-      "0.04 N",
-      "0.01 N",
-      "0.02 N"
+      "31286.98 N/C",
+      "19554.36 N/C",
+      "15643.49 N/C",
+      "7821.75 N/C"
     ],
-    "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "answer_index": 2,
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-132",
@@ -2365,15 +2365,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 5 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 1.14 m from a 2.38 μC point charge.",
     "options": [
-      "15 N/C",
-      "3 N/C",
-      "75 N/C",
-      "0.33 N/C"
+      "23486.84 V",
+      "18789.47 V",
+      "9394.74 V",
+      "37578.95 V"
     ],
     "answer_index": 1,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-133",
@@ -2383,15 +2383,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 2 C at electric potential 60 V has potential energy?",
+    "stem": "Charges 1.9 μC and 3.35 μC are 1.25 m apart. Coulomb force magnitude?",
     "options": [
-      "120 J",
-      "30 J",
-      "62 J",
-      "60 J"
+      "0.0367 N",
+      "0.0183 N",
+      "0.0733 N",
+      "0.0458 N"
     ],
     "answer_index": 0,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-134",
@@ -2401,15 +2401,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 1.05 m from a 1.9 μC point charge.",
     "options": [
-      "45° always",
-      "zero angle",
-      "random angles",
-      "right angles"
+      "7755.1 N/C",
+      "31020.41 N/C",
+      "19387.76 N/C",
+      "15510.2 N/C"
     ],
     "answer_index": 3,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-135",
@@ -2419,15 +2419,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 1.15 m from a 2.4 μC point charge.",
     "options": [
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal"
+      "37565.22 V",
+      "23478.26 V",
+      "18782.61 V",
+      "9391.3 V"
     ],
     "answer_index": 2,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-136",
@@ -2437,15 +2437,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 5 μC are 1 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Charges 1.92 μC and 3.38 μC are 1.26 m apart. Coulomb force magnitude?",
     "options": [
-      "0.2 N",
-      "0.05 N",
-      "0.05 N",
-      "0.03 N"
+      "0.046 N",
+      "0.0368 N",
+      "0.0184 N",
+      "0.0736 N"
     ],
     "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.05 N."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-137",
@@ -2455,15 +2455,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A 2 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric field 1.06 m from a 1.92 μC point charge.",
     "options": [
-      "7.5 N/C",
-      "30 N/C",
-      "0.13 N/C",
-      "15 N/C"
+      "15379.14 N/C",
+      "7689.57 N/C",
+      "30758.28 N/C",
+      "19223.92 N/C"
     ],
     "answer_index": 0,
-    "explanation": "E = F/q."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-138",
@@ -2473,15 +2473,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 3 C at electric potential 30 V has potential energy?",
+    "stem": "Find electric potential 1.16 m from a 2.42 μC point charge.",
     "options": [
-      "10 J",
-      "33 J",
-      "30 J",
-      "90 J"
+      "9387.93 V",
+      "37551.72 V",
+      "23469.83 V",
+      "18775.86 V"
     ],
     "answer_index": 3,
-    "explanation": "U = qV."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-139",
@@ -2491,15 +2491,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Charges 1.94 μC and 3.41 μC are 1.27 m apart. Coulomb force magnitude?",
     "options": [
-      "zero angle",
-      "random angles",
-      "right angles",
-      "45° always"
+      "0.0738 N",
+      "0.0461 N",
+      "0.0369 N",
+      "0.0185 N"
     ],
     "answer_index": 2,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-140",
@@ -2509,15 +2509,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric field 1.07 m from a 1.94 μC point charge.",
     "options": [
-      "zero",
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal"
+      "19062.8 N/C",
+      "15250.24 N/C",
+      "7625.12 N/C",
+      "30500.48 N/C"
     ],
     "answer_index": 1,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-141",
@@ -2527,15 +2527,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 2 μC are 3 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric potential 1.17 m from a 2.44 μC point charge.",
     "options": [
-      "0 N",
-      "0 N",
-      "0 N",
-      "0 N"
+      "18769.23 V",
+      "9384.62 V",
+      "37538.46 V",
+      "23461.54 V"
     ],
     "answer_index": 0,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0 N."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-142",
@@ -2545,15 +2545,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A 3 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Charges 1.96 μC and 3.44 μC are 1.28 m apart. Coulomb force magnitude?",
     "options": [
-      "45 N/C",
-      "0.2 N/C",
-      "15 N/C",
-      "5 N/C"
+      "0.0185 N",
+      "0.0741 N",
+      "0.0463 N",
+      "0.037 N"
     ],
     "answer_index": 3,
-    "explanation": "E = F/q."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-143",
@@ -2563,15 +2563,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 4 C at electric potential 80 V has potential energy?",
+    "stem": "Find electric field 1.08 m from a 1.96 μC point charge.",
     "options": [
-      "84 J",
-      "80 J",
-      "320 J",
-      "20 J"
+      "30246.91 N/C",
+      "18904.32 N/C",
+      "15123.46 N/C",
+      "7561.73 N/C"
     ],
     "answer_index": 2,
-    "explanation": "U = qV."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-144",
@@ -2581,15 +2581,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric potential 1.18 m from a 2.46 μC point charge.",
     "options": [
-      "random angles",
-      "right angles",
-      "45° always",
-      "zero angle"
+      "23453.39 V",
+      "18762.71 V",
+      "9381.36 V",
+      "37525.42 V"
     ],
     "answer_index": 1,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-145",
@@ -2599,15 +2599,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Charges 1.98 μC and 3.47 μC are 1.29 m apart. Coulomb force magnitude?",
     "options": [
-      "repulsive and equal in magnitude",
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero"
+      "0.0372 N",
+      "0.0186 N",
+      "0.0743 N",
+      "0.0464 N"
     ],
     "answer_index": 0,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-146",
@@ -2617,15 +2617,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Charges 1 μC and 3 μC are 2 m apart in vacuum. Force magnitude (k=9×10^9)?",
+    "stem": "Find electric field 1.09 m from a 1.98 μC point charge.",
     "options": [
-      "0.02 N",
-      "0.01 N",
-      "0.04 N",
-      "0.01 N"
+      "7499.37 N/C",
+      "29997.47 N/C",
+      "18748.42 N/C",
+      "14998.74 N/C"
     ],
-    "answer_index": 1,
-    "explanation": "Coulomb force F=k|q1q2|/r² = 0.01 N."
+    "answer_index": 3,
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-147",
@@ -2635,15 +2635,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "A 4 C test charge experiences 15 N. Electric field magnitude?",
+    "stem": "Find electric potential 1.19 m from a 2.48 μC point charge.",
     "options": [
-      "0.27 N/C",
-      "15 N/C",
-      "3.75 N/C",
-      "60 N/C"
+      "37512.61 V",
+      "23445.38 V",
+      "18756.3 V",
+      "9378.15 V"
     ],
     "answer_index": 2,
-    "explanation": "E = F/q."
+    "explanation": "V=kq/r."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-148",
@@ -2653,15 +2653,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
-    "stem": "A charge 5 C at electric potential 50 V has potential energy?",
+    "stem": "Charges 2 μC and 3.5 μC are 1.3 m apart. Coulomb force magnitude?",
     "options": [
-      "50 J",
-      "250 J",
-      "10 J",
-      "55 J"
+      "0.0466 N",
+      "0.0373 N",
+      "0.0186 N",
+      "0.0746 N"
     ],
     "answer_index": 1,
-    "explanation": "U = qV."
+    "explanation": "F=k|q1q2|/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-149",
@@ -2671,15 +2671,15 @@
     "subtopic": "Electrostatics",
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
-    "stem": "Electric field lines cross equipotential surfaces at:",
+    "stem": "Find electric field 1.1 m from a 2 μC point charge.",
     "options": [
-      "right angles",
-      "45° always",
-      "zero angle",
-      "random angles"
+      "14876.03 N/C",
+      "7438.02 N/C",
+      "29752.07 N/C",
+      "18595.04 N/C"
     ],
     "answer_index": 0,
-    "explanation": "The electric field is normal to equipotential surfaces."
+    "explanation": "E=kq/r²."
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-150",
@@ -2689,14 +2689,14 @@
     "subtopic": "Electrostatics",
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
-    "stem": "Two like point charges exert forces on each other that are:",
+    "stem": "Find electric potential 1.2 m from a 2.5 μC point charge.",
     "options": [
-      "attractive and unequal",
-      "repulsive and unequal",
-      "zero",
-      "repulsive and equal in magnitude"
+      "9375 V",
+      "37500 V",
+      "23437.5 V",
+      "18750 V"
     ],
     "answer_index": 3,
-    "explanation": "Like charges repel; Newton's third law gives equal magnitudes."
+    "explanation": "V=kq/r."
   }
 ]
