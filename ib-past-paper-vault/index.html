@@ -104,7 +104,7 @@ $('detail').innerHTML=
 (paperUrl?'<a target="_blank" class="linkbtn primarylink" href="'+paperUrl+'">Open DynamicRepo source</a>':'')+
 (msUrl?'<a target="_blank" class="linkbtn" href="'+msUrl+'">Open markscheme</a>':'')+
 '</div>'+
-(paperUrl?'<div class="viewer"><div class="viewerHead"><b>Original paper preview</b><span>Locate '+(r.question||'this question')+' in the paper</span></div><iframe src="'+paperUrl+'" title="Original IB paper preview"></iframe><div class="viewerFallback">If the source blocks embedded preview, use “Open DynamicRepo source” above.</div></div>':'');
+'<div class="noteBox"><h3>Source access</h3><p>Open the DynamicRepo source using the button above. Same-panel PDF preview will be enabled only when we have the exact direct PDF file URL.</p></div>';
 }
 function render(){
 document.querySelectorAll('.topicBtn[data-topic]').forEach(b=>b.classList.toggle('active',b.dataset.topic===activeTopic));
