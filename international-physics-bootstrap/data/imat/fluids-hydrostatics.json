@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "options": [
+      "5 kg/m³",
+      "20 kg/m³",
+      "0.2 kg/m³",
+      "12 kg/m³"
+    ],
+    "answer_index": 0,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 2 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "2000 Pa",
+      "19.6 Pa",
+      "9800 Pa",
+      "19600 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "0 Pa",
+      "200 Pa",
+      "3333.33 Pa",
+      "12 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface"
+    ],
+    "answer_index": 1,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "options": [
+      "140 kg/m³",
+      "0.35 kg/m³",
+      "27 kg/m³",
+      "2.86 kg/m³"
+    ],
+    "answer_index": 3,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 7 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "68.6 Pa",
+      "34300 Pa",
+      "68600 Pa",
+      "7000 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "150 Pa",
+      "2500 Pa",
+      "9 Pa",
+      "0 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container"
+    ],
+    "answer_index": 0,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems"
+    ],
+    "answer_index": 3,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "options": [
+      "0.6 kg/m³",
+      "16 kg/m³",
+      "1.67 kg/m³",
+      "60 kg/m³"
+    ],
+    "answer_index": 2,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 4 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "19600 Pa",
+      "39200 Pa",
+      "4000 Pa",
+      "39.2 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "1666.67 Pa",
+      "6 Pa",
+      "0 Pa",
+      "100 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid"
+    ],
+    "answer_index": 3,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums"
+    ],
+    "answer_index": 2,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "options": [
+      "25 kg/m³",
+      "4 kg/m³",
+      "100 kg/m³",
+      "0.25 kg/m³"
+    ],
+    "answer_index": 1,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 1 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "9800 Pa",
+      "1000 Pa",
+      "9.8 Pa",
+      "4900 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "21 Pa",
+      "0 Pa",
+      "350 Pa",
+      "5833.33 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object"
+    ],
+    "answer_index": 2,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay"
+    ],
+    "answer_index": 1,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "options": [
+      "2.5 kg/m³",
+      "40 kg/m³",
+      "0.4 kg/m³",
+      "14 kg/m³"
+    ],
+    "answer_index": 0,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 6 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "6000 Pa",
+      "58.8 Pa",
+      "29400 Pa",
+      "58800 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "0 Pa",
+      "300 Pa",
+      "5000 Pa",
+      "18 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface"
+    ],
+    "answer_index": 1,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "options": [
+      "60 kg/m³",
+      "0.15 kg/m³",
+      "23 kg/m³",
+      "6.67 kg/m³"
+    ],
+    "answer_index": 3,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 3 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "29.4 Pa",
+      "14700 Pa",
+      "29400 Pa",
+      "3000 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "250 Pa",
+      "4166.67 Pa",
+      "15 Pa",
+      "0 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container"
+    ],
+    "answer_index": 0,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems"
+    ],
+    "answer_index": 3,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "options": [
+      "0.2 kg/m³",
+      "12 kg/m³",
+      "5 kg/m³",
+      "20 kg/m³"
+    ],
+    "answer_index": 2,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 8 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "39200 Pa",
+      "78400 Pa",
+      "8000 Pa",
+      "78.4 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "3333.33 Pa",
+      "12 Pa",
+      "0 Pa",
+      "200 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid"
+    ],
+    "answer_index": 3,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums"
+    ],
+    "answer_index": 2,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "options": [
+      "27 kg/m³",
+      "2.86 kg/m³",
+      "140 kg/m³",
+      "0.35 kg/m³"
+    ],
+    "answer_index": 1,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 5 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "49000 Pa",
+      "5000 Pa",
+      "49 Pa",
+      "24500 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "9 Pa",
+      "0 Pa",
+      "150 Pa",
+      "2500 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object"
+    ],
+    "answer_index": 2,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay"
+    ],
+    "answer_index": 1,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "options": [
+      "1.67 kg/m³",
+      "60 kg/m³",
+      "0.6 kg/m³",
+      "16 kg/m³"
+    ],
+    "answer_index": 0,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 2 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "2000 Pa",
+      "19.6 Pa",
+      "9800 Pa",
+      "19600 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "0 Pa",
+      "100 Pa",
+      "1666.67 Pa",
+      "6 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface"
+    ],
+    "answer_index": 1,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "options": [
+      "100 kg/m³",
+      "0.25 kg/m³",
+      "25 kg/m³",
+      "4 kg/m³"
+    ],
+    "answer_index": 3,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 7 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "68.6 Pa",
+      "34300 Pa",
+      "68600 Pa",
+      "7000 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "350 Pa",
+      "5833.33 Pa",
+      "21 Pa",
+      "0 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container"
+    ],
+    "answer_index": 0,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems"
+    ],
+    "answer_index": 3,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "options": [
+      "0.4 kg/m³",
+      "14 kg/m³",
+      "2.5 kg/m³",
+      "40 kg/m³"
+    ],
+    "answer_index": 2,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 4 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "19600 Pa",
+      "39200 Pa",
+      "4000 Pa",
+      "39.2 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "5000 Pa",
+      "18 Pa",
+      "0 Pa",
+      "300 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid"
+    ],
+    "answer_index": 3,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums"
+    ],
+    "answer_index": 2,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "options": [
+      "23 kg/m³",
+      "6.67 kg/m³",
+      "60 kg/m³",
+      "0.15 kg/m³"
+    ],
+    "answer_index": 1,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 1 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "9800 Pa",
+      "1000 Pa",
+      "9.8 Pa",
+      "4900 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "15 Pa",
+      "0 Pa",
+      "250 Pa",
+      "4166.67 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object"
+    ],
+    "answer_index": 2,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay"
+    ],
+    "answer_index": 1,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "options": [
+      "5 kg/m³",
+      "20 kg/m³",
+      "0.2 kg/m³",
+      "12 kg/m³"
+    ],
+    "answer_index": 0,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 6 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "6000 Pa",
+      "58.8 Pa",
+      "29400 Pa",
+      "58800 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "0 Pa",
+      "200 Pa",
+      "3333.33 Pa",
+      "12 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface"
+    ],
+    "answer_index": 1,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "options": [
+      "140 kg/m³",
+      "0.35 kg/m³",
+      "27 kg/m³",
+      "2.86 kg/m³"
+    ],
+    "answer_index": 3,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 3 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "29.4 Pa",
+      "14700 Pa",
+      "29400 Pa",
+      "3000 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "150 Pa",
+      "2500 Pa",
+      "9 Pa",
+      "0 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container"
+    ],
+    "answer_index": 0,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems"
+    ],
+    "answer_index": 3,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "options": [
+      "0.6 kg/m³",
+      "16 kg/m³",
+      "1.67 kg/m³",
+      "60 kg/m³"
+    ],
+    "answer_index": 2,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 8 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "39200 Pa",
+      "78400 Pa",
+      "8000 Pa",
+      "78.4 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "1666.67 Pa",
+      "6 Pa",
+      "0 Pa",
+      "100 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid"
+    ],
+    "answer_index": 3,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums"
+    ],
+    "answer_index": 2,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "options": [
+      "25 kg/m³",
+      "4 kg/m³",
+      "100 kg/m³",
+      "0.25 kg/m³"
+    ],
+    "answer_index": 1,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 5 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "49000 Pa",
+      "5000 Pa",
+      "49 Pa",
+      "24500 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "21 Pa",
+      "0 Pa",
+      "350 Pa",
+      "5833.33 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object"
+    ],
+    "answer_index": 2,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay"
+    ],
+    "answer_index": 1,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "options": [
+      "2.5 kg/m³",
+      "40 kg/m³",
+      "0.4 kg/m³",
+      "14 kg/m³"
+    ],
+    "answer_index": 0,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 2 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "2000 Pa",
+      "19.6 Pa",
+      "9800 Pa",
+      "19600 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "0 Pa",
+      "300 Pa",
+      "5000 Pa",
+      "18 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface"
+    ],
+    "answer_index": 1,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "options": [
+      "60 kg/m³",
+      "0.15 kg/m³",
+      "23 kg/m³",
+      "6.67 kg/m³"
+    ],
+    "answer_index": 3,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 7 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "68.6 Pa",
+      "34300 Pa",
+      "68600 Pa",
+      "7000 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "250 Pa",
+      "4166.67 Pa",
+      "15 Pa",
+      "0 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container"
+    ],
+    "answer_index": 0,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems"
+    ],
+    "answer_index": 3,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "options": [
+      "0.2 kg/m³",
+      "12 kg/m³",
+      "5 kg/m³",
+      "20 kg/m³"
+    ],
+    "answer_index": 2,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 4 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "19600 Pa",
+      "39200 Pa",
+      "4000 Pa",
+      "39.2 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "3333.33 Pa",
+      "12 Pa",
+      "0 Pa",
+      "200 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid"
+    ],
+    "answer_index": 3,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums"
+    ],
+    "answer_index": 2,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "options": [
+      "27 kg/m³",
+      "2.86 kg/m³",
+      "140 kg/m³",
+      "0.35 kg/m³"
+    ],
+    "answer_index": 1,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 1 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "9800 Pa",
+      "1000 Pa",
+      "9.8 Pa",
+      "4900 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "9 Pa",
+      "0 Pa",
+      "150 Pa",
+      "2500 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object"
+    ],
+    "answer_index": 2,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay"
+    ],
+    "answer_index": 1,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "options": [
+      "1.67 kg/m³",
+      "60 kg/m³",
+      "0.6 kg/m³",
+      "16 kg/m³"
+    ],
+    "answer_index": 0,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 6 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "6000 Pa",
+      "58.8 Pa",
+      "29400 Pa",
+      "58800 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "0 Pa",
+      "100 Pa",
+      "1666.67 Pa",
+      "6 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface"
+    ],
+    "answer_index": 1,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "options": [
+      "100 kg/m³",
+      "0.25 kg/m³",
+      "25 kg/m³",
+      "4 kg/m³"
+    ],
+    "answer_index": 3,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 3 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "29.4 Pa",
+      "14700 Pa",
+      "29400 Pa",
+      "3000 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "350 Pa",
+      "5833.33 Pa",
+      "21 Pa",
+      "0 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container"
+    ],
+    "answer_index": 0,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems"
+    ],
+    "answer_index": 3,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "options": [
+      "0.4 kg/m³",
+      "14 kg/m³",
+      "2.5 kg/m³",
+      "40 kg/m³"
+    ],
+    "answer_index": 2,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 8 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "39200 Pa",
+      "78400 Pa",
+      "8000 Pa",
+      "78.4 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "5000 Pa",
+      "18 Pa",
+      "0 Pa",
+      "300 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid"
+    ],
+    "answer_index": 3,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums"
+    ],
+    "answer_index": 2,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "options": [
+      "23 kg/m³",
+      "6.67 kg/m³",
+      "60 kg/m³",
+      "0.15 kg/m³"
+    ],
+    "answer_index": 1,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 5 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "49000 Pa",
+      "5000 Pa",
+      "49 Pa",
+      "24500 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "15 Pa",
+      "0 Pa",
+      "250 Pa",
+      "4166.67 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object"
+    ],
+    "answer_index": 2,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay"
+    ],
+    "answer_index": 1,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 2 m³. Density?",
+    "options": [
+      "5 kg/m³",
+      "20 kg/m³",
+      "0.2 kg/m³",
+      "12 kg/m³"
+    ],
+    "answer_index": 0,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 2 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "2000 Pa",
+      "19.6 Pa",
+      "9800 Pa",
+      "19600 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 200 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "0 Pa",
+      "200 Pa",
+      "3333.33 Pa",
+      "12 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface"
+    ],
+    "answer_index": 1,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 7 m³. Density?",
+    "options": [
+      "140 kg/m³",
+      "0.35 kg/m³",
+      "27 kg/m³",
+      "2.86 kg/m³"
+    ],
+    "answer_index": 3,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 7 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "68.6 Pa",
+      "34300 Pa",
+      "68600 Pa",
+      "7000 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 150 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "150 Pa",
+      "2500 Pa",
+      "9 Pa",
+      "0 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container"
+    ],
+    "answer_index": 0,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems"
+    ],
+    "answer_index": 3,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 6 m³. Density?",
+    "options": [
+      "0.6 kg/m³",
+      "16 kg/m³",
+      "1.67 kg/m³",
+      "60 kg/m³"
+    ],
+    "answer_index": 2,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 4 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "19600 Pa",
+      "39200 Pa",
+      "4000 Pa",
+      "39.2 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 100 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "1666.67 Pa",
+      "6 Pa",
+      "0 Pa",
+      "100 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid"
+    ],
+    "answer_index": 3,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums"
+    ],
+    "answer_index": 2,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 5 m³. Density?",
+    "options": [
+      "25 kg/m³",
+      "4 kg/m³",
+      "100 kg/m³",
+      "0.25 kg/m³"
+    ],
+    "answer_index": 1,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 1 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "9800 Pa",
+      "1000 Pa",
+      "9.8 Pa",
+      "4900 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 350 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "21 Pa",
+      "0 Pa",
+      "350 Pa",
+      "5833.33 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "pressure at the surface",
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object"
+    ],
+    "answer_index": 2,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "electromagnetic induction",
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay"
+    ],
+    "answer_index": 1,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 10 kg and volume 4 m³. Density?",
+    "options": [
+      "2.5 kg/m³",
+      "40 kg/m³",
+      "0.4 kg/m³",
+      "14 kg/m³"
+    ],
+    "answer_index": 0,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 6 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "6000 Pa",
+      "58.8 Pa",
+      "29400 Pa",
+      "58800 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 300 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "0 Pa",
+      "300 Pa",
+      "5000 Pa",
+      "18 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "volume of the container",
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface"
+    ],
+    "answer_index": 1,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "hydraulic systems",
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction"
+    ],
+    "answer_index": 0,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A sample has mass 20 kg and volume 3 m³. Density?",
+    "options": [
+      "60 kg/m³",
+      "0.15 kg/m³",
+      "23 kg/m³",
+      "6.67 kg/m³"
+    ],
+    "answer_index": 3,
+    "explanation": "ρ = m/V."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gauge pressure 3 m below water surface (ρ=1000 kg/m³, g=9.8)?",
+    "options": [
+      "29.4 Pa",
+      "14700 Pa",
+      "29400 Pa",
+      "3000 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "p = ρgh."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 250 N acts normally on area 0.06 m². Pressure?",
+    "options": [
+      "250 Pa",
+      "4166.67 Pa",
+      "15 Pa",
+      "0 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressure p = F/A."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Archimedes' principle states that buoyant force equals:",
+    "options": [
+      "weight of displaced fluid",
+      "mass of the object",
+      "pressure at the surface",
+      "volume of the container"
+    ],
+    "answer_index": 0,
+    "explanation": "The upthrust equals the weight of fluid displaced."
+  },
+  {
+    "id": "IMAT-PHY-FLUIDS-HYDROSTATICS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Statics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Pascal's principle is the basis of:",
+    "options": [
+      "simple pendulums",
+      "radioactive decay",
+      "electromagnetic induction",
+      "hydraulic systems"
+    ],
+    "answer_index": 3,
+    "explanation": "A pressure change in an enclosed fluid is transmitted throughout the fluid."
+  }
+]
