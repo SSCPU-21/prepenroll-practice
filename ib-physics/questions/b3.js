@@ -30,7 +30,7 @@ M(20,"If the number of molecules in a fixed volume doubles at constant temperatu
 /* 10 Paper 1B */
 P(1,"A fixed amount of gas is compressed slowly at constant temperature.",["V / cm³","P / kPa"],[[100,100],[80,125],[60,167],[50,200],[40,250]],[
 {q:"State a transformed graph that should be linear.",m:1,ms:["P against 1/V"]},
-{q:"State the relationship supported by the data.",m:1,ms:["P is inversely proportional to V"]},
+{q:"Use the pressure–volume data to state the functional relationship between P and V.",m:1,ms:["P is inversely proportional to V"]},
 {q:"Calculate PV for one row and comment on consistency.",m:2,ms:["approximately constant at 10000 kPa cm³"]},
 {q:"Suggest why slow compression helps maintain the assumed condition.",m:1,ms:["allows thermal exchange so gas stays near constant temperature"]}]);
 P(2,"A sealed rigid flask is heated and its pressure is recorded.",["T / K","P / kPa"],[[280,93],[300,100],[320,107],[340,113],[360,120]],[
