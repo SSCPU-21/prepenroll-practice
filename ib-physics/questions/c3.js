@@ -59,13 +59,13 @@ P(6,0,"Water waves pass through openings of different widths at fixed wavelength
 {q:"Explain why geometric-ray behaviour is a better approximation for very large openings.",m:1,ms:["diffraction angles become small"]},
 {q:"State one way to increase diffraction without changing the opening.",m:1,ms:["increase wavelength"]}]);
 P(7,0,"A double-slit experiment varies slit separation.",["d / mm","s / mm"],[[0.20,5.0],[0.25,4.0],[0.40,2.5],[0.50,2.0],[1.00,1.0]],[
-{q:"Specify transformed axes that should give a straight-line test for this dataset.",m:1,ms:["s against 1/d"]},
+{q:"For the slit-separation data, specify axes that linearize s∝1/d.",m:1,ms:["s against 1/d"]},
 {q:"Explain why closer slits give wider fringes.",m:1,ms:["s=λD/d"]},
 {q:"State what the gradient can be used to determine if D is known.",m:1,ms:["wavelength λ"]},
 {q:"Suggest one reason very small slit separation can be difficult experimentally.",m:1,ms:["slits hard to fabricate/resolve; finite slit width effects"]}]);
 P(8,1,"A single slit is illuminated with monochromatic light. The first-minimum angle is measured for several slit widths.",["b / μm","θ / mrad"],[[100,6.0],[150,4.0],[200,3.0],[250,2.4],[300,2.0]],[
 {q:"State the predicted relationship.",m:1,ms:["θ proportional to 1/b"]},
-{q:"Specify transformed axes that should give a straight-line test for this dataset.",m:1,ms:["θ against 1/b"]},
+{q:"For the single-slit data, specify axes that linearize θ∝1/b.",m:1,ms:["θ against 1/b"]},
 {q:"Use one row to estimate wavelength.",m:2,ms:["λ≈bθ≈6.0×10⁻7 m"]},
 {q:"Explain why small-angle units must be converted consistently.",m:1,ms:["θ in the formula is in radians"]}]);
 P(9,1,"A diffraction grating is used with a 600 nm laser.",["order n","angle / °"],[[1,21.1],[2,45.9],[3,"not observed"]],[
