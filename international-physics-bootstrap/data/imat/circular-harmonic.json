@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 4 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "8 m/s²",
+      "2 m/s²",
+      "32 m/s²",
+      "0.5 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c = v²/R = 8 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "2 s",
+      "12.57 s",
+      "1 s",
+      "0.5 s"
+    ],
+    "answer_index": 3,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 4 s. Angular speed?",
+    "options": [
+      "25.13 rad/s",
+      "0.25 rad/s",
+      "1.57 rad/s",
+      "0.79 rad/s"
+    ],
+    "answer_index": 2,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity"
+    ],
+    "answer_index": 1,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 6 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "30 m/s",
+      "11 m/s",
+      "150 m/s",
+      "1.2 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 9 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "4.5 m/s²",
+      "162 m/s²",
+      "0.22 m/s²",
+      "40.5 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c = v²/R = 40.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "12.57 s",
+      "1 s",
+      "0.5 s",
+      "2 s"
+    ],
+    "answer_index": 2,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 3 s. Angular speed?",
+    "options": [
+      "0.33 rad/s",
+      "2.09 rad/s",
+      "1.05 rad/s",
+      "18.85 rad/s"
+    ],
+    "answer_index": 1,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path"
+    ],
+    "answer_index": 0,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 3 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "8 m/s",
+      "75 m/s",
+      "0.6 m/s",
+      "15 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 6 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "72 m/s²",
+      "0.33 m/s²",
+      "18 m/s²",
+      "3 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c = v²/R = 18 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "1 s",
+      "0.5 s",
+      "2 s",
+      "12.57 s"
+    ],
+    "answer_index": 1,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 2 s. Angular speed?",
+    "options": [
+      "3.14 rad/s",
+      "1.57 rad/s",
+      "12.57 rad/s",
+      "0.5 rad/s"
+    ],
+    "answer_index": 0,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position"
+    ],
+    "answer_index": 3,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 8 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "200 m/s",
+      "1.6 m/s",
+      "40 m/s",
+      "13 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 11 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "0.18 m/s²",
+      "60.5 m/s²",
+      "5.5 m/s²",
+      "242 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c = v²/R = 60.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "0.5 s",
+      "2 s",
+      "12.57 s",
+      "1 s"
+    ],
+    "answer_index": 0,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 7 s. Angular speed?",
+    "options": [
+      "0.45 rad/s",
+      "43.98 rad/s",
+      "0.14 rad/s",
+      "0.9 rad/s"
+    ],
+    "answer_index": 3,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium"
+    ],
+    "answer_index": 2,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 5 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "1 m/s",
+      "25 m/s",
+      "10 m/s",
+      "125 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 8 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "32 m/s²",
+      "4 m/s²",
+      "128 m/s²",
+      "0.25 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c = v²/R = 32 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "2 s",
+      "12.57 s",
+      "1 s",
+      "0.5 s"
+    ],
+    "answer_index": 3,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 6 s. Angular speed?",
+    "options": [
+      "37.7 rad/s",
+      "0.17 rad/s",
+      "1.05 rad/s",
+      "0.52 rad/s"
+    ],
+    "answer_index": 2,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity"
+    ],
+    "answer_index": 1,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 2 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "10 m/s",
+      "7 m/s",
+      "50 m/s",
+      "0.4 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 5 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "2.5 m/s²",
+      "50 m/s²",
+      "0.4 m/s²",
+      "12.5 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c = v²/R = 12.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "12.57 s",
+      "1 s",
+      "0.5 s",
+      "2 s"
+    ],
+    "answer_index": 2,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 5 s. Angular speed?",
+    "options": [
+      "0.2 rad/s",
+      "1.26 rad/s",
+      "0.63 rad/s",
+      "31.42 rad/s"
+    ],
+    "answer_index": 1,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path"
+    ],
+    "answer_index": 0,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 7 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "12 m/s",
+      "175 m/s",
+      "1.4 m/s",
+      "35 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 10 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "200 m/s²",
+      "0.2 m/s²",
+      "50 m/s²",
+      "5 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c = v²/R = 50 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "1 s",
+      "0.5 s",
+      "2 s",
+      "12.57 s"
+    ],
+    "answer_index": 1,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 4 s. Angular speed?",
+    "options": [
+      "1.57 rad/s",
+      "0.79 rad/s",
+      "25.13 rad/s",
+      "0.25 rad/s"
+    ],
+    "answer_index": 0,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position"
+    ],
+    "answer_index": 3,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 4 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "100 m/s",
+      "0.8 m/s",
+      "20 m/s",
+      "9 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 7 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "0.29 m/s²",
+      "24.5 m/s²",
+      "3.5 m/s²",
+      "98 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c = v²/R = 24.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "0.5 s",
+      "2 s",
+      "12.57 s",
+      "1 s"
+    ],
+    "answer_index": 0,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 3 s. Angular speed?",
+    "options": [
+      "1.05 rad/s",
+      "18.85 rad/s",
+      "0.33 rad/s",
+      "2.09 rad/s"
+    ],
+    "answer_index": 3,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium"
+    ],
+    "answer_index": 2,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 9 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "1.8 m/s",
+      "45 m/s",
+      "14 m/s",
+      "225 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 4 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "8 m/s²",
+      "2 m/s²",
+      "32 m/s²",
+      "0.5 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c = v²/R = 8 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "2 s",
+      "12.57 s",
+      "1 s",
+      "0.5 s"
+    ],
+    "answer_index": 3,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 2 s. Angular speed?",
+    "options": [
+      "12.57 rad/s",
+      "0.5 rad/s",
+      "3.14 rad/s",
+      "1.57 rad/s"
+    ],
+    "answer_index": 2,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity"
+    ],
+    "answer_index": 1,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 6 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "30 m/s",
+      "11 m/s",
+      "150 m/s",
+      "1.2 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 9 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "4.5 m/s²",
+      "162 m/s²",
+      "0.22 m/s²",
+      "40.5 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c = v²/R = 40.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "12.57 s",
+      "1 s",
+      "0.5 s",
+      "2 s"
+    ],
+    "answer_index": 2,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 7 s. Angular speed?",
+    "options": [
+      "0.14 rad/s",
+      "0.9 rad/s",
+      "0.45 rad/s",
+      "43.98 rad/s"
+    ],
+    "answer_index": 1,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path"
+    ],
+    "answer_index": 0,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 3 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "8 m/s",
+      "75 m/s",
+      "0.6 m/s",
+      "15 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 6 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "72 m/s²",
+      "0.33 m/s²",
+      "18 m/s²",
+      "3 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c = v²/R = 18 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "1 s",
+      "0.5 s",
+      "2 s",
+      "12.57 s"
+    ],
+    "answer_index": 1,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 6 s. Angular speed?",
+    "options": [
+      "1.05 rad/s",
+      "0.52 rad/s",
+      "37.7 rad/s",
+      "0.17 rad/s"
+    ],
+    "answer_index": 0,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position"
+    ],
+    "answer_index": 3,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 8 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "200 m/s",
+      "1.6 m/s",
+      "40 m/s",
+      "13 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 11 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "0.18 m/s²",
+      "60.5 m/s²",
+      "5.5 m/s²",
+      "242 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c = v²/R = 60.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "0.5 s",
+      "2 s",
+      "12.57 s",
+      "1 s"
+    ],
+    "answer_index": 0,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 5 s. Angular speed?",
+    "options": [
+      "0.63 rad/s",
+      "31.42 rad/s",
+      "0.2 rad/s",
+      "1.26 rad/s"
+    ],
+    "answer_index": 3,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium"
+    ],
+    "answer_index": 2,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 5 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "1 m/s",
+      "25 m/s",
+      "10 m/s",
+      "125 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 8 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "32 m/s²",
+      "4 m/s²",
+      "128 m/s²",
+      "0.25 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c = v²/R = 32 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "2 s",
+      "12.57 s",
+      "1 s",
+      "0.5 s"
+    ],
+    "answer_index": 3,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 4 s. Angular speed?",
+    "options": [
+      "25.13 rad/s",
+      "0.25 rad/s",
+      "1.57 rad/s",
+      "0.79 rad/s"
+    ],
+    "answer_index": 2,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity"
+    ],
+    "answer_index": 1,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 2 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "10 m/s",
+      "7 m/s",
+      "50 m/s",
+      "0.4 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 5 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "2.5 m/s²",
+      "50 m/s²",
+      "0.4 m/s²",
+      "12.5 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c = v²/R = 12.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "12.57 s",
+      "1 s",
+      "0.5 s",
+      "2 s"
+    ],
+    "answer_index": 2,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 3 s. Angular speed?",
+    "options": [
+      "0.33 rad/s",
+      "2.09 rad/s",
+      "1.05 rad/s",
+      "18.85 rad/s"
+    ],
+    "answer_index": 1,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path"
+    ],
+    "answer_index": 0,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 7 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "12 m/s",
+      "175 m/s",
+      "1.4 m/s",
+      "35 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 10 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "200 m/s²",
+      "0.2 m/s²",
+      "50 m/s²",
+      "5 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c = v²/R = 50 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "1 s",
+      "0.5 s",
+      "2 s",
+      "12.57 s"
+    ],
+    "answer_index": 1,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 2 s. Angular speed?",
+    "options": [
+      "3.14 rad/s",
+      "1.57 rad/s",
+      "12.57 rad/s",
+      "0.5 rad/s"
+    ],
+    "answer_index": 0,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position"
+    ],
+    "answer_index": 3,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 4 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "100 m/s",
+      "0.8 m/s",
+      "20 m/s",
+      "9 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 7 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "0.29 m/s²",
+      "24.5 m/s²",
+      "3.5 m/s²",
+      "98 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c = v²/R = 24.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "0.5 s",
+      "2 s",
+      "12.57 s",
+      "1 s"
+    ],
+    "answer_index": 0,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 7 s. Angular speed?",
+    "options": [
+      "0.45 rad/s",
+      "43.98 rad/s",
+      "0.14 rad/s",
+      "0.9 rad/s"
+    ],
+    "answer_index": 3,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium"
+    ],
+    "answer_index": 2,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 9 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "1.8 m/s",
+      "45 m/s",
+      "14 m/s",
+      "225 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 4 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "8 m/s²",
+      "2 m/s²",
+      "32 m/s²",
+      "0.5 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c = v²/R = 8 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "2 s",
+      "12.57 s",
+      "1 s",
+      "0.5 s"
+    ],
+    "answer_index": 3,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 6 s. Angular speed?",
+    "options": [
+      "37.7 rad/s",
+      "0.17 rad/s",
+      "1.05 rad/s",
+      "0.52 rad/s"
+    ],
+    "answer_index": 2,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity"
+    ],
+    "answer_index": 1,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 6 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "30 m/s",
+      "11 m/s",
+      "150 m/s",
+      "1.2 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 9 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "4.5 m/s²",
+      "162 m/s²",
+      "0.22 m/s²",
+      "40.5 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c = v²/R = 40.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "12.57 s",
+      "1 s",
+      "0.5 s",
+      "2 s"
+    ],
+    "answer_index": 2,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 5 s. Angular speed?",
+    "options": [
+      "0.2 rad/s",
+      "1.26 rad/s",
+      "0.63 rad/s",
+      "31.42 rad/s"
+    ],
+    "answer_index": 1,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path"
+    ],
+    "answer_index": 0,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 3 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "8 m/s",
+      "75 m/s",
+      "0.6 m/s",
+      "15 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 6 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "72 m/s²",
+      "0.33 m/s²",
+      "18 m/s²",
+      "3 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c = v²/R = 18 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "1 s",
+      "0.5 s",
+      "2 s",
+      "12.57 s"
+    ],
+    "answer_index": 1,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 4 s. Angular speed?",
+    "options": [
+      "1.57 rad/s",
+      "0.79 rad/s",
+      "25.13 rad/s",
+      "0.25 rad/s"
+    ],
+    "answer_index": 0,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position"
+    ],
+    "answer_index": 3,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 8 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "200 m/s",
+      "1.6 m/s",
+      "40 m/s",
+      "13 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 11 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "0.18 m/s²",
+      "60.5 m/s²",
+      "5.5 m/s²",
+      "242 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c = v²/R = 60.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "0.5 s",
+      "2 s",
+      "12.57 s",
+      "1 s"
+    ],
+    "answer_index": 0,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 3 s. Angular speed?",
+    "options": [
+      "1.05 rad/s",
+      "18.85 rad/s",
+      "0.33 rad/s",
+      "2.09 rad/s"
+    ],
+    "answer_index": 3,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium"
+    ],
+    "answer_index": 2,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 5 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "1 m/s",
+      "25 m/s",
+      "10 m/s",
+      "125 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 8 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "32 m/s²",
+      "4 m/s²",
+      "128 m/s²",
+      "0.25 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c = v²/R = 32 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "2 s",
+      "12.57 s",
+      "1 s",
+      "0.5 s"
+    ],
+    "answer_index": 3,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 2 s. Angular speed?",
+    "options": [
+      "12.57 rad/s",
+      "0.5 rad/s",
+      "3.14 rad/s",
+      "1.57 rad/s"
+    ],
+    "answer_index": 2,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity"
+    ],
+    "answer_index": 1,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 2 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "10 m/s",
+      "7 m/s",
+      "50 m/s",
+      "0.4 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 5 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "2.5 m/s²",
+      "50 m/s²",
+      "0.4 m/s²",
+      "12.5 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c = v²/R = 12.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "12.57 s",
+      "1 s",
+      "0.5 s",
+      "2 s"
+    ],
+    "answer_index": 2,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 7 s. Angular speed?",
+    "options": [
+      "0.14 rad/s",
+      "0.9 rad/s",
+      "0.45 rad/s",
+      "43.98 rad/s"
+    ],
+    "answer_index": 1,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path"
+    ],
+    "answer_index": 0,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 7 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "12 m/s",
+      "175 m/s",
+      "1.4 m/s",
+      "35 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 10 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "200 m/s²",
+      "0.2 m/s²",
+      "50 m/s²",
+      "5 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c = v²/R = 50 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "1 s",
+      "0.5 s",
+      "2 s",
+      "12.57 s"
+    ],
+    "answer_index": 1,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 6 s. Angular speed?",
+    "options": [
+      "1.05 rad/s",
+      "0.52 rad/s",
+      "37.7 rad/s",
+      "0.17 rad/s"
+    ],
+    "answer_index": 0,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position"
+    ],
+    "answer_index": 3,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 4 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "100 m/s",
+      "0.8 m/s",
+      "20 m/s",
+      "9 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 7 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "0.29 m/s²",
+      "24.5 m/s²",
+      "3.5 m/s²",
+      "98 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c = v²/R = 24.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "0.5 s",
+      "2 s",
+      "12.57 s",
+      "1 s"
+    ],
+    "answer_index": 0,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 5 s. Angular speed?",
+    "options": [
+      "0.63 rad/s",
+      "31.42 rad/s",
+      "0.2 rad/s",
+      "1.26 rad/s"
+    ],
+    "answer_index": 3,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium"
+    ],
+    "answer_index": 2,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 9 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "1.8 m/s",
+      "45 m/s",
+      "14 m/s",
+      "225 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 4 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "8 m/s²",
+      "2 m/s²",
+      "32 m/s²",
+      "0.5 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c = v²/R = 8 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "2 s",
+      "12.57 s",
+      "1 s",
+      "0.5 s"
+    ],
+    "answer_index": 3,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 4 s. Angular speed?",
+    "options": [
+      "25.13 rad/s",
+      "0.25 rad/s",
+      "1.57 rad/s",
+      "0.79 rad/s"
+    ],
+    "answer_index": 2,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity"
+    ],
+    "answer_index": 1,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 6 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "30 m/s",
+      "11 m/s",
+      "150 m/s",
+      "1.2 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 9 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "4.5 m/s²",
+      "162 m/s²",
+      "0.22 m/s²",
+      "40.5 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c = v²/R = 40.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "12.57 s",
+      "1 s",
+      "0.5 s",
+      "2 s"
+    ],
+    "answer_index": 2,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 3 s. Angular speed?",
+    "options": [
+      "0.33 rad/s",
+      "2.09 rad/s",
+      "1.05 rad/s",
+      "18.85 rad/s"
+    ],
+    "answer_index": 1,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path"
+    ],
+    "answer_index": 0,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 3 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "8 m/s",
+      "75 m/s",
+      "0.6 m/s",
+      "15 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 6 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "72 m/s²",
+      "0.33 m/s²",
+      "18 m/s²",
+      "3 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c = v²/R = 18 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "1 s",
+      "0.5 s",
+      "2 s",
+      "12.57 s"
+    ],
+    "answer_index": 1,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 2 s. Angular speed?",
+    "options": [
+      "3.14 rad/s",
+      "1.57 rad/s",
+      "12.57 rad/s",
+      "0.5 rad/s"
+    ],
+    "answer_index": 0,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position"
+    ],
+    "answer_index": 3,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 8 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "200 m/s",
+      "1.6 m/s",
+      "40 m/s",
+      "13 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 11 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "0.18 m/s²",
+      "60.5 m/s²",
+      "5.5 m/s²",
+      "242 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c = v²/R = 60.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "0.5 s",
+      "2 s",
+      "12.57 s",
+      "1 s"
+    ],
+    "answer_index": 0,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 7 s. Angular speed?",
+    "options": [
+      "0.45 rad/s",
+      "43.98 rad/s",
+      "0.14 rad/s",
+      "0.9 rad/s"
+    ],
+    "answer_index": 3,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "along the velocity",
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium"
+    ],
+    "answer_index": 2,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 5 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "1 m/s",
+      "25 m/s",
+      "10 m/s",
+      "125 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 8 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "32 m/s²",
+      "4 m/s²",
+      "128 m/s²",
+      "0.25 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c = v²/R = 32 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "2 s",
+      "12.57 s",
+      "1 s",
+      "0.5 s"
+    ],
+    "answer_index": 3,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 6 s. Angular speed?",
+    "options": [
+      "37.7 rad/s",
+      "0.17 rad/s",
+      "1.05 rad/s",
+      "0.52 rad/s"
+    ],
+    "answer_index": 2,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "tangentially to the path",
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity"
+    ],
+    "answer_index": 1,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 2 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "10 m/s",
+      "7 m/s",
+      "50 m/s",
+      "0.4 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max = ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body moves in a circle at 5 m/s with radius 2 m. Centripetal acceleration?",
+    "options": [
+      "2.5 m/s²",
+      "50 m/s²",
+      "0.4 m/s²",
+      "12.5 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c = v²/R = 12.5 m/s²."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2 Hz. Its period is?",
+    "options": [
+      "12.57 s",
+      "1 s",
+      "0.5 s",
+      "2 s"
+    ],
+    "answer_index": 2,
+    "explanation": "Period T = 1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle completes one revolution every 5 s. Angular speed?",
+    "options": [
+      "0.2 rad/s",
+      "1.26 rad/s",
+      "0.63 rad/s",
+      "31.42 rad/s"
+    ],
+    "answer_index": 1,
+    "explanation": "ω = 2π/T."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In ideal simple harmonic motion, acceleration is always directed:",
+    "options": [
+      "toward the equilibrium position",
+      "away from equilibrium",
+      "along the velocity",
+      "tangentially to the path"
+    ],
+    "answer_index": 0,
+    "explanation": "SHM acceleration is restoring: a = -ω²x."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 7 m and angular frequency 5 rad/s, maximum speed is?",
+    "options": [
+      "12 m/s",
+      "175 m/s",
+      "1.4 m/s",
+      "35 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max = ωA."
+  }
+]
