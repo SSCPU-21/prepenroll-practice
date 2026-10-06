@@ -30,7 +30,7 @@ M(20,"A solar cell in a circuit is primarily an example of",["an energy source c
 /* 10 Paper 1B */
 P(1,"A resistor is tested at several potential differences while its temperature is kept approximately constant.",["V / V","I / A"],[[1.0,0.20],[2.0,0.40],[3.0,0.60],[4.0,0.80],[5.0,1.00]],[
 {q:"Describe the relationship between V and I.",m:1,ms:["directly proportional"]},
-{q:"Determine the resistance.",m:1,ms:["R=V/I=5 Ω"]},
+{q:"Use the V–I data to calculate the resistor's resistance.",m:1,ms:["R=V/I=5 Ω"]},
 {q:"State what the gradient of a V-against-I graph represents.",m:1,ms:["resistance"]},
 {q:"Explain why temperature should be controlled.",m:1,ms:["resistance can change with temperature"]}]);
 P(2,"A filament lamp is tested and current is recorded as voltage increases.",["V / V","I / A"],[[0,0],[2,0.50],[4,0.82],[6,1.05],[8,1.22]],[
@@ -66,7 +66,7 @@ P(7,"A battery powers different external load resistances. The battery has inter
 P(8,"A resistor's power is measured as current changes.",["I / A","P / W"],[[0.5,1.0],[1.0,4.0],[1.5,9.0],[2.0,16.0],[2.5,25.0]],[
 {q:"State the relationship between P and I.",m:1,ms:["P proportional to I²"]},
 {q:"State a linearizing graph.",m:1,ms:["P against I²"]},
-{q:"Determine the resistance.",m:1,ms:["R=P/I²=4 Ω"]},
+{q:"Use the power–current data to infer the resistor's resistance.",m:1,ms:["R=P/I²=4 Ω"]},
 {q:"Explain why heating may eventually invalidate constant-R behaviour.",m:1,ms:["resistance can change as temperature rises"]}]);
 P(9,"A circuit uses two series resistors and the potential difference across each is measured.",["R / Ω","V / V"],[[2,2.0],[4,4.0],[6,6.0],[8,8.0]],[
 {q:"State what is common to series components in this comparison.",m:1,ms:["current"]},
