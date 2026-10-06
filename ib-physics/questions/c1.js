@@ -31,33 +31,33 @@ M(20,1,"In ideal SHM, maximum speed is",["ωx₀","ω²x₀","x₀/ω","ω/x₀"
 P(1,0,"A motion sensor records displacement of a mass on a spring.",["t / s","x / cm"],[[0.00,4.0],[0.25,0.0],[0.50,-4.0],[0.75,0.0],[1.00,4.0]],[
 {q:"Determine the period from the table.",m:1,ms:["1.00 s"]},
 {q:"Determine the frequency.",m:1,ms:["1.0 Hz"]},
-{q:"Identify the amplitude.",m:1,ms:["4.0 cm"]},
+{q:"Read the oscillation amplitude from the relevant data.",m:1,ms:["4.0 cm"]},
 {q:"State the phase relation between displacement and acceleration.",m:1,ms:["180° out of phase / opposite signs"]}]);
 P(2,0,"The period of a spring–mass system is measured for different attached masses.",["m / kg","T / s"],[[0.10,0.63],[0.20,0.89],[0.30,1.09],[0.40,1.26],[0.50,1.41]],[
 {q:"State a linearizing graph for the ideal relation.",m:1,ms:["T² against m"]},
-{q:"State what the gradient represents.",m:2,ms:["4π²/k"]},
+{q:"For a T²-against-m graph, identify the physical meaning of the gradient.",m:2,ms:["4π²/k"]},
 {q:"Explain why a non-zero intercept may occur.",m:2,ms:["effective mass of spring / timing offset / support compliance"]},
 {q:"Suggest one method to reduce timing uncertainty.",m:1,ms:["time many oscillations and divide by the number"]}]);
 P(3,0,"A simple pendulum is tested at small angles for different lengths.",["l / m","T / s"],[[0.20,0.90],[0.40,1.27],[0.60,1.55],[0.80,1.79],[1.00,2.01]],[
 {q:"State a transformed graph suitable for determining g.",m:1,ms:["T² against l"]},
-{q:"State the expected gradient.",m:2,ms:["4π²/g"]},
+{q:"For a T²-against-l graph, write the expected theoretical gradient.",m:2,ms:["4π²/g"]},
 {q:"Explain why keeping amplitude small is important.",m:1,ms:["small-angle model is required for the stated period relation"]},
 {q:"State why changing bob mass should not alter the ideal graph.",m:1,ms:["period is independent of bob mass"]}]);
 P(4,0,"The amplitude of a lightly damped oscillator is measured after each cycle.",["cycle","amplitude / cm"],[[0,6.0],[1,5.4],[2,4.9],[3,4.4],[4,4.0],[5,3.6]],[
-{q:"Describe the trend.",m:1,ms:["amplitude decreases with time/cycle number"]},
+{q:"Describe how oscillation amplitude changes from cycle to cycle.",m:1,ms:["amplitude decreases with time/cycle number"]},
 {q:"Explain the trend in energy terms.",m:2,ms:["mechanical energy is dissipated to the surroundings"]},
 {q:"State whether the motion can still be approximately periodic.",m:1,ms:["yes, if damping is light"]},
 {q:"Suggest one physical source of damping.",m:1,ms:["air resistance / friction"]}]);
 P(5,0,"A spring oscillator is measured at different positions during one cycle.",["x / cm","speed / cm s⁻¹"],[[-5,0],[-4,18],[-2,27],[0,30],[2,27],[4,18],[5,0]],[
 {q:"Identify where speed is maximum.",m:1,ms:["x=0"]},
-{q:"Identify the amplitude.",m:1,ms:["5 cm"]},
+{q:"Read the oscillation amplitude from the relevant data.",m:1,ms:["5 cm"]},
 {q:"Explain why equal positive and negative displacements have equal speed magnitudes.",m:1,ms:["energy depends on x² / motion is symmetric"]},
 {q:"State where acceleration magnitude is greatest.",m:1,ms:["at x=±5 cm"]}]);
 P(6,0,"A pendulum's measured period is recorded for different starting angles.",["angle / °","T / s"],[[3,1.42],[6,1.42],[9,1.43],[12,1.44],[18,1.47]],[
 {q:"Identify the range over which the small-angle approximation appears best.",m:1,ms:["roughly 3–9°"]},
 {q:"Explain why period begins to increase at larger amplitudes.",m:1,ms:["the small-angle SHM approximation becomes less accurate"]},
 {q:"State one reason repeated timing over many cycles is useful.",m:1,ms:["reduces fractional timing uncertainty"]},
-{q:"Suggest one control variable.",m:1,ms:["length / bob / local g"]}]);
+{q:"Name one quantity that should be kept fixed while changing the starting angle.",m:1,ms:["length / bob / local g"]}]);
 P(7,0,"A driven oscillator is tested at several driving frequencies. Only qualitative resonance analysis is required.",["fdrive / Hz","amplitude / cm"],[[0.6,1.2],[0.8,2.0],[1.0,5.8],[1.2,2.2],[1.4,1.3]],[
 {q:"Estimate the resonant frequency.",m:1,ms:["about 1.0 Hz"]},
 {q:"Explain why amplitude peaks near this frequency.",m:2,ms:["energy transfer from driver is most effective near the natural frequency"]},
@@ -69,12 +69,12 @@ P(8,1,"An SHM particle's displacement is recorded and a sinusoidal fit gives x=0
 {q:"Determine the maximum acceleration.",m:1,ms:["amax=ω²x₀=3.84 m s⁻²"]},
 {q:"State the role of the phase angle φ.",m:1,ms:["sets the oscillator's position/phase at t=0"]}]);
 P(9,1,"For an SHM oscillator the measured kinetic energy varies with displacement.",["x / cm","Ek / mJ"],[[0,18.0],[1,16.0],[2,10.0],[3,0.0]],[
-{q:"Identify the amplitude.",m:1,ms:["3 cm"]},
+{q:"Read the oscillation amplitude from the relevant data.",m:1,ms:["3 cm"]},
 {q:"State the total mechanical energy.",m:1,ms:["18 mJ"]},
 {q:"Explain why kinetic energy decreases with x².",m:2,ms:["Ep∝x² and Etotal is constant, so Ek=E−Ep"]},
 {q:"State the kinetic energy at the opposite extreme.",m:1,ms:["0"]}]);
 P(10,1,"A numerical model gives velocity and displacement pairs for an SHM oscillator.",["x / m","v / m s⁻¹"],[[0.00,0.80],[0.03,0.69],[0.05,0.48],[0.06,0.00]],[
-{q:"Identify the amplitude.",m:1,ms:["0.06 m"]},
+{q:"Read the oscillation amplitude from the relevant data.",m:1,ms:["0.06 m"]},
 {q:"Use the maximum speed to estimate angular frequency.",m:2,ms:["ω=vmax/x₀≈13.3 rad s⁻¹"]},
 {q:"State a plot that could test v²=ω²(x₀²−x²).",m:1,ms:["v² against x², giving a straight line with negative slope"]},
 {q:"State the physical meaning of the point where v=0.",m:1,ms:["turning point/extreme displacement"]}]);
