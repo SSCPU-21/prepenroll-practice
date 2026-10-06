@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-CAPACITANCE-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 2 C at 2 V. Capacitance?",
+    "options": [
+      "1 F",
+      "4 F",
+      "1 F",
+      "4 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 4 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "1 F",
+      "12 F",
+      "7 F"
+    ],
+    "answer_index": 3,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 5 F are in series. Equivalent capacitance?",
+    "options": [
+      "20 F",
+      "0.45 F",
+      "2.22 F",
+      "9 F"
+    ],
+    "answer_index": 2,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 6 V. Stored energy?",
+    "options": [
+      "15 J",
+      "90 J",
+      "30 J",
+      "180 J"
+    ],
+    "answer_index": 1,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "increase",
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative"
+    ],
+    "answer_index": 0,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 7 C at 2 V. Capacitance?",
+    "options": [
+      "14 F",
+      "0.29 F",
+      "9 F",
+      "3.5 F"
+    ],
+    "answer_index": 3,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 5 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "2 F",
+      "15 F",
+      "8 F",
+      "1.88 F"
+    ],
+    "answer_index": 2,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 6 F are in series. Equivalent capacitance?",
+    "options": [
+      "0.42 F",
+      "2.4 F",
+      "10 F",
+      "24 F"
+    ],
+    "answer_index": 1,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 5 V. Stored energy?",
+    "options": [
+      "62.5 J",
+      "25 J",
+      "125 J",
+      "12.5 J"
+    ],
+    "answer_index": 0,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative",
+      "increase"
+    ],
+    "answer_index": 3,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 6 C at 2 V. Capacitance?",
+    "options": [
+      "0.33 F",
+      "8 F",
+      "3 F",
+      "12 F"
+    ],
+    "answer_index": 2,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 6 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "18 F",
+      "9 F",
+      "2 F",
+      "3 F"
+    ],
+    "answer_index": 1,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 3 F are in series. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "7 F",
+      "12 F",
+      "0.58 F"
+    ],
+    "answer_index": 0,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 4 V. Stored energy?",
+    "options": [
+      "20 J",
+      "80 J",
+      "10 J",
+      "40 J"
+    ],
+    "answer_index": 3,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "remain unchanged always",
+      "become negative",
+      "increase",
+      "decrease to zero"
+    ],
+    "answer_index": 2,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 5 C at 2 V. Capacitance?",
+    "options": [
+      "7 F",
+      "2.5 F",
+      "10 F",
+      "0.4 F"
+    ],
+    "answer_index": 1,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 3 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "6 F",
+      "1.5 F",
+      "0 F",
+      "9 F"
+    ],
+    "answer_index": 0,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 4 F are in series. Equivalent capacitance?",
+    "options": [
+      "8 F",
+      "16 F",
+      "0.5 F",
+      "2 F"
+    ],
+    "answer_index": 3,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 3 V. Stored energy?",
+    "options": [
+      "45 J",
+      "7.5 J",
+      "22.5 J",
+      "15 J"
+    ],
+    "answer_index": 2,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "become negative",
+      "increase",
+      "decrease to zero",
+      "remain unchanged always"
+    ],
+    "answer_index": 1,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 4 C at 2 V. Capacitance?",
+    "options": [
+      "2 F",
+      "8 F",
+      "0.5 F",
+      "6 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 4 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "1 F",
+      "12 F",
+      "7 F"
+    ],
+    "answer_index": 3,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 5 F are in series. Equivalent capacitance?",
+    "options": [
+      "20 F",
+      "0.45 F",
+      "2.22 F",
+      "9 F"
+    ],
+    "answer_index": 2,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 8 V. Stored energy?",
+    "options": [
+      "20 J",
+      "160 J",
+      "40 J",
+      "320 J"
+    ],
+    "answer_index": 1,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "increase",
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative"
+    ],
+    "answer_index": 0,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 3 C at 2 V. Capacitance?",
+    "options": [
+      "6 F",
+      "0.67 F",
+      "5 F",
+      "1.5 F"
+    ],
+    "answer_index": 3,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 5 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "2 F",
+      "15 F",
+      "8 F",
+      "1.88 F"
+    ],
+    "answer_index": 2,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 6 F are in series. Equivalent capacitance?",
+    "options": [
+      "0.42 F",
+      "2.4 F",
+      "10 F",
+      "24 F"
+    ],
+    "answer_index": 1,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 7 V. Stored energy?",
+    "options": [
+      "122.5 J",
+      "35 J",
+      "245 J",
+      "17.5 J"
+    ],
+    "answer_index": 0,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative",
+      "increase"
+    ],
+    "answer_index": 3,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 2 C at 2 V. Capacitance?",
+    "options": [
+      "1 F",
+      "4 F",
+      "1 F",
+      "4 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 6 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "18 F",
+      "9 F",
+      "2 F",
+      "3 F"
+    ],
+    "answer_index": 1,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 3 F are in series. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "7 F",
+      "12 F",
+      "0.58 F"
+    ],
+    "answer_index": 0,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 6 V. Stored energy?",
+    "options": [
+      "30 J",
+      "180 J",
+      "15 J",
+      "90 J"
+    ],
+    "answer_index": 3,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "remain unchanged always",
+      "become negative",
+      "increase",
+      "decrease to zero"
+    ],
+    "answer_index": 2,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 7 C at 2 V. Capacitance?",
+    "options": [
+      "9 F",
+      "3.5 F",
+      "14 F",
+      "0.29 F"
+    ],
+    "answer_index": 1,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 3 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "6 F",
+      "1.5 F",
+      "0 F",
+      "9 F"
+    ],
+    "answer_index": 0,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 4 F are in series. Equivalent capacitance?",
+    "options": [
+      "8 F",
+      "16 F",
+      "0.5 F",
+      "2 F"
+    ],
+    "answer_index": 3,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 5 V. Stored energy?",
+    "options": [
+      "125 J",
+      "12.5 J",
+      "62.5 J",
+      "25 J"
+    ],
+    "answer_index": 2,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "become negative",
+      "increase",
+      "decrease to zero",
+      "remain unchanged always"
+    ],
+    "answer_index": 1,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 6 C at 2 V. Capacitance?",
+    "options": [
+      "3 F",
+      "12 F",
+      "0.33 F",
+      "8 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 4 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "1 F",
+      "12 F",
+      "7 F"
+    ],
+    "answer_index": 3,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 5 F are in series. Equivalent capacitance?",
+    "options": [
+      "20 F",
+      "0.45 F",
+      "2.22 F",
+      "9 F"
+    ],
+    "answer_index": 2,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 4 V. Stored energy?",
+    "options": [
+      "10 J",
+      "40 J",
+      "20 J",
+      "80 J"
+    ],
+    "answer_index": 1,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "increase",
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative"
+    ],
+    "answer_index": 0,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 5 C at 2 V. Capacitance?",
+    "options": [
+      "10 F",
+      "0.4 F",
+      "7 F",
+      "2.5 F"
+    ],
+    "answer_index": 3,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 5 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "2 F",
+      "15 F",
+      "8 F",
+      "1.88 F"
+    ],
+    "answer_index": 2,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 6 F are in series. Equivalent capacitance?",
+    "options": [
+      "0.42 F",
+      "2.4 F",
+      "10 F",
+      "24 F"
+    ],
+    "answer_index": 1,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 3 V. Stored energy?",
+    "options": [
+      "22.5 J",
+      "15 J",
+      "45 J",
+      "7.5 J"
+    ],
+    "answer_index": 0,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative",
+      "increase"
+    ],
+    "answer_index": 3,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 4 C at 2 V. Capacitance?",
+    "options": [
+      "0.5 F",
+      "6 F",
+      "2 F",
+      "8 F"
+    ],
+    "answer_index": 2,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 6 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "18 F",
+      "9 F",
+      "2 F",
+      "3 F"
+    ],
+    "answer_index": 1,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 3 F are in series. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "7 F",
+      "12 F",
+      "0.58 F"
+    ],
+    "answer_index": 0,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 8 V. Stored energy?",
+    "options": [
+      "40 J",
+      "320 J",
+      "20 J",
+      "160 J"
+    ],
+    "answer_index": 3,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "remain unchanged always",
+      "become negative",
+      "increase",
+      "decrease to zero"
+    ],
+    "answer_index": 2,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 3 C at 2 V. Capacitance?",
+    "options": [
+      "5 F",
+      "1.5 F",
+      "6 F",
+      "0.67 F"
+    ],
+    "answer_index": 1,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 3 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "6 F",
+      "1.5 F",
+      "0 F",
+      "9 F"
+    ],
+    "answer_index": 0,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 4 F are in series. Equivalent capacitance?",
+    "options": [
+      "8 F",
+      "16 F",
+      "0.5 F",
+      "2 F"
+    ],
+    "answer_index": 3,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 7 V. Stored energy?",
+    "options": [
+      "245 J",
+      "17.5 J",
+      "122.5 J",
+      "35 J"
+    ],
+    "answer_index": 2,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "become negative",
+      "increase",
+      "decrease to zero",
+      "remain unchanged always"
+    ],
+    "answer_index": 1,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 2 C at 2 V. Capacitance?",
+    "options": [
+      "1 F",
+      "4 F",
+      "1 F",
+      "4 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 4 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "1 F",
+      "12 F",
+      "7 F"
+    ],
+    "answer_index": 3,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 5 F are in series. Equivalent capacitance?",
+    "options": [
+      "20 F",
+      "0.45 F",
+      "2.22 F",
+      "9 F"
+    ],
+    "answer_index": 2,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 6 V. Stored energy?",
+    "options": [
+      "15 J",
+      "90 J",
+      "30 J",
+      "180 J"
+    ],
+    "answer_index": 1,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "increase",
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative"
+    ],
+    "answer_index": 0,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 7 C at 2 V. Capacitance?",
+    "options": [
+      "14 F",
+      "0.29 F",
+      "9 F",
+      "3.5 F"
+    ],
+    "answer_index": 3,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 5 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "2 F",
+      "15 F",
+      "8 F",
+      "1.88 F"
+    ],
+    "answer_index": 2,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 6 F are in series. Equivalent capacitance?",
+    "options": [
+      "0.42 F",
+      "2.4 F",
+      "10 F",
+      "24 F"
+    ],
+    "answer_index": 1,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 5 V. Stored energy?",
+    "options": [
+      "62.5 J",
+      "25 J",
+      "125 J",
+      "12.5 J"
+    ],
+    "answer_index": 0,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative",
+      "increase"
+    ],
+    "answer_index": 3,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 6 C at 2 V. Capacitance?",
+    "options": [
+      "0.33 F",
+      "8 F",
+      "3 F",
+      "12 F"
+    ],
+    "answer_index": 2,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 6 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "18 F",
+      "9 F",
+      "2 F",
+      "3 F"
+    ],
+    "answer_index": 1,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 3 F are in series. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "7 F",
+      "12 F",
+      "0.58 F"
+    ],
+    "answer_index": 0,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 4 V. Stored energy?",
+    "options": [
+      "20 J",
+      "80 J",
+      "10 J",
+      "40 J"
+    ],
+    "answer_index": 3,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "remain unchanged always",
+      "become negative",
+      "increase",
+      "decrease to zero"
+    ],
+    "answer_index": 2,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 5 C at 2 V. Capacitance?",
+    "options": [
+      "7 F",
+      "2.5 F",
+      "10 F",
+      "0.4 F"
+    ],
+    "answer_index": 1,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 3 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "6 F",
+      "1.5 F",
+      "0 F",
+      "9 F"
+    ],
+    "answer_index": 0,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 4 F are in series. Equivalent capacitance?",
+    "options": [
+      "8 F",
+      "16 F",
+      "0.5 F",
+      "2 F"
+    ],
+    "answer_index": 3,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 3 V. Stored energy?",
+    "options": [
+      "45 J",
+      "7.5 J",
+      "22.5 J",
+      "15 J"
+    ],
+    "answer_index": 2,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "become negative",
+      "increase",
+      "decrease to zero",
+      "remain unchanged always"
+    ],
+    "answer_index": 1,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 4 C at 2 V. Capacitance?",
+    "options": [
+      "2 F",
+      "8 F",
+      "0.5 F",
+      "6 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 4 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "1 F",
+      "12 F",
+      "7 F"
+    ],
+    "answer_index": 3,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 5 F are in series. Equivalent capacitance?",
+    "options": [
+      "20 F",
+      "0.45 F",
+      "2.22 F",
+      "9 F"
+    ],
+    "answer_index": 2,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 8 V. Stored energy?",
+    "options": [
+      "20 J",
+      "160 J",
+      "40 J",
+      "320 J"
+    ],
+    "answer_index": 1,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "increase",
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative"
+    ],
+    "answer_index": 0,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 3 C at 2 V. Capacitance?",
+    "options": [
+      "6 F",
+      "0.67 F",
+      "5 F",
+      "1.5 F"
+    ],
+    "answer_index": 3,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 5 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "2 F",
+      "15 F",
+      "8 F",
+      "1.88 F"
+    ],
+    "answer_index": 2,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 6 F are in series. Equivalent capacitance?",
+    "options": [
+      "0.42 F",
+      "2.4 F",
+      "10 F",
+      "24 F"
+    ],
+    "answer_index": 1,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 7 V. Stored energy?",
+    "options": [
+      "122.5 J",
+      "35 J",
+      "245 J",
+      "17.5 J"
+    ],
+    "answer_index": 0,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative",
+      "increase"
+    ],
+    "answer_index": 3,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 2 C at 2 V. Capacitance?",
+    "options": [
+      "1 F",
+      "4 F",
+      "1 F",
+      "4 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 6 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "18 F",
+      "9 F",
+      "2 F",
+      "3 F"
+    ],
+    "answer_index": 1,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 3 F are in series. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "7 F",
+      "12 F",
+      "0.58 F"
+    ],
+    "answer_index": 0,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 6 V. Stored energy?",
+    "options": [
+      "30 J",
+      "180 J",
+      "15 J",
+      "90 J"
+    ],
+    "answer_index": 3,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "remain unchanged always",
+      "become negative",
+      "increase",
+      "decrease to zero"
+    ],
+    "answer_index": 2,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 7 C at 2 V. Capacitance?",
+    "options": [
+      "9 F",
+      "3.5 F",
+      "14 F",
+      "0.29 F"
+    ],
+    "answer_index": 1,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 3 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "6 F",
+      "1.5 F",
+      "0 F",
+      "9 F"
+    ],
+    "answer_index": 0,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 4 F are in series. Equivalent capacitance?",
+    "options": [
+      "8 F",
+      "16 F",
+      "0.5 F",
+      "2 F"
+    ],
+    "answer_index": 3,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 5 V. Stored energy?",
+    "options": [
+      "125 J",
+      "12.5 J",
+      "62.5 J",
+      "25 J"
+    ],
+    "answer_index": 2,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "become negative",
+      "increase",
+      "decrease to zero",
+      "remain unchanged always"
+    ],
+    "answer_index": 1,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 6 C at 2 V. Capacitance?",
+    "options": [
+      "3 F",
+      "12 F",
+      "0.33 F",
+      "8 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 4 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "1 F",
+      "12 F",
+      "7 F"
+    ],
+    "answer_index": 3,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 5 F are in series. Equivalent capacitance?",
+    "options": [
+      "20 F",
+      "0.45 F",
+      "2.22 F",
+      "9 F"
+    ],
+    "answer_index": 2,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 4 V. Stored energy?",
+    "options": [
+      "10 J",
+      "40 J",
+      "20 J",
+      "80 J"
+    ],
+    "answer_index": 1,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "increase",
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative"
+    ],
+    "answer_index": 0,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 5 C at 2 V. Capacitance?",
+    "options": [
+      "10 F",
+      "0.4 F",
+      "7 F",
+      "2.5 F"
+    ],
+    "answer_index": 3,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 5 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "2 F",
+      "15 F",
+      "8 F",
+      "1.88 F"
+    ],
+    "answer_index": 2,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 6 F are in series. Equivalent capacitance?",
+    "options": [
+      "0.42 F",
+      "2.4 F",
+      "10 F",
+      "24 F"
+    ],
+    "answer_index": 1,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 3 V. Stored energy?",
+    "options": [
+      "22.5 J",
+      "15 J",
+      "45 J",
+      "7.5 J"
+    ],
+    "answer_index": 0,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative",
+      "increase"
+    ],
+    "answer_index": 3,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 4 C at 2 V. Capacitance?",
+    "options": [
+      "0.5 F",
+      "6 F",
+      "2 F",
+      "8 F"
+    ],
+    "answer_index": 2,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 6 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "18 F",
+      "9 F",
+      "2 F",
+      "3 F"
+    ],
+    "answer_index": 1,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 3 F are in series. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "7 F",
+      "12 F",
+      "0.58 F"
+    ],
+    "answer_index": 0,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 8 V. Stored energy?",
+    "options": [
+      "40 J",
+      "320 J",
+      "20 J",
+      "160 J"
+    ],
+    "answer_index": 3,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "remain unchanged always",
+      "become negative",
+      "increase",
+      "decrease to zero"
+    ],
+    "answer_index": 2,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 3 C at 2 V. Capacitance?",
+    "options": [
+      "5 F",
+      "1.5 F",
+      "6 F",
+      "0.67 F"
+    ],
+    "answer_index": 1,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 3 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "6 F",
+      "1.5 F",
+      "0 F",
+      "9 F"
+    ],
+    "answer_index": 0,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 4 F are in series. Equivalent capacitance?",
+    "options": [
+      "8 F",
+      "16 F",
+      "0.5 F",
+      "2 F"
+    ],
+    "answer_index": 3,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 7 V. Stored energy?",
+    "options": [
+      "245 J",
+      "17.5 J",
+      "122.5 J",
+      "35 J"
+    ],
+    "answer_index": 2,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "become negative",
+      "increase",
+      "decrease to zero",
+      "remain unchanged always"
+    ],
+    "answer_index": 1,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 2 C at 2 V. Capacitance?",
+    "options": [
+      "1 F",
+      "4 F",
+      "1 F",
+      "4 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 4 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "1 F",
+      "12 F",
+      "7 F"
+    ],
+    "answer_index": 3,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 5 F are in series. Equivalent capacitance?",
+    "options": [
+      "20 F",
+      "0.45 F",
+      "2.22 F",
+      "9 F"
+    ],
+    "answer_index": 2,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 6 V. Stored energy?",
+    "options": [
+      "15 J",
+      "90 J",
+      "30 J",
+      "180 J"
+    ],
+    "answer_index": 1,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "increase",
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative"
+    ],
+    "answer_index": 0,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 7 C at 2 V. Capacitance?",
+    "options": [
+      "14 F",
+      "0.29 F",
+      "9 F",
+      "3.5 F"
+    ],
+    "answer_index": 3,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 5 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "2 F",
+      "15 F",
+      "8 F",
+      "1.88 F"
+    ],
+    "answer_index": 2,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 6 F are in series. Equivalent capacitance?",
+    "options": [
+      "0.42 F",
+      "2.4 F",
+      "10 F",
+      "24 F"
+    ],
+    "answer_index": 1,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 5 V. Stored energy?",
+    "options": [
+      "62.5 J",
+      "25 J",
+      "125 J",
+      "12.5 J"
+    ],
+    "answer_index": 0,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative",
+      "increase"
+    ],
+    "answer_index": 3,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 6 C at 2 V. Capacitance?",
+    "options": [
+      "0.33 F",
+      "8 F",
+      "3 F",
+      "12 F"
+    ],
+    "answer_index": 2,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 6 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "18 F",
+      "9 F",
+      "2 F",
+      "3 F"
+    ],
+    "answer_index": 1,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 3 F are in series. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "7 F",
+      "12 F",
+      "0.58 F"
+    ],
+    "answer_index": 0,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 4 V. Stored energy?",
+    "options": [
+      "20 J",
+      "80 J",
+      "10 J",
+      "40 J"
+    ],
+    "answer_index": 3,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "remain unchanged always",
+      "become negative",
+      "increase",
+      "decrease to zero"
+    ],
+    "answer_index": 2,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 5 C at 2 V. Capacitance?",
+    "options": [
+      "7 F",
+      "2.5 F",
+      "10 F",
+      "0.4 F"
+    ],
+    "answer_index": 1,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 3 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "6 F",
+      "1.5 F",
+      "0 F",
+      "9 F"
+    ],
+    "answer_index": 0,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 4 F are in series. Equivalent capacitance?",
+    "options": [
+      "8 F",
+      "16 F",
+      "0.5 F",
+      "2 F"
+    ],
+    "answer_index": 3,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 3 V. Stored energy?",
+    "options": [
+      "45 J",
+      "7.5 J",
+      "22.5 J",
+      "15 J"
+    ],
+    "answer_index": 2,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "become negative",
+      "increase",
+      "decrease to zero",
+      "remain unchanged always"
+    ],
+    "answer_index": 1,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 4 C at 2 V. Capacitance?",
+    "options": [
+      "2 F",
+      "8 F",
+      "0.5 F",
+      "6 F"
+    ],
+    "answer_index": 0,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 4 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "1.71 F",
+      "1 F",
+      "12 F",
+      "7 F"
+    ],
+    "answer_index": 3,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 5 F are in series. Equivalent capacitance?",
+    "options": [
+      "20 F",
+      "0.45 F",
+      "2.22 F",
+      "9 F"
+    ],
+    "answer_index": 2,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 8 V. Stored energy?",
+    "options": [
+      "20 J",
+      "160 J",
+      "40 J",
+      "320 J"
+    ],
+    "answer_index": 1,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "increase",
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative"
+    ],
+    "answer_index": 0,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A capacitor stores 3 C at 2 V. Capacitance?",
+    "options": [
+      "6 F",
+      "0.67 F",
+      "5 F",
+      "1.5 F"
+    ],
+    "answer_index": 3,
+    "explanation": "C = Q/V."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 3 F and 5 F are in parallel. Equivalent capacitance?",
+    "options": [
+      "2 F",
+      "15 F",
+      "8 F",
+      "1.88 F"
+    ],
+    "answer_index": 2,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Capacitors 4 F and 6 F are in series. Equivalent capacitance?",
+    "options": [
+      "0.42 F",
+      "2.4 F",
+      "10 F",
+      "24 F"
+    ],
+    "answer_index": 1,
+    "explanation": "For two in series, Ceq=C1C2/(C1+C2)."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 F capacitor is charged to 7 V. Stored energy?",
+    "options": [
+      "122.5 J",
+      "35 J",
+      "245 J",
+      "17.5 J"
+    ],
+    "answer_index": 0,
+    "explanation": "U = ½CV²."
+  },
+  {
+    "id": "IMAT-PHY-CAPACITANCE-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Capacitance",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Inserting a dielectric between capacitor plates generally causes capacitance to:",
+    "options": [
+      "decrease to zero",
+      "remain unchanged always",
+      "become negative",
+      "increase"
+    ],
+    "answer_index": 3,
+    "explanation": "A dielectric increases capacitance by the relative permittivity factor."
+  }
+]
