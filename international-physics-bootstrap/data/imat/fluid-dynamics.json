@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 3 m/s. Volume flow rate?",
+    "options": [
+      "6 m³/s",
+      "0.67 m³/s",
+      "5 m³/s",
+      "1.5 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 3 m/s initially, final speed?",
+    "options": [
+      "1.2 m/s",
+      "6 m/s",
+      "1.5 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure",
+      "higher pressure"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat"
+    ],
+    "answer_index": 1,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "decrease",
+      "increase",
+      "remain exactly constant",
+      "become zero"
+    ],
+    "answer_index": 0,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 8 m/s. Volume flow rate?",
+    "options": [
+      "0.25 m³/s",
+      "10 m³/s",
+      "4 m³/s",
+      "16 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 4 m/s initially, final speed?",
+    "options": [
+      "7 m/s",
+      "2 m/s",
+      "10 m/s",
+      "1.6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "zero density",
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat",
+      "buoyant force"
+    ],
+    "answer_index": 0,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "increase",
+      "remain exactly constant",
+      "become zero",
+      "decrease"
+    ],
+    "answer_index": 3,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 6 m/s. Volume flow rate?",
+    "options": [
+      "8 m³/s",
+      "3 m³/s",
+      "12 m³/s",
+      "0.33 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 5 m/s initially, final speed?",
+    "options": [
+      "2.5 m/s",
+      "12.5 m/s",
+      "2 m/s",
+      "8 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "electric charge",
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow"
+    ],
+    "answer_index": 3,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "remain exactly constant",
+      "become zero",
+      "decrease",
+      "increase"
+    ],
+    "answer_index": 2,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 4 m/s. Volume flow rate?",
+    "options": [
+      "2 m³/s",
+      "8 m³/s",
+      "0.5 m³/s",
+      "6 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 2 m/s initially, final speed?",
+    "options": [
+      "5 m/s",
+      "0.8 m/s",
+      "5 m/s",
+      "1 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge"
+    ],
+    "answer_index": 2,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "become zero",
+      "decrease",
+      "increase",
+      "remain exactly constant"
+    ],
+    "answer_index": 1,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 9 m/s. Volume flow rate?",
+    "options": [
+      "18 m³/s",
+      "0.22 m³/s",
+      "11 m³/s",
+      "4.5 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 3 m/s initially, final speed?",
+    "options": [
+      "1.2 m/s",
+      "6 m/s",
+      "1.5 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure",
+      "higher pressure"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat"
+    ],
+    "answer_index": 1,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "decrease",
+      "increase",
+      "remain exactly constant",
+      "become zero"
+    ],
+    "answer_index": 0,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 7 m/s. Volume flow rate?",
+    "options": [
+      "0.29 m³/s",
+      "9 m³/s",
+      "3.5 m³/s",
+      "14 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 4 m/s initially, final speed?",
+    "options": [
+      "7 m/s",
+      "2 m/s",
+      "10 m/s",
+      "1.6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "zero density",
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat",
+      "buoyant force"
+    ],
+    "answer_index": 0,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "increase",
+      "remain exactly constant",
+      "become zero",
+      "decrease"
+    ],
+    "answer_index": 3,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 5 m/s. Volume flow rate?",
+    "options": [
+      "7 m³/s",
+      "2.5 m³/s",
+      "10 m³/s",
+      "0.4 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 5 m/s initially, final speed?",
+    "options": [
+      "2.5 m/s",
+      "12.5 m/s",
+      "2 m/s",
+      "8 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "electric charge",
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow"
+    ],
+    "answer_index": 3,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "remain exactly constant",
+      "become zero",
+      "decrease",
+      "increase"
+    ],
+    "answer_index": 2,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 3 m/s. Volume flow rate?",
+    "options": [
+      "1.5 m³/s",
+      "6 m³/s",
+      "0.67 m³/s",
+      "5 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 2 m/s initially, final speed?",
+    "options": [
+      "5 m/s",
+      "0.8 m/s",
+      "5 m/s",
+      "1 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge"
+    ],
+    "answer_index": 2,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "become zero",
+      "decrease",
+      "increase",
+      "remain exactly constant"
+    ],
+    "answer_index": 1,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 8 m/s. Volume flow rate?",
+    "options": [
+      "16 m³/s",
+      "0.25 m³/s",
+      "10 m³/s",
+      "4 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 3 m/s initially, final speed?",
+    "options": [
+      "1.2 m/s",
+      "6 m/s",
+      "1.5 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure",
+      "higher pressure"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat"
+    ],
+    "answer_index": 1,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "decrease",
+      "increase",
+      "remain exactly constant",
+      "become zero"
+    ],
+    "answer_index": 0,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 6 m/s. Volume flow rate?",
+    "options": [
+      "0.33 m³/s",
+      "8 m³/s",
+      "3 m³/s",
+      "12 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 4 m/s initially, final speed?",
+    "options": [
+      "7 m/s",
+      "2 m/s",
+      "10 m/s",
+      "1.6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "zero density",
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat",
+      "buoyant force"
+    ],
+    "answer_index": 0,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "increase",
+      "remain exactly constant",
+      "become zero",
+      "decrease"
+    ],
+    "answer_index": 3,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 4 m/s. Volume flow rate?",
+    "options": [
+      "6 m³/s",
+      "2 m³/s",
+      "8 m³/s",
+      "0.5 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 5 m/s initially, final speed?",
+    "options": [
+      "2.5 m/s",
+      "12.5 m/s",
+      "2 m/s",
+      "8 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "electric charge",
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow"
+    ],
+    "answer_index": 3,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "remain exactly constant",
+      "become zero",
+      "decrease",
+      "increase"
+    ],
+    "answer_index": 2,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 9 m/s. Volume flow rate?",
+    "options": [
+      "4.5 m³/s",
+      "18 m³/s",
+      "0.22 m³/s",
+      "11 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 2 m/s initially, final speed?",
+    "options": [
+      "5 m/s",
+      "0.8 m/s",
+      "5 m/s",
+      "1 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge"
+    ],
+    "answer_index": 2,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "become zero",
+      "decrease",
+      "increase",
+      "remain exactly constant"
+    ],
+    "answer_index": 1,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 7 m/s. Volume flow rate?",
+    "options": [
+      "14 m³/s",
+      "0.29 m³/s",
+      "9 m³/s",
+      "3.5 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 3 m/s initially, final speed?",
+    "options": [
+      "1.2 m/s",
+      "6 m/s",
+      "1.5 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure",
+      "higher pressure"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat"
+    ],
+    "answer_index": 1,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "decrease",
+      "increase",
+      "remain exactly constant",
+      "become zero"
+    ],
+    "answer_index": 0,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 5 m/s. Volume flow rate?",
+    "options": [
+      "0.4 m³/s",
+      "7 m³/s",
+      "2.5 m³/s",
+      "10 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 4 m/s initially, final speed?",
+    "options": [
+      "7 m/s",
+      "2 m/s",
+      "10 m/s",
+      "1.6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "zero density",
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat",
+      "buoyant force"
+    ],
+    "answer_index": 0,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "increase",
+      "remain exactly constant",
+      "become zero",
+      "decrease"
+    ],
+    "answer_index": 3,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 3 m/s. Volume flow rate?",
+    "options": [
+      "5 m³/s",
+      "1.5 m³/s",
+      "6 m³/s",
+      "0.67 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 5 m/s initially, final speed?",
+    "options": [
+      "2.5 m/s",
+      "12.5 m/s",
+      "2 m/s",
+      "8 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "electric charge",
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow"
+    ],
+    "answer_index": 3,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "remain exactly constant",
+      "become zero",
+      "decrease",
+      "increase"
+    ],
+    "answer_index": 2,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 8 m/s. Volume flow rate?",
+    "options": [
+      "4 m³/s",
+      "16 m³/s",
+      "0.25 m³/s",
+      "10 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 2 m/s initially, final speed?",
+    "options": [
+      "5 m/s",
+      "0.8 m/s",
+      "5 m/s",
+      "1 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge"
+    ],
+    "answer_index": 2,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "become zero",
+      "decrease",
+      "increase",
+      "remain exactly constant"
+    ],
+    "answer_index": 1,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 6 m/s. Volume flow rate?",
+    "options": [
+      "12 m³/s",
+      "0.33 m³/s",
+      "8 m³/s",
+      "3 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 3 m/s initially, final speed?",
+    "options": [
+      "1.2 m/s",
+      "6 m/s",
+      "1.5 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure",
+      "higher pressure"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat"
+    ],
+    "answer_index": 1,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "decrease",
+      "increase",
+      "remain exactly constant",
+      "become zero"
+    ],
+    "answer_index": 0,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 4 m/s. Volume flow rate?",
+    "options": [
+      "0.5 m³/s",
+      "6 m³/s",
+      "2 m³/s",
+      "8 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 4 m/s initially, final speed?",
+    "options": [
+      "7 m/s",
+      "2 m/s",
+      "10 m/s",
+      "1.6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "zero density",
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat",
+      "buoyant force"
+    ],
+    "answer_index": 0,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "increase",
+      "remain exactly constant",
+      "become zero",
+      "decrease"
+    ],
+    "answer_index": 3,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 9 m/s. Volume flow rate?",
+    "options": [
+      "11 m³/s",
+      "4.5 m³/s",
+      "18 m³/s",
+      "0.22 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 5 m/s initially, final speed?",
+    "options": [
+      "2.5 m/s",
+      "12.5 m/s",
+      "2 m/s",
+      "8 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "electric charge",
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow"
+    ],
+    "answer_index": 3,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "remain exactly constant",
+      "become zero",
+      "decrease",
+      "increase"
+    ],
+    "answer_index": 2,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 7 m/s. Volume flow rate?",
+    "options": [
+      "3.5 m³/s",
+      "14 m³/s",
+      "0.29 m³/s",
+      "9 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 2 m/s initially, final speed?",
+    "options": [
+      "5 m/s",
+      "0.8 m/s",
+      "5 m/s",
+      "1 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge"
+    ],
+    "answer_index": 2,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "become zero",
+      "decrease",
+      "increase",
+      "remain exactly constant"
+    ],
+    "answer_index": 1,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 5 m/s. Volume flow rate?",
+    "options": [
+      "10 m³/s",
+      "0.4 m³/s",
+      "7 m³/s",
+      "2.5 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 3 m/s initially, final speed?",
+    "options": [
+      "1.2 m/s",
+      "6 m/s",
+      "1.5 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure",
+      "higher pressure"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat"
+    ],
+    "answer_index": 1,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "decrease",
+      "increase",
+      "remain exactly constant",
+      "become zero"
+    ],
+    "answer_index": 0,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 3 m/s. Volume flow rate?",
+    "options": [
+      "0.67 m³/s",
+      "5 m³/s",
+      "1.5 m³/s",
+      "6 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 4 m/s initially, final speed?",
+    "options": [
+      "7 m/s",
+      "2 m/s",
+      "10 m/s",
+      "1.6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "zero density",
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat",
+      "buoyant force"
+    ],
+    "answer_index": 0,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "increase",
+      "remain exactly constant",
+      "become zero",
+      "decrease"
+    ],
+    "answer_index": 3,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 8 m/s. Volume flow rate?",
+    "options": [
+      "10 m³/s",
+      "4 m³/s",
+      "16 m³/s",
+      "0.25 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 5 m/s initially, final speed?",
+    "options": [
+      "2.5 m/s",
+      "12.5 m/s",
+      "2 m/s",
+      "8 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "electric charge",
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow"
+    ],
+    "answer_index": 3,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "remain exactly constant",
+      "become zero",
+      "decrease",
+      "increase"
+    ],
+    "answer_index": 2,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 6 m/s. Volume flow rate?",
+    "options": [
+      "3 m³/s",
+      "12 m³/s",
+      "0.33 m³/s",
+      "8 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 2 m/s initially, final speed?",
+    "options": [
+      "5 m/s",
+      "0.8 m/s",
+      "5 m/s",
+      "1 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge"
+    ],
+    "answer_index": 2,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "become zero",
+      "decrease",
+      "increase",
+      "remain exactly constant"
+    ],
+    "answer_index": 1,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 4 m/s. Volume flow rate?",
+    "options": [
+      "8 m³/s",
+      "0.5 m³/s",
+      "6 m³/s",
+      "2 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 3 m/s initially, final speed?",
+    "options": [
+      "1.2 m/s",
+      "6 m/s",
+      "1.5 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure",
+      "higher pressure"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat"
+    ],
+    "answer_index": 1,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "decrease",
+      "increase",
+      "remain exactly constant",
+      "become zero"
+    ],
+    "answer_index": 0,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 9 m/s. Volume flow rate?",
+    "options": [
+      "0.22 m³/s",
+      "11 m³/s",
+      "4.5 m³/s",
+      "18 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 4 m/s initially, final speed?",
+    "options": [
+      "7 m/s",
+      "2 m/s",
+      "10 m/s",
+      "1.6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "zero density",
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat",
+      "buoyant force"
+    ],
+    "answer_index": 0,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "increase",
+      "remain exactly constant",
+      "become zero",
+      "decrease"
+    ],
+    "answer_index": 3,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 7 m/s. Volume flow rate?",
+    "options": [
+      "9 m³/s",
+      "3.5 m³/s",
+      "14 m³/s",
+      "0.29 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 5 m/s initially, final speed?",
+    "options": [
+      "2.5 m/s",
+      "12.5 m/s",
+      "2 m/s",
+      "8 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "electric charge",
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow"
+    ],
+    "answer_index": 3,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "remain exactly constant",
+      "become zero",
+      "decrease",
+      "increase"
+    ],
+    "answer_index": 2,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 5 m/s. Volume flow rate?",
+    "options": [
+      "2.5 m³/s",
+      "10 m³/s",
+      "0.4 m³/s",
+      "7 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 2 m/s initially, final speed?",
+    "options": [
+      "5 m/s",
+      "0.8 m/s",
+      "5 m/s",
+      "1 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "higher pressure",
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "specific heat",
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge"
+    ],
+    "answer_index": 2,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "become zero",
+      "decrease",
+      "increase",
+      "remain exactly constant"
+    ],
+    "answer_index": 1,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 3 m/s. Volume flow rate?",
+    "options": [
+      "6 m³/s",
+      "0.67 m³/s",
+      "5 m³/s",
+      "1.5 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 3 m/s initially, final speed?",
+    "options": [
+      "1.2 m/s",
+      "6 m/s",
+      "1.5 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "unchanged pressure always",
+      "zero density",
+      "lower pressure",
+      "higher pressure"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "buoyant force",
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat"
+    ],
+    "answer_index": 1,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "decrease",
+      "increase",
+      "remain exactly constant",
+      "become zero"
+    ],
+    "answer_index": 0,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A fluid flows through area 2 m² at 8 m/s. Volume flow rate?",
+    "options": [
+      "0.25 m³/s",
+      "10 m³/s",
+      "4 m³/s",
+      "16 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q = Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In steady incompressible flow, area changes from 5 to 2 units². If speed is 4 m/s initially, final speed?",
+    "options": [
+      "7 m/s",
+      "2 m/s",
+      "10 m/s",
+      "1.6 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity gives A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For horizontal ideal-fluid flow, higher speed is associated with:",
+    "options": [
+      "zero density",
+      "lower pressure",
+      "higher pressure",
+      "unchanged pressure always"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli's equation links higher flow speed with lower static pressure at equal height."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Viscosity is a measure of a fluid's:",
+    "options": [
+      "internal resistance to flow",
+      "electric charge",
+      "specific heat",
+      "buoyant force"
+    ],
+    "answer_index": 0,
+    "explanation": "Viscosity describes internal friction in a real fluid."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In a horizontal Bernoulli flow of constant density, speed rises from 6 to 8 m/s. Static pressure will:",
+    "options": [
+      "increase",
+      "remain exactly constant",
+      "become zero",
+      "decrease"
+    ],
+    "answer_index": 3,
+    "explanation": "At the same height, an increase in kinetic-energy density is balanced by a pressure decrease."
+  }
+]
