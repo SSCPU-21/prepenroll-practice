@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts along motion through 2 m. Work done?",
+    "options": [
+      "20 J",
+      "12 J",
+      "5 J",
+      "40 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 3 kg moving at 3 m/s?",
+    "options": [
+      "9 J",
+      "27 J",
+      "4.5 J",
+      "13.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 4 kg raised 3 m (g=9.8)?",
+    "options": [
+      "12 J",
+      "58.8 J",
+      "117.6 J",
+      "39.2 J"
+    ],
+    "answer_index": 2,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "250 J of work is done in 8 s. Average power?",
+    "options": [
+      "258 W",
+      "31.25 W",
+      "2000 W",
+      "0.03 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone",
+      "power"
+    ],
+    "answer_index": 0,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts along motion through 2 m. Work done?",
+    "options": [
+      "37 J",
+      "17.5 J",
+      "140 J",
+      "70 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 2 kg moving at 8 m/s?",
+    "options": [
+      "128 J",
+      "8 J",
+      "64 J",
+      "16 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 3 kg raised 8 m (g=9.8)?",
+    "options": [
+      "117.6 J",
+      "235.2 J",
+      "29.4 J",
+      "24 J"
+    ],
+    "answer_index": 1,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "200 J of work is done in 8 s. Average power?",
+    "options": [
+      "25 W",
+      "1600 W",
+      "0.04 W",
+      "208 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "kinetic energy alone",
+      "potential energy alone",
+      "power",
+      "mechanical energy"
+    ],
+    "answer_index": 3,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 25 N acts along motion through 2 m. Work done?",
+    "options": [
+      "12.5 J",
+      "100 J",
+      "50 J",
+      "27 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 7 kg moving at 5 m/s?",
+    "options": [
+      "17.5 J",
+      "87.5 J",
+      "35 J",
+      "175 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 2 kg raised 5 m (g=9.8)?",
+    "options": [
+      "98 J",
+      "19.6 J",
+      "10 J",
+      "49 J"
+    ],
+    "answer_index": 0,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "150 J of work is done in 8 s. Average power?",
+    "options": [
+      "1200 W",
+      "0.05 W",
+      "158 W",
+      "18.75 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "potential energy alone",
+      "power",
+      "mechanical energy",
+      "kinetic energy alone"
+    ],
+    "answer_index": 2,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 15 N acts along motion through 2 m. Work done?",
+    "options": [
+      "60 J",
+      "30 J",
+      "17 J",
+      "7.5 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 6 kg moving at 2 m/s?",
+    "options": [
+      "12 J",
+      "12 J",
+      "24 J",
+      "6 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 7 kg raised 2 m (g=9.8)?",
+    "options": [
+      "68.6 J",
+      "14 J",
+      "68.6 J",
+      "137.2 J"
+    ],
+    "answer_index": 3,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "100 J of work is done in 8 s. Average power?",
+    "options": [
+      "0.08 W",
+      "108 W",
+      "12.5 W",
+      "800 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "power",
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone"
+    ],
+    "answer_index": 1,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 40 N acts along motion through 2 m. Work done?",
+    "options": [
+      "80 J",
+      "42 J",
+      "20 J",
+      "160 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 5 kg moving at 7 m/s?",
+    "options": [
+      "35 J",
+      "245 J",
+      "17.5 J",
+      "122.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 6 kg raised 7 m (g=9.8)?",
+    "options": [
+      "42 J",
+      "205.8 J",
+      "411.6 J",
+      "58.8 J"
+    ],
+    "answer_index": 2,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "350 J of work is done in 8 s. Average power?",
+    "options": [
+      "358 W",
+      "43.75 W",
+      "2800 W",
+      "0.02 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone",
+      "power"
+    ],
+    "answer_index": 0,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 30 N acts along motion through 2 m. Work done?",
+    "options": [
+      "32 J",
+      "15 J",
+      "120 J",
+      "60 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 4 kg moving at 4 m/s?",
+    "options": [
+      "64 J",
+      "8 J",
+      "32 J",
+      "16 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 5 kg raised 4 m (g=9.8)?",
+    "options": [
+      "98 J",
+      "196 J",
+      "49 J",
+      "20 J"
+    ],
+    "answer_index": 1,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "300 J of work is done in 8 s. Average power?",
+    "options": [
+      "37.5 W",
+      "2400 W",
+      "0.03 W",
+      "308 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "kinetic energy alone",
+      "potential energy alone",
+      "power",
+      "mechanical energy"
+    ],
+    "answer_index": 3,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 20 N acts along motion through 2 m. Work done?",
+    "options": [
+      "10 J",
+      "80 J",
+      "40 J",
+      "22 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 3 kg moving at 9 m/s?",
+    "options": [
+      "13.5 J",
+      "121.5 J",
+      "27 J",
+      "243 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 4 kg raised 1 m (g=9.8)?",
+    "options": [
+      "39.2 J",
+      "39.2 J",
+      "4 J",
+      "19.6 J"
+    ],
+    "answer_index": 0,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "250 J of work is done in 8 s. Average power?",
+    "options": [
+      "2000 W",
+      "0.03 W",
+      "258 W",
+      "31.25 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "potential energy alone",
+      "power",
+      "mechanical energy",
+      "kinetic energy alone"
+    ],
+    "answer_index": 2,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts along motion through 2 m. Work done?",
+    "options": [
+      "40 J",
+      "20 J",
+      "12 J",
+      "5 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 2 kg moving at 6 m/s?",
+    "options": [
+      "36 J",
+      "12 J",
+      "72 J",
+      "6 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 3 kg raised 6 m (g=9.8)?",
+    "options": [
+      "29.4 J",
+      "18 J",
+      "88.2 J",
+      "176.4 J"
+    ],
+    "answer_index": 3,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "200 J of work is done in 8 s. Average power?",
+    "options": [
+      "0.04 W",
+      "208 W",
+      "25 W",
+      "1600 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "power",
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone"
+    ],
+    "answer_index": 1,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts along motion through 2 m. Work done?",
+    "options": [
+      "70 J",
+      "37 J",
+      "17.5 J",
+      "140 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 7 kg moving at 3 m/s?",
+    "options": [
+      "21 J",
+      "63 J",
+      "10.5 J",
+      "31.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 2 kg raised 3 m (g=9.8)?",
+    "options": [
+      "6 J",
+      "29.4 J",
+      "58.8 J",
+      "19.6 J"
+    ],
+    "answer_index": 2,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "150 J of work is done in 8 s. Average power?",
+    "options": [
+      "158 W",
+      "18.75 W",
+      "1200 W",
+      "0.05 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone",
+      "power"
+    ],
+    "answer_index": 0,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 25 N acts along motion through 2 m. Work done?",
+    "options": [
+      "27 J",
+      "12.5 J",
+      "100 J",
+      "50 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 6 kg moving at 8 m/s?",
+    "options": [
+      "384 J",
+      "24 J",
+      "192 J",
+      "48 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 7 kg raised 8 m (g=9.8)?",
+    "options": [
+      "274.4 J",
+      "548.8 J",
+      "68.6 J",
+      "56 J"
+    ],
+    "answer_index": 1,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "100 J of work is done in 8 s. Average power?",
+    "options": [
+      "12.5 W",
+      "800 W",
+      "0.08 W",
+      "108 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "kinetic energy alone",
+      "potential energy alone",
+      "power",
+      "mechanical energy"
+    ],
+    "answer_index": 3,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 15 N acts along motion through 2 m. Work done?",
+    "options": [
+      "7.5 J",
+      "60 J",
+      "30 J",
+      "17 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 5 kg moving at 5 m/s?",
+    "options": [
+      "12.5 J",
+      "62.5 J",
+      "25 J",
+      "125 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 6 kg raised 5 m (g=9.8)?",
+    "options": [
+      "294 J",
+      "58.8 J",
+      "30 J",
+      "147 J"
+    ],
+    "answer_index": 0,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "350 J of work is done in 8 s. Average power?",
+    "options": [
+      "2800 W",
+      "0.02 W",
+      "358 W",
+      "43.75 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "potential energy alone",
+      "power",
+      "mechanical energy",
+      "kinetic energy alone"
+    ],
+    "answer_index": 2,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 40 N acts along motion through 2 m. Work done?",
+    "options": [
+      "160 J",
+      "80 J",
+      "42 J",
+      "20 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 4 kg moving at 2 m/s?",
+    "options": [
+      "8 J",
+      "8 J",
+      "16 J",
+      "4 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 5 kg raised 2 m (g=9.8)?",
+    "options": [
+      "49 J",
+      "10 J",
+      "49 J",
+      "98 J"
+    ],
+    "answer_index": 3,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "300 J of work is done in 8 s. Average power?",
+    "options": [
+      "0.03 W",
+      "308 W",
+      "37.5 W",
+      "2400 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "power",
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone"
+    ],
+    "answer_index": 1,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 30 N acts along motion through 2 m. Work done?",
+    "options": [
+      "60 J",
+      "32 J",
+      "15 J",
+      "120 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 3 kg moving at 7 m/s?",
+    "options": [
+      "21 J",
+      "147 J",
+      "10.5 J",
+      "73.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 4 kg raised 7 m (g=9.8)?",
+    "options": [
+      "28 J",
+      "137.2 J",
+      "274.4 J",
+      "39.2 J"
+    ],
+    "answer_index": 2,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "250 J of work is done in 8 s. Average power?",
+    "options": [
+      "258 W",
+      "31.25 W",
+      "2000 W",
+      "0.03 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone",
+      "power"
+    ],
+    "answer_index": 0,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 20 N acts along motion through 2 m. Work done?",
+    "options": [
+      "22 J",
+      "10 J",
+      "80 J",
+      "40 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 2 kg moving at 4 m/s?",
+    "options": [
+      "32 J",
+      "4 J",
+      "16 J",
+      "8 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 3 kg raised 4 m (g=9.8)?",
+    "options": [
+      "58.8 J",
+      "117.6 J",
+      "29.4 J",
+      "12 J"
+    ],
+    "answer_index": 1,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "200 J of work is done in 8 s. Average power?",
+    "options": [
+      "25 W",
+      "1600 W",
+      "0.04 W",
+      "208 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "kinetic energy alone",
+      "potential energy alone",
+      "power",
+      "mechanical energy"
+    ],
+    "answer_index": 3,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts along motion through 2 m. Work done?",
+    "options": [
+      "5 J",
+      "40 J",
+      "20 J",
+      "12 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 7 kg moving at 9 m/s?",
+    "options": [
+      "31.5 J",
+      "283.5 J",
+      "63 J",
+      "567 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 2 kg raised 1 m (g=9.8)?",
+    "options": [
+      "19.6 J",
+      "19.6 J",
+      "2 J",
+      "9.8 J"
+    ],
+    "answer_index": 0,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "150 J of work is done in 8 s. Average power?",
+    "options": [
+      "1200 W",
+      "0.05 W",
+      "158 W",
+      "18.75 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "potential energy alone",
+      "power",
+      "mechanical energy",
+      "kinetic energy alone"
+    ],
+    "answer_index": 2,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts along motion through 2 m. Work done?",
+    "options": [
+      "140 J",
+      "70 J",
+      "37 J",
+      "17.5 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 6 kg moving at 6 m/s?",
+    "options": [
+      "108 J",
+      "36 J",
+      "216 J",
+      "18 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 7 kg raised 6 m (g=9.8)?",
+    "options": [
+      "68.6 J",
+      "42 J",
+      "205.8 J",
+      "411.6 J"
+    ],
+    "answer_index": 3,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "100 J of work is done in 8 s. Average power?",
+    "options": [
+      "0.08 W",
+      "108 W",
+      "12.5 W",
+      "800 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "power",
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone"
+    ],
+    "answer_index": 1,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 25 N acts along motion through 2 m. Work done?",
+    "options": [
+      "50 J",
+      "27 J",
+      "12.5 J",
+      "100 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 5 kg moving at 3 m/s?",
+    "options": [
+      "15 J",
+      "45 J",
+      "7.5 J",
+      "22.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 6 kg raised 3 m (g=9.8)?",
+    "options": [
+      "18 J",
+      "88.2 J",
+      "176.4 J",
+      "58.8 J"
+    ],
+    "answer_index": 2,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "350 J of work is done in 8 s. Average power?",
+    "options": [
+      "358 W",
+      "43.75 W",
+      "2800 W",
+      "0.02 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone",
+      "power"
+    ],
+    "answer_index": 0,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 15 N acts along motion through 2 m. Work done?",
+    "options": [
+      "17 J",
+      "7.5 J",
+      "60 J",
+      "30 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 4 kg moving at 8 m/s?",
+    "options": [
+      "256 J",
+      "16 J",
+      "128 J",
+      "32 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 5 kg raised 8 m (g=9.8)?",
+    "options": [
+      "196 J",
+      "392 J",
+      "49 J",
+      "40 J"
+    ],
+    "answer_index": 1,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "300 J of work is done in 8 s. Average power?",
+    "options": [
+      "37.5 W",
+      "2400 W",
+      "0.03 W",
+      "308 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "kinetic energy alone",
+      "potential energy alone",
+      "power",
+      "mechanical energy"
+    ],
+    "answer_index": 3,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 40 N acts along motion through 2 m. Work done?",
+    "options": [
+      "20 J",
+      "160 J",
+      "80 J",
+      "42 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 3 kg moving at 5 m/s?",
+    "options": [
+      "7.5 J",
+      "37.5 J",
+      "15 J",
+      "75 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 4 kg raised 5 m (g=9.8)?",
+    "options": [
+      "196 J",
+      "39.2 J",
+      "20 J",
+      "98 J"
+    ],
+    "answer_index": 0,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "250 J of work is done in 8 s. Average power?",
+    "options": [
+      "2000 W",
+      "0.03 W",
+      "258 W",
+      "31.25 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "potential energy alone",
+      "power",
+      "mechanical energy",
+      "kinetic energy alone"
+    ],
+    "answer_index": 2,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 30 N acts along motion through 2 m. Work done?",
+    "options": [
+      "120 J",
+      "60 J",
+      "32 J",
+      "15 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 2 kg moving at 2 m/s?",
+    "options": [
+      "4 J",
+      "4 J",
+      "8 J",
+      "2 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 3 kg raised 2 m (g=9.8)?",
+    "options": [
+      "29.4 J",
+      "6 J",
+      "29.4 J",
+      "58.8 J"
+    ],
+    "answer_index": 3,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "200 J of work is done in 8 s. Average power?",
+    "options": [
+      "0.04 W",
+      "208 W",
+      "25 W",
+      "1600 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "power",
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone"
+    ],
+    "answer_index": 1,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 20 N acts along motion through 2 m. Work done?",
+    "options": [
+      "40 J",
+      "22 J",
+      "10 J",
+      "80 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 7 kg moving at 7 m/s?",
+    "options": [
+      "49 J",
+      "343 J",
+      "24.5 J",
+      "171.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 2 kg raised 7 m (g=9.8)?",
+    "options": [
+      "14 J",
+      "68.6 J",
+      "137.2 J",
+      "19.6 J"
+    ],
+    "answer_index": 2,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "150 J of work is done in 8 s. Average power?",
+    "options": [
+      "158 W",
+      "18.75 W",
+      "1200 W",
+      "0.05 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone",
+      "power"
+    ],
+    "answer_index": 0,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts along motion through 2 m. Work done?",
+    "options": [
+      "12 J",
+      "5 J",
+      "40 J",
+      "20 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 6 kg moving at 4 m/s?",
+    "options": [
+      "96 J",
+      "12 J",
+      "48 J",
+      "24 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 7 kg raised 4 m (g=9.8)?",
+    "options": [
+      "137.2 J",
+      "274.4 J",
+      "68.6 J",
+      "28 J"
+    ],
+    "answer_index": 1,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "100 J of work is done in 8 s. Average power?",
+    "options": [
+      "12.5 W",
+      "800 W",
+      "0.08 W",
+      "108 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "kinetic energy alone",
+      "potential energy alone",
+      "power",
+      "mechanical energy"
+    ],
+    "answer_index": 3,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts along motion through 2 m. Work done?",
+    "options": [
+      "17.5 J",
+      "140 J",
+      "70 J",
+      "37 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 5 kg moving at 9 m/s?",
+    "options": [
+      "22.5 J",
+      "202.5 J",
+      "45 J",
+      "405 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 6 kg raised 1 m (g=9.8)?",
+    "options": [
+      "58.8 J",
+      "58.8 J",
+      "6 J",
+      "29.4 J"
+    ],
+    "answer_index": 0,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "350 J of work is done in 8 s. Average power?",
+    "options": [
+      "2800 W",
+      "0.02 W",
+      "358 W",
+      "43.75 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "potential energy alone",
+      "power",
+      "mechanical energy",
+      "kinetic energy alone"
+    ],
+    "answer_index": 2,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 25 N acts along motion through 2 m. Work done?",
+    "options": [
+      "100 J",
+      "50 J",
+      "27 J",
+      "12.5 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 4 kg moving at 6 m/s?",
+    "options": [
+      "72 J",
+      "24 J",
+      "144 J",
+      "12 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 5 kg raised 6 m (g=9.8)?",
+    "options": [
+      "49 J",
+      "30 J",
+      "147 J",
+      "294 J"
+    ],
+    "answer_index": 3,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "300 J of work is done in 8 s. Average power?",
+    "options": [
+      "0.03 W",
+      "308 W",
+      "37.5 W",
+      "2400 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "power",
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone"
+    ],
+    "answer_index": 1,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 15 N acts along motion through 2 m. Work done?",
+    "options": [
+      "30 J",
+      "17 J",
+      "7.5 J",
+      "60 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 3 kg moving at 3 m/s?",
+    "options": [
+      "9 J",
+      "27 J",
+      "4.5 J",
+      "13.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 4 kg raised 3 m (g=9.8)?",
+    "options": [
+      "12 J",
+      "58.8 J",
+      "117.6 J",
+      "39.2 J"
+    ],
+    "answer_index": 2,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "250 J of work is done in 8 s. Average power?",
+    "options": [
+      "258 W",
+      "31.25 W",
+      "2000 W",
+      "0.03 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone",
+      "power"
+    ],
+    "answer_index": 0,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 40 N acts along motion through 2 m. Work done?",
+    "options": [
+      "42 J",
+      "20 J",
+      "160 J",
+      "80 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 2 kg moving at 8 m/s?",
+    "options": [
+      "128 J",
+      "8 J",
+      "64 J",
+      "16 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 3 kg raised 8 m (g=9.8)?",
+    "options": [
+      "117.6 J",
+      "235.2 J",
+      "29.4 J",
+      "24 J"
+    ],
+    "answer_index": 1,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "200 J of work is done in 8 s. Average power?",
+    "options": [
+      "25 W",
+      "1600 W",
+      "0.04 W",
+      "208 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "kinetic energy alone",
+      "potential energy alone",
+      "power",
+      "mechanical energy"
+    ],
+    "answer_index": 3,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 30 N acts along motion through 2 m. Work done?",
+    "options": [
+      "15 J",
+      "120 J",
+      "60 J",
+      "32 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 7 kg moving at 5 m/s?",
+    "options": [
+      "17.5 J",
+      "87.5 J",
+      "35 J",
+      "175 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 2 kg raised 5 m (g=9.8)?",
+    "options": [
+      "98 J",
+      "19.6 J",
+      "10 J",
+      "49 J"
+    ],
+    "answer_index": 0,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "150 J of work is done in 8 s. Average power?",
+    "options": [
+      "1200 W",
+      "0.05 W",
+      "158 W",
+      "18.75 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "potential energy alone",
+      "power",
+      "mechanical energy",
+      "kinetic energy alone"
+    ],
+    "answer_index": 2,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 20 N acts along motion through 2 m. Work done?",
+    "options": [
+      "80 J",
+      "40 J",
+      "22 J",
+      "10 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 6 kg moving at 2 m/s?",
+    "options": [
+      "12 J",
+      "12 J",
+      "24 J",
+      "6 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 7 kg raised 2 m (g=9.8)?",
+    "options": [
+      "68.6 J",
+      "14 J",
+      "68.6 J",
+      "137.2 J"
+    ],
+    "answer_index": 3,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "100 J of work is done in 8 s. Average power?",
+    "options": [
+      "0.08 W",
+      "108 W",
+      "12.5 W",
+      "800 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "power",
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone"
+    ],
+    "answer_index": 1,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 10 N acts along motion through 2 m. Work done?",
+    "options": [
+      "20 J",
+      "12 J",
+      "5 J",
+      "40 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 5 kg moving at 7 m/s?",
+    "options": [
+      "35 J",
+      "245 J",
+      "17.5 J",
+      "122.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 6 kg raised 7 m (g=9.8)?",
+    "options": [
+      "42 J",
+      "205.8 J",
+      "411.6 J",
+      "58.8 J"
+    ],
+    "answer_index": 2,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "350 J of work is done in 8 s. Average power?",
+    "options": [
+      "358 W",
+      "43.75 W",
+      "2800 W",
+      "0.02 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "mechanical energy",
+      "kinetic energy alone",
+      "potential energy alone",
+      "power"
+    ],
+    "answer_index": 0,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A constant force 35 N acts along motion through 2 m. Work done?",
+    "options": [
+      "37 J",
+      "17.5 J",
+      "140 J",
+      "70 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W = Fs when force is parallel to displacement."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Kinetic energy of 4 kg moving at 4 m/s?",
+    "options": [
+      "64 J",
+      "8 J",
+      "32 J",
+      "16 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K = ½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Gravitational potential energy gained by 5 kg raised 4 m (g=9.8)?",
+    "options": [
+      "98 J",
+      "196 J",
+      "49 J",
+      "20 J"
+    ],
+    "answer_index": 1,
+    "explanation": "ΔU = mgh."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "300 J of work is done in 8 s. Average power?",
+    "options": [
+      "37.5 W",
+      "2400 W",
+      "0.03 W",
+      "308 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For motion under only conservative forces, which quantity remains constant?",
+    "options": [
+      "kinetic energy alone",
+      "potential energy alone",
+      "power",
+      "mechanical energy"
+    ],
+    "answer_index": 3,
+    "explanation": "K + U remains constant when only conservative forces do work."
+  }
+]
