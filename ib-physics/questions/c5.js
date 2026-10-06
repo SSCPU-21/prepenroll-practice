@@ -118,12 +118,12 @@ T(7,0,"A rotating galaxy has one side approaching and one side receding relative
 T(8,1,"A source of frequency f moves toward a stationary observer at speed us in a medium with wave speed v.",[
 {q:"Determine the emitted wavelength behind a stationary source first.",m:1,ms:["λ=v/f"]},
 {q:"Explain why the wavelength ahead of the moving source is (v-us)/f.",m:2,ms:["during one period the previous front moves vT while source advances usT"]},
-{q:"Derive the measured frequency for this particular moving-source or moving-observer case.",m:2,ms:["f'=v/λ'=fv/(v-us)"]},
+{q:"Use the compressed wavefront spacing to derive the frequency heard by the stationary observer.",m:2,ms:["f'=v/λ'=fv/(v-us)"]},
 {q:"State the corresponding change for a receding source.",m:1,ms:["replace denominator with v+us"]}]);
 T(9,1,"A stationary source emits frequency f while an observer moves toward it at speed uo.",[
 {q:"State the wavelength in the medium.",m:1,ms:["λ=v/f"]},
 {q:"State the relative speed at which wavefronts meet the observer.",m:1,ms:["v+uo"]},
-{q:"Derive the measured frequency for this particular moving-source or moving-observer case.",m:2,ms:["f'=(v+uo)/λ=f(v+uo)/v"]},
+{q:"Use the increased wavefront encounter speed to derive the frequency measured by the moving observer.",m:2,ms:["f'=(v+uo)/λ=f(v+uo)/v"]},
 {q:"State the expression for an observer moving away.",m:1,ms:["f'=f(v-uo)/v"]}]);
 T(10,1,"A source of 1000 Hz approaches a stationary observer at 25 m s⁻¹ in air where sound speed is 350 m s⁻¹.",[
 {q:"Calculate the observed frequency.",m:2,ms:["f'=1000×350/(350-25)≈1077 Hz"]},
