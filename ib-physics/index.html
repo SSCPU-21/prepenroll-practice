@@ -2757,18 +2757,18 @@ function finishHTML(){return marked
   ?`<p>Marked. MCQs were checked as you answered them. Tick or untick mark-scheme points in written answers to adjust your score.</p><button class="btn primary" type="button" id="downloadReport">Download Scorecard</button><button class="btn" type="button" id="retry">Retry this paper</button><button class="btn" type="button" id="again">New paper, same settings</button><div class="report-note">Your scorecard includes question-wise marks earned, marks lost, theme breakdown and time taken. Open it and choose Print → Save as PDF for a PDF copy.</div>`
   :`<p>When you finish, multiple-choice answers are marked automatically. For written answers you compare your work with the mark scheme and tick the points you made.</p><button class="btn red" type="button" id="markBtn">Finish and mark</button>`}
 function renderM(q){const long=q.o.some(o=>o.replace(/<[^>]+>/g,'').length>34);
-  return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><button type="button" class="ib-speak" aria-label="Read question ${q.n} aloud in English" title="Read question aloud" data-speak="${q.n}"><span class="ib-icon">🔊</span><span>Listen</span></button><div class="ib-audio-controls" aria-label="Voice settings">
+  return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><button type="button" class="ib-speak" onclick="prepenrollAudio(this,'read')" aria-label="Read question ${q.n} aloud in English" title="Read question aloud" data-speak="${q.n}"><span class="ib-icon">🔊</span><span>Listen</span></button><div class="ib-audio-controls" aria-label="Voice settings">
 <label>Voice <select class="ib-voice"><option value="0">British · Calm</option><option value="1">British · Clear</option><option value="2">American · Warm</option><option value="3">American · Crisp</option><option value="4">English · Gentle</option></select></label>
 <label>Speed <select class="ib-rate"><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select></label>
-<button type="button" class="ib-pause" aria-label="Pause or resume reading" disabled><span class="ib-icon">⏸️</span> Pause</button><button type="button" class="ib-stop" aria-label="Stop reading" disabled><span class="ib-icon">⏹️</span> Stop</button>
+<button type="button" class="ib-pause" onclick="prepenrollAudio(this,'pause')" aria-label="Pause or resume reading" disabled><span class="ib-icon">⏸️</span> Pause</button><button type="button" class="ib-stop" onclick="prepenrollAudio(this,'stop')" aria-label="Stop reading" disabled><span class="ib-icon">⏹️</span> Stop</button>
 </div><p class="stem">${q.q}</p>${q.fig||''}
   <div class="opts${long?' long':''}" role="radiogroup" aria-label="Question ${q.n} options">${q.o.map((o,i)=>`<div class="opt" data-i="${i}"><input type="radio" name="m${q.n}" id="m${q.n}_${i}" value="${i}"><label for="m${q.n}_${i}"><span class="L">${LET[i]}</span><span>${o}</span></label></div>`).join('')}</div>
   <div class="fb" hidden></div></div><div class="mcol"><span class="lbl">mark</span><span>[1]</span></div></div>`}
 function renderS(q){
-  return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><button type="button" class="ib-speak" aria-label="Read question ${q.n} aloud in English" title="Read question aloud" data-speak="${q.n}"><span class="ib-icon">🔊</span><span>Listen</span></button><div class="ib-audio-controls" aria-label="Voice settings">
+  return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><button type="button" class="ib-speak" onclick="prepenrollAudio(this,'read')" aria-label="Read question ${q.n} aloud in English" title="Read question aloud" data-speak="${q.n}"><span class="ib-icon">🔊</span><span>Listen</span></button><div class="ib-audio-controls" aria-label="Voice settings">
 <label>Voice <select class="ib-voice"><option value="0">British · Calm</option><option value="1">British · Clear</option><option value="2">American · Warm</option><option value="3">American · Crisp</option><option value="4">English · Gentle</option></select></label>
 <label>Speed <select class="ib-rate"><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select></label>
-<button type="button" class="ib-pause" aria-label="Pause or resume reading" disabled><span class="ib-icon">⏸️</span> Pause</button><button type="button" class="ib-stop" aria-label="Stop reading" disabled><span class="ib-icon">⏹️</span> Stop</button>
+<button type="button" class="ib-pause" onclick="prepenrollAudio(this,'pause')" aria-label="Pause or resume reading" disabled><span class="ib-icon">⏸️</span> Pause</button><button type="button" class="ib-stop" onclick="prepenrollAudio(this,'stop')" aria-label="Stop reading" disabled><span class="ib-icon">⏹️</span> Stop</button>
 </div><p class="stem">${q.intro}</p>${q.fig||''}
   ${q.parts.map((p,pi)=>{const id=`${q.n}_${pi}`;return `<div class="part" data-p="${id}"><p class="pq"><span class="pl2">(${PL[pi]})</span>${p.q} <span class="tag">[${p.m}]</span></p>
     <label class="vh" for="w${id}">${p.ans?'Working':'Answer'} for ${q.n}(${PL[pi]})</label>
@@ -3130,96 +3130,55 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
 #sheet .ib-audio-controls .ib-stop:not(:disabled):hover{background:#ffc9d1!important}
 #sheet .ib-audio-controls button:disabled{opacity:.55!important}
 </style><script>
-/* IB Physics question-only text-to-speech. No question bank changes. */
+/* Direct IB question speech, isolated from other click handlers. */
 (function(){
-  if(!('speechSynthesis' in window)||!('SpeechSynthesisUtterance' in window))return;
-  const speech=window.speechSynthesis;
-  let current=null,active=null;
-  function stop(){
-    speech.cancel();
-    if(active){active.setAttribute('aria-pressed','false');active.innerHTML='<span class="ib-icon">🔊</span><span>Listen</span>';}
-    active=null;current=null;
-    updateControls();
-  }
-  function plain(el){return el ? el.textContent.replace(/\s+/g,' ').trim() : '';}
-  function readable(text){
-    return text
-      .replace(/m\s*s[⁻−-]²/g,'metres per second squared')
-      .replace(/m\s*s[⁻−-]¹/g,'metres per second')
-      .replace(/\bm\s*\/\s*s²/g,'metres per second squared')
-      .replace(/\bm\s*\/\s*s\b/g,'metres per second')
-      .replace(/\bkg\b/g,'kilograms').replace(/\bcm\b/g,'centimetres')
-      .replace(/\bmm\b/g,'millimetres').replace(/\bkm\b/g,'kilometres')
-      .replace(/\bHz\b/g,'hertz').replace(/\bN\b/g,'newtons').replace(/\bJ\b/g,'joules')
-      .replace(/\bW\b/g,'watts').replace(/\bV\b/g,'volts')
-      .replace(/Δ/g,'delta ').replace(/θ/g,'theta').replace(/λ/g,'lambda').replace(/μ/g,'mu ')
-      .replace(/π/g,'pi').replace(/ρ/g,'rho').replace(/σ/g,'sigma')
-      .replace(/²/g,' squared').replace(/³/g,' cubed')
-      .replace(/⁻¹/g,' to the power of minus one').replace(/⁻²/g,' to the power of minus two')
-      .replace(/≤/g,' less than or equal to ').replace(/≥/g,' greater than or equal to ')
-      .replace(/≈/g,' approximately ').replace(/×/g,' times ').replace(/÷/g,' divided by ')
-      .replace(/=/g,' equals ').replace(/°/g,' degrees ')
-      .replace(/\s+/g,' ').trim();
-  }
-  function questionText(card){
-    const parts=[plain(card.querySelector('.stem'))];
-    const options=[...card.querySelectorAll('.opt label')];
-    if(options.length)options.forEach((el,i)=>parts.push('Option '+String.fromCharCode(65+i)+'. '+plain(el.querySelector('span:last-child'))));
-    const structured=[...card.querySelectorAll('.part .pq')];
-    structured.forEach((el,i)=>{
-      const clone=el.cloneNode(true);
-      clone.querySelectorAll('.tag').forEach(n=>n.remove());
-      parts.push('Part '+String.fromCharCode(97+i)+'. '+plain(clone));
-    });
-    return readable(parts.filter(Boolean).join('. '));
-  }
-  function availableVoices(){return speech.getVoices().filter(v=>/^en([-_]|$)/i.test(v.lang));}
-  function voiceFor(profile){
-    const all=availableVoices(),gb=all.filter(v=>/^en-GB$/i.test(v.lang)),us=all.filter(v=>/^en-US$/i.test(v.lang));
-    const ranked=list=>[...list].sort((a,b)=>Number(/natural|premium|enhanced|google/i.test(b.name))-Number(/natural|premium|enhanced|google/i.test(a.name)));
-    const choices=[ranked(gb)[0],ranked(gb)[1]||gb[0],ranked(us)[0],ranked(us)[1]||us[0],ranked(all)[2]||all[0]];
-    return choices[Number(profile)]||all[0]||null;
-  }
-  function updateControls(){
-    document.querySelectorAll('#sheet .ib-audio-controls').forEach(el=>{
-      const same=active&&active.closest('.q')===el.closest('.q');
-      el.querySelector('.ib-pause').disabled=!same;
-      el.querySelector('.ib-stop').disabled=!same;
-      el.querySelector('.ib-pause').textContent=speech.paused&&same?'<span class="ib-icon">▶️</span> Resume':'<span class="ib-icon">⏸️</span> Pause';
-    });
-  }
-  function play(btn){
-    const card=btn.closest('.q'),content=card&&questionText(card);
-    if(!content)return;
-    stop();
-    const utterance=new SpeechSynthesisUtterance(content);
-    const panel=card.querySelector('.ib-audio-controls');
-    const voice=voiceFor(panel.querySelector('.ib-voice').value);
-    if(voice){utterance.voice=voice;utterance.lang=voice.lang;}else utterance.lang='en-GB';
-    utterance.rate=Number(panel.querySelector('.ib-rate').value)||1;
-    utterance.pitch=1;
-    current=utterance;active=btn;
-    btn.setAttribute('aria-pressed','true');btn.innerHTML='🔊 <span>Playing</span>';
-    utterance.onend=()=>{if(current===utterance)stop();};
-    utterance.onerror=()=>{if(current===utterance)stop();};
-    updateControls();
-    speech.speak(utterance);
-  }
-  document.addEventListener('click',function(e){
-    const btn=e.target.closest('#sheet .ib-speak');
-    if(btn){e.preventDefault();if(btn===active){stop();updateControls();}else play(btn);return;}
-    const pause=e.target.closest('#sheet .ib-pause');
-    if(pause&&!pause.disabled){
-      if(speech.paused)speech.resume();else speech.pause();
-      updateControls();return;
+const synthesis=window.speechSynthesis;
+let running=null, active=null;
+function reset(){
+  if(active){active.setAttribute('aria-pressed','false');active.title='Read question aloud';}
+  active=null;running=null;
+  document.querySelectorAll('#sheet .ib-audio-controls').forEach(p=>{p.querySelector('.ib-pause').disabled=true;p.querySelector('.ib-stop').disabled=true;});
+}
+function status(card,text){
+  let el=card.querySelector('.ib-speech-feedback');
+  if(!el){el=document.createElement('div');el.className='ib-speech-feedback';el.setAttribute('role','status');card.querySelector('.ib-audio-controls').insertAdjacentElement('afterend',el);}
+  el.textContent=text;
+}
+function question(card){
+  const txt=x=>x?.textContent?.replace(/\\s+/g,' ').trim()||'';
+  const fragments=[txt(card.querySelector('.stem'))];
+  card.querySelectorAll('.opt').forEach((opt,i)=>fragments.push('Option '+String.fromCharCode(65+i)+'. '+txt(opt.querySelector('label span:last-child'))));
+  card.querySelectorAll('.part .pq').forEach((part,i)=>{const clone=part.cloneNode(true);clone.querySelectorAll('.tag').forEach(x=>x.remove());fragments.push('Part '+String.fromCharCode(97+i)+'. '+txt(clone));});
+  return fragments.filter(Boolean).join('. ').replace(/²/g,' squared').replace(/³/g,' cubed').replace(/×/g,' times ').replace(/=/g,' equals ');
+}
+window.prepenrollAudio=function(button,action){
+  if(!synthesis)return;
+  const card=button.closest('.q');if(!card)return;
+  const panel=card.querySelector('.ib-audio-controls');
+  if(action==='stop'){synthesis.cancel();reset();status(card,'Stopped');return;}
+  if(action==='pause'){if(synthesis.paused){synthesis.resume();button.textContent='⏸️ Pause';}else{synthesis.pause();button.textContent='▶️ Resume';}return;}
+  if(action==='test'||action==='read'){
+    if(active===button&&synthesis.speaking){synthesis.cancel();reset();return;}
+    if(running){synthesis.cancel();reset();}
+    const text=action==='test'?'Hello, welcome to Prepenroll Physics.':question(card);
+    if(!text){status(card,'No question text found');return;}
+    const utterance=new SpeechSynthesisUtterance(text);
+    const choice=panel.querySelector('.ib-voice').value;
+    if(choice!=='0'){
+      const options=synthesis.getVoices().filter(v=>/^en/i.test(v.lang));
+      const v=options[Number(choice)-1];if(v)utterance.voice=v;
     }
-    const st=e.target.closest('#sheet .ib-stop');
-    if(st&&!st.disabled){stop();updateControls();return;}
-    if(e.target.closest('#ibPrev,#ibNext,#ibQnav,#markBtn,#again,#retry,#buildBtn')){stop();updateControls();}
-  });
-  document.addEventListener('change',function(e){
-    if(e.target.matches('#sheet .ib-voice,#sheet .ib-rate')&&active&&e.target.closest('.q')===active.closest('.q'))play(active);
-  });
-  window.addEventListener('beforeunload',stop);
+    const speed=Number(panel.querySelector('.ib-rate').value);
+    if(speed!==1)utterance.rate=speed;
+    active=button;running=utterance;
+    button.setAttribute('aria-pressed','true');
+    panel.querySelector('.ib-pause').disabled=false;panel.querySelector('.ib-stop').disabled=false;
+    status(card,'Starting…');
+    utterance.onstart=()=>{if(running===utterance)status(card,'Reading aloud');};
+    utterance.onend=()=>{if(running===utterance){reset();status(card,'Finished');}};
+    utterance.onerror=e=>{if(running===utterance){reset();status(card,'Speech error: '+e.error);}};
+    synthesis.speak(utterance);
+  }
+};
 })();
 </script>
