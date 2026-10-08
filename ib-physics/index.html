@@ -3156,7 +3156,7 @@ window.prepenrollAudio=function(button,action){
   const card=button.closest('.q');if(!card)return;
   const panel=card.querySelector('.ib-audio-controls');
   if(action==='stop'){synthesis.cancel();reset();status(card,'Stopped');return;}
-  if(action==='pause'){if(synthesis.paused){synthesis.resume();button.textContent='⏸️ Pause';}else{synthesis.pause();button.textContent='▶️ Resume';}return;}
+  if(action==='pause'){if(synthesis.paused){synthesis.resume();button.textContent='⏸️';button.title='Pause reading';}else{synthesis.pause();button.textContent='▶️';button.title='Resume reading';}return;}
   if(action==='test'||action==='read'){
     if(active===button&&synthesis.speaking){synthesis.cancel();reset();return;}
     if(running){synthesis.cancel();reset();}
