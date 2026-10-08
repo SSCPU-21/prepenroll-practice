@@ -3149,7 +3149,7 @@ function question(card){
   const fragments=[txt(card.querySelector('.stem'))];
   card.querySelectorAll('.opt').forEach((opt,i)=>fragments.push('Option '+String.fromCharCode(65+i)+'. '+txt(opt.querySelector('label span:last-child'))));
   card.querySelectorAll('.part .pq').forEach((part,i)=>{const clone=part.cloneNode(true);clone.querySelectorAll('.tag').forEach(x=>x.remove());fragments.push('Part '+String.fromCharCode(97+i)+'. '+txt(clone));});
-  return fragments.filter(Boolean).join('. ').replace(/²/g,' squared').replace(/³/g,' cubed').replace(/×/g,' times ').replace(/=/g,' equals ');
+  return fragments.filter(Boolean).join('. ').replace(/\\frac\s*\{1\}\s*\{2\}/g,' one half ').replace(/\b1\s*\/\s*2\b/g,' one half ').replace(/½/g,' one half ').replace(/²/g,' squared').replace(/³/g,' cubed').replace(/×/g,' times ').replace(/=/g,' equals ');
 }
 window.prepenrollAudio=function(button,action){
   if(!synthesis)return;
