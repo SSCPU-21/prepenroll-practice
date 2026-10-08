@@ -3257,6 +3257,35 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
     controls();
     try{engine.speak(u);}catch(e){reset(false);notice(card,'Speech error: '+(e.message||String(e)));}
   }
+  // Capture direct user clicks before other Studio handlers.
+  // Keep the proven Chrome Console speak() path for default audio.
+  document.addEventListener('click',function(e){
+    const button=e.target.closest('#sheet .ib-speak, #sheet .ib-audio-test');
+    if(!button)return;
+    e.preventDefault();
+    e.stopImmediatePropagation();
+    const card=button.closest('.q');
+    const isTest=button.classList.contains('ib-audio-test');
+    const speaker=card.querySelector('.ib-speak');
+    const text=isTest?'Hello, welcome to Prepenroll Physics.':speechText(card);
+    if(!text){notice(card,'Question text is not available to read.');return;}
+    if(active===speaker && !isTest){reset();return;}
+    if(active||engine.speaking||engine.pending||engine.paused)engine.cancel();
+    if(active)reset(false);
+    notice(card,'');
+    const u=new SpeechSynthesisUtterance(text);
+    const sel=card.querySelector('.ib-voice');
+    const v=voiceAt(sel);
+    if(!isTest && sel.value!=='default' && v){u.voice=v;u.lang=v.lang;}
+    // No rate/pitch/volume overrides for default voice, matching the working Console test.
+    const rate=Number(card.querySelector('.ib-rate').value);
+    if(rate!==1)u.rate=rate;
+    active=speaker;utterance=u;speaker.setAttribute('aria-pressed','true');
+    controls();
+    u.onend=()=>{if(utterance===u){notice(card,'');reset(false);}};
+    u.onerror=err=>{if(utterance===u){reset(false);notice(card,'Speech error: '+(err.error||'unknown'));}};
+    engine.speak(u);
+  },true);
   document.addEventListener('click',e=>{
     const btn=e.target.closest('#sheet .ib-speechbar button');
     if(btn){
