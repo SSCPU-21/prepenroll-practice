@@ -3236,7 +3236,9 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
   function play(btn,isTest=false){
     const card=btn.closest('.q');
     const text=isTest?'Hello. This is the Prepenroll English voice test.':speechText(card);
-    reset();
+    // Do not cancel the browser speech engine before the first utterance.
+    if(active || utterance || engine.speaking || engine.pending || engine.paused) reset();
+    else reset(false);
     notice(card,'');
     if(!text){notice(card,'There is no question text to read.');return;}
     // Keep the same direct Chrome speech API path as the verified console test.
