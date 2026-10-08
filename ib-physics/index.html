@@ -3161,158 +3161,100 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
 @media(max-width:410px){#sheet .ib-speechbar{gap:4px!important;padding:6px!important}#sheet .ib-speechbar .ib-audio-controls{gap:4px!important}#sheet .ib-speechbar button{width:36px!important;height:36px!important;min-width:36px!important;min-height:36px!important;font-size:17px!important}}
 </style>
 <script>
-/* IB Physics question-only text-to-speech. No question bank changes. */
+/* IB question read-aloud: browser-native speech, one click = one utterance. */
 (function(){
-  if(!('speechSynthesis' in window)||!('SpeechSynthesisUtterance' in window))return;
-  const speech=window.speechSynthesis;
-  let current=null,active=null,queue=[],generation=0;
-  function stop(){
-    generation++;
-    queue=[];
-    if(current || speech.speaking || speech.pending || speech.paused) speech.cancel();
-    if(active){active.setAttribute('aria-pressed','false');active.textContent='🔊';active.title='Read question aloud';}
-    active=null;current=null;
-    updateControls();
+  if (!window.speechSynthesis || !window.SpeechSynthesisUtterance) return;
+  const engine=window.speechSynthesis;
+  let active=null, utterance=null;
+  const values={voice:0,rate:1};
+  const voices=()=>engine.getVoices().filter(v=>/^en(?:-|$)/i.test(v.lang));
+  function voiceAt(i){
+    const v=voices(),gb=v.filter(x=>x.lang.toLowerCase()==='en-gb'),us=v.filter(x=>x.lang.toLowerCase()==='en-us');
+    const picks=[gb[0],gb[1]||gb[0],us[0],us[1]||us[0],v[0]];
+    return picks[i]||null;
   }
-  function plain(el){return el ? el.textContent.replace(/\s+/g,' ').trim() : '';}
-  function readable(text){
-    return text
+  function notice(card,message){
+    if(!card)return;
+    let el=card.querySelector('.ib-speech-feedback');
+    if(!message){if(el)el.remove();return;}
+    if(!el){el=document.createElement('div');el.className='ib-speech-feedback';el.setAttribute('role','status');card.querySelector('.ib-speechbar')?.insertAdjacentElement('afterend',el);}
+    if(el)el.textContent=message;
+  }
+  function controls(){
+    document.querySelectorAll('#sheet .ib-speechbar').forEach(bar=>{
+      const playing=!!active && active.closest('.ib-speechbar')===bar;
+      const pause=bar.querySelector('.ib-pause'), stop=bar.querySelector('.ib-stop');
+      pause.disabled=stop.disabled=!playing;
+      pause.textContent=playing&&engine.paused?'▶️':'⏸️';
+      pause.title=pause.getAttribute('aria-label')=playing&&engine.paused?'Resume reading':'Pause reading';
+    });
+  }
+  function reset(cancel=true){
+    const old=active;active=null;utterance=null;
+    if(cancel)engine.cancel();
+    if(old){old.textContent='🔊';old.title='Read question aloud';old.setAttribute('aria-label','Read question aloud');old.setAttribute('aria-pressed','false');}
+    controls();
+  }
+  function speechText(card){
+    const clean=e=>e?.textContent?.replace(/\s+/g,' ').trim()||'';
+    const out=[clean(card.querySelector('.stem'))];
+    card.querySelectorAll('.opt').forEach((opt,i)=>out.push('Option '+String.fromCharCode(65+i)+'. '+clean(opt.querySelector('label span:last-child'))));
+    card.querySelectorAll('.part .pq').forEach((part,i)=>{
+      const clone=part.cloneNode(true);
+      clone.querySelectorAll('.tag').forEach(e=>e.remove());
+      out.push('Part '+String.fromCharCode(97+i)+'. '+clean(clone));
+    });
+    return out.filter(Boolean).join('. ')
       .replace(/m\s*s[⁻−-]²/g,'metres per second squared')
       .replace(/m\s*s[⁻−-]¹/g,'metres per second')
-      .replace(/\bm\s*\/\s*s²/g,'metres per second squared')
-      .replace(/\bm\s*\/\s*s\b/g,'metres per second')
-      .replace(/\bkg\b/g,'kilograms').replace(/\bcm\b/g,'centimetres')
-      .replace(/\bmm\b/g,'millimetres').replace(/\bkm\b/g,'kilometres')
-      .replace(/\bHz\b/g,'hertz').replace(/\bN\b/g,'newtons').replace(/\bJ\b/g,'joules')
-      .replace(/\bW\b/g,'watts').replace(/\bV\b/g,'volts')
-      .replace(/Δ/g,'delta ').replace(/θ/g,'theta').replace(/λ/g,'lambda').replace(/μ/g,'mu ')
-      .replace(/π/g,'pi').replace(/ρ/g,'rho').replace(/σ/g,'sigma')
       .replace(/²/g,' squared').replace(/³/g,' cubed')
-      .replace(/⁻¹/g,' to the power of minus one').replace(/⁻²/g,' to the power of minus two')
-      .replace(/≤/g,' less than or equal to ').replace(/≥/g,' greater than or equal to ')
-      .replace(/≈/g,' approximately ').replace(/×/g,' times ').replace(/÷/g,' divided by ')
-      .replace(/=/g,' equals ').replace(/°/g,' degrees ')
+      .replace(/⁻²/g,' to the power of minus two').replace(/⁻¹/g,' to the power of minus one')
+      .replace(/Δ/g,'delta ').replace(/θ/g,'theta ').replace(/λ/g,'lambda ')
+      .replace(/μ/g,'mu ').replace(/π/g,'pi ').replace(/×/g,' times ')
+      .replace(/÷/g,' divided by ').replace(/=/g,' equals ')
       .replace(/\s+/g,' ').trim();
   }
-  function questionText(card){
-    const parts=[plain(card.querySelector('.stem'))];
-    const options=[...card.querySelectorAll('.opt label')];
-    if(options.length)options.forEach((el,i)=>parts.push('Option '+String.fromCharCode(65+i)+'. '+plain(el.querySelector('span:last-child'))));
-    const structured=[...card.querySelectorAll('.part .pq')];
-    structured.forEach((el,i)=>{
-      const clone=el.cloneNode(true);
-      clone.querySelectorAll('.tag').forEach(n=>n.remove());
-      parts.push('Part '+String.fromCharCode(97+i)+'. '+plain(clone));
-    });
-    return readable(parts.filter(Boolean).join('. '));
-  }
-  function availableVoices(){return speech.getVoices().filter(v=>/^en([-_]|$)/i.test(v.lang));}
-  function voiceFor(profile){
-    const all=availableVoices(),gb=all.filter(v=>/^en-GB$/i.test(v.lang)),us=all.filter(v=>/^en-US$/i.test(v.lang));
-    const ranked=list=>[...list].sort((a,b)=>Number(/natural|premium|enhanced|google/i.test(b.name))-Number(/natural|premium|enhanced|google/i.test(a.name)));
-    const choices=[ranked(gb)[0],ranked(gb)[1]||gb[0],ranked(us)[0],ranked(us)[1]||us[0],ranked(all)[2]||all[0]];
-    return choices[Number(profile)]||all[0]||null;
-  }
-  function updateControls(){
-    document.querySelectorAll('#sheet .ib-audio-controls').forEach(el=>{
-      const same=active&&active.closest('.q')===el.closest('.q');
-      el.querySelector('.ib-pause').disabled=!same;
-      el.querySelector('.ib-stop').disabled=!same;
-      const pause=el.querySelector('.ib-pause');
-      pause.textContent=speech.paused&&same?'▶️':'⏸️';
-      pause.title=pause.getAttribute('aria-label')=speech.paused&&same?'Resume reading':'Pause reading';
-    });
-  }
-  // Chrome may truncate or silently fail on long utterances; speak one short sentence at a time.
-  function chunks(text){
-    const sentences=text.match(/[^.!?]+[.!?]?/g)||[text],out=[];
-    sentences.forEach(sentence=>{
-      const words=sentence.trim().split(/\s+/),limit=165;
-      let chunk='';
-      words.forEach(word=>{if(chunk.length+word.length+1>limit&&chunk){out.push(chunk);chunk='';}chunk+=(chunk?' ':'')+word;});
-      if(chunk)out.push(chunk);
-    });
-    return out.filter(Boolean);
-  }
-  function speakQueue(card,btn,voice,rate,token){
-    if(token!==generation)return;
-    const text=queue.shift();
-    if(!text){clearFeedback(card);finishReading();return;}
-    const utterance=new SpeechSynthesisUtterance(text);
-    // Let Chrome use its default voice if its list is not ready yet.
-    if(voice){utterance.voice=voice;utterance.lang=voice.lang;}else utterance.lang='en-US';
-    utterance.rate=rate;utterance.pitch=1;utterance.volume=1;
-    current=utterance;
-    utterance.onstart=()=>{if(token===generation){btn.title='Reading aloud';feedback(card,'Audio started · check Chrome tab and device volume if you cannot hear it.');}};
-    utterance.onend=()=>{if(token===generation){clearFeedback(card);speakQueue(card,btn,voice,rate,token);}};
-    utterance.onerror=(event)=>{
-      if(token!==generation)return;
-      const err=event.error||'unknown';
-      if(err==='interrupted'||err==='canceled')return;
-      stop();
-      feedback(card,'Audio unavailable ('+err+'). Check Chrome audio output and system voice settings.');
-    };
-    try{speech.speak(utterance);}catch(err){stop();feedback(card,'Speech playback could not start in Chrome: '+String(err.message||err));}
-  }
-  function finishReading(){
-    current=null;active=null;queue=[];
-    document.querySelectorAll('#sheet .ib-speak[aria-pressed="true"]').forEach(el=>{
-      el.setAttribute('aria-pressed','false');el.textContent='🔊';el.title='Read question aloud';el.setAttribute('aria-label','Read question aloud');
-    });
-    updateControls();
-  }
-  function play(btn,preview=false){
+  function play(btn,isTest=false){
     const card=btn.closest('.q');
-    const content=preview?'Hello. This is the Prepenroll English voice test.':card&&questionText(card);
-    if(!content){feedback(card,'Question text unavailable for reading.');return;}
-    clearFeedback(card);
-    if(current||active||speech.speaking||speech.pending||speech.paused)stop();
-    const panel=card.querySelector('.ib-audio-controls');
-    const voice=preview?null:voiceFor(panel.querySelector('.ib-voice').value);
-    const rate=Number(panel.querySelector('.ib-rate').value)||1;
-    queue=chunks(content);
-    active=btn;
-    const token=++generation;
-    btn.setAttribute('aria-pressed','true');btn.textContent='🔊';btn.title='Reading aloud';
-    updateControls();
-    feedback(card,'Starting English audio…');
-    speakQueue(card,btn,voice,rate,token);
+    const text=isTest?'Hello. This is the Prepenroll English voice test.':speechText(card);
+    reset();
+    notice(card,'');
+    if(!text){notice(card,'There is no question text to read.');return;}
+    // Keep the same direct Chrome speech API path as the verified console test.
+    const u=new SpeechSynthesisUtterance(text);
+    const bar=btn.closest('.ib-speechbar');
+    const selected=Number(bar.querySelector('.ib-voice').value);
+    // The test intentionally uses the browser default voice.
+    if(!isTest){const v=voiceAt(selected);if(v){u.voice=v;u.lang=v.lang;}}
+    u.rate=Number(bar.querySelector('.ib-rate').value)||1;
+    u.volume=1;u.pitch=1;
+    active=btn;utterance=u;
+    btn.setAttribute('aria-pressed','true');btn.title='Stop reading';
+    u.onstart=()=>{if(utterance===u)notice(card,'Reading aloud');};
+    u.onend=()=>{if(utterance===u){notice(card,'');reset(false);}};
+    u.onerror=e=>{if(utterance===u){reset(false);notice(card,'Speech error: '+(e.error||'unknown')+'.');}};
+    controls();
+    try{engine.speak(u);}catch(e){reset(false);notice(card,'Speech error: '+(e.message||String(e)));}
   }
-  function feedback(card,message){
-    let notice=card.querySelector('.ib-speech-feedback');
-    if(!notice){notice=document.createElement('div');notice.className='ib-speech-feedback';notice.setAttribute('role','status');card.querySelector('.ib-speechbar').insertAdjacentElement('afterend',notice);}
-    notice.textContent=message;
-  }
-  function clearFeedback(card){
-    const el=card.querySelector('.ib-speech-feedback');if(el)el.remove();
-  }
-  document.addEventListener('click',function(e){
-    const btn=e.target.closest('#sheet .ib-speak');
-    if(btn){e.preventDefault();if(btn===active){stop();updateControls();}else play(btn);return;}
-    const cycle=e.target.closest('#sheet .ib-voice-cycle,#sheet .ib-speed-cycle');
-    if(cycle){
-      const panel=cycle.closest('.ib-audio-controls'),isVoice=cycle.matches('.ib-voice-cycle');
-      const sel=panel.querySelector(isVoice?'.ib-voice':'.ib-rate');
-      sel.selectedIndex=(sel.selectedIndex+1)%sel.options.length;
-      const description=(isVoice?'Change voice · ':'Change speed · ')+sel.options[sel.selectedIndex].text;
-      cycle.title=description;cycle.setAttribute('aria-label',description);
-      if(active&&active.closest('.q')===cycle.closest('.q'))play(active);
-      return;
+  document.addEventListener('click',e=>{
+    const btn=e.target.closest('#sheet .ib-speechbar button');
+    if(btn){
+      if(btn.classList.contains('ib-speak')){if(active===btn)reset();else play(btn);return;}
+      if(btn.classList.contains('ib-audio-test')){play(btn.closest('.q').querySelector('.ib-speak'),true);return;}
+      if(btn.classList.contains('ib-pause')&&!btn.disabled){if(engine.paused)engine.resume();else engine.pause();controls();return;}
+      if(btn.classList.contains('ib-stop')){reset();return;}
+      if(btn.classList.contains('ib-voice-cycle')||btn.classList.contains('ib-speed-cycle')){
+        const voice=btn.classList.contains('ib-voice-cycle');
+        const sel=btn.closest('.ib-speechbar').querySelector(voice?'.ib-voice':'.ib-rate');
+        sel.selectedIndex=(sel.selectedIndex+1)%sel.options.length;
+        const label=(voice?'Voice: ':'Speed: ')+sel.options[sel.selectedIndex].text;
+        btn.title=btn.setAttribute('aria-label',label)||label;
+        if(active&&active.closest('.ib-speechbar')===btn.closest('.ib-speechbar'))play(active);
+        return;
+      }
     }
-    const test=e.target.closest('#sheet .ib-audio-test');
-    if(test){e.preventDefault();play(test.closest('.q').querySelector('.ib-speak'),true);return;}
-    const pause=e.target.closest('#sheet .ib-pause');
-    if(pause&&!pause.disabled){
-      if(speech.paused)speech.resume();else speech.pause();
-      updateControls();return;
-    }
-    const st=e.target.closest('#sheet .ib-stop');
-    if(st&&!st.disabled){stop();updateControls();return;}
-    if(e.target.closest('#ibPrev,#ibNext,#ibQnav,#markBtn,#again,#retry,#buildBtn')){stop();updateControls();}
+    if(e.target.closest('#ibPrev,#ibNext,#ibQnav,#markBtn,#again,#retry,#buildBtn'))reset();
   });
-  document.addEventListener('change',function(e){
-    if(e.target.matches('#sheet .ib-voice,#sheet .ib-rate')&&active&&e.target.closest('.q')===active.closest('.q'))play(active);
-  });
-  window.addEventListener('beforeunload',stop);
+  window.addEventListener('beforeunload',()=>reset());
 })();
 </script>
