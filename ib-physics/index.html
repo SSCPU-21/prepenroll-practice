@@ -2762,6 +2762,7 @@ function renderM(q){const long=q.o.some(o=>o.replace(/<[^>]+>/g,'').length>34);
 <div class="ib-audio-controls" aria-label="Voice settings">
 <select class="ib-voice" aria-label="English voice" hidden><option value="0">British · Calm</option><option value="1">British · Clear</option><option value="2">American · Warm</option><option value="3">American · Crisp</option><option value="4">English · Gentle</option></select>
 <select class="ib-rate" aria-label="Reading speed" hidden><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select>
+<button type="button" class="ib-audio-test" title="Test audio" aria-label="Test audio">🧪</button>
 <button type="button" class="ib-voice-cycle" title="Change voice · British Calm" aria-label="Change voice · British Calm">🎙️</button>
 <button type="button" class="ib-speed-cycle" title="Change speed · 1×" aria-label="Change speed · 1×">⏩</button>
 <button type="button" class="ib-pause" aria-label="Pause reading" title="Pause reading" disabled>⏸️</button>
@@ -2775,6 +2776,7 @@ function renderS(q){
 <div class="ib-audio-controls" aria-label="Voice settings">
 <select class="ib-voice" aria-label="English voice" hidden><option value="0">British · Calm</option><option value="1">British · Clear</option><option value="2">American · Warm</option><option value="3">American · Crisp</option><option value="4">English · Gentle</option></select>
 <select class="ib-rate" aria-label="Reading speed" hidden><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select>
+<button type="button" class="ib-audio-test" title="Test audio" aria-label="Test audio">🧪</button>
 <button type="button" class="ib-voice-cycle" title="Change voice · British Calm" aria-label="Change voice · British Calm">🎙️</button>
 <button type="button" class="ib-speed-cycle" title="Change speed · 1×" aria-label="Change speed · 1×">⏩</button>
 <button type="button" class="ib-pause" aria-label="Pause reading" title="Pause reading" disabled>⏸️</button>
@@ -3141,6 +3143,7 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
 #sheet .ib-audio-controls button:disabled{opacity:.55!important}
 </style><style>
 /* Single-line icon-only speech toolbar */
+#sheet .ib-speechbar .ib-audio-test{background:#fff5dc!important;color:#815300!important;border:1px solid #f1d78c!important}
 #sheet .ib-speech-feedback{font:500 12px var(--sans);color:var(--red);margin:2px 0 10px;padding:8px 10px;border-radius:8px;background:var(--red-soft)}
 #sheet .ib-speechbar{display:flex!important;align-items:center!important;gap:7px!important;width:max-content;max-width:100%;min-height:53px;padding:7px 9px;background:linear-gradient(100deg,#eaf4ff,#eefaf4)!important;border:1px solid #bad8e7;border-radius:16px;margin:9px 0 13px;box-sizing:border-box}
 #sheet .ib-speechbar .ib-audio-controls{display:flex!important;flex-wrap:nowrap!important;align-items:center;gap:7px!important;padding:0!important;margin:0!important;background:none!important;border:0!important;border-radius:0!important}
@@ -3162,8 +3165,10 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
 (function(){
   if(!('speechSynthesis' in window)||!('SpeechSynthesisUtterance' in window))return;
   const speech=window.speechSynthesis;
-  let current=null,active=null;
+  let current=null,active=null,queue=[],generation=0;
   function stop(){
+    generation++;
+    queue=[];
     if(current || speech.speaking || speech.pending || speech.paused) speech.cancel();
     if(active){active.setAttribute('aria-pressed','false');active.textContent='🔊';active.title='Read question aloud';}
     active=null;current=null;
@@ -3218,24 +3223,59 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
       pause.title=pause.getAttribute('aria-label')=speech.paused&&same?'Resume reading':'Pause reading';
     });
   }
-  function play(btn){
-    const card=btn.closest('.q'),content=card&&questionText(card);
+  // Chrome may truncate or silently fail on long utterances; speak one short sentence at a time.
+  function chunks(text){
+    const sentences=text.match(/[^.!?]+[.!?]?/g)||[text],out=[];
+    sentences.forEach(sentence=>{
+      const words=sentence.trim().split(/\s+/),limit=165;
+      let chunk='';
+      words.forEach(word=>{if(chunk.length+word.length+1>limit&&chunk){out.push(chunk);chunk='';}chunk+=(chunk?' ':'')+word;});
+      if(chunk)out.push(chunk);
+    });
+    return out.filter(Boolean);
+  }
+  function speakQueue(card,btn,voice,rate,token){
+    if(token!==generation)return;
+    const text=queue.shift();
+    if(!text){finishReading();return;}
+    const utterance=new SpeechSynthesisUtterance(text);
+    // Let Chrome use its default voice if its list is not ready yet.
+    if(voice){utterance.voice=voice;utterance.lang=voice.lang;}else utterance.lang='en-US';
+    utterance.rate=rate;utterance.pitch=1;utterance.volume=1;
+    current=utterance;
+    utterance.onstart=()=>{if(token===generation)btn.title='Reading aloud';};
+    utterance.onend=()=>{if(token===generation)speakQueue(card,btn,voice,rate,token);};
+    utterance.onerror=(event)=>{
+      if(token!==generation)return;
+      const err=event.error||'unknown';
+      if(err==='interrupted'||err==='canceled')return;
+      stop();
+      feedback(card,'Audio unavailable ('+err+'). Check Chrome audio output and system voice settings.');
+    };
+    try{speech.speak(utterance);}catch(err){stop();feedback(card,'Speech playback could not start in Chrome.');}
+  }
+  function finishReading(){
+    current=null;active=null;queue=[];
+    document.querySelectorAll('#sheet .ib-speak[aria-pressed="true"]').forEach(el=>{
+      el.setAttribute('aria-pressed','false');el.textContent='🔊';el.title='Read question aloud';el.setAttribute('aria-label','Read question aloud');
+    });
+    updateControls();
+  }
+  function play(btn,preview=false){
+    const card=btn.closest('.q');
+    const content=preview?'Hello. This is the Prepenroll English voice test.':card&&questionText(card);
     if(!content){feedback(card,'Question text unavailable for reading.');return;}
     clearFeedback(card);
-    if(current || active || speech.speaking || speech.pending || speech.paused) stop();
-    const utterance=new SpeechSynthesisUtterance(content);
+    if(current||active||speech.speaking||speech.pending||speech.paused)stop();
     const panel=card.querySelector('.ib-audio-controls');
     const voice=voiceFor(panel.querySelector('.ib-voice').value);
-    if(voice){utterance.voice=voice;utterance.lang=voice.lang;}else utterance.lang='en-GB';
-    utterance.rate=Number(panel.querySelector('.ib-rate').value)||1;
-    utterance.pitch=1;
-    current=utterance;active=btn;
-    btn.setAttribute('aria-pressed','true');btn.textContent='🔊';btn.title='Stop reading';
-    utterance.onstart=()=>{if(current===utterance){btn.title='Reading aloud';btn.setAttribute('aria-label','Reading aloud · click to stop');}};
-    utterance.onend=()=>{if(current===utterance)stop();};
-    utterance.onerror=(event)=>{if(current===utterance){stop();feedback(card,'Audio could not start ('+(event.error||'unknown error')+'). Try another voice or browser.');}};
+    const rate=Number(panel.querySelector('.ib-rate').value)||1;
+    queue=chunks(content);
+    active=btn;
+    const token=++generation;
+    btn.setAttribute('aria-pressed','true');btn.textContent='🔊';btn.title='Reading aloud';
     updateControls();
-    try{speech.speak(utterance);}catch(e){stop();feedback(card,'Speech playback unavailable in this browser.');}
+    speakQueue(card,btn,voice,rate,token);
   }
   function feedback(card,message){
     let notice=card.querySelector('.ib-speech-feedback');
@@ -3258,6 +3298,8 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
       if(active&&active.closest('.q')===cycle.closest('.q'))play(active);
       return;
     }
+    const test=e.target.closest('#sheet .ib-audio-test');
+    if(test){e.preventDefault();play(test.closest('.q').querySelector('.ib-speak'),true);return;}
     const pause=e.target.closest('#sheet .ib-pause');
     if(pause&&!pause.disabled){
       if(speech.paused)speech.resume();else speech.pause();
