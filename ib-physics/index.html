@@ -3237,14 +3237,14 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
   function speakQueue(card,btn,voice,rate,token){
     if(token!==generation)return;
     const text=queue.shift();
-    if(!text){finishReading();return;}
+    if(!text){clearFeedback(card);finishReading();return;}
     const utterance=new SpeechSynthesisUtterance(text);
     // Let Chrome use its default voice if its list is not ready yet.
     if(voice){utterance.voice=voice;utterance.lang=voice.lang;}else utterance.lang='en-US';
     utterance.rate=rate;utterance.pitch=1;utterance.volume=1;
     current=utterance;
-    utterance.onstart=()=>{if(token===generation)btn.title='Reading aloud';};
-    utterance.onend=()=>{if(token===generation)speakQueue(card,btn,voice,rate,token);};
+    utterance.onstart=()=>{if(token===generation){btn.title='Reading aloud';feedback(card,'Audio started · check Chrome tab and device volume if you cannot hear it.');}};
+    utterance.onend=()=>{if(token===generation){clearFeedback(card);speakQueue(card,btn,voice,rate,token);}};
     utterance.onerror=(event)=>{
       if(token!==generation)return;
       const err=event.error||'unknown';
@@ -3252,7 +3252,7 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
       stop();
       feedback(card,'Audio unavailable ('+err+'). Check Chrome audio output and system voice settings.');
     };
-    try{speech.speak(utterance);}catch(err){stop();feedback(card,'Speech playback could not start in Chrome.');}
+    try{speech.speak(utterance);}catch(err){stop();feedback(card,'Speech playback could not start in Chrome: '+String(err.message||err));}
   }
   function finishReading(){
     current=null;active=null;queue=[];
@@ -3268,13 +3268,14 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
     clearFeedback(card);
     if(current||active||speech.speaking||speech.pending||speech.paused)stop();
     const panel=card.querySelector('.ib-audio-controls');
-    const voice=voiceFor(panel.querySelector('.ib-voice').value);
+    const voice=preview?null:voiceFor(panel.querySelector('.ib-voice').value);
     const rate=Number(panel.querySelector('.ib-rate').value)||1;
     queue=chunks(content);
     active=btn;
     const token=++generation;
     btn.setAttribute('aria-pressed','true');btn.textContent='🔊';btn.title='Reading aloud';
     updateControls();
+    feedback(card,'Starting English audio…');
     speakQueue(card,btn,voice,rate,token);
   }
   function feedback(card,message){
