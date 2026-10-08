@@ -2760,10 +2760,10 @@ function renderM(q){const long=q.o.some(o=>o.replace(/<[^>]+>/g,'').length>34);
   return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><div class="ib-speechbar" role="group" aria-label="Read aloud toolbar">
 <button type="button" class="ib-speak" aria-label="Read question aloud" title="Read question aloud" data-speak="${q.n}">🔊</button>
 <div class="ib-audio-controls" aria-label="Voice settings">
-<select class="ib-voice" aria-label="English voice" hidden><option value="0">British · Calm</option><option value="1">British · Clear</option><option value="2">American · Warm</option><option value="3">American · Crisp</option><option value="4">English · Gentle</option></select>
+<select class="ib-voice" aria-label="Select English voice" title="Choose an English voice"></select>
 <select class="ib-rate" aria-label="Reading speed" hidden><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select>
 <button type="button" class="ib-audio-test" title="Test audio" aria-label="Test audio">🧪</button>
-<button type="button" class="ib-voice-cycle" title="Change voice · British Calm" aria-label="Change voice · British Calm">🎙️</button>
+<button type="button" class="ib-voice-cycle" title="Choose an English voice" aria-label="Choose an English voice">🎙️</button>
 <button type="button" class="ib-speed-cycle" title="Change speed · 1×" aria-label="Change speed · 1×">⏩</button>
 <button type="button" class="ib-pause" aria-label="Pause reading" title="Pause reading" disabled>⏸️</button>
 <button type="button" class="ib-stop" aria-label="Stop reading" title="Stop reading" disabled>⏹️</button>
@@ -2774,10 +2774,10 @@ function renderS(q){
   return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><div class="ib-speechbar" role="group" aria-label="Read aloud toolbar">
 <button type="button" class="ib-speak" aria-label="Read question aloud" title="Read question aloud" data-speak="${q.n}">🔊</button>
 <div class="ib-audio-controls" aria-label="Voice settings">
-<select class="ib-voice" aria-label="English voice" hidden><option value="0">British · Calm</option><option value="1">British · Clear</option><option value="2">American · Warm</option><option value="3">American · Crisp</option><option value="4">English · Gentle</option></select>
+<select class="ib-voice" aria-label="Select English voice" title="Choose an English voice"></select>
 <select class="ib-rate" aria-label="Reading speed" hidden><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select>
 <button type="button" class="ib-audio-test" title="Test audio" aria-label="Test audio">🧪</button>
-<button type="button" class="ib-voice-cycle" title="Change voice · British Calm" aria-label="Change voice · British Calm">🎙️</button>
+<button type="button" class="ib-voice-cycle" title="Choose an English voice" aria-label="Choose an English voice">🎙️</button>
 <button type="button" class="ib-speed-cycle" title="Change speed · 1×" aria-label="Change speed · 1×">⏩</button>
 <button type="button" class="ib-pause" aria-label="Pause reading" title="Pause reading" disabled>⏸️</button>
 <button type="button" class="ib-stop" aria-label="Stop reading" title="Stop reading" disabled>⏹️</button>
@@ -3142,6 +3142,10 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
 #sheet .ib-audio-controls .ib-stop:not(:disabled):hover{background:#ffc9d1!important}
 #sheet .ib-audio-controls button:disabled{opacity:.55!important}
 </style><style>
+/* Visible voice dropdown on microphone click; closed by default. */
+#sheet .ib-speechbar{position:relative}
+#sheet .ib-speechbar .ib-voice{display:none!important}
+#sheet .ib-speechbar .ib-voice.ib-voice-open{display:block!important;position:absolute;z-index:100;top:100%;left:35px;width:min(295px,80vw);max-width:80vw;background:var(--sheet);border:1px solid var(--line);color:var(--ink);padding:10px;border-radius:10px;box-shadow:0 12px 30px rgba(0,0,0,.18);font-size:13px}
 /* Single-line icon-only speech toolbar */
 #sheet .ib-speechbar .ib-audio-test{background:#fff5dc!important;color:#815300!important;border:1px solid #f1d78c!important}
 #sheet .ib-speech-feedback{font:500 12px var(--sans);color:var(--red);margin:2px 0 10px;padding:8px 10px;border-radius:8px;background:var(--red-soft)}
@@ -3166,13 +3170,28 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
   if (!window.speechSynthesis || !window.SpeechSynthesisUtterance) return;
   const engine=window.speechSynthesis;
   let active=null, utterance=null;
-  const values={voice:0,rate:1};
+  const voiceChoices=new Map();
   const voices=()=>engine.getVoices().filter(v=>/^en(?:-|$)/i.test(v.lang));
-  function voiceAt(i){
-    const v=voices(),gb=v.filter(x=>x.lang.toLowerCase()==='en-gb'),us=v.filter(x=>x.lang.toLowerCase()==='en-us');
-    const picks=[gb[0],gb[1]||gb[0],us[0],us[1]||us[0],v[0]];
-    return picks[i]||null;
+  function populateVoiceMenus(){
+    const all=voices();
+    document.querySelectorAll('#sheet .ib-voice').forEach(sel=>{
+      const old=sel.value;
+      sel.replaceChildren();
+      const def=new Option('Chrome default voice','default');
+      sel.add(def);
+      const ranked=[...all].sort((a,b)=>{
+        const priority=v=>/^en-GB/i.test(v.lang)?0:/^en-US/i.test(v.lang)?1:2;
+        return priority(a)-priority(b);
+      });
+      ranked.slice(0,5).forEach(v=>{
+        const key=v.voiceURI||v.name+'-'+v.lang;
+        sel.add(new Option(v.name+' · '+v.lang,key));
+        voiceChoices.set(key,v);
+      });
+      if([...sel.options].some(o=>o.value===old))sel.value=old;
+    });
   }
+  function voiceAt(sel){return voiceChoices.get(sel.value)||null;}
   function notice(card,message){
     if(!card)return;
     let el=card.querySelector('.ib-speech-feedback');
@@ -3223,9 +3242,9 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
     // Keep the same direct Chrome speech API path as the verified console test.
     const u=new SpeechSynthesisUtterance(text);
     const bar=btn.closest('.ib-speechbar');
-    const selected=Number(bar.querySelector('.ib-voice').value);
+    const voiceSelect=bar.querySelector('.ib-voice');
     // The test intentionally uses the browser default voice.
-    if(!isTest){const v=voiceAt(selected);if(v){u.voice=v;u.lang=v.lang;}}
+    if(!isTest){const v=voiceAt(voiceSelect);if(v){u.voice=v;u.lang=v.lang;}}
     u.rate=Number(bar.querySelector('.ib-rate').value)||1;
     u.volume=1;u.pitch=1;
     active=btn;utterance=u;
@@ -3243,18 +3262,37 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
       if(btn.classList.contains('ib-audio-test')){play(btn.closest('.q').querySelector('.ib-speak'),true);return;}
       if(btn.classList.contains('ib-pause')&&!btn.disabled){if(engine.paused)engine.resume();else engine.pause();controls();return;}
       if(btn.classList.contains('ib-stop')){reset();return;}
-      if(btn.classList.contains('ib-voice-cycle')||btn.classList.contains('ib-speed-cycle')){
-        const voice=btn.classList.contains('ib-voice-cycle');
-        const sel=btn.closest('.ib-speechbar').querySelector(voice?'.ib-voice':'.ib-rate');
+      if(btn.classList.contains('ib-voice-cycle')){
+        const sel=btn.closest('.ib-speechbar').querySelector('.ib-voice');
+        populateVoiceMenus();
+        sel.classList.toggle('ib-voice-open');
+        if(sel.classList.contains('ib-voice-open'))sel.focus();
+        return;
+      }
+      if(btn.classList.contains('ib-speed-cycle')){
+        const sel=btn.closest('.ib-speechbar').querySelector('.ib-rate');
         sel.selectedIndex=(sel.selectedIndex+1)%sel.options.length;
-        const label=(voice?'Voice: ':'Speed: ')+sel.options[sel.selectedIndex].text;
-        btn.title=btn.setAttribute('aria-label',label)||label;
+        btn.title=btn.setAttribute('aria-label','Speed: '+sel.options[sel.selectedIndex].text)||'Speed';
         if(active&&active.closest('.ib-speechbar')===btn.closest('.ib-speechbar'))play(active);
         return;
       }
     }
     if(e.target.closest('#ibPrev,#ibNext,#ibQnav,#markBtn,#again,#retry,#buildBtn'))reset();
   });
+  document.addEventListener('change',e=>{
+    if(e.target.matches('#sheet .ib-voice')){
+      const sel=e.target;
+      const bar=sel.closest('.ib-speechbar');
+      const icon=bar.querySelector('.ib-voice-cycle');
+      const name=sel.options[sel.selectedIndex]?.text||'Chrome default';
+      icon.title='Selected voice: '+name;
+      icon.setAttribute('aria-label','Selected voice: '+name);
+      sel.classList.remove('ib-voice-open');
+      if(active&&active.closest('.ib-speechbar')===bar)play(active);
+    }
+  });
+  populateVoiceMenus();
+  if('onvoiceschanged' in engine)engine.addEventListener('voiceschanged',populateVoiceMenus);
   window.addEventListener('beforeunload',()=>reset());
 })();
 </script>
