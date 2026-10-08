@@ -3165,165 +3165,122 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
 @media(max-width:410px){#sheet .ib-speechbar{gap:4px!important;padding:6px!important}#sheet .ib-speechbar .ib-audio-controls{gap:4px!important}#sheet .ib-speechbar button{width:36px!important;height:36px!important;min-width:36px!important;min-height:36px!important;font-size:17px!important}}
 </style>
 <script>
-/* IB question read-aloud: browser-native speech, one click = one utterance. */
+/* Prepenroll IB speech — same direct synthesis as verified audio-isolation test. */
 (function(){
-  if (!window.speechSynthesis || !window.SpeechSynthesisUtterance) return;
-  const engine=window.speechSynthesis;
-  let active=null, utterance=null;
-  const voiceChoices=new Map();
-  const voices=()=>engine.getVoices().filter(v=>/^en(?:-|$)/i.test(v.lang));
-  function populateVoiceMenus(){
-    const all=voices();
-    document.querySelectorAll('#sheet .ib-voice').forEach(sel=>{
-      const old=sel.value;
-      sel.replaceChildren();
-      const def=new Option('Chrome default voice','default');
-      sel.add(def);
-      const ranked=[...all].sort((a,b)=>{
-        const priority=v=>/^en-GB/i.test(v.lang)?0:/^en-US/i.test(v.lang)?1:2;
-        return priority(a)-priority(b);
-      });
-      ranked.slice(0,5).forEach(v=>{
-        const key=v.voiceURI||v.name+'-'+v.lang;
-        sel.add(new Option(v.name+' · '+v.lang,key));
-        voiceChoices.set(key,v);
-      });
-      if([...sel.options].some(o=>o.value===old))sel.value=old;
-    });
-  }
-  function voiceAt(sel){return voiceChoices.get(sel.value)||null;}
-  function notice(card,message){
+  if (!('speechSynthesis' in window) || !('SpeechSynthesisUtterance' in window)) return;
+  const synth=window.speechSynthesis;
+  let utterance=null,active=null;
+  function message(card,msg){
     if(!card)return;
-    let el=card.querySelector('.ib-speech-feedback');
-    if(!message){if(el)el.remove();return;}
-    if(!el){el=document.createElement('div');el.className='ib-speech-feedback';el.setAttribute('role','status');card.querySelector('.ib-speechbar')?.insertAdjacentElement('afterend',el);}
-    if(el)el.textContent=message;
+    let n=card.querySelector('.ib-speech-feedback');
+    if(!msg){n?.remove();return;}
+    if(!n){n=document.createElement('div');n.className='ib-speech-feedback';n.setAttribute('role','status');card.querySelector('.ib-speechbar').insertAdjacentElement('afterend',n);}
+    n.textContent=msg;
   }
-  function controls(){
+  function buttons(){
     document.querySelectorAll('#sheet .ib-speechbar').forEach(bar=>{
-      const playing=!!active && active.closest('.ib-speechbar')===bar;
-      const pause=bar.querySelector('.ib-pause'), stop=bar.querySelector('.ib-stop');
-      pause.disabled=stop.disabled=!playing;
-      pause.textContent=playing&&engine.paused?'▶️':'⏸️';
-      pause.title=pause.getAttribute('aria-label')=playing&&engine.paused?'Resume reading':'Pause reading';
+      const on=!!active&&bar===active.closest('.ib-speechbar');
+      const pause=bar.querySelector('.ib-pause'),stop=bar.querySelector('.ib-stop');
+      pause.disabled=stop.disabled=!on;
+      pause.textContent=on&&synth.paused?'▶️':'⏸️';
+      pause.title=pause.getAttribute('aria-label')=on&&synth.paused?'Resume reading':'Pause reading';
+      const play=bar.querySelector('.ib-speak');
+      play.setAttribute('aria-pressed',String(on));
+      play.title=on?'Stop reading':'Read question aloud';
     });
   }
-  function reset(cancel=true){
-    const old=active;active=null;utterance=null;
-    if(cancel)engine.cancel();
-    if(old){old.textContent='🔊';old.title='Read question aloud';old.setAttribute('aria-label','Read question aloud');old.setAttribute('aria-pressed','false');}
-    controls();
+  function stop(){
+    const previous=active;
+    active=null;utterance=null;
+    if(synth.speaking||synth.pending||synth.paused)synth.cancel();
+    if(previous)message(previous.closest('.q'),'');
+    buttons();
   }
-  function speechText(card){
+  function textOf(card){
     const clean=e=>e?.textContent?.replace(/\s+/g,' ').trim()||'';
-    const out=[clean(card.querySelector('.stem'))];
-    card.querySelectorAll('.opt').forEach((opt,i)=>out.push('Option '+String.fromCharCode(65+i)+'. '+clean(opt.querySelector('label span:last-child'))));
-    card.querySelectorAll('.part .pq').forEach((part,i)=>{
-      const clone=part.cloneNode(true);
-      clone.querySelectorAll('.tag').forEach(e=>e.remove());
-      out.push('Part '+String.fromCharCode(97+i)+'. '+clean(clone));
+    const pieces=[clean(card.querySelector('.stem'))];
+    card.querySelectorAll('.opt').forEach((el,i)=>pieces.push('Option '+String.fromCharCode(65+i)+'. '+clean(el.querySelector('label span:last-child'))));
+    card.querySelectorAll('.part .pq').forEach((el,i)=>{
+      const temp=el.cloneNode(true);
+      temp.querySelectorAll('.tag').forEach(n=>n.remove());
+      pieces.push('Part '+String.fromCharCode(97+i)+'. '+clean(temp));
     });
-    return out.filter(Boolean).join('. ')
+    return pieces.filter(Boolean).join('. ')
       .replace(/m\s*s[⁻−-]²/g,'metres per second squared')
       .replace(/m\s*s[⁻−-]¹/g,'metres per second')
+      .replace(/⁻²/g,' to the power of negative two')
+      .replace(/⁻¹/g,' to the power of negative one')
       .replace(/²/g,' squared').replace(/³/g,' cubed')
-      .replace(/⁻²/g,' to the power of minus two').replace(/⁻¹/g,' to the power of minus one')
       .replace(/Δ/g,'delta ').replace(/θ/g,'theta ').replace(/λ/g,'lambda ')
       .replace(/μ/g,'mu ').replace(/π/g,'pi ').replace(/×/g,' times ')
       .replace(/÷/g,' divided by ').replace(/=/g,' equals ')
       .replace(/\s+/g,' ').trim();
   }
-  function play(btn,isTest=false){
-    const card=btn.closest('.q');
-    const text=isTest?'Hello. This is the Prepenroll English voice test.':speechText(card);
-    // Do not cancel the browser speech engine before the first utterance.
-    if(active || utterance || engine.speaking || engine.pending || engine.paused) reset();
-    else reset(false);
-    notice(card,'');
-    if(!text){notice(card,'There is no question text to read.');return;}
-    // Keep the same direct Chrome speech API path as the verified console test.
-    const u=new SpeechSynthesisUtterance(text);
-    const bar=btn.closest('.ib-speechbar');
-    const voiceSelect=bar.querySelector('.ib-voice');
-    // The test intentionally uses the browser default voice.
-    if(!isTest){const v=voiceAt(voiceSelect);if(v){u.voice=v;u.lang=v.lang;}}
-    u.rate=Number(bar.querySelector('.ib-rate').value)||1;
-    u.volume=1;u.pitch=1;
-    active=btn;utterance=u;
-    btn.setAttribute('aria-pressed','true');btn.title='Stop reading';
-    u.onstart=()=>{if(utterance===u)notice(card,'Reading aloud');};
-    u.onend=()=>{if(utterance===u){notice(card,'');reset(false);}};
-    u.onerror=e=>{if(utterance===u){reset(false);notice(card,'Speech error: '+(e.error||'unknown')+'.');}};
-    controls();
-    try{engine.speak(u);}catch(e){reset(false);notice(card,'Speech error: '+(e.message||String(e)));}
+  function loadVoices(sel){
+    if(!sel || sel.options.length>0)return;
+    sel.add(new Option('Chrome default','default'));
+    synth.getVoices().filter(v=>/^en(?:-|$)/i.test(v.lang)).slice(0,5)
+      .forEach(v=>sel.add(new Option(v.name+' · '+v.lang,v.voiceURI||v.name)));
   }
-  // Capture direct user clicks before other Studio handlers.
-  // Keep the proven Chrome Console speak() path for default audio.
-  document.addEventListener('click',function(e){
-    const button=e.target.closest('#sheet .ib-speak, #sheet .ib-audio-test');
-    if(!button)return;
-    e.preventDefault();
-    e.stopImmediatePropagation();
-    const card=button.closest('.q');
-    const isTest=button.classList.contains('ib-audio-test');
-    const speaker=card.querySelector('.ib-speak');
-    const text=isTest?'Hello, welcome to Prepenroll Physics.':speechText(card);
-    if(!text){notice(card,'Question text is not available to read.');return;}
-    if(active===speaker && !isTest){reset();return;}
-    if(active||engine.speaking||engine.pending||engine.paused)engine.cancel();
-    if(active)reset(false);
-    notice(card,'');
+  function speak(card,isTest=false){
+    const text=isTest?'Hello, welcome to Prepenroll Physics.':textOf(card);
+    if(!text){message(card,'No text available for speech.');return;}
+    if(active||synth.speaking||synth.pending||synth.paused)stop();
+    const bar=card.querySelector('.ib-speechbar');
+    const sel=bar.querySelector('.ib-voice');
+    loadVoices(sel);
+    // Deliberately mirror the verified GitHub test: create a fresh utterance, speak directly.
     const u=new SpeechSynthesisUtterance(text);
-    const sel=card.querySelector('.ib-voice');
-    const v=voiceAt(sel);
-    if(!isTest && sel.value!=='default' && v){u.voice=v;u.lang=v.lang;}
-    // No rate/pitch/volume overrides for default voice, matching the working Console test.
-    const rate=Number(card.querySelector('.ib-rate').value);
+    if(!isTest && sel.value!=='default'){
+      const voice=synth.getVoices().find(v=>(v.voiceURI||v.name)===sel.value);
+      if(voice){u.voice=voice;u.lang=voice.lang;}
+    }
+    const rate=Number(bar.querySelector('.ib-rate').value)||1;
     if(rate!==1)u.rate=rate;
-    active=speaker;utterance=u;speaker.setAttribute('aria-pressed','true');
-    controls();
-    u.onend=()=>{if(utterance===u){notice(card,'');reset(false);}};
-    u.onerror=err=>{if(utterance===u){reset(false);notice(card,'Speech error: '+(err.error||'unknown'));}};
-    engine.speak(u);
-  },true);
+    utterance=u;active=bar.querySelector('.ib-speak');
+    buttons();
+    message(card,'Starting audio…');
+    u.onstart=()=>{if(utterance===u)message(card,'Reading aloud');};
+    u.onend=()=>{if(utterance===u){active=null;utterance=null;message(card,'');buttons();}};
+    u.onerror=e=>{if(utterance===u){active=null;utterance=null;message(card,'Speech error: '+(e.error||'unknown'));buttons();}};
+    try{synth.speak(u);}catch(e){active=null;utterance=null;message(card,'Speech error: '+e.message);buttons();}
+  }
   document.addEventListener('click',e=>{
-    const btn=e.target.closest('#sheet .ib-speechbar button');
-    if(btn){
-      if(btn.classList.contains('ib-speak')){if(active===btn)reset();else play(btn);return;}
-      if(btn.classList.contains('ib-audio-test')){play(btn.closest('.q').querySelector('.ib-speak'),true);return;}
-      if(btn.classList.contains('ib-pause')&&!btn.disabled){if(engine.paused)engine.resume();else engine.pause();controls();return;}
-      if(btn.classList.contains('ib-stop')){reset();return;}
-      if(btn.classList.contains('ib-voice-cycle')){
-        const sel=btn.closest('.ib-speechbar').querySelector('.ib-voice');
-        populateVoiceMenus();
-        sel.classList.toggle('ib-voice-open');
-        if(sel.classList.contains('ib-voice-open'))sel.focus();
-        return;
+    const bar=e.target.closest('#sheet .ib-speechbar');
+    if(bar){
+      const b=e.target.closest('button');
+      if(!b)return;
+      const card=bar.closest('.q');
+      if(b.classList.contains('ib-speak')){e.preventDefault();if(active===b)stop();else speak(card);return;}
+      if(b.classList.contains('ib-audio-test')){e.preventDefault();speak(card,true);return;}
+      if(b.classList.contains('ib-pause')){if(!b.disabled){if(synth.paused)synth.resume();else synth.pause();buttons();}return;}
+      if(b.classList.contains('ib-stop')){stop();return;}
+      if(b.classList.contains('ib-voice-cycle')){
+        const sel=bar.querySelector('.ib-voice');loadVoices(sel);sel.classList.toggle('ib-voice-open');if(sel.classList.contains('ib-voice-open'))sel.focus();return;
       }
-      if(btn.classList.contains('ib-speed-cycle')){
-        const sel=btn.closest('.ib-speechbar').querySelector('.ib-rate');
-        sel.selectedIndex=(sel.selectedIndex+1)%sel.options.length;
-        btn.title=btn.setAttribute('aria-label','Speed: '+sel.options[sel.selectedIndex].text)||'Speed';
-        if(active&&active.closest('.ib-speechbar')===btn.closest('.ib-speechbar'))play(active);
+      if(b.classList.contains('ib-speed-cycle')){
+        const sel=bar.querySelector('.ib-rate');sel.selectedIndex=(sel.selectedIndex+1)%sel.options.length;
+        b.title='Speed: '+sel.options[sel.selectedIndex].text;
+        b.setAttribute('aria-label',b.title);
         return;
       }
     }
-    if(e.target.closest('#ibPrev,#ibNext,#ibQnav,#markBtn,#again,#retry,#buildBtn'))reset();
+    if(e.target.closest('#ibPrev,#ibNext,#ibQnav,#markBtn,#again,#retry,#buildBtn'))stop();
   });
   document.addEventListener('change',e=>{
     if(e.target.matches('#sheet .ib-voice')){
-      const sel=e.target;
-      const bar=sel.closest('.ib-speechbar');
-      const icon=bar.querySelector('.ib-voice-cycle');
-      const name=sel.options[sel.selectedIndex]?.text||'Chrome default';
-      icon.title='Selected voice: '+name;
-      icon.setAttribute('aria-label','Selected voice: '+name);
-      sel.classList.remove('ib-voice-open');
-      if(active&&active.closest('.ib-speechbar')===bar)play(active);
+      const sel=e.target;sel.classList.remove('ib-voice-open');
+      const b=sel.closest('.ib-speechbar').querySelector('.ib-voice-cycle');
+      b.title='Selected voice: '+sel.options[sel.selectedIndex].text;
+      b.setAttribute('aria-label',b.title);
     }
   });
-  populateVoiceMenus();
-  if('onvoiceschanged' in engine)engine.addEventListener('voiceschanged',populateVoiceMenus);
-  window.addEventListener('beforeunload',()=>reset());
+  synth.addEventListener?.('voiceschanged',()=>{
+    document.querySelectorAll('#sheet .ib-voice').forEach(sel=>{
+      const current=sel.value;sel.replaceChildren();loadVoices(sel);
+      if([...sel.options].some(opt=>opt.value===current))sel.value=current;
+    });
+  });
+  window.addEventListener('beforeunload',stop);
 })();
 </script>
