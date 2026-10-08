@@ -3109,17 +3109,17 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
     if(active){active.setAttribute('aria-pressed','false');active.innerHTML='🔊 <span>Listen</span>';}
     active=null;current=null;
   }
-  function plain(el){return el ? el.textContent.replace(/\\s+/g,' ').trim() : '';}
+  function plain(el){return el ? el.textContent.replace(/\s+/g,' ').trim() : '';}
   function readable(text){
     return text
-      .replace(/m\\s*s[⁻−-]²/g,'metres per second squared')
-      .replace(/m\\s*s[⁻−-]¹/g,'metres per second')
-      .replace(/\\bm\\s*\\/\\s*s²/g,'metres per second squared')
-      .replace(/\\bm\\s*\\/\\s*s\\b/g,'metres per second')
-      .replace(/\\bkg\\b/g,'kilograms').replace(/\\bcm\\b/g,'centimetres')
-      .replace(/\\bmm\\b/g,'millimetres').replace(/\\bkm\\b/g,'kilometres')
-      .replace(/\\bHz\\b/g,'hertz').replace(/\\bN\\b/g,'newtons').replace(/\\bJ\\b/g,'joules')
-      .replace(/\\bW\\b/g,'watts').replace(/\\bV\\b/g,'volts')
+      .replace(/m\s*s[⁻−-]²/g,'metres per second squared')
+      .replace(/m\s*s[⁻−-]¹/g,'metres per second')
+      .replace(/\bm\s*\/\s*s²/g,'metres per second squared')
+      .replace(/\bm\s*\/\s*s\b/g,'metres per second')
+      .replace(/\bkg\b/g,'kilograms').replace(/\bcm\b/g,'centimetres')
+      .replace(/\bmm\b/g,'millimetres').replace(/\bkm\b/g,'kilometres')
+      .replace(/\bHz\b/g,'hertz').replace(/\bN\b/g,'newtons').replace(/\bJ\b/g,'joules')
+      .replace(/\bW\b/g,'watts').replace(/\bV\b/g,'volts')
       .replace(/Δ/g,'delta ').replace(/θ/g,'theta').replace(/λ/g,'lambda').replace(/μ/g,'mu ')
       .replace(/π/g,'pi').replace(/ρ/g,'rho').replace(/σ/g,'sigma')
       .replace(/²/g,' squared').replace(/³/g,' cubed')
@@ -3127,7 +3127,7 @@ function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{con
       .replace(/≤/g,' less than or equal to ').replace(/≥/g,' greater than or equal to ')
       .replace(/≈/g,' approximately ').replace(/×/g,' times ').replace(/÷/g,' divided by ')
       .replace(/=/g,' equals ').replace(/°/g,' degrees ')
-      .replace(/\\s+/g,' ').trim();
+      .replace(/\s+/g,' ').trim();
   }
   function questionText(card){
     const parts=[plain(card.querySelector('.stem'))];
