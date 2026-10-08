@@ -2757,11 +2757,11 @@ function finishHTML(){return marked
   ?`<p>Marked. MCQs were checked as you answered them. Tick or untick mark-scheme points in written answers to adjust your score.</p><button class="btn primary" type="button" id="downloadReport">Download Scorecard</button><button class="btn" type="button" id="retry">Retry this paper</button><button class="btn" type="button" id="again">New paper, same settings</button><div class="report-note">Your scorecard includes question-wise marks earned, marks lost, theme breakdown and time taken. Open it and choose Print → Save as PDF for a PDF copy.</div>`
   :`<p>When you finish, multiple-choice answers are marked automatically. For written answers you compare your work with the mark scheme and tick the points you made.</p><button class="btn red" type="button" id="markBtn">Finish and mark</button>`}
 function renderM(q){const long=q.o.some(o=>o.replace(/<[^>]+>/g,'').length>34);
-  return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><p class="stem">${q.q}</p>${q.fig||''}
+  return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><button type="button" class="ib-speak" aria-label="Read question ${q.n} aloud in English" title="Read question aloud" data-speak="${q.n}">🔊 <span>Listen</span></button><p class="stem">${q.q}</p>${q.fig||''}
   <div class="opts${long?' long':''}" role="radiogroup" aria-label="Question ${q.n} options">${q.o.map((o,i)=>`<div class="opt" data-i="${i}"><input type="radio" name="m${q.n}" id="m${q.n}_${i}" value="${i}"><label for="m${q.n}_${i}"><span class="L">${LET[i]}</span><span>${o}</span></label></div>`).join('')}</div>
   <div class="fb" hidden></div></div><div class="mcol"><span class="lbl">mark</span><span>[1]</span></div></div>`}
 function renderS(q){
-  return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><p class="stem">${q.intro}</p>${q.fig||''}
+  return `<div class="q theme-${q.t}" data-q="${q.n}"><div class="qn">${q.n}</div><div class="qb"><span class="tag">${tagOf(q)}</span><button type="button" class="ib-speak" aria-label="Read question ${q.n} aloud in English" title="Read question aloud" data-speak="${q.n}">🔊 <span>Listen</span></button><p class="stem">${q.intro}</p>${q.fig||''}
   ${q.parts.map((p,pi)=>{const id=`${q.n}_${pi}`;return `<div class="part" data-p="${id}"><p class="pq"><span class="pl2">(${PL[pi]})</span>${p.q} <span class="tag">[${p.m}]</span></p>
     <label class="vh" for="w${id}">${p.ans?'Working':'Answer'} for ${q.n}(${PL[pi]})</label>
     <textarea class="lines" id="w${id}" rows="${p.ans?2:Math.max(2,p.m+1)}" placeholder="${p.ans?'Working':''}"></textarea>
@@ -3091,3 +3091,81 @@ function peCalcBack(){const s=document.getElementById('pe-calc-screen');s.value=
 function peCalcEqual(){const s=document.getElementById('pe-calc-screen');try{const e=s.value;if(!/^[0-9+\-*/().\s]+$/.test(e))throw 0;s.value=String(Function('"use strict";return ('+e+')')())}catch(_){s.value='Error'}}
 </script>
 
+<style>
+/* Accessible IB Read Aloud: scoped to question cards only */
+#sheet .ib-speak{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--field);color:var(--blue);border-radius:999px;padding:7px 12px;margin:8px 0 4px;font:600 12px var(--sans);cursor:pointer;transition:background .15s,transform .15s}
+#sheet .ib-speak:hover{background:var(--blue-soft);transform:translateY(-1px)}
+#sheet .ib-speak:focus-visible{outline:3px solid var(--brand-green);outline-offset:3px}
+#sheet .ib-speak[aria-pressed="true"]{background:var(--blue);color:var(--blue-ink)}
+</style>
+<script>
+/* IB Physics question-only text-to-speech. No question bank changes. */
+(function(){
+  if(!('speechSynthesis' in window)||!('SpeechSynthesisUtterance' in window))return;
+  const speech=window.speechSynthesis;
+  let current=null,active=null;
+  function stop(){
+    speech.cancel();
+    if(active){active.setAttribute('aria-pressed','false');active.innerHTML='🔊 <span>Listen</span>';}
+    active=null;current=null;
+  }
+  function plain(el){return el ? el.textContent.replace(/\\s+/g,' ').trim() : '';}
+  function readable(text){
+    return text
+      .replace(/m\\s*s[⁻−-]²/g,'metres per second squared')
+      .replace(/m\\s*s[⁻−-]¹/g,'metres per second')
+      .replace(/\\bm\\s*\\/\\s*s²/g,'metres per second squared')
+      .replace(/\\bm\\s*\\/\\s*s\\b/g,'metres per second')
+      .replace(/\\bkg\\b/g,'kilograms').replace(/\\bcm\\b/g,'centimetres')
+      .replace(/\\bmm\\b/g,'millimetres').replace(/\\bkm\\b/g,'kilometres')
+      .replace(/\\bHz\\b/g,'hertz').replace(/\\bN\\b/g,'newtons').replace(/\\bJ\\b/g,'joules')
+      .replace(/\\bW\\b/g,'watts').replace(/\\bV\\b/g,'volts')
+      .replace(/Δ/g,'delta ').replace(/θ/g,'theta').replace(/λ/g,'lambda').replace(/μ/g,'mu ')
+      .replace(/π/g,'pi').replace(/ρ/g,'rho').replace(/σ/g,'sigma')
+      .replace(/²/g,' squared').replace(/³/g,' cubed')
+      .replace(/⁻¹/g,' to the power of minus one').replace(/⁻²/g,' to the power of minus two')
+      .replace(/≤/g,' less than or equal to ').replace(/≥/g,' greater than or equal to ')
+      .replace(/≈/g,' approximately ').replace(/×/g,' times ').replace(/÷/g,' divided by ')
+      .replace(/=/g,' equals ').replace(/°/g,' degrees ')
+      .replace(/\\s+/g,' ').trim();
+  }
+  function questionText(card){
+    const parts=[plain(card.querySelector('.stem'))];
+    const options=[...card.querySelectorAll('.opt label')];
+    if(options.length)options.forEach((el,i)=>parts.push('Option '+String.fromCharCode(65+i)+'. '+plain(el.querySelector('span:last-child'))));
+    const structured=[...card.querySelectorAll('.part .pq')];
+    structured.forEach((el,i)=>{
+      const clone=el.cloneNode(true);
+      clone.querySelectorAll('.tag').forEach(n=>n.remove());
+      parts.push('Part '+String.fromCharCode(97+i)+'. '+plain(clone));
+    });
+    return readable(parts.filter(Boolean).join('. '));
+  }
+  function englishVoice(){
+    const voices=speech.getVoices().filter(v=>/^en([-_]|$)/i.test(v.lang));
+    return voices.find(v=>/^en-GB$/i.test(v.lang)&&/natural|premium|google|samantha|daniel/i.test(v.name))
+      ||voices.find(v=>/^en-GB$/i.test(v.lang))||voices.find(v=>/^en-US$/i.test(v.lang))||voices[0]||null;
+  }
+  document.addEventListener('click',function(e){
+    const btn=e.target.closest('.ib-speak');
+    if(btn){
+      e.preventDefault();
+      if(btn===active){stop();return;}
+      stop();
+      const card=btn.closest('.q'),text=card&&questionText(card);
+      if(!text)return;
+      const utterance=new SpeechSynthesisUtterance(text);
+      utterance.lang='en-GB';utterance.rate=.92;utterance.pitch=1;
+      const voice=englishVoice();if(voice)utterance.voice=voice;
+      current=utterance;active=btn;
+      btn.setAttribute('aria-pressed','true');btn.innerHTML='■ <span>Stop</span>';
+      utterance.onend=()=>{if(current===utterance)stop();};
+      utterance.onerror=()=>{if(current===utterance)stop();};
+      speech.speak(utterance);
+      return;
+    }
+    if(e.target.closest('#ibPrev,#ibNext,#ibQnav,#markBtn,#again,#retry,#buildBtn'))stop();
+  });
+  window.addEventListener('beforeunload',stop);
+})();
+</script>
