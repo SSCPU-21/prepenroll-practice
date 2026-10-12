@@ -1057,6 +1057,11 @@ MCQ.push(...X('B',[
 {f:r=>{const k=r.p([2,3,4]);return num(r,`The surface temperature of a star is ${k} times that of the Sun and its radius is the same. What is the ratio of its luminosity to the Sun's?`,k**4,[k,k*k,k**3],'',`L ∝ R²T⁴, so the ratio is ${k}⁴ = ${k**4}.`)}},
 {f:r=>{const k=r.p([2,5,10]),t=r.p([2,3]);return num(r,`Star X has ${k} times the radius of star Y and ${t===2?'half':'one-third'} of its surface temperature. What is L_X/L_Y?`,k*k/t**4,[k/t**4,k*k/t,k*k*t**4],'',`L ∝ R²T⁴ = ${k}² × (1/${t})⁴ = ${fmt(k*k/t**4)}.`)}},
 '@B.2',
+/* Reviewed thermal-radiation questions from supplied worksheet Q24–Q25.
+   Q23 is already present in B.1; no duplicate inserted.
+   Q24 assumes opaque grey-body absorption with absorptivity = emissivity. */
+[1,`Body X has emissivity e and kelvin temperature T. Its surroundings radiate as a blackbody at kelvin temperature θ. Assuming X behaves as a grey body, what is the intensity of thermal radiation absorbed by X?`,`eσθ⁴`,[`eσ(T⁴ − θ⁴)`,`σθ⁴`,`eσT⁴`],`The incident intensity is σθ⁴. By Kirchhoff's law, the grey-body absorptivity equals e, so absorbed intensity = eσθ⁴. The expression eσ(T⁴ − θ⁴) gives net outward radiation, not absorption.`],
+[1,`A perfect blackbody X is at kelvin temperature T. Its surroundings radiate as a blackbody at kelvin temperature θ. What is the intensity of radiation reflected by X?`,`zero`,[`σθ⁴`,`σT⁴`,`σ(T⁴ − θ⁴)`],`An ideal blackbody absorbs all incident radiation, so its reflectivity is zero. Its own emitted thermal radiation is not reflected radiation.`],
 [0,`What is albedo?`,`the fraction of incident radiation that is reflected (scattered) by a surface`,[`the fraction of radiation absorbed`,`the power emitted per unit area`,`the temperature of a planet`],`Albedo = reflected power ÷ incident power.`],
 [0,`Which surface has the highest albedo?`,`fresh snow`,[`ocean`,`forest`,`asphalt`],`Snow reflects most incident sunlight (albedo up to 0.9).`],
 [0,`What is emissivity?`,`the ratio of the power emitted by a body to the power emitted by a black body of the same area and temperature`,[`the fraction of radiation reflected`,`the power per unit area from a black body`,`the temperature at which a body emits`],`0 ≤ e ≤ 1; e = 1 for a black body.`],
