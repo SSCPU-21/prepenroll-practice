@@ -3184,12 +3184,36 @@ function status(card,text){
   if(!el){el=document.createElement('div');el.className='ib-speech-feedback';el.setAttribute('role','status');card.querySelector('.ib-audio-controls').insertAdjacentElement('afterend',el);}
   el.textContent=text;
 }
+function spokenMath(input){
+  const digits={'⁰':'0','¹':'1','²':'2','³':'3','⁴':'4','⁵':'5','⁶':'6','⁷':'7','⁸':'8','⁹':'9','⁻':'-','⁺':'+'};
+  return input
+    .replace(/10\s*(?:\^\s*\{?\s*([+\-−]?\d+)\s*\}?|([⁻⁺⁰¹²³⁴⁵⁶⁷⁸⁹]+))/g,(_,plain,sup)=>{
+      const exp=(plain||Array.from(sup).map(c=>digits[c]||c).join('')).replace('−','-');
+      return ' ten to the power of '+(exp[0]==='-'?'minus '+exp.slice(1):exp[0]==='+'?'plus '+exp.slice(1):exp)+' ';
+    })
+    .replace(/([A-Za-zΩµμ])([⁻⁺⁰¹²³⁴⁵⁶⁷⁸⁹]+)/g,(_,unit,sup)=>{
+      const exp=Array.from(sup).map(c=>digits[c]||c).join('');
+      if(exp==='2')return unit+' squared';
+      if(exp==='3')return unit+' cubed';
+      return unit+' to the power of '+(exp[0]==='-'?'minus '+exp.slice(1):exp);
+    })
+    .replace(/([A-Za-zΩµμ])\s*\^\s*\{?\s*([+\-−]?\d+)\s*\}?/g,(_,unit,exp)=>unit+' to the power of '+(exp[0]==='-'||exp[0]==='−'?'minus '+exp.slice(1):exp))
+    .replace(/([⁻⁺⁰¹²³⁴⁵⁶⁷⁸⁹]+)/g,(_,sup)=>' to the power of '+Array.from(sup).map(c=>digits[c]||c).join('').replace(/^-/,'minus '))
+    .replace(/×/g,' times ').replace(/=/g,' equals ')
+    .replace(/\s+/g,' ').trim();
+}
 function question(card){
-  const txt=x=>x?.textContent?.replace(/\\s+/g,' ').trim()||'';
+  const txt=x=>x?.textContent?.replace(/\s+/g,' ').trim()||'';
   const fragments=[txt(card.querySelector('.stem'))];
   card.querySelectorAll('.opt').forEach((opt,i)=>fragments.push('Option '+String.fromCharCode(65+i)+'. '+txt(opt.querySelector('label span:last-child'))));
   card.querySelectorAll('.part .pq').forEach((part,i)=>{const clone=part.cloneNode(true);clone.querySelectorAll('.tag').forEach(x=>x.remove());fragments.push('Part '+String.fromCharCode(97+i)+'. '+txt(clone));});
-  return fragments.filter(Boolean).join('. ').replace(/\\frac\s*\{1\}\s*\{2\}/g,' one half ').replace(/\b1\s*\/\s*2\b/g,' one half ').replace(/½/g,' one half ').replace(/\bm\s*\/\s*s\s*(?:\^\s*2|²)/g,' metres per second squared ').replace(/\bm\s*\/\s*s\b/g,' metres per second ').replace(/\bm\s*s\s*(?:⁻²|−2|-2)/g,' metres per second squared ').replace(/\bm\s*s\s*(?:⁻¹|−1|-1)/g,' metres per second ').replace(/²/g,' squared').replace(/³/g,' cubed').replace(/×/g,' times ').replace(/=/g,' equals ');
+  return spokenMath(fragments.filter(Boolean).join('. ')
+    .replace(/\\frac\s*\{1\}\s*\{2\}/g,' one half ')
+    .replace(/\b1\s*\/\s*2\b/g,' one half ').replace(/½/g,' one half ')
+    .replace(/\bm\s*\/\s*s\s*(?:\^\s*2|²)/g,' metres per second squared ')
+    .replace(/\bm\s*\/\s*s\b/g,' metres per second ')
+    .replace(/\bm\s*s\s*(?:⁻²|−2|-2)/g,' metres per second squared ')
+    .replace(/\bm\s*s\s*(?:⁻¹|−1|-1)/g,' metres per second '));
 }
 window.prepenrollAudio=function(button,action){
   if(!synthesis)return;
