@@ -1,0 +1,32 @@
+{
+  "id": "PQIA-IB-B-HL-0001",
+  "curriculum": "IB Physics",
+  "level": "HL",
+  "syllabus_version": "2025",
+  "topic": "B",
+  "subtopic": "B.3",
+  "question_type": "calculation",
+  "difficulty": "standard",
+  "stem": "A sample of ideal gas contains 0.50 mol at 300 K and occupies 0.012 m³. Determine its pressure. Use R = 8.31 J mol⁻¹ K⁻¹.",
+  "answer": "1.04 × 10⁵ Pa",
+  "worked_solution": "Using pV = nRT: p = (0.50 × 8.31 × 300)/0.012 = 103875 Pa ≈ 1.04 × 10⁵ Pa.",
+  "mark_scheme": [
+    {
+      "criterion": "Uses pV = nRT and rearranges correctly",
+      "marks": 1
+    },
+    {
+      "criterion": "Substitutes consistent SI quantities",
+      "marks": 1
+    },
+    {
+      "criterion": "Calculates approximately 1.04 × 10⁵ Pa",
+      "marks": 1
+    }
+  ],
+  "total_marks": 3,
+  "source_type": "original_ai",
+  "source_reference": "Demonstration draft only; not published",
+  "review_status": "generated",
+  "revision": 1
+}
