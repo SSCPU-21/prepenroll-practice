@@ -3147,8 +3147,9 @@ function buildPaper(s){
     const pool=bank.map((it,idx)=>({...it,id:key+idx})).filter(it=>topicKeys.includes(it.t)&&(s.tier==='E'||!it.x));
     const chosen=allocate(pool,n,r,key==='M'?'wm':'wt');
     if(chosen.length<n)notes.push(`${title}: only ${chosen.length} of ${n} available for the topics and tier chosen.`);
-    const order=TOPICS.map(t=>t.k);chosen.sort((a,b)=>order.indexOf(a.t)-order.indexOf(b.t));
-    const items=chosen.map(it=>{const rr=RNG(s.seed^hash(it.id));const inst=it.f(rr);
+    const order=TOPICS.map(t=>t.k);/* Shuffle selected questions for each newly seeded paper, rather than regrouping by topic. */
+    const randomized=r.sh(chosen);
+    const items=randomized.map(it=>{const rr=RNG(s.seed^hash(it.id));const inst=it.f(rr);
       if(key!=='M'){inst.parts=inst.parts.filter(p=>s.tier==='E'||!p.x)}
       return{...inst,kind:key,t:it.t,n:++qn}});
     if(items.length)sections.push({key,label,title,items});
