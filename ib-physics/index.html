@@ -3042,6 +3042,16 @@ function renderResult(){const s=score(),pct=s.max?Math.round(s.got/s.max*100):0;
     <div class="split">${s.wM?`Paper 1A ${s.mG}/${s.mM} · written ${s.wG}/${s.wM} (self-marked)<br>`:''}Time ${mmss(elapsed)}</div></div>
     <div class="bars">${s.mM?`<div class="tally"><span class="ok"><b>${s.mG}</b> correct</span><span class="bad"><b>${s.mW}</b> wrong</span><span class="bl"><b>${s.mB}</b> unanswered</span></div>
     ${s.wrong.length||s.blank.length?`<div class="review">Review: ${s.wrong.map(n=>`<button type="button" class="jump bad" data-n="${n}">Q${n}</button>`).join('')}${s.blank.map(n=>`<button type="button" class="jump" data-n="${n}">Q${n}</button>`).join('')}</div>`:''}`:''}${bars}</div></div>`;
+  if(marked){
+    const details=paper.sections.flatMap(sec=>sec.items.map(q=>{
+      if(q.kind==='M'){
+        const status=q.chosen===undefined?'Unanswered':q.chosen===q.a?'Correct':'Incorrect';
+        return '<div style="padding:14px 0;border-bottom:1px solid var(--rule)"><strong>Q'+q.n+' · '+escReport(status)+'</strong><p>'+escReport(q.q)+'</p><p><b>Your answer:</b> '+escReport(q.chosen===undefined?'Not answered':q.o[q.chosen])+'</p><p><b>Correct answer:</b> '+escReport(q.o[q.a])+'</p><p><b>Explanation:</b> '+escReport(q.e||'Review the worked solution')+'</p></div>';
+      }
+      return '<div style="padding:14px 0;border-bottom:1px solid var(--rule)"><strong>Q'+q.n+' · Written response (self-marked)</strong><p>'+escReport(q.intro||q.q||'Structured question')+'</p>'+(q.parts||[]).map((p,i)=>'<p><b>Part '+String.fromCharCode(97+i)+':</b> '+escReport(p.q)+' ('+Math.min(p.m,(ticks[q.n+'_'+i]||new Set()).size)+'/'+p.m+' marks)<br><b>Mark scheme:</b> '+escReport((p.ms||[]).join('; '))+'</p>').join('')+'</div>';
+    } )).join('');
+    $('#result').insertAdjacentHTML('beforeend','<div style="padding:20px 28px"><h3>Detailed answer review</h3><p>Each question shows the recorded response, correct answer or marking guidance, and score. Written marks are self-assessed.</p>'+details+'</div>');
+  }
   const tm=$('#timer');if(tm)tm.innerHTML=`${mmss(elapsed)}<small>time taken</small>`;
 }
 
