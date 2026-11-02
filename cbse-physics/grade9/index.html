@@ -284,7 +284,7 @@ function selectToMarks(pool,targetMarks){
     for(const [cat,limit] of targets) take(pool.filter(q=>q.examCompetency===cat),limit);
   }
   take(pool,targetMarks);
-  return selected;
+  return shuffle(selected);
 }
 
 function buildCustomSet(){
