@@ -3466,6 +3466,16 @@ function renderResult(){const s=score(),pct=s.max?Math.round(s.got/s.max*100):0;
   $('#result').innerHTML=`<div class="result"><div><div class="big">${s.got}<small> / ${s.max}</small></div><div class="pct">${pct}%</div>
     <div class="split">${s.mM?`Multiple choice ${s.mG}/${s.mM}<br>`:''}${s.wM?`Written ${s.wG}/${s.wM} (self-marked)<br>`:''}Time ${mmss(elapsed)}</div></div>
     <div class="bars">${bars}</div></div>`;
+  if(marked){
+    const details=paper.sections.flatMap(sec=>sec.items.map(q=>{
+      if(q.kind==='M'){
+        const status=q.chosen===undefined?'Unanswered':q.chosen===q.a?'Correct':'Incorrect';
+        return '<div style="padding:14px 0;border-bottom:1px solid var(--rule)"><strong>Q'+q.n+' · '+escReport(status)+'</strong><p>'+escReport(q.q)+'</p><p><b>Your answer:</b> '+escReport(q.chosen===undefined?'Not answered':q.o[q.chosen])+'</p><p><b>Correct answer:</b> '+escReport(q.o[q.a])+'</p><p><b>Explanation:</b> '+escReport(q.e||'Review the worked solution')+'</p></div>';
+      }
+      return '<div style="padding:14px 0;border-bottom:1px solid var(--rule)"><strong>Q'+q.n+' · Written response (self-marked)</strong><p>'+escReport(q.intro||q.q||'Structured question')+'</p>'+(q.parts||[]).map((p,i)=>'<p><b>Part '+String.fromCharCode(97+i)+':</b> '+escReport(p.q)+' ('+Math.min(p.m,(ticks[q.n+'_'+i]||new Set()).size)+'/'+p.m+' marks)<br><b>Mark scheme:</b> '+escReport((p.ms||[]).join('; '))+'</p>').join('')+'</div>';
+    } )).join('');
+    $('#result').insertAdjacentHTML('beforeend','<div style="padding:20px 28px"><h3>Detailed answer review</h3><p>Each question shows the recorded response, correct answer or marking guidance, and score. Written marks are self-assessed.</p>'+details+'</div>');
+  }
   const tm=$('#timer');if(tm)tm.innerHTML=`${mmss(elapsed)}<small>time taken</small>`;
 }
 
